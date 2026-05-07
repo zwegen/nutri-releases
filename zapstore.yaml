@@ -2,10 +2,10 @@ repository: https://github.com/zwegen/nutri-releases
 pubkey: npub18xg25ns8m8hhsjtgnsxzpty2ftepu857xsafsqy5nm0jftpvzkyqgv4c2c
 description: Nutri is an offline Android app for browsing food nutrient data based on USDA FoodData Central.
 summary: Offline food nutrient browser
-icon: https://raw.githubusercontent.com/zwegen/nutri-releases/main/assets/nutri_icon.png
+icon: assets/nutri_icon.png
 images:
-  - https://raw.githubusercontent.com/zwegen/nutri-releases/main/assets/screenshots/nutri01.jpg
-  - https://raw.githubusercontent.com/zwegen/nutri-releases/main/assets/screenshots/nutri02.jpg
-  - https://raw.githubusercontent.com/zwegen/nutri-releases/main/assets/screenshots/nutri03.jpg
+  - assets/screenshots/nutri01.jpg
+  - assets/screenshots/nutri02.jpg
+  - assets/screenshots/nutri03.jpg
 metadata_sources:
  - github
