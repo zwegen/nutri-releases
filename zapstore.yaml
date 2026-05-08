@@ -1,0 +1,9 @@
+repository: https://github.com/zwegen/nutri-releases
+icon: nutri_icon.png
+images:
+    - nutri01.jpg
+    - nutri02.jpg
+    - nutri03.jpg
+metadata_sources:
+    - github
+pubkey: npub18xg25ns8m8hhsjtgnsxzpty2ftepu857xsafsqy5nm0jftpvzkyqgv4c2c
