@@ -1,4 +1,4 @@
-repository: https://github.com/zwegen/nutri-releases
+release_source: github.com/zwegen/nutri-releases
 icon: nutri_icon.png
 images:
     - nutri01.jpg
