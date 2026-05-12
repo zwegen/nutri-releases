@@ -1,0 +1,39 @@
+# Android / Gradle
+.gradle/
+build/
+**/build/
+local.properties
+
+# Release artifacts
+*.apk
+*.aab
+*.apks
+*.idsig
+
+# Signing keys / secrets
+signing/
+signing-test/
+*.jks
+*.keystore
+*.p12
+*.pem
+*.pk8
+*.key
+*.crt
+
+# Private/generated data
+usad/
+backup/
+root_assets/
+icon_backups_*/
+*_backup_*/
+*.bak
+*.bak_*
+*.old
+*.tmp
+*~
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
