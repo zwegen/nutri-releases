@@ -33,3 +33,5 @@ Install Android SDK + JDK 17, then run:
 ```
 
 For release builds, create and keep your own signing key outside git.
+
+License: GPL-3.0
