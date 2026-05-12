@@ -1,0 +1,20 @@
+[
+  {
+    "slug": "sample_apple",
+    "search_name": "sample apple raw",
+    "display_name": "Sample Apple",
+    "kind": "plant"
+  },
+  {
+    "slug": "sample_lentils",
+    "search_name": "sample lentils cooked",
+    "display_name": "Sample Lentils",
+    "kind": "plant"
+  },
+  {
+    "slug": "sample_salmon",
+    "search_name": "sample salmon cooked",
+    "display_name": "Sample Salmon",
+    "kind": "animal"
+  }
+]

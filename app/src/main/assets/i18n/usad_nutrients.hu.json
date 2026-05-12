@@ -1,0 +1,566 @@
+[
+  {
+    "key": "Alanine",
+    "label": "Alanin"
+  },
+  {
+    "key": "Alcohol, ethyl",
+    "label": "Alkohol"
+  },
+  {
+    "key": "Arginine",
+    "label": "Arginin"
+  },
+  {
+    "key": "Ash",
+    "label": "Hamu"
+  },
+  {
+    "key": "Aspartic acid",
+    "label": "Aszparaginsav"
+  },
+  {
+    "key": "Beta-sitosterol",
+    "label": "Béta-szitoszterol"
+  },
+  {
+    "key": "Betaine",
+    "label": "Betain"
+  },
+  {
+    "key": "Caffeine",
+    "label": "Koffein"
+  },
+  {
+    "key": "Calcium, Ca",
+    "label": "Kalcium"
+  },
+  {
+    "key": "Campesterol",
+    "label": "Kampeszterol"
+  },
+  {
+    "key": "Carbohydrate, by difference",
+    "label": "Szénhidrát"
+  },
+  {
+    "key": "Carotene, alpha",
+    "label": "Alfa-karotin"
+  },
+  {
+    "key": "Carotene, beta",
+    "label": "Béta-karotin"
+  },
+  {
+    "key": "Cholesterol",
+    "label": "Koleszterin"
+  },
+  {
+    "key": "Choline, total",
+    "label": "Kolin"
+  },
+  {
+    "key": "Copper, Cu",
+    "label": "Réz"
+  },
+  {
+    "key": "Cryptoxanthin, beta",
+    "label": "Béta-kriptoxantin"
+  },
+  {
+    "key": "Cystine",
+    "label": "Cisztin"
+  },
+  {
+    "key": "Energy",
+    "label": "Kalória"
+  },
+  {
+    "key": "Fatty acids, total monounsaturated",
+    "label": "Egyszeresen telítetlen zsír"
+  },
+  {
+    "key": "Fatty acids, total polyunsaturated",
+    "label": "Többszörösen telítetlen zsír"
+  },
+  {
+    "key": "Fatty acids, total saturated",
+    "label": "Telített zsír"
+  },
+  {
+    "key": "Fatty acids, total trans",
+    "label": "Transzzsír"
+  },
+  {
+    "key": "Fatty acids, total trans-monoenoic",
+    "label": "Transzzsír (monoénsav)"
+  },
+  {
+    "key": "Fatty acids, total trans-polyenoic",
+    "label": "Transzzsír (poliénsav)"
+  },
+  {
+    "key": "Fiber, total dietary",
+    "label": "Rost"
+  },
+  {
+    "key": "Fluoride, F",
+    "label": "Fluorid"
+  },
+  {
+    "key": "Folate, food",
+    "label": "Folát"
+  },
+  {
+    "key": "Folate, total",
+    "label": "Folát"
+  },
+  {
+    "key": "Folic acid",
+    "label": "Folsav"
+  },
+  {
+    "key": "Fructose",
+    "label": "Fruktóz"
+  },
+  {
+    "key": "Galactose",
+    "label": "Galaktóz"
+  },
+  {
+    "key": "Glucose",
+    "label": "Glükóz"
+  },
+  {
+    "key": "Glutamic acid",
+    "label": "Glutaminsav"
+  },
+  {
+    "key": "Glycine",
+    "label": "Glicin"
+  },
+  {
+    "key": "Histidine",
+    "label": "Hisztidin"
+  },
+  {
+    "key": "Hydroxyproline",
+    "label": "Hidroxiprolin"
+  },
+  {
+    "key": "Iron, Fe",
+    "label": "Vas"
+  },
+  {
+    "key": "Isoleucine",
+    "label": "Izoleucin"
+  },
+  {
+    "key": "Lactose",
+    "label": "Laktóz"
+  },
+  {
+    "key": "Leucine",
+    "label": "Leucin"
+  },
+  {
+    "key": "Lutein + zeaxanthin",
+    "label": "Lutein + zeaxantin"
+  },
+  {
+    "key": "Lycopene",
+    "label": "Likopin"
+  },
+  {
+    "key": "Lysine",
+    "label": "Lizin"
+  },
+  {
+    "key": "MUFA 14:1",
+    "label": "Egyszeresen telítetlen zsír 14:1"
+  },
+  {
+    "key": "MUFA 15:1",
+    "label": "Egyszeresen telítetlen zsír 15:1"
+  },
+  {
+    "key": "MUFA 16:1",
+    "label": "Egyszeresen telítetlen zsír 16:1"
+  },
+  {
+    "key": "MUFA 16:1 c",
+    "label": "Egyszeresen telítetlen zsír 16:1 c"
+  },
+  {
+    "key": "MUFA 17:1",
+    "label": "Egyszeresen telítetlen zsír 17:1"
+  },
+  {
+    "key": "MUFA 18:1",
+    "label": "Egyszeresen telítetlen zsír 18:1"
+  },
+  {
+    "key": "MUFA 18:1 c",
+    "label": "Egyszeresen telítetlen zsír 18:1 c"
+  },
+  {
+    "key": "MUFA 20:1",
+    "label": "Egyszeresen telítetlen zsír 20:1"
+  },
+  {
+    "key": "MUFA 22:1",
+    "label": "Egyszeresen telítetlen zsír 22:1"
+  },
+  {
+    "key": "MUFA 22:1 c",
+    "label": "Egyszeresen telítetlen zsír 22:1 c"
+  },
+  {
+    "key": "MUFA 24:1 c",
+    "label": "Egyszeresen telítetlen zsír 24:1 c"
+  },
+  {
+    "key": "Magnesium, Mg",
+    "label": "Magnézium"
+  },
+  {
+    "key": "Maltose",
+    "label": "Maltóz"
+  },
+  {
+    "key": "Manganese, Mn",
+    "label": "Mangán"
+  },
+  {
+    "key": "Methionine",
+    "label": "Metionin"
+  },
+  {
+    "key": "Niacin",
+    "label": "B3-vitamin"
+  },
+  {
+    "key": "PUFA 18:2",
+    "label": "Többszörösen telítetlen zsír 18:2"
+  },
+  {
+    "key": "PUFA 18:2 CLAs",
+    "label": "CLA"
+  },
+  {
+    "key": "PUFA 18:2 i",
+    "label": "Többszörösen telítetlen zsír 18:2 i"
+  },
+  {
+    "key": "PUFA 18:2 n-6 c,c",
+    "label": "Omega-6"
+  },
+  {
+    "key": "PUFA 18:3",
+    "label": "Többszörösen telítetlen zsír 18:3"
+  },
+  {
+    "key": "PUFA 18:3 n-3 c,c,c (ALA)",
+    "label": "Omega-3"
+  },
+  {
+    "key": "PUFA 18:3 n-6 c,c,c",
+    "label": "Gamma-linolénsav"
+  },
+  {
+    "key": "PUFA 18:3i",
+    "label": "Többszörösen telítetlen zsír 18:3 i"
+  },
+  {
+    "key": "PUFA 18:4",
+    "label": "Többszörösen telítetlen zsír 18:4"
+  },
+  {
+    "key": "PUFA 20:2 n-6 c,c",
+    "label": "Többszörösen telítetlen zsír 20:2 omega-6"
+  },
+  {
+    "key": "PUFA 20:3",
+    "label": "Többszörösen telítetlen zsír 20:3"
+  },
+  {
+    "key": "PUFA 20:3 n-3",
+    "label": "Többszörösen telítetlen zsír 20:3 omega-3"
+  },
+  {
+    "key": "PUFA 20:3 n-6",
+    "label": "Többszörösen telítetlen zsír 20:3 omega-6"
+  },
+  {
+    "key": "PUFA 20:4",
+    "label": "Arachidonsav"
+  },
+  {
+    "key": "PUFA 20:5 n-3 (EPA)",
+    "label": "EPA (omega-3)"
+  },
+  {
+    "key": "PUFA 21:5",
+    "label": "Többszörösen telítetlen zsír 21:5"
+  },
+  {
+    "key": "PUFA 22:4",
+    "label": "Többszörösen telítetlen zsír 22:4"
+  },
+  {
+    "key": "PUFA 22:5 n-3 (DPA)",
+    "label": "DPA (omega-3)"
+  },
+  {
+    "key": "PUFA 22:6 n-3 (DHA)",
+    "label": "DHA (omega-3)"
+  },
+  {
+    "key": "Pantothenic acid",
+    "label": "B5-vitamin"
+  },
+  {
+    "key": "Phenylalanine",
+    "label": "Fenilalanin"
+  },
+  {
+    "key": "Phosphorus, P",
+    "label": "Foszfor"
+  },
+  {
+    "key": "Phytosterols",
+    "label": "Fitoszterolok"
+  },
+  {
+    "key": "Potassium, K",
+    "label": "Kálium"
+  },
+  {
+    "key": "Proline",
+    "label": "Prolin"
+  },
+  {
+    "key": "Protein",
+    "label": "Fehérje"
+  },
+  {
+    "key": "Retinol",
+    "label": "Retinol (A-vitamin)"
+  },
+  {
+    "key": "Riboflavin",
+    "label": "B2-vitamin"
+  },
+  {
+    "key": "SFA 10:0",
+    "label": "Telített zsír 10:0"
+  },
+  {
+    "key": "SFA 12:0",
+    "label": "Telített zsír 12:0"
+  },
+  {
+    "key": "SFA 13:0",
+    "label": "Telített zsír 13:0"
+  },
+  {
+    "key": "SFA 14:0",
+    "label": "Telített zsír 14:0"
+  },
+  {
+    "key": "SFA 15:0",
+    "label": "Telített zsír 15:0"
+  },
+  {
+    "key": "SFA 16:0",
+    "label": "Telített zsír 16:0"
+  },
+  {
+    "key": "SFA 17:0",
+    "label": "Telített zsír 17:0"
+  },
+  {
+    "key": "SFA 18:0",
+    "label": "Telített zsír 18:0"
+  },
+  {
+    "key": "SFA 20:0",
+    "label": "Telített zsír 20:0"
+  },
+  {
+    "key": "SFA 22:0",
+    "label": "Telített zsír 22:0"
+  },
+  {
+    "key": "SFA 24:0",
+    "label": "Telített zsír 24:0"
+  },
+  {
+    "key": "SFA 4:0",
+    "label": "Telített zsír 4:0"
+  },
+  {
+    "key": "SFA 6:0",
+    "label": "Telített zsír 6:0"
+  },
+  {
+    "key": "SFA 8:0",
+    "label": "Telített zsír 8:0"
+  },
+  {
+    "key": "Selenium, Se",
+    "label": "Szelén"
+  },
+  {
+    "key": "Serine",
+    "label": "Szerin"
+  },
+  {
+    "key": "Sodium, Na",
+    "label": "Nátrium"
+  },
+  {
+    "key": "Starch",
+    "label": "Keményítő"
+  },
+  {
+    "key": "Stigmasterol",
+    "label": "Sztigmaszterol"
+  },
+  {
+    "key": "Sucrose",
+    "label": "Szacharóz"
+  },
+  {
+    "key": "TFA 16:1 t",
+    "label": "Transzzsír 16:1"
+  },
+  {
+    "key": "TFA 18:1 t",
+    "label": "Transzzsír 18:1"
+  },
+  {
+    "key": "TFA 18:2 t not further defined",
+    "label": "Transzzsír 18:2"
+  },
+  {
+    "key": "TFA 18:2 t,t",
+    "label": "Transzzsír 18:2 t,t"
+  },
+  {
+    "key": "TFA 22:1 t",
+    "label": "Transzzsír 22:1"
+  },
+  {
+    "key": "Theobromine",
+    "label": "Teobromin"
+  },
+  {
+    "key": "Thiamin",
+    "label": "B1-vitamin"
+  },
+  {
+    "key": "Threonine",
+    "label": "Treonin"
+  },
+  {
+    "key": "Tocopherol, beta",
+    "label": "Béta-tokoferol (E-vitamin)"
+  },
+  {
+    "key": "Tocopherol, delta",
+    "label": "Delta-tokoferol (E-vitamin)"
+  },
+  {
+    "key": "Tocopherol, gamma",
+    "label": "Gamma-tokoferol (E-vitamin)"
+  },
+  {
+    "key": "Tocotrienol, alpha",
+    "label": "Alfa-tokotrienol (E-vitamin)"
+  },
+  {
+    "key": "Tocotrienol, beta",
+    "label": "Béta-tokotrienol (E-vitamin)"
+  },
+  {
+    "key": "Tocotrienol, delta",
+    "label": "Delta-tokotrienol (E-vitamin)"
+  },
+  {
+    "key": "Tocotrienol, gamma",
+    "label": "Gamma-tokotrienol (E-vitamin)"
+  },
+  {
+    "key": "Total Sugars",
+    "label": "Cukrok"
+  },
+  {
+    "key": "Total lipid (fat)",
+    "label": "Zsír"
+  },
+  {
+    "key": "Tryptophan",
+    "label": "Triptofán"
+  },
+  {
+    "key": "Tyrosine",
+    "label": "Tirozin"
+  },
+  {
+    "key": "Valine",
+    "label": "Valin"
+  },
+  {
+    "key": "Vitamin A, RAE",
+    "label": "A-vitamin"
+  },
+  {
+    "key": "Vitamin B-12",
+    "label": "B12-vitamin"
+  },
+  {
+    "key": "Vitamin B-6",
+    "label": "B6-vitamin"
+  },
+  {
+    "key": "Vitamin C, total ascorbic acid",
+    "label": "C-vitamin"
+  },
+  {
+    "key": "Vitamin D (D2 + D3)",
+    "label": "D-vitamin"
+  },
+  {
+    "key": "Vitamin D2 (ergocalciferol)",
+    "label": "D2-vitamin"
+  },
+  {
+    "key": "Vitamin D3 (cholecalciferol)",
+    "label": "D3-vitamin"
+  },
+  {
+    "key": "Vitamin E (alpha-tocopherol)",
+    "label": "E-vitamin"
+  },
+  {
+    "key": "Vitamin K (Dihydrophylloquinone)",
+    "label": "K-vitamin speciális forma"
+  },
+  {
+    "key": "Vitamin K (Menaquinone-4)",
+    "label": "K2-vitamin"
+  },
+  {
+    "key": "Vitamin K (phylloquinone)",
+    "label": "K1-vitamin"
+  },
+  {
+    "key": "Water",
+    "label": "Víz"
+  },
+  {
+    "key": "Zinc, Zn",
+    "label": "Cink"
+  }
+]

@@ -1,0 +1,566 @@
+[
+  {
+    "key": "Alanine",
+    "label": "Αλανίνη"
+  },
+  {
+    "key": "Alcohol, ethyl",
+    "label": "Αλκοόλ"
+  },
+  {
+    "key": "Arginine",
+    "label": "Αργινίνη"
+  },
+  {
+    "key": "Ash",
+    "label": "Τέφρα"
+  },
+  {
+    "key": "Aspartic acid",
+    "label": "Ασπαρτικό οξύ"
+  },
+  {
+    "key": "Beta-sitosterol",
+    "label": "Βήτα-σιτοστερόλη"
+  },
+  {
+    "key": "Betaine",
+    "label": "Βεταΐνη"
+  },
+  {
+    "key": "Caffeine",
+    "label": "Καφεΐνη"
+  },
+  {
+    "key": "Calcium, Ca",
+    "label": "Ασβέστιο"
+  },
+  {
+    "key": "Campesterol",
+    "label": "Καμπεστερόλη"
+  },
+  {
+    "key": "Carbohydrate, by difference",
+    "label": "Υδατάνθρακες"
+  },
+  {
+    "key": "Carotene, alpha",
+    "label": "Άλφα-καροτίνη"
+  },
+  {
+    "key": "Carotene, beta",
+    "label": "Βήτα-καροτίνη"
+  },
+  {
+    "key": "Cholesterol",
+    "label": "Χοληστερόλη"
+  },
+  {
+    "key": "Choline, total",
+    "label": "Χολίνη"
+  },
+  {
+    "key": "Copper, Cu",
+    "label": "Χαλκός"
+  },
+  {
+    "key": "Cryptoxanthin, beta",
+    "label": "Βήτα-κρυπτοξανθίνη"
+  },
+  {
+    "key": "Cystine",
+    "label": "Κυστίνη"
+  },
+  {
+    "key": "Energy",
+    "label": "Θερμίδες"
+  },
+  {
+    "key": "Fatty acids, total monounsaturated",
+    "label": "Μονοακόρεστα λιπαρά"
+  },
+  {
+    "key": "Fatty acids, total polyunsaturated",
+    "label": "Πολυακόρεστα λιπαρά"
+  },
+  {
+    "key": "Fatty acids, total saturated",
+    "label": "Κορεσμένα λιπαρά"
+  },
+  {
+    "key": "Fatty acids, total trans",
+    "label": "Τρανς λιπαρά"
+  },
+  {
+    "key": "Fatty acids, total trans-monoenoic",
+    "label": "Τρανς λιπαρά (μονοενοϊκά)"
+  },
+  {
+    "key": "Fatty acids, total trans-polyenoic",
+    "label": "Τρανς λιπαρά (πολυενοϊκά)"
+  },
+  {
+    "key": "Fiber, total dietary",
+    "label": "Φυτικές ίνες"
+  },
+  {
+    "key": "Fluoride, F",
+    "label": "Φθόριο"
+  },
+  {
+    "key": "Folate, food",
+    "label": "Φολικό οξύ"
+  },
+  {
+    "key": "Folate, total",
+    "label": "Συνολικό φολικό οξύ"
+  },
+  {
+    "key": "Folic acid",
+    "label": "Φολικό οξύ"
+  },
+  {
+    "key": "Fructose",
+    "label": "Φρουκτόζη"
+  },
+  {
+    "key": "Galactose",
+    "label": "Γαλακτόζη"
+  },
+  {
+    "key": "Glucose",
+    "label": "Γλυκόζη"
+  },
+  {
+    "key": "Glutamic acid",
+    "label": "Γλουταμινικό οξύ"
+  },
+  {
+    "key": "Glycine",
+    "label": "Γλυκίνη"
+  },
+  {
+    "key": "Histidine",
+    "label": "Ιστιδίνη"
+  },
+  {
+    "key": "Hydroxyproline",
+    "label": "Υδροξυπρολίνη"
+  },
+  {
+    "key": "Iron, Fe",
+    "label": "Σίδηρος"
+  },
+  {
+    "key": "Isoleucine",
+    "label": "Ισολευκίνη"
+  },
+  {
+    "key": "Lactose",
+    "label": "Λακτόζη"
+  },
+  {
+    "key": "Leucine",
+    "label": "Λευκίνη"
+  },
+  {
+    "key": "Lutein + zeaxanthin",
+    "label": "Λουτεΐνη + ζεαξανθίνη"
+  },
+  {
+    "key": "Lycopene",
+    "label": "Λυκοπένιο"
+  },
+  {
+    "key": "Lysine",
+    "label": "Λυσίνη"
+  },
+  {
+    "key": "MUFA 14:1",
+    "label": "Μονοακόρεστο λιπαρό 14:1"
+  },
+  {
+    "key": "MUFA 15:1",
+    "label": "Μονοακόρεστο λιπαρό 15:1"
+  },
+  {
+    "key": "MUFA 16:1",
+    "label": "Μονοακόρεστο λιπαρό 16:1"
+  },
+  {
+    "key": "MUFA 16:1 c",
+    "label": "Μονοακόρεστο λιπαρό 16:1 c"
+  },
+  {
+    "key": "MUFA 17:1",
+    "label": "Μονοακόρεστο λιπαρό 17:1"
+  },
+  {
+    "key": "MUFA 18:1",
+    "label": "Μονοακόρεστο λιπαρό 18:1"
+  },
+  {
+    "key": "MUFA 18:1 c",
+    "label": "Μονοακόρεστο λιπαρό 18:1 c"
+  },
+  {
+    "key": "MUFA 20:1",
+    "label": "Μονοακόρεστο λιπαρό 20:1"
+  },
+  {
+    "key": "MUFA 22:1",
+    "label": "Μονοακόρεστο λιπαρό 22:1"
+  },
+  {
+    "key": "MUFA 22:1 c",
+    "label": "Μονοακόρεστο λιπαρό 22:1 c"
+  },
+  {
+    "key": "MUFA 24:1 c",
+    "label": "Μονοακόρεστο λιπαρό 24:1 c"
+  },
+  {
+    "key": "Magnesium, Mg",
+    "label": "Μαγνήσιο"
+  },
+  {
+    "key": "Maltose",
+    "label": "Μαλτόζη"
+  },
+  {
+    "key": "Manganese, Mn",
+    "label": "Μαγγάνιο"
+  },
+  {
+    "key": "Methionine",
+    "label": "Μεθειονίνη"
+  },
+  {
+    "key": "Niacin",
+    "label": "Βιταμίνη B3"
+  },
+  {
+    "key": "PUFA 18:2",
+    "label": "Πολυακόρεστο λιπαρό 18:2"
+  },
+  {
+    "key": "PUFA 18:2 CLAs",
+    "label": "Συζευγμένο λινολεϊκό οξύ (CLA)"
+  },
+  {
+    "key": "PUFA 18:2 i",
+    "label": "Πολυακόρεστο λιπαρό 18:2 i"
+  },
+  {
+    "key": "PUFA 18:2 n-6 c,c",
+    "label": "Ωμέγα-6"
+  },
+  {
+    "key": "PUFA 18:3",
+    "label": "Πολυακόρεστο λιπαρό 18:3"
+  },
+  {
+    "key": "PUFA 18:3 n-3 c,c,c (ALA)",
+    "label": "Ωμέγα-3"
+  },
+  {
+    "key": "PUFA 18:3 n-6 c,c,c",
+    "label": "Γ-λινολενικό οξύ"
+  },
+  {
+    "key": "PUFA 18:3i",
+    "label": "Πολυακόρεστο λιπαρό 18:3 i"
+  },
+  {
+    "key": "PUFA 18:4",
+    "label": "Πολυακόρεστο λιπαρό 18:4"
+  },
+  {
+    "key": "PUFA 20:2 n-6 c,c",
+    "label": "Πολυακόρεστο λιπαρό 20:2 ωμέγα-6"
+  },
+  {
+    "key": "PUFA 20:3",
+    "label": "Πολυακόρεστο λιπαρό 20:3"
+  },
+  {
+    "key": "PUFA 20:3 n-3",
+    "label": "Πολυακόρεστο λιπαρό 20:3 ωμέγα-3"
+  },
+  {
+    "key": "PUFA 20:3 n-6",
+    "label": "Πολυακόρεστο λιπαρό 20:3 ωμέγα-6"
+  },
+  {
+    "key": "PUFA 20:4",
+    "label": "Αραχιδονικό οξύ"
+  },
+  {
+    "key": "PUFA 20:5 n-3 (EPA)",
+    "label": "EPA (ωμέγα-3)"
+  },
+  {
+    "key": "PUFA 21:5",
+    "label": "Πολυακόρεστο λιπαρό 21:5"
+  },
+  {
+    "key": "PUFA 22:4",
+    "label": "Πολυακόρεστο λιπαρό 22:4"
+  },
+  {
+    "key": "PUFA 22:5 n-3 (DPA)",
+    "label": "DPA (ωμέγα-3)"
+  },
+  {
+    "key": "PUFA 22:6 n-3 (DHA)",
+    "label": "DHA (ωμέγα-3)"
+  },
+  {
+    "key": "Pantothenic acid",
+    "label": "Βιταμίνη B5"
+  },
+  {
+    "key": "Phenylalanine",
+    "label": "Φαινυλαλανίνη"
+  },
+  {
+    "key": "Phosphorus, P",
+    "label": "Φώσφορος"
+  },
+  {
+    "key": "Phytosterols",
+    "label": "Φυτοστερόλες"
+  },
+  {
+    "key": "Potassium, K",
+    "label": "Κάλιο"
+  },
+  {
+    "key": "Proline",
+    "label": "Προλίνη"
+  },
+  {
+    "key": "Protein",
+    "label": "Πρωτεΐνη"
+  },
+  {
+    "key": "Retinol",
+    "label": "Ρετινόλη (βιταμίνη A)"
+  },
+  {
+    "key": "Riboflavin",
+    "label": "Βιταμίνη B2"
+  },
+  {
+    "key": "SFA 10:0",
+    "label": "Κορεσμένο λιπαρό 10:0"
+  },
+  {
+    "key": "SFA 12:0",
+    "label": "Κορεσμένο λιπαρό 12:0"
+  },
+  {
+    "key": "SFA 13:0",
+    "label": "Κορεσμένο λιπαρό 13:0"
+  },
+  {
+    "key": "SFA 14:0",
+    "label": "Κορεσμένο λιπαρό 14:0"
+  },
+  {
+    "key": "SFA 15:0",
+    "label": "Κορεσμένο λιπαρό 15:0"
+  },
+  {
+    "key": "SFA 16:0",
+    "label": "Κορεσμένο λιπαρό 16:0"
+  },
+  {
+    "key": "SFA 17:0",
+    "label": "Κορεσμένο λιπαρό 17:0"
+  },
+  {
+    "key": "SFA 18:0",
+    "label": "Κορεσμένο λιπαρό 18:0"
+  },
+  {
+    "key": "SFA 20:0",
+    "label": "Κορεσμένο λιπαρό 20:0"
+  },
+  {
+    "key": "SFA 22:0",
+    "label": "Κορεσμένο λιπαρό 22:0"
+  },
+  {
+    "key": "SFA 24:0",
+    "label": "Κορεσμένο λιπαρό 24:0"
+  },
+  {
+    "key": "SFA 4:0",
+    "label": "Κορεσμένο λιπαρό 4:0"
+  },
+  {
+    "key": "SFA 6:0",
+    "label": "Κορεσμένο λιπαρό 6:0"
+  },
+  {
+    "key": "SFA 8:0",
+    "label": "Κορεσμένο λιπαρό 8:0"
+  },
+  {
+    "key": "Selenium, Se",
+    "label": "Σελήνιο"
+  },
+  {
+    "key": "Serine",
+    "label": "Σερίνη"
+  },
+  {
+    "key": "Sodium, Na",
+    "label": "Νάτριο"
+  },
+  {
+    "key": "Starch",
+    "label": "Άμυλο"
+  },
+  {
+    "key": "Stigmasterol",
+    "label": "Στιγμαστερόλη"
+  },
+  {
+    "key": "Sucrose",
+    "label": "Σακχαρόζη"
+  },
+  {
+    "key": "TFA 16:1 t",
+    "label": "Τρανς λιπαρό 16:1"
+  },
+  {
+    "key": "TFA 18:1 t",
+    "label": "Τρανς λιπαρό 18:1"
+  },
+  {
+    "key": "TFA 18:2 t not further defined",
+    "label": "Τρανς λιπαρό 18:2"
+  },
+  {
+    "key": "TFA 18:2 t,t",
+    "label": "Τρανς λιπαρό 18:2 t,t"
+  },
+  {
+    "key": "TFA 22:1 t",
+    "label": "Τρανς λιπαρό 22:1"
+  },
+  {
+    "key": "Theobromine",
+    "label": "Θεοβρωμίνη"
+  },
+  {
+    "key": "Thiamin",
+    "label": "Βιταμίνη B1"
+  },
+  {
+    "key": "Threonine",
+    "label": "Θρεονίνη"
+  },
+  {
+    "key": "Tocopherol, beta",
+    "label": "Βιταμίνη E βήτα"
+  },
+  {
+    "key": "Tocopherol, delta",
+    "label": "Βιταμίνη E δέλτα"
+  },
+  {
+    "key": "Tocopherol, gamma",
+    "label": "Βιταμίνη E γάμμα"
+  },
+  {
+    "key": "Tocotrienol, alpha",
+    "label": "Τοκοτριενόλη άλφα"
+  },
+  {
+    "key": "Tocotrienol, beta",
+    "label": "Τοκοτριενόλη βήτα"
+  },
+  {
+    "key": "Tocotrienol, delta",
+    "label": "Τοκοτριενόλη δέλτα"
+  },
+  {
+    "key": "Tocotrienol, gamma",
+    "label": "Τοκοτριενόλη γάμμα"
+  },
+  {
+    "key": "Total Sugars",
+    "label": "Σάκχαρα"
+  },
+  {
+    "key": "Total lipid (fat)",
+    "label": "Λιπαρά"
+  },
+  {
+    "key": "Tryptophan",
+    "label": "Τρυπτοφάνη"
+  },
+  {
+    "key": "Tyrosine",
+    "label": "Τυροσίνη"
+  },
+  {
+    "key": "Valine",
+    "label": "Βαλίνη"
+  },
+  {
+    "key": "Vitamin A, RAE",
+    "label": "Βιταμίνη A"
+  },
+  {
+    "key": "Vitamin B-12",
+    "label": "Βιταμίνη B12"
+  },
+  {
+    "key": "Vitamin B-6",
+    "label": "Βιταμίνη B6"
+  },
+  {
+    "key": "Vitamin C, total ascorbic acid",
+    "label": "Βιταμίνη C"
+  },
+  {
+    "key": "Vitamin D (D2 + D3)",
+    "label": "Βιταμίνη D"
+  },
+  {
+    "key": "Vitamin D2 (ergocalciferol)",
+    "label": "Βιταμίνη D2"
+  },
+  {
+    "key": "Vitamin D3 (cholecalciferol)",
+    "label": "Βιταμίνη D3"
+  },
+  {
+    "key": "Vitamin E (alpha-tocopherol)",
+    "label": "Βιταμίνη E"
+  },
+  {
+    "key": "Vitamin K (Dihydrophylloquinone)",
+    "label": "Ειδική μορφή βιταμίνης K"
+  },
+  {
+    "key": "Vitamin K (Menaquinone-4)",
+    "label": "Βιταμίνη K2"
+  },
+  {
+    "key": "Vitamin K (phylloquinone)",
+    "label": "Βιταμίνη K1"
+  },
+  {
+    "key": "Water",
+    "label": "Νερό"
+  },
+  {
+    "key": "Zinc, Zn",
+    "label": "Ψευδάργυρος"
+  }
+]

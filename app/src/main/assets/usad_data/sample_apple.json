@@ -1,0 +1,44 @@
+{
+  "slug": "sample_apple",
+  "search_name": "sample apple raw",
+  "display_name": "Sample Apple",
+  "kind": "plant",
+  "data": {
+    "Energy": {
+      "value": 52,
+      "unit": "kcal"
+    },
+    "Water": {
+      "value": 85.6,
+      "unit": "g"
+    },
+    "Protein": {
+      "value": 0.3,
+      "unit": "g"
+    },
+    "Total lipid (fat)": {
+      "value": 0.2,
+      "unit": "g"
+    },
+    "Carbohydrate, by difference": {
+      "value": 13.8,
+      "unit": "g"
+    },
+    "Fiber, total dietary": {
+      "value": 2.4,
+      "unit": "g"
+    },
+    "Sugars, Total": {
+      "value": 10.4,
+      "unit": "g"
+    },
+    "Vitamin C, total ascorbic acid": {
+      "value": 4.6,
+      "unit": "mg"
+    },
+    "Potassium, K": {
+      "value": 107,
+      "unit": "mg"
+    }
+  }
+}

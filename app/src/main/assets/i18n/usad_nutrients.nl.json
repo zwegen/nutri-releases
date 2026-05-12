@@ -1,0 +1,566 @@
+[
+  {
+    "key": "Alanine",
+    "label": "Alanine"
+  },
+  {
+    "key": "Alcohol, ethyl",
+    "label": "Alcohol"
+  },
+  {
+    "key": "Arginine",
+    "label": "Arginine"
+  },
+  {
+    "key": "Ash",
+    "label": "As"
+  },
+  {
+    "key": "Aspartic acid",
+    "label": "Asparaginezuur"
+  },
+  {
+    "key": "Beta-sitosterol",
+    "label": "Beta-sitosterol"
+  },
+  {
+    "key": "Betaine",
+    "label": "Betaïne"
+  },
+  {
+    "key": "Caffeine",
+    "label": "Cafeïne"
+  },
+  {
+    "key": "Calcium, Ca",
+    "label": "Calcium"
+  },
+  {
+    "key": "Campesterol",
+    "label": "Campesterol"
+  },
+  {
+    "key": "Carbohydrate, by difference",
+    "label": "Koolhydraten"
+  },
+  {
+    "key": "Carotene, alpha",
+    "label": "Alfa-caroteen"
+  },
+  {
+    "key": "Carotene, beta",
+    "label": "Bèta-caroteen"
+  },
+  {
+    "key": "Cholesterol",
+    "label": "Cholesterol"
+  },
+  {
+    "key": "Choline, total",
+    "label": "Choline"
+  },
+  {
+    "key": "Copper, Cu",
+    "label": "Koper"
+  },
+  {
+    "key": "Cryptoxanthin, beta",
+    "label": "Bèta-cryptoxanthine"
+  },
+  {
+    "key": "Cystine",
+    "label": "Cystine"
+  },
+  {
+    "key": "Energy",
+    "label": "Calorieën"
+  },
+  {
+    "key": "Fatty acids, total monounsaturated",
+    "label": "Enkelvoudig onverzadigd vet"
+  },
+  {
+    "key": "Fatty acids, total polyunsaturated",
+    "label": "Meervoudig onverzadigd vet"
+  },
+  {
+    "key": "Fatty acids, total saturated",
+    "label": "Verzadigd vet"
+  },
+  {
+    "key": "Fatty acids, total trans",
+    "label": "Transvet"
+  },
+  {
+    "key": "Fatty acids, total trans-monoenoic",
+    "label": "Transvet (mono-eenzadig)"
+  },
+  {
+    "key": "Fatty acids, total trans-polyenoic",
+    "label": "Transvet (poly-eenzadig)"
+  },
+  {
+    "key": "Fiber, total dietary",
+    "label": "Vezels"
+  },
+  {
+    "key": "Fluoride, F",
+    "label": "Fluoride"
+  },
+  {
+    "key": "Folate, food",
+    "label": "Folaat"
+  },
+  {
+    "key": "Folate, total",
+    "label": "Folaat"
+  },
+  {
+    "key": "Folic acid",
+    "label": "Foliumzuur"
+  },
+  {
+    "key": "Fructose",
+    "label": "Fructose"
+  },
+  {
+    "key": "Galactose",
+    "label": "Galactose"
+  },
+  {
+    "key": "Glucose",
+    "label": "Glucose"
+  },
+  {
+    "key": "Glutamic acid",
+    "label": "Glutaminezuur"
+  },
+  {
+    "key": "Glycine",
+    "label": "Glycine"
+  },
+  {
+    "key": "Histidine",
+    "label": "Histidine"
+  },
+  {
+    "key": "Hydroxyproline",
+    "label": "Hydroxyproline"
+  },
+  {
+    "key": "Iron, Fe",
+    "label": "IJzer"
+  },
+  {
+    "key": "Isoleucine",
+    "label": "Isoleucine"
+  },
+  {
+    "key": "Lactose",
+    "label": "Lactose"
+  },
+  {
+    "key": "Leucine",
+    "label": "Leucine"
+  },
+  {
+    "key": "Lutein + zeaxanthin",
+    "label": "Luteïne + zeaxanthine"
+  },
+  {
+    "key": "Lycopene",
+    "label": "Lycopeen"
+  },
+  {
+    "key": "Lysine",
+    "label": "Lysine"
+  },
+  {
+    "key": "MUFA 14:1",
+    "label": "Enkelvoudig onverzadigd vet 14:1"
+  },
+  {
+    "key": "MUFA 15:1",
+    "label": "Enkelvoudig onverzadigd vet 15:1"
+  },
+  {
+    "key": "MUFA 16:1",
+    "label": "Enkelvoudig onverzadigd vet 16:1"
+  },
+  {
+    "key": "MUFA 16:1 c",
+    "label": "Enkelvoudig onverzadigd vet 16:1 c"
+  },
+  {
+    "key": "MUFA 17:1",
+    "label": "Enkelvoudig onverzadigd vet 17:1"
+  },
+  {
+    "key": "MUFA 18:1",
+    "label": "Enkelvoudig onverzadigd vet 18:1"
+  },
+  {
+    "key": "MUFA 18:1 c",
+    "label": "Enkelvoudig onverzadigd vet 18:1 c"
+  },
+  {
+    "key": "MUFA 20:1",
+    "label": "Enkelvoudig onverzadigd vet 20:1"
+  },
+  {
+    "key": "MUFA 22:1",
+    "label": "Enkelvoudig onverzadigd vet 22:1"
+  },
+  {
+    "key": "MUFA 22:1 c",
+    "label": "Enkelvoudig onverzadigd vet 22:1 c"
+  },
+  {
+    "key": "MUFA 24:1 c",
+    "label": "Enkelvoudig onverzadigd vet 24:1 c"
+  },
+  {
+    "key": "Magnesium, Mg",
+    "label": "Magnesium"
+  },
+  {
+    "key": "Maltose",
+    "label": "Maltose"
+  },
+  {
+    "key": "Manganese, Mn",
+    "label": "Mangaan"
+  },
+  {
+    "key": "Methionine",
+    "label": "Methionine"
+  },
+  {
+    "key": "Niacin",
+    "label": "Vitamine B3"
+  },
+  {
+    "key": "PUFA 18:2",
+    "label": "Meervoudig onverzadigd vet 18:2"
+  },
+  {
+    "key": "PUFA 18:2 CLAs",
+    "label": "CLA"
+  },
+  {
+    "key": "PUFA 18:2 i",
+    "label": "Meervoudig onverzadigd vet 18:2 i"
+  },
+  {
+    "key": "PUFA 18:2 n-6 c,c",
+    "label": "Omega 6"
+  },
+  {
+    "key": "PUFA 18:3",
+    "label": "Meervoudig onverzadigd vet 18:3"
+  },
+  {
+    "key": "PUFA 18:3 n-3 c,c,c (ALA)",
+    "label": "Omega 3"
+  },
+  {
+    "key": "PUFA 18:3 n-6 c,c,c",
+    "label": "Gamma-linoleenzuur"
+  },
+  {
+    "key": "PUFA 18:3i",
+    "label": "Meervoudig onverzadigd vet 18:3 i"
+  },
+  {
+    "key": "PUFA 18:4",
+    "label": "Meervoudig onverzadigd vet 18:4"
+  },
+  {
+    "key": "PUFA 20:2 n-6 c,c",
+    "label": "Meervoudig onverzadigd vet 20:2 omega 6"
+  },
+  {
+    "key": "PUFA 20:3",
+    "label": "Meervoudig onverzadigd vet 20:3"
+  },
+  {
+    "key": "PUFA 20:3 n-3",
+    "label": "Meervoudig onverzadigd vet 20:3 omega 3"
+  },
+  {
+    "key": "PUFA 20:3 n-6",
+    "label": "Meervoudig onverzadigd vet 20:3 omega 6"
+  },
+  {
+    "key": "PUFA 20:4",
+    "label": "Arachidonzuur"
+  },
+  {
+    "key": "PUFA 20:5 n-3 (EPA)",
+    "label": "EPA (omega 3)"
+  },
+  {
+    "key": "PUFA 21:5",
+    "label": "Meervoudig onverzadigd vet 21:5"
+  },
+  {
+    "key": "PUFA 22:4",
+    "label": "Meervoudig onverzadigd vet 22:4"
+  },
+  {
+    "key": "PUFA 22:5 n-3 (DPA)",
+    "label": "DPA (omega 3)"
+  },
+  {
+    "key": "PUFA 22:6 n-3 (DHA)",
+    "label": "DHA (omega 3)"
+  },
+  {
+    "key": "Pantothenic acid",
+    "label": "Vitamine B5"
+  },
+  {
+    "key": "Phenylalanine",
+    "label": "Fenylalanine"
+  },
+  {
+    "key": "Phosphorus, P",
+    "label": "Fosfor"
+  },
+  {
+    "key": "Phytosterols",
+    "label": "Fytosterolen"
+  },
+  {
+    "key": "Potassium, K",
+    "label": "Kalium"
+  },
+  {
+    "key": "Proline",
+    "label": "Proline"
+  },
+  {
+    "key": "Protein",
+    "label": "Eiwit"
+  },
+  {
+    "key": "Retinol",
+    "label": "Retinol (vitamine A)"
+  },
+  {
+    "key": "Riboflavin",
+    "label": "Vitamine B2"
+  },
+  {
+    "key": "SFA 10:0",
+    "label": "Verzadigd vet 10:0"
+  },
+  {
+    "key": "SFA 12:0",
+    "label": "Verzadigd vet 12:0"
+  },
+  {
+    "key": "SFA 13:0",
+    "label": "Verzadigd vet 13:0"
+  },
+  {
+    "key": "SFA 14:0",
+    "label": "Verzadigd vet 14:0"
+  },
+  {
+    "key": "SFA 15:0",
+    "label": "Verzadigd vet 15:0"
+  },
+  {
+    "key": "SFA 16:0",
+    "label": "Verzadigd vet 16:0"
+  },
+  {
+    "key": "SFA 17:0",
+    "label": "Verzadigd vet 17:0"
+  },
+  {
+    "key": "SFA 18:0",
+    "label": "Verzadigd vet 18:0"
+  },
+  {
+    "key": "SFA 20:0",
+    "label": "Verzadigd vet 20:0"
+  },
+  {
+    "key": "SFA 22:0",
+    "label": "Verzadigd vet 22:0"
+  },
+  {
+    "key": "SFA 24:0",
+    "label": "Verzadigd vet 24:0"
+  },
+  {
+    "key": "SFA 4:0",
+    "label": "Verzadigd vet 4:0"
+  },
+  {
+    "key": "SFA 6:0",
+    "label": "Verzadigd vet 6:0"
+  },
+  {
+    "key": "SFA 8:0",
+    "label": "Verzadigd vet 8:0"
+  },
+  {
+    "key": "Selenium, Se",
+    "label": "Selenium"
+  },
+  {
+    "key": "Serine",
+    "label": "Serine"
+  },
+  {
+    "key": "Sodium, Na",
+    "label": "Natrium"
+  },
+  {
+    "key": "Starch",
+    "label": "Zetmeel"
+  },
+  {
+    "key": "Stigmasterol",
+    "label": "Stigmasterol"
+  },
+  {
+    "key": "Sucrose",
+    "label": "Sucrose"
+  },
+  {
+    "key": "TFA 16:1 t",
+    "label": "Transvet 16:1"
+  },
+  {
+    "key": "TFA 18:1 t",
+    "label": "Transvet 18:1"
+  },
+  {
+    "key": "TFA 18:2 t not further defined",
+    "label": "Transvet 18:2"
+  },
+  {
+    "key": "TFA 18:2 t,t",
+    "label": "Transvet 18:2 t,t"
+  },
+  {
+    "key": "TFA 22:1 t",
+    "label": "Transvet 22:1"
+  },
+  {
+    "key": "Theobromine",
+    "label": "Theobromine"
+  },
+  {
+    "key": "Thiamin",
+    "label": "Vitamine B1"
+  },
+  {
+    "key": "Threonine",
+    "label": "Threonine"
+  },
+  {
+    "key": "Tocopherol, beta",
+    "label": "Vitamine E bèta"
+  },
+  {
+    "key": "Tocopherol, delta",
+    "label": "Vitamine E delta"
+  },
+  {
+    "key": "Tocopherol, gamma",
+    "label": "Vitamine E gamma"
+  },
+  {
+    "key": "Tocotrienol, alpha",
+    "label": "Vitamine E alfa-tocotriënol"
+  },
+  {
+    "key": "Tocotrienol, beta",
+    "label": "Vitamine E bèta-tocotriënol"
+  },
+  {
+    "key": "Tocotrienol, delta",
+    "label": "Vitamine E delta-tocotriënol"
+  },
+  {
+    "key": "Tocotrienol, gamma",
+    "label": "Vitamine E gamma-tocotriënol"
+  },
+  {
+    "key": "Total Sugars",
+    "label": "Suikers"
+  },
+  {
+    "key": "Total lipid (fat)",
+    "label": "Vet"
+  },
+  {
+    "key": "Tryptophan",
+    "label": "Tryptofaan"
+  },
+  {
+    "key": "Tyrosine",
+    "label": "Tyrosine"
+  },
+  {
+    "key": "Valine",
+    "label": "Valine"
+  },
+  {
+    "key": "Vitamin A, RAE",
+    "label": "Vitamine A"
+  },
+  {
+    "key": "Vitamin B-12",
+    "label": "Vitamine B12"
+  },
+  {
+    "key": "Vitamin B-6",
+    "label": "Vitamine B6"
+  },
+  {
+    "key": "Vitamin C, total ascorbic acid",
+    "label": "Vitamine C"
+  },
+  {
+    "key": "Vitamin D (D2 + D3)",
+    "label": "Vitamine D"
+  },
+  {
+    "key": "Vitamin D2 (ergocalciferol)",
+    "label": "Vitamine D2"
+  },
+  {
+    "key": "Vitamin D3 (cholecalciferol)",
+    "label": "Vitamine D3"
+  },
+  {
+    "key": "Vitamin E (alpha-tocopherol)",
+    "label": "Vitamine E"
+  },
+  {
+    "key": "Vitamin K (Dihydrophylloquinone)",
+    "label": "Bijzondere vorm van vitamine K"
+  },
+  {
+    "key": "Vitamin K (Menaquinone-4)",
+    "label": "Vitamine K2"
+  },
+  {
+    "key": "Vitamin K (phylloquinone)",
+    "label": "Vitamine K1"
+  },
+  {
+    "key": "Water",
+    "label": "Water"
+  },
+  {
+    "key": "Zinc, Zn",
+    "label": "Zink"
+  }
+]

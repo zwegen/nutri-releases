@@ -1,0 +1,44 @@
+{
+  "slug": "sample_lentils",
+  "search_name": "sample lentils cooked",
+  "display_name": "Sample Lentils",
+  "kind": "plant",
+  "data": {
+    "Energy": {
+      "value": 116,
+      "unit": "kcal"
+    },
+    "Water": {
+      "value": 69.6,
+      "unit": "g"
+    },
+    "Protein": {
+      "value": 9.0,
+      "unit": "g"
+    },
+    "Total lipid (fat)": {
+      "value": 0.4,
+      "unit": "g"
+    },
+    "Carbohydrate, by difference": {
+      "value": 20.1,
+      "unit": "g"
+    },
+    "Fiber, total dietary": {
+      "value": 7.9,
+      "unit": "g"
+    },
+    "Iron, Fe": {
+      "value": 3.3,
+      "unit": "mg"
+    },
+    "Magnesium, Mg": {
+      "value": 36,
+      "unit": "mg"
+    },
+    "Potassium, K": {
+      "value": 369,
+      "unit": "mg"
+    }
+  }
+}

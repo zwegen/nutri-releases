@@ -1,0 +1,566 @@
+[
+  {
+    "key": "Alanine",
+    "label": "Alanina"
+  },
+  {
+    "key": "Alcohol, ethyl",
+    "label": "Alkohol"
+  },
+  {
+    "key": "Arginine",
+    "label": "Arginina"
+  },
+  {
+    "key": "Ash",
+    "label": "Popiół"
+  },
+  {
+    "key": "Aspartic acid",
+    "label": "Kwas asparaginowy"
+  },
+  {
+    "key": "Beta-sitosterol",
+    "label": "Beta-sitosterol"
+  },
+  {
+    "key": "Betaine",
+    "label": "Betaina"
+  },
+  {
+    "key": "Caffeine",
+    "label": "Kofeina"
+  },
+  {
+    "key": "Calcium, Ca",
+    "label": "Wapń"
+  },
+  {
+    "key": "Campesterol",
+    "label": "Kampesterol"
+  },
+  {
+    "key": "Carbohydrate, by difference",
+    "label": "Węglowodany"
+  },
+  {
+    "key": "Carotene, alpha",
+    "label": "Alfa-karoten"
+  },
+  {
+    "key": "Carotene, beta",
+    "label": "Beta-karoten"
+  },
+  {
+    "key": "Cholesterol",
+    "label": "Cholesterol"
+  },
+  {
+    "key": "Choline, total",
+    "label": "Cholina"
+  },
+  {
+    "key": "Copper, Cu",
+    "label": "Miedź"
+  },
+  {
+    "key": "Cryptoxanthin, beta",
+    "label": "Beta-kryptoksantyna"
+  },
+  {
+    "key": "Cystine",
+    "label": "Cystyna"
+  },
+  {
+    "key": "Energy",
+    "label": "Kalorie"
+  },
+  {
+    "key": "Fatty acids, total monounsaturated",
+    "label": "Tłuszcze jednonienasycone"
+  },
+  {
+    "key": "Fatty acids, total polyunsaturated",
+    "label": "Tłuszcze wielonienasycone"
+  },
+  {
+    "key": "Fatty acids, total saturated",
+    "label": "Tłuszcze nasycone"
+  },
+  {
+    "key": "Fatty acids, total trans",
+    "label": "Tłuszcze trans"
+  },
+  {
+    "key": "Fatty acids, total trans-monoenoic",
+    "label": "Tłuszcze trans (monoenowe)"
+  },
+  {
+    "key": "Fatty acids, total trans-polyenoic",
+    "label": "Tłuszcze trans (polienowe)"
+  },
+  {
+    "key": "Fiber, total dietary",
+    "label": "Błonnik"
+  },
+  {
+    "key": "Fluoride, F",
+    "label": "Fluor"
+  },
+  {
+    "key": "Folate, food",
+    "label": "Foliany"
+  },
+  {
+    "key": "Folate, total",
+    "label": "Foliany"
+  },
+  {
+    "key": "Folic acid",
+    "label": "Kwas foliowy"
+  },
+  {
+    "key": "Fructose",
+    "label": "Fruktoza"
+  },
+  {
+    "key": "Galactose",
+    "label": "Galaktoza"
+  },
+  {
+    "key": "Glucose",
+    "label": "Glukoza"
+  },
+  {
+    "key": "Glutamic acid",
+    "label": "Kwas glutaminowy"
+  },
+  {
+    "key": "Glycine",
+    "label": "Glicyna"
+  },
+  {
+    "key": "Histidine",
+    "label": "Histydyna"
+  },
+  {
+    "key": "Hydroxyproline",
+    "label": "Hydroksyprolina"
+  },
+  {
+    "key": "Iron, Fe",
+    "label": "Żelazo"
+  },
+  {
+    "key": "Isoleucine",
+    "label": "Izoleucyna"
+  },
+  {
+    "key": "Lactose",
+    "label": "Laktoza"
+  },
+  {
+    "key": "Leucine",
+    "label": "Leucyna"
+  },
+  {
+    "key": "Lutein + zeaxanthin",
+    "label": "Luteina + zeaksantyna"
+  },
+  {
+    "key": "Lycopene",
+    "label": "Likopen"
+  },
+  {
+    "key": "Lysine",
+    "label": "Lizyna"
+  },
+  {
+    "key": "MUFA 14:1",
+    "label": "Tłuszcze jednonienasycone 14:1"
+  },
+  {
+    "key": "MUFA 15:1",
+    "label": "Tłuszcze jednonienasycone 15:1"
+  },
+  {
+    "key": "MUFA 16:1",
+    "label": "Tłuszcze jednonienasycone 16:1"
+  },
+  {
+    "key": "MUFA 16:1 c",
+    "label": "Tłuszcze jednonienasycone 16:1 c"
+  },
+  {
+    "key": "MUFA 17:1",
+    "label": "Tłuszcze jednonienasycone 17:1"
+  },
+  {
+    "key": "MUFA 18:1",
+    "label": "Tłuszcze jednonienasycone 18:1"
+  },
+  {
+    "key": "MUFA 18:1 c",
+    "label": "Tłuszcze jednonienasycone 18:1 c"
+  },
+  {
+    "key": "MUFA 20:1",
+    "label": "Tłuszcze jednonienasycone 20:1"
+  },
+  {
+    "key": "MUFA 22:1",
+    "label": "Tłuszcze jednonienasycone 22:1"
+  },
+  {
+    "key": "MUFA 22:1 c",
+    "label": "Tłuszcze jednonienasycone 22:1 c"
+  },
+  {
+    "key": "MUFA 24:1 c",
+    "label": "Tłuszcze jednonienasycone 24:1 c"
+  },
+  {
+    "key": "Magnesium, Mg",
+    "label": "Magnez"
+  },
+  {
+    "key": "Maltose",
+    "label": "Maltoza"
+  },
+  {
+    "key": "Manganese, Mn",
+    "label": "Mangan"
+  },
+  {
+    "key": "Methionine",
+    "label": "Metionina"
+  },
+  {
+    "key": "Niacin",
+    "label": "Witamina B3"
+  },
+  {
+    "key": "PUFA 18:2",
+    "label": "Tłuszcze wielonienasycone 18:2"
+  },
+  {
+    "key": "PUFA 18:2 CLAs",
+    "label": "CLA"
+  },
+  {
+    "key": "PUFA 18:2 i",
+    "label": "Tłuszcze wielonienasycone 18:2 i"
+  },
+  {
+    "key": "PUFA 18:2 n-6 c,c",
+    "label": "Omega-6"
+  },
+  {
+    "key": "PUFA 18:3",
+    "label": "Tłuszcze wielonienasycone 18:3"
+  },
+  {
+    "key": "PUFA 18:3 n-3 c,c,c (ALA)",
+    "label": "Omega-3"
+  },
+  {
+    "key": "PUFA 18:3 n-6 c,c,c",
+    "label": "Kwas gamma-linolenowy"
+  },
+  {
+    "key": "PUFA 18:3i",
+    "label": "Tłuszcze wielonienasycone 18:3 i"
+  },
+  {
+    "key": "PUFA 18:4",
+    "label": "Tłuszcze wielonienasycone 18:4"
+  },
+  {
+    "key": "PUFA 20:2 n-6 c,c",
+    "label": "Tłuszcze wielonienasycone 20:2 omega-6"
+  },
+  {
+    "key": "PUFA 20:3",
+    "label": "Tłuszcze wielonienasycone 20:3"
+  },
+  {
+    "key": "PUFA 20:3 n-3",
+    "label": "Tłuszcze wielonienasycone 20:3 omega-3"
+  },
+  {
+    "key": "PUFA 20:3 n-6",
+    "label": "Tłuszcze wielonienasycone 20:3 omega-6"
+  },
+  {
+    "key": "PUFA 20:4",
+    "label": "Kwas arachidonowy"
+  },
+  {
+    "key": "PUFA 20:5 n-3 (EPA)",
+    "label": "EPA (omega-3)"
+  },
+  {
+    "key": "PUFA 21:5",
+    "label": "Tłuszcze wielonienasycone 21:5"
+  },
+  {
+    "key": "PUFA 22:4",
+    "label": "Tłuszcze wielonienasycone 22:4"
+  },
+  {
+    "key": "PUFA 22:5 n-3 (DPA)",
+    "label": "DPA (omega-3)"
+  },
+  {
+    "key": "PUFA 22:6 n-3 (DHA)",
+    "label": "DHA (omega-3)"
+  },
+  {
+    "key": "Pantothenic acid",
+    "label": "Witamina B5"
+  },
+  {
+    "key": "Phenylalanine",
+    "label": "Fenyloalanina"
+  },
+  {
+    "key": "Phosphorus, P",
+    "label": "Fosfor"
+  },
+  {
+    "key": "Phytosterols",
+    "label": "Fitosterole"
+  },
+  {
+    "key": "Potassium, K",
+    "label": "Potas"
+  },
+  {
+    "key": "Proline",
+    "label": "Prolina"
+  },
+  {
+    "key": "Protein",
+    "label": "Białko"
+  },
+  {
+    "key": "Retinol",
+    "label": "Retinol (witamina A)"
+  },
+  {
+    "key": "Riboflavin",
+    "label": "Witamina B2"
+  },
+  {
+    "key": "SFA 10:0",
+    "label": "Tłuszcze nasycone 10:0"
+  },
+  {
+    "key": "SFA 12:0",
+    "label": "Tłuszcze nasycone 12:0"
+  },
+  {
+    "key": "SFA 13:0",
+    "label": "Tłuszcze nasycone 13:0"
+  },
+  {
+    "key": "SFA 14:0",
+    "label": "Tłuszcze nasycone 14:0"
+  },
+  {
+    "key": "SFA 15:0",
+    "label": "Tłuszcze nasycone 15:0"
+  },
+  {
+    "key": "SFA 16:0",
+    "label": "Tłuszcze nasycone 16:0"
+  },
+  {
+    "key": "SFA 17:0",
+    "label": "Tłuszcze nasycone 17:0"
+  },
+  {
+    "key": "SFA 18:0",
+    "label": "Tłuszcze nasycone 18:0"
+  },
+  {
+    "key": "SFA 20:0",
+    "label": "Tłuszcze nasycone 20:0"
+  },
+  {
+    "key": "SFA 22:0",
+    "label": "Tłuszcze nasycone 22:0"
+  },
+  {
+    "key": "SFA 24:0",
+    "label": "Tłuszcze nasycone 24:0"
+  },
+  {
+    "key": "SFA 4:0",
+    "label": "Tłuszcze nasycone 4:0"
+  },
+  {
+    "key": "SFA 6:0",
+    "label": "Tłuszcze nasycone 6:0"
+  },
+  {
+    "key": "SFA 8:0",
+    "label": "Tłuszcze nasycone 8:0"
+  },
+  {
+    "key": "Selenium, Se",
+    "label": "Selen"
+  },
+  {
+    "key": "Serine",
+    "label": "Seryna"
+  },
+  {
+    "key": "Sodium, Na",
+    "label": "Sód"
+  },
+  {
+    "key": "Starch",
+    "label": "Skrobia"
+  },
+  {
+    "key": "Stigmasterol",
+    "label": "Stigmasterol"
+  },
+  {
+    "key": "Sucrose",
+    "label": "Sacharoza"
+  },
+  {
+    "key": "TFA 16:1 t",
+    "label": "Tłuszcze trans 16:1"
+  },
+  {
+    "key": "TFA 18:1 t",
+    "label": "Tłuszcze trans 18:1"
+  },
+  {
+    "key": "TFA 18:2 t not further defined",
+    "label": "Tłuszcze trans 18:2"
+  },
+  {
+    "key": "TFA 18:2 t,t",
+    "label": "Tłuszcze trans 18:2 t,t"
+  },
+  {
+    "key": "TFA 22:1 t",
+    "label": "Tłuszcze trans 22:1"
+  },
+  {
+    "key": "Theobromine",
+    "label": "Teobromina"
+  },
+  {
+    "key": "Thiamin",
+    "label": "Witamina B1"
+  },
+  {
+    "key": "Threonine",
+    "label": "Treonina"
+  },
+  {
+    "key": "Tocopherol, beta",
+    "label": "Witamina E beta"
+  },
+  {
+    "key": "Tocopherol, delta",
+    "label": "Witamina E delta"
+  },
+  {
+    "key": "Tocopherol, gamma",
+    "label": "Witamina E gamma"
+  },
+  {
+    "key": "Tocotrienol, alpha",
+    "label": "Witamina E alfa-tokotrienol"
+  },
+  {
+    "key": "Tocotrienol, beta",
+    "label": "Witamina E beta-tokotrienol"
+  },
+  {
+    "key": "Tocotrienol, delta",
+    "label": "Witamina E delta-tokotrienol"
+  },
+  {
+    "key": "Tocotrienol, gamma",
+    "label": "Witamina E gamma-tokotrienol"
+  },
+  {
+    "key": "Total Sugars",
+    "label": "Cukry"
+  },
+  {
+    "key": "Total lipid (fat)",
+    "label": "Tłuszcz"
+  },
+  {
+    "key": "Tryptophan",
+    "label": "Tryptofan"
+  },
+  {
+    "key": "Tyrosine",
+    "label": "Tyrozyna"
+  },
+  {
+    "key": "Valine",
+    "label": "Walina"
+  },
+  {
+    "key": "Vitamin A, RAE",
+    "label": "Witamina A"
+  },
+  {
+    "key": "Vitamin B-12",
+    "label": "Witamina B12"
+  },
+  {
+    "key": "Vitamin B-6",
+    "label": "Witamina B6"
+  },
+  {
+    "key": "Vitamin C, total ascorbic acid",
+    "label": "Witamina C"
+  },
+  {
+    "key": "Vitamin D (D2 + D3)",
+    "label": "Witamina D"
+  },
+  {
+    "key": "Vitamin D2 (ergocalciferol)",
+    "label": "Witamina D2"
+  },
+  {
+    "key": "Vitamin D3 (cholecalciferol)",
+    "label": "Witamina D3"
+  },
+  {
+    "key": "Vitamin E (alpha-tocopherol)",
+    "label": "Witamina E"
+  },
+  {
+    "key": "Vitamin K (Dihydrophylloquinone)",
+    "label": "Szczególna forma witaminy K"
+  },
+  {
+    "key": "Vitamin K (Menaquinone-4)",
+    "label": "Witamina K2"
+  },
+  {
+    "key": "Vitamin K (phylloquinone)",
+    "label": "Witamina K1"
+  },
+  {
+    "key": "Water",
+    "label": "Woda"
+  },
+  {
+    "key": "Zinc, Zn",
+    "label": "Cynk"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "slug": "sample_apple",
+    "search_name": "sample apple raw",
+    "display_name": "Sample Apple",
+    "kind": "plant",
+    "data": {
+      "Energy": {
+        "value": 52,
+        "unit": "kcal"
+      },
+      "Water": {
+        "value": 85.6,
+        "unit": "g"
+      },
+      "Protein": {
+        "value": 0.3,
+        "unit": "g"
+      },
+      "Total lipid (fat)": {
+        "value": 0.2,
+        "unit": "g"
+      },
+      "Carbohydrate, by difference": {
+        "value": 13.8,
+        "unit": "g"
+      },
+      "Fiber, total dietary": {
+        "value": 2.4,
+        "unit": "g"
+      },
+      "Sugars, Total": {
+        "value": 10.4,
+        "unit": "g"
+      },
+      "Vitamin C, total ascorbic acid": {
+        "value": 4.6,
+        "unit": "mg"
+      },
+      "Potassium, K": {
+        "value": 107,
+        "unit": "mg"
+      }
+    }
+  },
+  {
+    "slug": "sample_lentils",
+    "search_name": "sample lentils cooked",
+    "display_name": "Sample Lentils",
+    "kind": "plant",
+    "data": {
+      "Energy": {
+        "value": 116,
+        "unit": "kcal"
+      },
+      "Water": {
+        "value": 69.6,
+        "unit": "g"
+      },
+      "Protein": {
+        "value": 9.0,
+        "unit": "g"
+      },
+      "Total lipid (fat)": {
+        "value": 0.4,
+        "unit": "g"
+      },
+      "Carbohydrate, by difference": {
+        "value": 20.1,
+        "unit": "g"
+      },
+      "Fiber, total dietary": {
+        "value": 7.9,
+        "unit": "g"
+      },
+      "Iron, Fe": {
+        "value": 3.3,
+        "unit": "mg"
+      },
+      "Magnesium, Mg": {
+        "value": 36,
+        "unit": "mg"
+      },
+      "Potassium, K": {
+        "value": 369,
+        "unit": "mg"
+      }
+    }
+  },
+  {
+    "slug": "sample_salmon",
+    "search_name": "sample salmon cooked",
+    "display_name": "Sample Salmon",
+    "kind": "animal",
+    "data": {
+      "Energy": {
+        "value": 206,
+        "unit": "kcal"
+      },
+      "Water": {
+        "value": 64.8,
+        "unit": "g"
+      },
+      "Protein": {
+        "value": 22.1,
+        "unit": "g"
+      },
+      "Total lipid (fat)": {
+        "value": 12.4,
+        "unit": "g"
+      },
+      "Carbohydrate, by difference": {
+        "value": 0,
+        "unit": "g"
+      },
+      "Fatty acids, total saturated": {
+        "value": 2.4,
+        "unit": "g"
+      },
+      "Vitamin B-12": {
+        "value": 3.2,
+        "unit": "ug"
+      },
+      "Vitamin D (D2 + D3)": {
+        "value": 13.1,
+        "unit": "ug"
+      },
+      "Potassium, K": {
+        "value": 384,
+        "unit": "mg"
+      }
+    }
+  }
+]

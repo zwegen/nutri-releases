@@ -1,0 +1,566 @@
+[
+  {
+    "key": "Alanine",
+    "label": "Alanina"
+  },
+  {
+    "key": "Alcohol, ethyl",
+    "label": "Álcool"
+  },
+  {
+    "key": "Arginine",
+    "label": "Arginina"
+  },
+  {
+    "key": "Ash",
+    "label": "Cinzas"
+  },
+  {
+    "key": "Aspartic acid",
+    "label": "Ácido aspártico"
+  },
+  {
+    "key": "Beta-sitosterol",
+    "label": "Beta-sitosterol"
+  },
+  {
+    "key": "Betaine",
+    "label": "Betaína"
+  },
+  {
+    "key": "Caffeine",
+    "label": "Cafeína"
+  },
+  {
+    "key": "Calcium, Ca",
+    "label": "Cálcio"
+  },
+  {
+    "key": "Campesterol",
+    "label": "Campesterol"
+  },
+  {
+    "key": "Carbohydrate, by difference",
+    "label": "Carboidratos"
+  },
+  {
+    "key": "Carotene, alpha",
+    "label": "Alfa-caroteno"
+  },
+  {
+    "key": "Carotene, beta",
+    "label": "Beta-caroteno"
+  },
+  {
+    "key": "Cholesterol",
+    "label": "Colesterol"
+  },
+  {
+    "key": "Choline, total",
+    "label": "Colina"
+  },
+  {
+    "key": "Copper, Cu",
+    "label": "Cobre"
+  },
+  {
+    "key": "Cryptoxanthin, beta",
+    "label": "Beta-criptoxantina"
+  },
+  {
+    "key": "Cystine",
+    "label": "Cistina"
+  },
+  {
+    "key": "Energy",
+    "label": "Calorias"
+  },
+  {
+    "key": "Fatty acids, total monounsaturated",
+    "label": "Gordura monoinsaturada"
+  },
+  {
+    "key": "Fatty acids, total polyunsaturated",
+    "label": "Gordura poli-insaturada"
+  },
+  {
+    "key": "Fatty acids, total saturated",
+    "label": "Gordura saturada"
+  },
+  {
+    "key": "Fatty acids, total trans",
+    "label": "Gordura trans"
+  },
+  {
+    "key": "Fatty acids, total trans-monoenoic",
+    "label": "Gordura trans (monoenoica)"
+  },
+  {
+    "key": "Fatty acids, total trans-polyenoic",
+    "label": "Gordura trans (polienoica)"
+  },
+  {
+    "key": "Fiber, total dietary",
+    "label": "Fibra"
+  },
+  {
+    "key": "Fluoride, F",
+    "label": "Flúor"
+  },
+  {
+    "key": "Folate, food",
+    "label": "Folato"
+  },
+  {
+    "key": "Folate, total",
+    "label": "Folato"
+  },
+  {
+    "key": "Folic acid",
+    "label": "Ácido fólico"
+  },
+  {
+    "key": "Fructose",
+    "label": "Frutose"
+  },
+  {
+    "key": "Galactose",
+    "label": "Galactose"
+  },
+  {
+    "key": "Glucose",
+    "label": "Glicose"
+  },
+  {
+    "key": "Glutamic acid",
+    "label": "Ácido glutâmico"
+  },
+  {
+    "key": "Glycine",
+    "label": "Glicina"
+  },
+  {
+    "key": "Histidine",
+    "label": "Histidina"
+  },
+  {
+    "key": "Hydroxyproline",
+    "label": "Hidroxiprolina"
+  },
+  {
+    "key": "Iron, Fe",
+    "label": "Ferro"
+  },
+  {
+    "key": "Isoleucine",
+    "label": "Isoleucina"
+  },
+  {
+    "key": "Lactose",
+    "label": "Lactose"
+  },
+  {
+    "key": "Leucine",
+    "label": "Leucina"
+  },
+  {
+    "key": "Lutein + zeaxanthin",
+    "label": "Luteína + zeaxantina"
+  },
+  {
+    "key": "Lycopene",
+    "label": "Licopeno"
+  },
+  {
+    "key": "Lysine",
+    "label": "Lisina"
+  },
+  {
+    "key": "MUFA 14:1",
+    "label": "Gordura monoinsaturada 14:1"
+  },
+  {
+    "key": "MUFA 15:1",
+    "label": "Gordura monoinsaturada 15:1"
+  },
+  {
+    "key": "MUFA 16:1",
+    "label": "Gordura monoinsaturada 16:1"
+  },
+  {
+    "key": "MUFA 16:1 c",
+    "label": "Gordura monoinsaturada 16:1 c"
+  },
+  {
+    "key": "MUFA 17:1",
+    "label": "Gordura monoinsaturada 17:1"
+  },
+  {
+    "key": "MUFA 18:1",
+    "label": "Gordura monoinsaturada 18:1"
+  },
+  {
+    "key": "MUFA 18:1 c",
+    "label": "Gordura monoinsaturada 18:1 c"
+  },
+  {
+    "key": "MUFA 20:1",
+    "label": "Gordura monoinsaturada 20:1"
+  },
+  {
+    "key": "MUFA 22:1",
+    "label": "Gordura monoinsaturada 22:1"
+  },
+  {
+    "key": "MUFA 22:1 c",
+    "label": "Gordura monoinsaturada 22:1 c"
+  },
+  {
+    "key": "MUFA 24:1 c",
+    "label": "Gordura monoinsaturada 24:1 c"
+  },
+  {
+    "key": "Magnesium, Mg",
+    "label": "Magnésio"
+  },
+  {
+    "key": "Maltose",
+    "label": "Maltose"
+  },
+  {
+    "key": "Manganese, Mn",
+    "label": "Manganês"
+  },
+  {
+    "key": "Methionine",
+    "label": "Metionina"
+  },
+  {
+    "key": "Niacin",
+    "label": "Vitamina B3"
+  },
+  {
+    "key": "PUFA 18:2",
+    "label": "Gordura poli-insaturada 18:2"
+  },
+  {
+    "key": "PUFA 18:2 CLAs",
+    "label": "CLA"
+  },
+  {
+    "key": "PUFA 18:2 i",
+    "label": "Gordura poli-insaturada 18:2 i"
+  },
+  {
+    "key": "PUFA 18:2 n-6 c,c",
+    "label": "Ômega-6"
+  },
+  {
+    "key": "PUFA 18:3",
+    "label": "Gordura poli-insaturada 18:3"
+  },
+  {
+    "key": "PUFA 18:3 n-3 c,c,c (ALA)",
+    "label": "Ômega-3"
+  },
+  {
+    "key": "PUFA 18:3 n-6 c,c,c",
+    "label": "Ácido gama-linolênico"
+  },
+  {
+    "key": "PUFA 18:3i",
+    "label": "Gordura poli-insaturada 18:3 i"
+  },
+  {
+    "key": "PUFA 18:4",
+    "label": "Gordura poli-insaturada 18:4"
+  },
+  {
+    "key": "PUFA 20:2 n-6 c,c",
+    "label": "Gordura poli-insaturada 20:2 ômega-6"
+  },
+  {
+    "key": "PUFA 20:3",
+    "label": "Gordura poli-insaturada 20:3"
+  },
+  {
+    "key": "PUFA 20:3 n-3",
+    "label": "Gordura poli-insaturada 20:3 ômega-3"
+  },
+  {
+    "key": "PUFA 20:3 n-6",
+    "label": "Gordura poli-insaturada 20:3 ômega-6"
+  },
+  {
+    "key": "PUFA 20:4",
+    "label": "Ácido araquidônico"
+  },
+  {
+    "key": "PUFA 20:5 n-3 (EPA)",
+    "label": "EPA (ômega-3)"
+  },
+  {
+    "key": "PUFA 21:5",
+    "label": "Gordura poli-insaturada 21:5"
+  },
+  {
+    "key": "PUFA 22:4",
+    "label": "Gordura poli-insaturada 22:4"
+  },
+  {
+    "key": "PUFA 22:5 n-3 (DPA)",
+    "label": "DPA (ômega-3)"
+  },
+  {
+    "key": "PUFA 22:6 n-3 (DHA)",
+    "label": "DHA (ômega-3)"
+  },
+  {
+    "key": "Pantothenic acid",
+    "label": "Vitamina B5"
+  },
+  {
+    "key": "Phenylalanine",
+    "label": "Fenilalanina"
+  },
+  {
+    "key": "Phosphorus, P",
+    "label": "Fósforo"
+  },
+  {
+    "key": "Phytosterols",
+    "label": "Fitoesteróis"
+  },
+  {
+    "key": "Potassium, K",
+    "label": "Potássio"
+  },
+  {
+    "key": "Proline",
+    "label": "Prolina"
+  },
+  {
+    "key": "Protein",
+    "label": "Proteína"
+  },
+  {
+    "key": "Retinol",
+    "label": "Retinol (vitamina A)"
+  },
+  {
+    "key": "Riboflavin",
+    "label": "Vitamina B2"
+  },
+  {
+    "key": "SFA 10:0",
+    "label": "Gordura saturada 10:0"
+  },
+  {
+    "key": "SFA 12:0",
+    "label": "Gordura saturada 12:0"
+  },
+  {
+    "key": "SFA 13:0",
+    "label": "Gordura saturada 13:0"
+  },
+  {
+    "key": "SFA 14:0",
+    "label": "Gordura saturada 14:0"
+  },
+  {
+    "key": "SFA 15:0",
+    "label": "Gordura saturada 15:0"
+  },
+  {
+    "key": "SFA 16:0",
+    "label": "Gordura saturada 16:0"
+  },
+  {
+    "key": "SFA 17:0",
+    "label": "Gordura saturada 17:0"
+  },
+  {
+    "key": "SFA 18:0",
+    "label": "Gordura saturada 18:0"
+  },
+  {
+    "key": "SFA 20:0",
+    "label": "Gordura saturada 20:0"
+  },
+  {
+    "key": "SFA 22:0",
+    "label": "Gordura saturada 22:0"
+  },
+  {
+    "key": "SFA 24:0",
+    "label": "Gordura saturada 24:0"
+  },
+  {
+    "key": "SFA 4:0",
+    "label": "Gordura saturada 4:0"
+  },
+  {
+    "key": "SFA 6:0",
+    "label": "Gordura saturada 6:0"
+  },
+  {
+    "key": "SFA 8:0",
+    "label": "Gordura saturada 8:0"
+  },
+  {
+    "key": "Selenium, Se",
+    "label": "Selênio"
+  },
+  {
+    "key": "Serine",
+    "label": "Serina"
+  },
+  {
+    "key": "Sodium, Na",
+    "label": "Sódio"
+  },
+  {
+    "key": "Starch",
+    "label": "Amido"
+  },
+  {
+    "key": "Stigmasterol",
+    "label": "Estigmasterol"
+  },
+  {
+    "key": "Sucrose",
+    "label": "Sacarose"
+  },
+  {
+    "key": "TFA 16:1 t",
+    "label": "Gordura trans 16:1"
+  },
+  {
+    "key": "TFA 18:1 t",
+    "label": "Gordura trans 18:1"
+  },
+  {
+    "key": "TFA 18:2 t not further defined",
+    "label": "Gordura trans 18:2"
+  },
+  {
+    "key": "TFA 18:2 t,t",
+    "label": "Gordura trans 18:2 t,t"
+  },
+  {
+    "key": "TFA 22:1 t",
+    "label": "Gordura trans 22:1"
+  },
+  {
+    "key": "Theobromine",
+    "label": "Teobromina"
+  },
+  {
+    "key": "Thiamin",
+    "label": "Vitamina B1"
+  },
+  {
+    "key": "Threonine",
+    "label": "Treonina"
+  },
+  {
+    "key": "Tocopherol, beta",
+    "label": "Vitamina E beta"
+  },
+  {
+    "key": "Tocopherol, delta",
+    "label": "Vitamina E delta"
+  },
+  {
+    "key": "Tocopherol, gamma",
+    "label": "Vitamina E gama"
+  },
+  {
+    "key": "Tocotrienol, alpha",
+    "label": "Vitamina E alfa tocotrienol"
+  },
+  {
+    "key": "Tocotrienol, beta",
+    "label": "Vitamina E beta tocotrienol"
+  },
+  {
+    "key": "Tocotrienol, delta",
+    "label": "Vitamina E delta tocotrienol"
+  },
+  {
+    "key": "Tocotrienol, gamma",
+    "label": "Vitamina E gama tocotrienol"
+  },
+  {
+    "key": "Total Sugars",
+    "label": "Açúcares"
+  },
+  {
+    "key": "Total lipid (fat)",
+    "label": "Gordura"
+  },
+  {
+    "key": "Tryptophan",
+    "label": "Triptofano"
+  },
+  {
+    "key": "Tyrosine",
+    "label": "Tirosina"
+  },
+  {
+    "key": "Valine",
+    "label": "Valina"
+  },
+  {
+    "key": "Vitamin A, RAE",
+    "label": "Vitamina A"
+  },
+  {
+    "key": "Vitamin B-12",
+    "label": "Vitamina B12"
+  },
+  {
+    "key": "Vitamin B-6",
+    "label": "Vitamina B6"
+  },
+  {
+    "key": "Vitamin C, total ascorbic acid",
+    "label": "Vitamina C"
+  },
+  {
+    "key": "Vitamin D (D2 + D3)",
+    "label": "Vitamina D"
+  },
+  {
+    "key": "Vitamin D2 (ergocalciferol)",
+    "label": "Vitamina D2"
+  },
+  {
+    "key": "Vitamin D3 (cholecalciferol)",
+    "label": "Vitamina D3"
+  },
+  {
+    "key": "Vitamin E (alpha-tocopherol)",
+    "label": "Vitamina E"
+  },
+  {
+    "key": "Vitamin K (Dihydrophylloquinone)",
+    "label": "Forma especial de vitamina K"
+  },
+  {
+    "key": "Vitamin K (Menaquinone-4)",
+    "label": "Vitamina K2"
+  },
+  {
+    "key": "Vitamin K (phylloquinone)",
+    "label": "Vitamina K1"
+  },
+  {
+    "key": "Water",
+    "label": "Água"
+  },
+  {
+    "key": "Zinc, Zn",
+    "label": "Zinco"
+  }
+]

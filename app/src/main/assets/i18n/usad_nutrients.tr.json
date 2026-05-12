@@ -1,0 +1,566 @@
+[
+  {
+    "key": "Alanine",
+    "label": "Alanin"
+  },
+  {
+    "key": "Alcohol, ethyl",
+    "label": "Alkol"
+  },
+  {
+    "key": "Arginine",
+    "label": "Arjinin"
+  },
+  {
+    "key": "Ash",
+    "label": "Kül"
+  },
+  {
+    "key": "Aspartic acid",
+    "label": "Aspartik asit"
+  },
+  {
+    "key": "Beta-sitosterol",
+    "label": "Beta-sitosterol"
+  },
+  {
+    "key": "Betaine",
+    "label": "Betain"
+  },
+  {
+    "key": "Caffeine",
+    "label": "Kafein"
+  },
+  {
+    "key": "Calcium, Ca",
+    "label": "Kalsiyum"
+  },
+  {
+    "key": "Campesterol",
+    "label": "Kampesterol"
+  },
+  {
+    "key": "Carbohydrate, by difference",
+    "label": "Karbonhidrat"
+  },
+  {
+    "key": "Carotene, alpha",
+    "label": "Alfa-karoten"
+  },
+  {
+    "key": "Carotene, beta",
+    "label": "Beta-karoten"
+  },
+  {
+    "key": "Cholesterol",
+    "label": "Kolesterol"
+  },
+  {
+    "key": "Choline, total",
+    "label": "Kolin"
+  },
+  {
+    "key": "Copper, Cu",
+    "label": "Bakır"
+  },
+  {
+    "key": "Cryptoxanthin, beta",
+    "label": "Beta-kriptoksantin"
+  },
+  {
+    "key": "Cystine",
+    "label": "Sistin"
+  },
+  {
+    "key": "Energy",
+    "label": "Kalori"
+  },
+  {
+    "key": "Fatty acids, total monounsaturated",
+    "label": "Tekli doymamış yağ"
+  },
+  {
+    "key": "Fatty acids, total polyunsaturated",
+    "label": "Çoklu doymamış yağ"
+  },
+  {
+    "key": "Fatty acids, total saturated",
+    "label": "Doymuş yağ"
+  },
+  {
+    "key": "Fatty acids, total trans",
+    "label": "Trans yağ"
+  },
+  {
+    "key": "Fatty acids, total trans-monoenoic",
+    "label": "Trans yağ (monoenoik)"
+  },
+  {
+    "key": "Fatty acids, total trans-polyenoic",
+    "label": "Trans yağ (polienoik)"
+  },
+  {
+    "key": "Fiber, total dietary",
+    "label": "Lif"
+  },
+  {
+    "key": "Fluoride, F",
+    "label": "Florür"
+  },
+  {
+    "key": "Folate, food",
+    "label": "Folat"
+  },
+  {
+    "key": "Folate, total",
+    "label": "Toplam folat"
+  },
+  {
+    "key": "Folic acid",
+    "label": "Folik asit"
+  },
+  {
+    "key": "Fructose",
+    "label": "Fruktoz"
+  },
+  {
+    "key": "Galactose",
+    "label": "Galaktoz"
+  },
+  {
+    "key": "Glucose",
+    "label": "Glukoz"
+  },
+  {
+    "key": "Glutamic acid",
+    "label": "Glutamik asit"
+  },
+  {
+    "key": "Glycine",
+    "label": "Glisin"
+  },
+  {
+    "key": "Histidine",
+    "label": "Histidin"
+  },
+  {
+    "key": "Hydroxyproline",
+    "label": "Hidroksiprolin"
+  },
+  {
+    "key": "Iron, Fe",
+    "label": "Demir"
+  },
+  {
+    "key": "Isoleucine",
+    "label": "İzolösin"
+  },
+  {
+    "key": "Lactose",
+    "label": "Laktoz"
+  },
+  {
+    "key": "Leucine",
+    "label": "Lösin"
+  },
+  {
+    "key": "Lutein + zeaxanthin",
+    "label": "Lutein + zeaksantin"
+  },
+  {
+    "key": "Lycopene",
+    "label": "Likopen"
+  },
+  {
+    "key": "Lysine",
+    "label": "Lizin"
+  },
+  {
+    "key": "MUFA 14:1",
+    "label": "Tekli doymamış yağ 14:1"
+  },
+  {
+    "key": "MUFA 15:1",
+    "label": "Tekli doymamış yağ 15:1"
+  },
+  {
+    "key": "MUFA 16:1",
+    "label": "Tekli doymamış yağ 16:1"
+  },
+  {
+    "key": "MUFA 16:1 c",
+    "label": "Tekli doymamış yağ 16:1 c"
+  },
+  {
+    "key": "MUFA 17:1",
+    "label": "Tekli doymamış yağ 17:1"
+  },
+  {
+    "key": "MUFA 18:1",
+    "label": "Tekli doymamış yağ 18:1"
+  },
+  {
+    "key": "MUFA 18:1 c",
+    "label": "Tekli doymamış yağ 18:1 c"
+  },
+  {
+    "key": "MUFA 20:1",
+    "label": "Tekli doymamış yağ 20:1"
+  },
+  {
+    "key": "MUFA 22:1",
+    "label": "Tekli doymamış yağ 22:1"
+  },
+  {
+    "key": "MUFA 22:1 c",
+    "label": "Tekli doymamış yağ 22:1 c"
+  },
+  {
+    "key": "MUFA 24:1 c",
+    "label": "Tekli doymamış yağ 24:1 c"
+  },
+  {
+    "key": "Magnesium, Mg",
+    "label": "Magnezyum"
+  },
+  {
+    "key": "Maltose",
+    "label": "Maltoz"
+  },
+  {
+    "key": "Manganese, Mn",
+    "label": "Manganez"
+  },
+  {
+    "key": "Methionine",
+    "label": "Metiyonin"
+  },
+  {
+    "key": "Niacin",
+    "label": "B3 vitamini"
+  },
+  {
+    "key": "PUFA 18:2",
+    "label": "Çoklu doymamış yağ 18:2"
+  },
+  {
+    "key": "PUFA 18:2 CLAs",
+    "label": "CLA"
+  },
+  {
+    "key": "PUFA 18:2 i",
+    "label": "Çoklu doymamış yağ 18:2 i"
+  },
+  {
+    "key": "PUFA 18:2 n-6 c,c",
+    "label": "Omega-6"
+  },
+  {
+    "key": "PUFA 18:3",
+    "label": "Çoklu doymamış yağ 18:3"
+  },
+  {
+    "key": "PUFA 18:3 n-3 c,c,c (ALA)",
+    "label": "Omega-3"
+  },
+  {
+    "key": "PUFA 18:3 n-6 c,c,c",
+    "label": "Gama-linolenik asit"
+  },
+  {
+    "key": "PUFA 18:3i",
+    "label": "Çoklu doymamış yağ 18:3 i"
+  },
+  {
+    "key": "PUFA 18:4",
+    "label": "Çoklu doymamış yağ 18:4"
+  },
+  {
+    "key": "PUFA 20:2 n-6 c,c",
+    "label": "Çoklu doymamış yağ 20:2 omega-6"
+  },
+  {
+    "key": "PUFA 20:3",
+    "label": "Çoklu doymamış yağ 20:3"
+  },
+  {
+    "key": "PUFA 20:3 n-3",
+    "label": "Çoklu doymamış yağ 20:3 omega-3"
+  },
+  {
+    "key": "PUFA 20:3 n-6",
+    "label": "Çoklu doymamış yağ 20:3 omega-6"
+  },
+  {
+    "key": "PUFA 20:4",
+    "label": "Araşidonik asit"
+  },
+  {
+    "key": "PUFA 20:5 n-3 (EPA)",
+    "label": "EPA (omega-3)"
+  },
+  {
+    "key": "PUFA 21:5",
+    "label": "Çoklu doymamış yağ 21:5"
+  },
+  {
+    "key": "PUFA 22:4",
+    "label": "Çoklu doymamış yağ 22:4"
+  },
+  {
+    "key": "PUFA 22:5 n-3 (DPA)",
+    "label": "DPA (omega-3)"
+  },
+  {
+    "key": "PUFA 22:6 n-3 (DHA)",
+    "label": "DHA (omega-3)"
+  },
+  {
+    "key": "Pantothenic acid",
+    "label": "B5 vitamini"
+  },
+  {
+    "key": "Phenylalanine",
+    "label": "Fenilalanin"
+  },
+  {
+    "key": "Phosphorus, P",
+    "label": "Fosfor"
+  },
+  {
+    "key": "Phytosterols",
+    "label": "Fitosteroller"
+  },
+  {
+    "key": "Potassium, K",
+    "label": "Potasyum"
+  },
+  {
+    "key": "Proline",
+    "label": "Prolin"
+  },
+  {
+    "key": "Protein",
+    "label": "Protein"
+  },
+  {
+    "key": "Retinol",
+    "label": "Retinol (A vitamini)"
+  },
+  {
+    "key": "Riboflavin",
+    "label": "B2 vitamini"
+  },
+  {
+    "key": "SFA 10:0",
+    "label": "Doymuş yağ 10:0"
+  },
+  {
+    "key": "SFA 12:0",
+    "label": "Doymuş yağ 12:0"
+  },
+  {
+    "key": "SFA 13:0",
+    "label": "Doymuş yağ 13:0"
+  },
+  {
+    "key": "SFA 14:0",
+    "label": "Doymuş yağ 14:0"
+  },
+  {
+    "key": "SFA 15:0",
+    "label": "Doymuş yağ 15:0"
+  },
+  {
+    "key": "SFA 16:0",
+    "label": "Doymuş yağ 16:0"
+  },
+  {
+    "key": "SFA 17:0",
+    "label": "Doymuş yağ 17:0"
+  },
+  {
+    "key": "SFA 18:0",
+    "label": "Doymuş yağ 18:0"
+  },
+  {
+    "key": "SFA 20:0",
+    "label": "Doymuş yağ 20:0"
+  },
+  {
+    "key": "SFA 22:0",
+    "label": "Doymuş yağ 22:0"
+  },
+  {
+    "key": "SFA 24:0",
+    "label": "Doymuş yağ 24:0"
+  },
+  {
+    "key": "SFA 4:0",
+    "label": "Doymuş yağ 4:0"
+  },
+  {
+    "key": "SFA 6:0",
+    "label": "Doymuş yağ 6:0"
+  },
+  {
+    "key": "SFA 8:0",
+    "label": "Doymuş yağ 8:0"
+  },
+  {
+    "key": "Selenium, Se",
+    "label": "Selenyum"
+  },
+  {
+    "key": "Serine",
+    "label": "Serin"
+  },
+  {
+    "key": "Sodium, Na",
+    "label": "Sodyum"
+  },
+  {
+    "key": "Starch",
+    "label": "Nişasta"
+  },
+  {
+    "key": "Stigmasterol",
+    "label": "Stigmasterol"
+  },
+  {
+    "key": "Sucrose",
+    "label": "Sükroz"
+  },
+  {
+    "key": "TFA 16:1 t",
+    "label": "Trans yağ 16:1"
+  },
+  {
+    "key": "TFA 18:1 t",
+    "label": "Trans yağ 18:1"
+  },
+  {
+    "key": "TFA 18:2 t not further defined",
+    "label": "Trans yağ 18:2"
+  },
+  {
+    "key": "TFA 18:2 t,t",
+    "label": "Trans yağ 18:2 t,t"
+  },
+  {
+    "key": "TFA 22:1 t",
+    "label": "Trans yağ 22:1"
+  },
+  {
+    "key": "Theobromine",
+    "label": "Teobromin"
+  },
+  {
+    "key": "Thiamin",
+    "label": "B1 vitamini"
+  },
+  {
+    "key": "Threonine",
+    "label": "Treonin"
+  },
+  {
+    "key": "Tocopherol, beta",
+    "label": "Beta tokoferol"
+  },
+  {
+    "key": "Tocopherol, delta",
+    "label": "Delta tokoferol"
+  },
+  {
+    "key": "Tocopherol, gamma",
+    "label": "Gamma tokoferol"
+  },
+  {
+    "key": "Tocotrienol, alpha",
+    "label": "Alfa tokotrienol"
+  },
+  {
+    "key": "Tocotrienol, beta",
+    "label": "Beta tokotrienol"
+  },
+  {
+    "key": "Tocotrienol, delta",
+    "label": "Delta tokotrienol"
+  },
+  {
+    "key": "Tocotrienol, gamma",
+    "label": "Gamma tokotrienol"
+  },
+  {
+    "key": "Total Sugars",
+    "label": "Şekerler"
+  },
+  {
+    "key": "Total lipid (fat)",
+    "label": "Yağ"
+  },
+  {
+    "key": "Tryptophan",
+    "label": "Triptofan"
+  },
+  {
+    "key": "Tyrosine",
+    "label": "Tirozin"
+  },
+  {
+    "key": "Valine",
+    "label": "Valin"
+  },
+  {
+    "key": "Vitamin A, RAE",
+    "label": "A vitamini"
+  },
+  {
+    "key": "Vitamin B-12",
+    "label": "B12 vitamini"
+  },
+  {
+    "key": "Vitamin B-6",
+    "label": "B6 vitamini"
+  },
+  {
+    "key": "Vitamin C, total ascorbic acid",
+    "label": "C vitamini"
+  },
+  {
+    "key": "Vitamin D (D2 + D3)",
+    "label": "D vitamini"
+  },
+  {
+    "key": "Vitamin D2 (ergocalciferol)",
+    "label": "D2 vitamini"
+  },
+  {
+    "key": "Vitamin D3 (cholecalciferol)",
+    "label": "D3 vitamini"
+  },
+  {
+    "key": "Vitamin E (alpha-tocopherol)",
+    "label": "E vitamini"
+  },
+  {
+    "key": "Vitamin K (Dihydrophylloquinone)",
+    "label": "Özel K vitamini formu"
+  },
+  {
+    "key": "Vitamin K (Menaquinone-4)",
+    "label": "K2 vitamini"
+  },
+  {
+    "key": "Vitamin K (phylloquinone)",
+    "label": "K1 vitamini"
+  },
+  {
+    "key": "Water",
+    "label": "Su"
+  },
+  {
+    "key": "Zinc, Zn",
+    "label": "Çinko"
+  }
+]

@@ -1,0 +1,566 @@
+[
+  {
+    "key": "Alanine",
+    "label": "Alanină"
+  },
+  {
+    "key": "Alcohol, ethyl",
+    "label": "Alcool"
+  },
+  {
+    "key": "Arginine",
+    "label": "Arginină"
+  },
+  {
+    "key": "Ash",
+    "label": "Cenușă"
+  },
+  {
+    "key": "Aspartic acid",
+    "label": "Acid aspartic"
+  },
+  {
+    "key": "Beta-sitosterol",
+    "label": "Beta-sitosterol"
+  },
+  {
+    "key": "Betaine",
+    "label": "Betaină"
+  },
+  {
+    "key": "Caffeine",
+    "label": "Cofeină"
+  },
+  {
+    "key": "Calcium, Ca",
+    "label": "Calciu"
+  },
+  {
+    "key": "Campesterol",
+    "label": "Campesterol"
+  },
+  {
+    "key": "Carbohydrate, by difference",
+    "label": "Carbohidrați"
+  },
+  {
+    "key": "Carotene, alpha",
+    "label": "Alfa-caroten"
+  },
+  {
+    "key": "Carotene, beta",
+    "label": "Beta-caroten"
+  },
+  {
+    "key": "Cholesterol",
+    "label": "Colesterol"
+  },
+  {
+    "key": "Choline, total",
+    "label": "Colină"
+  },
+  {
+    "key": "Copper, Cu",
+    "label": "Cupru"
+  },
+  {
+    "key": "Cryptoxanthin, beta",
+    "label": "Beta-criptoxantină"
+  },
+  {
+    "key": "Cystine",
+    "label": "Cistină"
+  },
+  {
+    "key": "Energy",
+    "label": "Calorii"
+  },
+  {
+    "key": "Fatty acids, total monounsaturated",
+    "label": "Grăsimi mononesaturate"
+  },
+  {
+    "key": "Fatty acids, total polyunsaturated",
+    "label": "Grăsimi polinesaturate"
+  },
+  {
+    "key": "Fatty acids, total saturated",
+    "label": "Grăsimi saturate"
+  },
+  {
+    "key": "Fatty acids, total trans",
+    "label": "Grăsimi trans"
+  },
+  {
+    "key": "Fatty acids, total trans-monoenoic",
+    "label": "Grăsimi trans (monoenoice)"
+  },
+  {
+    "key": "Fatty acids, total trans-polyenoic",
+    "label": "Grăsimi trans (polienoice)"
+  },
+  {
+    "key": "Fiber, total dietary",
+    "label": "Fibre"
+  },
+  {
+    "key": "Fluoride, F",
+    "label": "Fluor"
+  },
+  {
+    "key": "Folate, food",
+    "label": "Folat"
+  },
+  {
+    "key": "Folate, total",
+    "label": "Folat"
+  },
+  {
+    "key": "Folic acid",
+    "label": "Acid folic"
+  },
+  {
+    "key": "Fructose",
+    "label": "Fructoză"
+  },
+  {
+    "key": "Galactose",
+    "label": "Galactoză"
+  },
+  {
+    "key": "Glucose",
+    "label": "Glucoză"
+  },
+  {
+    "key": "Glutamic acid",
+    "label": "Acid glutamic"
+  },
+  {
+    "key": "Glycine",
+    "label": "Glicină"
+  },
+  {
+    "key": "Histidine",
+    "label": "Histidină"
+  },
+  {
+    "key": "Hydroxyproline",
+    "label": "Hidroxiprolină"
+  },
+  {
+    "key": "Iron, Fe",
+    "label": "Fier"
+  },
+  {
+    "key": "Isoleucine",
+    "label": "Izoleucină"
+  },
+  {
+    "key": "Lactose",
+    "label": "Lactoză"
+  },
+  {
+    "key": "Leucine",
+    "label": "Leucină"
+  },
+  {
+    "key": "Lutein + zeaxanthin",
+    "label": "Luteină + zeaxantină"
+  },
+  {
+    "key": "Lycopene",
+    "label": "Licopen"
+  },
+  {
+    "key": "Lysine",
+    "label": "Lizină"
+  },
+  {
+    "key": "MUFA 14:1",
+    "label": "Grăsimi mononesaturate 14:1"
+  },
+  {
+    "key": "MUFA 15:1",
+    "label": "Grăsimi mononesaturate 15:1"
+  },
+  {
+    "key": "MUFA 16:1",
+    "label": "Grăsimi mononesaturate 16:1"
+  },
+  {
+    "key": "MUFA 16:1 c",
+    "label": "Grăsimi mononesaturate 16:1 c"
+  },
+  {
+    "key": "MUFA 17:1",
+    "label": "Grăsimi mononesaturate 17:1"
+  },
+  {
+    "key": "MUFA 18:1",
+    "label": "Grăsimi mononesaturate 18:1"
+  },
+  {
+    "key": "MUFA 18:1 c",
+    "label": "Grăsimi mononesaturate 18:1 c"
+  },
+  {
+    "key": "MUFA 20:1",
+    "label": "Grăsimi mononesaturate 20:1"
+  },
+  {
+    "key": "MUFA 22:1",
+    "label": "Grăsimi mononesaturate 22:1"
+  },
+  {
+    "key": "MUFA 22:1 c",
+    "label": "Grăsimi mononesaturate 22:1 c"
+  },
+  {
+    "key": "MUFA 24:1 c",
+    "label": "Grăsimi mononesaturate 24:1 c"
+  },
+  {
+    "key": "Magnesium, Mg",
+    "label": "Magneziu"
+  },
+  {
+    "key": "Maltose",
+    "label": "Maltoză"
+  },
+  {
+    "key": "Manganese, Mn",
+    "label": "Mangan"
+  },
+  {
+    "key": "Methionine",
+    "label": "Metionină"
+  },
+  {
+    "key": "Niacin",
+    "label": "Vitamina B3"
+  },
+  {
+    "key": "PUFA 18:2",
+    "label": "Grăsimi polinesaturate 18:2"
+  },
+  {
+    "key": "PUFA 18:2 CLAs",
+    "label": "CLA"
+  },
+  {
+    "key": "PUFA 18:2 i",
+    "label": "Grăsimi polinesaturate 18:2 i"
+  },
+  {
+    "key": "PUFA 18:2 n-6 c,c",
+    "label": "Omega-6"
+  },
+  {
+    "key": "PUFA 18:3",
+    "label": "Grăsimi polinesaturate 18:3"
+  },
+  {
+    "key": "PUFA 18:3 n-3 c,c,c (ALA)",
+    "label": "Omega-3"
+  },
+  {
+    "key": "PUFA 18:3 n-6 c,c,c",
+    "label": "Acid gamma-linolenic"
+  },
+  {
+    "key": "PUFA 18:3i",
+    "label": "Grăsimi polinesaturate 18:3 i"
+  },
+  {
+    "key": "PUFA 18:4",
+    "label": "Grăsimi polinesaturate 18:4"
+  },
+  {
+    "key": "PUFA 20:2 n-6 c,c",
+    "label": "Grăsimi polinesaturate 20:2 omega-6"
+  },
+  {
+    "key": "PUFA 20:3",
+    "label": "Grăsimi polinesaturate 20:3"
+  },
+  {
+    "key": "PUFA 20:3 n-3",
+    "label": "Grăsimi polinesaturate 20:3 omega-3"
+  },
+  {
+    "key": "PUFA 20:3 n-6",
+    "label": "Grăsimi polinesaturate 20:3 omega-6"
+  },
+  {
+    "key": "PUFA 20:4",
+    "label": "Acid arahidonic"
+  },
+  {
+    "key": "PUFA 20:5 n-3 (EPA)",
+    "label": "EPA (omega-3)"
+  },
+  {
+    "key": "PUFA 21:5",
+    "label": "Grăsimi polinesaturate 21:5"
+  },
+  {
+    "key": "PUFA 22:4",
+    "label": "Grăsimi polinesaturate 22:4"
+  },
+  {
+    "key": "PUFA 22:5 n-3 (DPA)",
+    "label": "DPA (omega-3)"
+  },
+  {
+    "key": "PUFA 22:6 n-3 (DHA)",
+    "label": "DHA (omega-3)"
+  },
+  {
+    "key": "Pantothenic acid",
+    "label": "Vitamina B5"
+  },
+  {
+    "key": "Phenylalanine",
+    "label": "Fenilalanină"
+  },
+  {
+    "key": "Phosphorus, P",
+    "label": "Fosfor"
+  },
+  {
+    "key": "Phytosterols",
+    "label": "Fitosteroli"
+  },
+  {
+    "key": "Potassium, K",
+    "label": "Potasiu"
+  },
+  {
+    "key": "Proline",
+    "label": "Prolină"
+  },
+  {
+    "key": "Protein",
+    "label": "Proteine"
+  },
+  {
+    "key": "Retinol",
+    "label": "Retinol (vitamina A)"
+  },
+  {
+    "key": "Riboflavin",
+    "label": "Vitamina B2"
+  },
+  {
+    "key": "SFA 10:0",
+    "label": "Grăsimi saturate 10:0"
+  },
+  {
+    "key": "SFA 12:0",
+    "label": "Grăsimi saturate 12:0"
+  },
+  {
+    "key": "SFA 13:0",
+    "label": "Grăsimi saturate 13:0"
+  },
+  {
+    "key": "SFA 14:0",
+    "label": "Grăsimi saturate 14:0"
+  },
+  {
+    "key": "SFA 15:0",
+    "label": "Grăsimi saturate 15:0"
+  },
+  {
+    "key": "SFA 16:0",
+    "label": "Grăsimi saturate 16:0"
+  },
+  {
+    "key": "SFA 17:0",
+    "label": "Grăsimi saturate 17:0"
+  },
+  {
+    "key": "SFA 18:0",
+    "label": "Grăsimi saturate 18:0"
+  },
+  {
+    "key": "SFA 20:0",
+    "label": "Grăsimi saturate 20:0"
+  },
+  {
+    "key": "SFA 22:0",
+    "label": "Grăsimi saturate 22:0"
+  },
+  {
+    "key": "SFA 24:0",
+    "label": "Grăsimi saturate 24:0"
+  },
+  {
+    "key": "SFA 4:0",
+    "label": "Grăsimi saturate 4:0"
+  },
+  {
+    "key": "SFA 6:0",
+    "label": "Grăsimi saturate 6:0"
+  },
+  {
+    "key": "SFA 8:0",
+    "label": "Grăsimi saturate 8:0"
+  },
+  {
+    "key": "Selenium, Se",
+    "label": "Seleniu"
+  },
+  {
+    "key": "Serine",
+    "label": "Serină"
+  },
+  {
+    "key": "Sodium, Na",
+    "label": "Sodiu"
+  },
+  {
+    "key": "Starch",
+    "label": "Amidon"
+  },
+  {
+    "key": "Stigmasterol",
+    "label": "Stigmasterol"
+  },
+  {
+    "key": "Sucrose",
+    "label": "Sucroză"
+  },
+  {
+    "key": "TFA 16:1 t",
+    "label": "Grăsimi trans 16:1"
+  },
+  {
+    "key": "TFA 18:1 t",
+    "label": "Grăsimi trans 18:1"
+  },
+  {
+    "key": "TFA 18:2 t not further defined",
+    "label": "Grăsimi trans 18:2"
+  },
+  {
+    "key": "TFA 18:2 t,t",
+    "label": "Grăsimi trans 18:2 t,t"
+  },
+  {
+    "key": "TFA 22:1 t",
+    "label": "Grăsimi trans 22:1"
+  },
+  {
+    "key": "Theobromine",
+    "label": "Teobromină"
+  },
+  {
+    "key": "Thiamin",
+    "label": "Vitamina B1"
+  },
+  {
+    "key": "Threonine",
+    "label": "Treonină"
+  },
+  {
+    "key": "Tocopherol, beta",
+    "label": "Vitamina E beta"
+  },
+  {
+    "key": "Tocopherol, delta",
+    "label": "Vitamina E delta"
+  },
+  {
+    "key": "Tocopherol, gamma",
+    "label": "Vitamina E gamma"
+  },
+  {
+    "key": "Tocotrienol, alpha",
+    "label": "Vitamina E alfa tocotrienol"
+  },
+  {
+    "key": "Tocotrienol, beta",
+    "label": "Vitamina E beta tocotrienol"
+  },
+  {
+    "key": "Tocotrienol, delta",
+    "label": "Vitamina E delta tocotrienol"
+  },
+  {
+    "key": "Tocotrienol, gamma",
+    "label": "Vitamina E gamma tocotrienol"
+  },
+  {
+    "key": "Total Sugars",
+    "label": "Zaharuri"
+  },
+  {
+    "key": "Total lipid (fat)",
+    "label": "Grăsimi"
+  },
+  {
+    "key": "Tryptophan",
+    "label": "Triptofan"
+  },
+  {
+    "key": "Tyrosine",
+    "label": "Tirozină"
+  },
+  {
+    "key": "Valine",
+    "label": "Valină"
+  },
+  {
+    "key": "Vitamin A, RAE",
+    "label": "Vitamina A"
+  },
+  {
+    "key": "Vitamin B-12",
+    "label": "Vitamina B12"
+  },
+  {
+    "key": "Vitamin B-6",
+    "label": "Vitamina B6"
+  },
+  {
+    "key": "Vitamin C, total ascorbic acid",
+    "label": "Vitamina C"
+  },
+  {
+    "key": "Vitamin D (D2 + D3)",
+    "label": "Vitamina D"
+  },
+  {
+    "key": "Vitamin D2 (ergocalciferol)",
+    "label": "Vitamina D2"
+  },
+  {
+    "key": "Vitamin D3 (cholecalciferol)",
+    "label": "Vitamina D3"
+  },
+  {
+    "key": "Vitamin E (alpha-tocopherol)",
+    "label": "Vitamina E"
+  },
+  {
+    "key": "Vitamin K (Dihydrophylloquinone)",
+    "label": "Formă specială de vitamina K"
+  },
+  {
+    "key": "Vitamin K (Menaquinone-4)",
+    "label": "Vitamina K2"
+  },
+  {
+    "key": "Vitamin K (phylloquinone)",
+    "label": "Vitamina K1"
+  },
+  {
+    "key": "Water",
+    "label": "Apă"
+  },
+  {
+    "key": "Zinc, Zn",
+    "label": "Zinc"
+  }
+]

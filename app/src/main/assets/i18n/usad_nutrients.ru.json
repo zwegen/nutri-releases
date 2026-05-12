@@ -1,0 +1,566 @@
+[
+  {
+    "key": "Alanine",
+    "label": "Аланин"
+  },
+  {
+    "key": "Alcohol, ethyl",
+    "label": "Алкоголь"
+  },
+  {
+    "key": "Arginine",
+    "label": "Аргинин"
+  },
+  {
+    "key": "Ash",
+    "label": "Зола"
+  },
+  {
+    "key": "Aspartic acid",
+    "label": "Аспарагиновая кислота"
+  },
+  {
+    "key": "Beta-sitosterol",
+    "label": "Бета-ситостерол"
+  },
+  {
+    "key": "Betaine",
+    "label": "Бетаин"
+  },
+  {
+    "key": "Caffeine",
+    "label": "Кофеин"
+  },
+  {
+    "key": "Calcium, Ca",
+    "label": "Кальций"
+  },
+  {
+    "key": "Campesterol",
+    "label": "Кампестерол"
+  },
+  {
+    "key": "Carbohydrate, by difference",
+    "label": "Углеводы"
+  },
+  {
+    "key": "Carotene, alpha",
+    "label": "Альфа-каротин"
+  },
+  {
+    "key": "Carotene, beta",
+    "label": "Бета-каротин"
+  },
+  {
+    "key": "Cholesterol",
+    "label": "Холестерин"
+  },
+  {
+    "key": "Choline, total",
+    "label": "Холин"
+  },
+  {
+    "key": "Copper, Cu",
+    "label": "Медь"
+  },
+  {
+    "key": "Cryptoxanthin, beta",
+    "label": "Бета-криптоксантин"
+  },
+  {
+    "key": "Cystine",
+    "label": "Цистин"
+  },
+  {
+    "key": "Energy",
+    "label": "Калории"
+  },
+  {
+    "key": "Fatty acids, total monounsaturated",
+    "label": "Мононенасыщенные жиры"
+  },
+  {
+    "key": "Fatty acids, total polyunsaturated",
+    "label": "Полиненасыщенные жиры"
+  },
+  {
+    "key": "Fatty acids, total saturated",
+    "label": "Насыщенные жиры"
+  },
+  {
+    "key": "Fatty acids, total trans",
+    "label": "Трансжиры"
+  },
+  {
+    "key": "Fatty acids, total trans-monoenoic",
+    "label": "Трансжиры (моноеновые)"
+  },
+  {
+    "key": "Fatty acids, total trans-polyenoic",
+    "label": "Трансжиры (полиеновые)"
+  },
+  {
+    "key": "Fiber, total dietary",
+    "label": "Клетчатка"
+  },
+  {
+    "key": "Fluoride, F",
+    "label": "Фтор"
+  },
+  {
+    "key": "Folate, food",
+    "label": "Фолат"
+  },
+  {
+    "key": "Folate, total",
+    "label": "Фолат"
+  },
+  {
+    "key": "Folic acid",
+    "label": "Фолиевая кислота"
+  },
+  {
+    "key": "Fructose",
+    "label": "Фруктоза"
+  },
+  {
+    "key": "Galactose",
+    "label": "Галактоза"
+  },
+  {
+    "key": "Glucose",
+    "label": "Глюкоза"
+  },
+  {
+    "key": "Glutamic acid",
+    "label": "Глутаминовая кислота"
+  },
+  {
+    "key": "Glycine",
+    "label": "Глицин"
+  },
+  {
+    "key": "Histidine",
+    "label": "Гистидин"
+  },
+  {
+    "key": "Hydroxyproline",
+    "label": "Гидроксипролин"
+  },
+  {
+    "key": "Iron, Fe",
+    "label": "Железо"
+  },
+  {
+    "key": "Isoleucine",
+    "label": "Изолейцин"
+  },
+  {
+    "key": "Lactose",
+    "label": "Лактоза"
+  },
+  {
+    "key": "Leucine",
+    "label": "Лейцин"
+  },
+  {
+    "key": "Lutein + zeaxanthin",
+    "label": "Лютеин + зеаксантин"
+  },
+  {
+    "key": "Lycopene",
+    "label": "Ликопин"
+  },
+  {
+    "key": "Lysine",
+    "label": "Лизин"
+  },
+  {
+    "key": "MUFA 14:1",
+    "label": "Мононенасыщенные жиры 14:1"
+  },
+  {
+    "key": "MUFA 15:1",
+    "label": "Мононенасыщенные жиры 15:1"
+  },
+  {
+    "key": "MUFA 16:1",
+    "label": "Мононенасыщенные жиры 16:1"
+  },
+  {
+    "key": "MUFA 16:1 c",
+    "label": "Мононенасыщенные жиры 16:1 c"
+  },
+  {
+    "key": "MUFA 17:1",
+    "label": "Мононенасыщенные жиры 17:1"
+  },
+  {
+    "key": "MUFA 18:1",
+    "label": "Мононенасыщенные жиры 18:1"
+  },
+  {
+    "key": "MUFA 18:1 c",
+    "label": "Мононенасыщенные жиры 18:1 c"
+  },
+  {
+    "key": "MUFA 20:1",
+    "label": "Мононенасыщенные жиры 20:1"
+  },
+  {
+    "key": "MUFA 22:1",
+    "label": "Мононенасыщенные жиры 22:1"
+  },
+  {
+    "key": "MUFA 22:1 c",
+    "label": "Мононенасыщенные жиры 22:1 c"
+  },
+  {
+    "key": "MUFA 24:1 c",
+    "label": "Мононенасыщенные жиры 24:1 c"
+  },
+  {
+    "key": "Magnesium, Mg",
+    "label": "Магний"
+  },
+  {
+    "key": "Maltose",
+    "label": "Мальтоза"
+  },
+  {
+    "key": "Manganese, Mn",
+    "label": "Марганец"
+  },
+  {
+    "key": "Methionine",
+    "label": "Метионин"
+  },
+  {
+    "key": "Niacin",
+    "label": "Витамин B3"
+  },
+  {
+    "key": "PUFA 18:2",
+    "label": "Полиненасыщенные жиры 18:2"
+  },
+  {
+    "key": "PUFA 18:2 CLAs",
+    "label": "КЛК"
+  },
+  {
+    "key": "PUFA 18:2 i",
+    "label": "Полиненасыщенные жиры 18:2 i"
+  },
+  {
+    "key": "PUFA 18:2 n-6 c,c",
+    "label": "Омега-6"
+  },
+  {
+    "key": "PUFA 18:3",
+    "label": "Полиненасыщенные жиры 18:3"
+  },
+  {
+    "key": "PUFA 18:3 n-3 c,c,c (ALA)",
+    "label": "Омега-3"
+  },
+  {
+    "key": "PUFA 18:3 n-6 c,c,c",
+    "label": "Гамма-линоленовая кислота"
+  },
+  {
+    "key": "PUFA 18:3i",
+    "label": "Полиненасыщенные жиры 18:3 i"
+  },
+  {
+    "key": "PUFA 18:4",
+    "label": "Полиненасыщенные жиры 18:4"
+  },
+  {
+    "key": "PUFA 20:2 n-6 c,c",
+    "label": "Полиненасыщенные жиры 20:2 омега-6"
+  },
+  {
+    "key": "PUFA 20:3",
+    "label": "Полиненасыщенные жиры 20:3"
+  },
+  {
+    "key": "PUFA 20:3 n-3",
+    "label": "Полиненасыщенные жиры 20:3 омега-3"
+  },
+  {
+    "key": "PUFA 20:3 n-6",
+    "label": "Полиненасыщенные жиры 20:3 омега-6"
+  },
+  {
+    "key": "PUFA 20:4",
+    "label": "Арахидоновая кислота"
+  },
+  {
+    "key": "PUFA 20:5 n-3 (EPA)",
+    "label": "ЭПК (омега-3)"
+  },
+  {
+    "key": "PUFA 21:5",
+    "label": "Полиненасыщенные жиры 21:5"
+  },
+  {
+    "key": "PUFA 22:4",
+    "label": "Полиненасыщенные жиры 22:4"
+  },
+  {
+    "key": "PUFA 22:5 n-3 (DPA)",
+    "label": "ДПК (омега-3)"
+  },
+  {
+    "key": "PUFA 22:6 n-3 (DHA)",
+    "label": "ДГК (омега-3)"
+  },
+  {
+    "key": "Pantothenic acid",
+    "label": "Витамин B5"
+  },
+  {
+    "key": "Phenylalanine",
+    "label": "Фенилаланин"
+  },
+  {
+    "key": "Phosphorus, P",
+    "label": "Фосфор"
+  },
+  {
+    "key": "Phytosterols",
+    "label": "Фитостеролы"
+  },
+  {
+    "key": "Potassium, K",
+    "label": "Калий"
+  },
+  {
+    "key": "Proline",
+    "label": "Пролин"
+  },
+  {
+    "key": "Protein",
+    "label": "Белок"
+  },
+  {
+    "key": "Retinol",
+    "label": "Ретинол (витамин A)"
+  },
+  {
+    "key": "Riboflavin",
+    "label": "Витамин B2"
+  },
+  {
+    "key": "SFA 10:0",
+    "label": "Насыщенные жиры 10:0"
+  },
+  {
+    "key": "SFA 12:0",
+    "label": "Насыщенные жиры 12:0"
+  },
+  {
+    "key": "SFA 13:0",
+    "label": "Насыщенные жиры 13:0"
+  },
+  {
+    "key": "SFA 14:0",
+    "label": "Насыщенные жиры 14:0"
+  },
+  {
+    "key": "SFA 15:0",
+    "label": "Насыщенные жиры 15:0"
+  },
+  {
+    "key": "SFA 16:0",
+    "label": "Насыщенные жиры 16:0"
+  },
+  {
+    "key": "SFA 17:0",
+    "label": "Насыщенные жиры 17:0"
+  },
+  {
+    "key": "SFA 18:0",
+    "label": "Насыщенные жиры 18:0"
+  },
+  {
+    "key": "SFA 20:0",
+    "label": "Насыщенные жиры 20:0"
+  },
+  {
+    "key": "SFA 22:0",
+    "label": "Насыщенные жиры 22:0"
+  },
+  {
+    "key": "SFA 24:0",
+    "label": "Насыщенные жиры 24:0"
+  },
+  {
+    "key": "SFA 4:0",
+    "label": "Насыщенные жиры 4:0"
+  },
+  {
+    "key": "SFA 6:0",
+    "label": "Насыщенные жиры 6:0"
+  },
+  {
+    "key": "SFA 8:0",
+    "label": "Насыщенные жиры 8:0"
+  },
+  {
+    "key": "Selenium, Se",
+    "label": "Селен"
+  },
+  {
+    "key": "Serine",
+    "label": "Серин"
+  },
+  {
+    "key": "Sodium, Na",
+    "label": "Натрий"
+  },
+  {
+    "key": "Starch",
+    "label": "Крахмал"
+  },
+  {
+    "key": "Stigmasterol",
+    "label": "Стигмастерол"
+  },
+  {
+    "key": "Sucrose",
+    "label": "Сахароза"
+  },
+  {
+    "key": "TFA 16:1 t",
+    "label": "Трансжиры 16:1"
+  },
+  {
+    "key": "TFA 18:1 t",
+    "label": "Трансжиры 18:1"
+  },
+  {
+    "key": "TFA 18:2 t not further defined",
+    "label": "Трансжиры 18:2"
+  },
+  {
+    "key": "TFA 18:2 t,t",
+    "label": "Трансжиры 18:2 t,t"
+  },
+  {
+    "key": "TFA 22:1 t",
+    "label": "Трансжиры 22:1"
+  },
+  {
+    "key": "Theobromine",
+    "label": "Теобромин"
+  },
+  {
+    "key": "Thiamin",
+    "label": "Витамин B1"
+  },
+  {
+    "key": "Threonine",
+    "label": "Треонин"
+  },
+  {
+    "key": "Tocopherol, beta",
+    "label": "Бета-токоферол"
+  },
+  {
+    "key": "Tocopherol, delta",
+    "label": "Дельта-токоферол"
+  },
+  {
+    "key": "Tocopherol, gamma",
+    "label": "Гамма-токоферол"
+  },
+  {
+    "key": "Tocotrienol, alpha",
+    "label": "Альфа-токотриенол"
+  },
+  {
+    "key": "Tocotrienol, beta",
+    "label": "Бета-токотриенол"
+  },
+  {
+    "key": "Tocotrienol, delta",
+    "label": "Дельта-токотриенол"
+  },
+  {
+    "key": "Tocotrienol, gamma",
+    "label": "Гамма-токотриенол"
+  },
+  {
+    "key": "Total Sugars",
+    "label": "Сахара"
+  },
+  {
+    "key": "Total lipid (fat)",
+    "label": "Жиры"
+  },
+  {
+    "key": "Tryptophan",
+    "label": "Триптофан"
+  },
+  {
+    "key": "Tyrosine",
+    "label": "Тирозин"
+  },
+  {
+    "key": "Valine",
+    "label": "Валин"
+  },
+  {
+    "key": "Vitamin A, RAE",
+    "label": "Витамин A"
+  },
+  {
+    "key": "Vitamin B-12",
+    "label": "Витамин B12"
+  },
+  {
+    "key": "Vitamin B-6",
+    "label": "Витамин B6"
+  },
+  {
+    "key": "Vitamin C, total ascorbic acid",
+    "label": "Витамин C"
+  },
+  {
+    "key": "Vitamin D (D2 + D3)",
+    "label": "Витамин D"
+  },
+  {
+    "key": "Vitamin D2 (ergocalciferol)",
+    "label": "Витамин D2"
+  },
+  {
+    "key": "Vitamin D3 (cholecalciferol)",
+    "label": "Витамин D3"
+  },
+  {
+    "key": "Vitamin E (alpha-tocopherol)",
+    "label": "Витамин E"
+  },
+  {
+    "key": "Vitamin K (Dihydrophylloquinone)",
+    "label": "Особая форма витамина K"
+  },
+  {
+    "key": "Vitamin K (Menaquinone-4)",
+    "label": "Витамин K2"
+  },
+  {
+    "key": "Vitamin K (phylloquinone)",
+    "label": "Витамин K1"
+  },
+  {
+    "key": "Water",
+    "label": "Вода"
+  },
+  {
+    "key": "Zinc, Zn",
+    "label": "Цинк"
+  }
+]

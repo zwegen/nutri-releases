@@ -1,0 +1,23 @@
+[
+  {
+    "key": "Sample Apple",
+    "label": "Sample Apple",
+    "aliases": [
+      "Example fruit"
+    ]
+  },
+  {
+    "key": "Sample Lentils",
+    "label": "Sample Lentils",
+    "aliases": [
+      "Example legume"
+    ]
+  },
+  {
+    "key": "Sample Salmon",
+    "label": "Sample Salmon",
+    "aliases": [
+      "Example fish"
+    ]
+  }
+]

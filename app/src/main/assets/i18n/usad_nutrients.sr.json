@@ -1,0 +1,566 @@
+[
+  {
+    "key": "Alanine",
+    "label": "Alanin"
+  },
+  {
+    "key": "Alcohol, ethyl",
+    "label": "Alkohol"
+  },
+  {
+    "key": "Arginine",
+    "label": "Arginin"
+  },
+  {
+    "key": "Ash",
+    "label": "Pepeo"
+  },
+  {
+    "key": "Aspartic acid",
+    "label": "Asparaginska kiselina"
+  },
+  {
+    "key": "Beta-sitosterol",
+    "label": "Beta-sitosterol"
+  },
+  {
+    "key": "Betaine",
+    "label": "Betain"
+  },
+  {
+    "key": "Caffeine",
+    "label": "Kofein"
+  },
+  {
+    "key": "Calcium, Ca",
+    "label": "Kalcijum"
+  },
+  {
+    "key": "Campesterol",
+    "label": "Kampesterol"
+  },
+  {
+    "key": "Carbohydrate, by difference",
+    "label": "Ugljeni hidrati"
+  },
+  {
+    "key": "Carotene, alpha",
+    "label": "Alfa-karoten"
+  },
+  {
+    "key": "Carotene, beta",
+    "label": "Beta-karoten"
+  },
+  {
+    "key": "Cholesterol",
+    "label": "Holesterol"
+  },
+  {
+    "key": "Choline, total",
+    "label": "Holin"
+  },
+  {
+    "key": "Copper, Cu",
+    "label": "Bakar"
+  },
+  {
+    "key": "Cryptoxanthin, beta",
+    "label": "Beta-kriptoksantin"
+  },
+  {
+    "key": "Cystine",
+    "label": "Cistin"
+  },
+  {
+    "key": "Energy",
+    "label": "Kalorije"
+  },
+  {
+    "key": "Fatty acids, total monounsaturated",
+    "label": "Mononezasićene masti"
+  },
+  {
+    "key": "Fatty acids, total polyunsaturated",
+    "label": "Polinezasićene masti"
+  },
+  {
+    "key": "Fatty acids, total saturated",
+    "label": "Zasićene masti"
+  },
+  {
+    "key": "Fatty acids, total trans",
+    "label": "Trans masti"
+  },
+  {
+    "key": "Fatty acids, total trans-monoenoic",
+    "label": "Trans masti (monoenske)"
+  },
+  {
+    "key": "Fatty acids, total trans-polyenoic",
+    "label": "Trans masti (polienske)"
+  },
+  {
+    "key": "Fiber, total dietary",
+    "label": "Vlakna"
+  },
+  {
+    "key": "Fluoride, F",
+    "label": "Fluorid"
+  },
+  {
+    "key": "Folate, food",
+    "label": "Folat"
+  },
+  {
+    "key": "Folate, total",
+    "label": "Folat"
+  },
+  {
+    "key": "Folic acid",
+    "label": "Folna kiselina"
+  },
+  {
+    "key": "Fructose",
+    "label": "Fruktoza"
+  },
+  {
+    "key": "Galactose",
+    "label": "Galaktoza"
+  },
+  {
+    "key": "Glucose",
+    "label": "Glukoza"
+  },
+  {
+    "key": "Glutamic acid",
+    "label": "Glutaminska kiselina"
+  },
+  {
+    "key": "Glycine",
+    "label": "Glicin"
+  },
+  {
+    "key": "Histidine",
+    "label": "Histidin"
+  },
+  {
+    "key": "Hydroxyproline",
+    "label": "Hidroksiprolin"
+  },
+  {
+    "key": "Iron, Fe",
+    "label": "Gvožđe"
+  },
+  {
+    "key": "Isoleucine",
+    "label": "Izoleucin"
+  },
+  {
+    "key": "Lactose",
+    "label": "Laktoza"
+  },
+  {
+    "key": "Leucine",
+    "label": "Leucin"
+  },
+  {
+    "key": "Lutein + zeaxanthin",
+    "label": "Lutein + zeaksantin"
+  },
+  {
+    "key": "Lycopene",
+    "label": "Likopen"
+  },
+  {
+    "key": "Lysine",
+    "label": "Lizin"
+  },
+  {
+    "key": "MUFA 14:1",
+    "label": "Mononezasićene masti 14:1"
+  },
+  {
+    "key": "MUFA 15:1",
+    "label": "Mononezasićene masti 15:1"
+  },
+  {
+    "key": "MUFA 16:1",
+    "label": "Mononezasićene masti 16:1"
+  },
+  {
+    "key": "MUFA 16:1 c",
+    "label": "Mononezasićene masti 16:1 c"
+  },
+  {
+    "key": "MUFA 17:1",
+    "label": "Mononezasićene masti 17:1"
+  },
+  {
+    "key": "MUFA 18:1",
+    "label": "Mononezasićene masti 18:1"
+  },
+  {
+    "key": "MUFA 18:1 c",
+    "label": "Mononezasićene masti 18:1 c"
+  },
+  {
+    "key": "MUFA 20:1",
+    "label": "Mononezasićene masti 20:1"
+  },
+  {
+    "key": "MUFA 22:1",
+    "label": "Mononezasićene masti 22:1"
+  },
+  {
+    "key": "MUFA 22:1 c",
+    "label": "Mononezasićene masti 22:1 c"
+  },
+  {
+    "key": "MUFA 24:1 c",
+    "label": "Mononezasićene masti 24:1 c"
+  },
+  {
+    "key": "Magnesium, Mg",
+    "label": "Magnezijum"
+  },
+  {
+    "key": "Maltose",
+    "label": "Maltoza"
+  },
+  {
+    "key": "Manganese, Mn",
+    "label": "Mangan"
+  },
+  {
+    "key": "Methionine",
+    "label": "Metionin"
+  },
+  {
+    "key": "Niacin",
+    "label": "Vitamin B3"
+  },
+  {
+    "key": "PUFA 18:2",
+    "label": "Polinezasićene masti 18:2"
+  },
+  {
+    "key": "PUFA 18:2 CLAs",
+    "label": "CLA"
+  },
+  {
+    "key": "PUFA 18:2 i",
+    "label": "Polinezasićene masti 18:2 i"
+  },
+  {
+    "key": "PUFA 18:2 n-6 c,c",
+    "label": "Omega-6"
+  },
+  {
+    "key": "PUFA 18:3",
+    "label": "Polinezasićene masti 18:3"
+  },
+  {
+    "key": "PUFA 18:3 n-3 c,c,c (ALA)",
+    "label": "Omega-3"
+  },
+  {
+    "key": "PUFA 18:3 n-6 c,c,c",
+    "label": "Gama-linolenska kiselina"
+  },
+  {
+    "key": "PUFA 18:3i",
+    "label": "Polinezasićene masti 18:3 i"
+  },
+  {
+    "key": "PUFA 18:4",
+    "label": "Polinezasićene masti 18:4"
+  },
+  {
+    "key": "PUFA 20:2 n-6 c,c",
+    "label": "Polinezasićene masti 20:2 omega-6"
+  },
+  {
+    "key": "PUFA 20:3",
+    "label": "Polinezasićene masti 20:3"
+  },
+  {
+    "key": "PUFA 20:3 n-3",
+    "label": "Polinezasićene masti 20:3 omega-3"
+  },
+  {
+    "key": "PUFA 20:3 n-6",
+    "label": "Polinezasićene masti 20:3 omega-6"
+  },
+  {
+    "key": "PUFA 20:4",
+    "label": "Arahidonska kiselina"
+  },
+  {
+    "key": "PUFA 20:5 n-3 (EPA)",
+    "label": "EPA (omega-3)"
+  },
+  {
+    "key": "PUFA 21:5",
+    "label": "Polinezasićene masti 21:5"
+  },
+  {
+    "key": "PUFA 22:4",
+    "label": "Polinezasićene masti 22:4"
+  },
+  {
+    "key": "PUFA 22:5 n-3 (DPA)",
+    "label": "DPA (omega-3)"
+  },
+  {
+    "key": "PUFA 22:6 n-3 (DHA)",
+    "label": "DHA (omega-3)"
+  },
+  {
+    "key": "Pantothenic acid",
+    "label": "Vitamin B5"
+  },
+  {
+    "key": "Phenylalanine",
+    "label": "Fenilalanin"
+  },
+  {
+    "key": "Phosphorus, P",
+    "label": "Fosfor"
+  },
+  {
+    "key": "Phytosterols",
+    "label": "Fitosteroli"
+  },
+  {
+    "key": "Potassium, K",
+    "label": "Kalijum"
+  },
+  {
+    "key": "Proline",
+    "label": "Prolin"
+  },
+  {
+    "key": "Protein",
+    "label": "Proteini"
+  },
+  {
+    "key": "Retinol",
+    "label": "Retinol (vitamin A)"
+  },
+  {
+    "key": "Riboflavin",
+    "label": "Vitamin B2"
+  },
+  {
+    "key": "SFA 10:0",
+    "label": "Zasićene masti 10:0"
+  },
+  {
+    "key": "SFA 12:0",
+    "label": "Zasićene masti 12:0"
+  },
+  {
+    "key": "SFA 13:0",
+    "label": "Zasićene masti 13:0"
+  },
+  {
+    "key": "SFA 14:0",
+    "label": "Zasićene masti 14:0"
+  },
+  {
+    "key": "SFA 15:0",
+    "label": "Zasićene masti 15:0"
+  },
+  {
+    "key": "SFA 16:0",
+    "label": "Zasićene masti 16:0"
+  },
+  {
+    "key": "SFA 17:0",
+    "label": "Zasićene masti 17:0"
+  },
+  {
+    "key": "SFA 18:0",
+    "label": "Zasićene masti 18:0"
+  },
+  {
+    "key": "SFA 20:0",
+    "label": "Zasićene masti 20:0"
+  },
+  {
+    "key": "SFA 22:0",
+    "label": "Zasićene masti 22:0"
+  },
+  {
+    "key": "SFA 24:0",
+    "label": "Zasićene masti 24:0"
+  },
+  {
+    "key": "SFA 4:0",
+    "label": "Zasićene masti 4:0"
+  },
+  {
+    "key": "SFA 6:0",
+    "label": "Zasićene masti 6:0"
+  },
+  {
+    "key": "SFA 8:0",
+    "label": "Zasićene masti 8:0"
+  },
+  {
+    "key": "Selenium, Se",
+    "label": "Selen"
+  },
+  {
+    "key": "Serine",
+    "label": "Serin"
+  },
+  {
+    "key": "Sodium, Na",
+    "label": "Natrijum"
+  },
+  {
+    "key": "Starch",
+    "label": "Skrob"
+  },
+  {
+    "key": "Stigmasterol",
+    "label": "Stigmasterol"
+  },
+  {
+    "key": "Sucrose",
+    "label": "Saharoza"
+  },
+  {
+    "key": "TFA 16:1 t",
+    "label": "Trans masti 16:1"
+  },
+  {
+    "key": "TFA 18:1 t",
+    "label": "Trans masti 18:1"
+  },
+  {
+    "key": "TFA 18:2 t not further defined",
+    "label": "Trans masti 18:2"
+  },
+  {
+    "key": "TFA 18:2 t,t",
+    "label": "Trans masti 18:2 t,t"
+  },
+  {
+    "key": "TFA 22:1 t",
+    "label": "Trans masti 22:1"
+  },
+  {
+    "key": "Theobromine",
+    "label": "Teobromin"
+  },
+  {
+    "key": "Thiamin",
+    "label": "Vitamin B1"
+  },
+  {
+    "key": "Threonine",
+    "label": "Treonin"
+  },
+  {
+    "key": "Tocopherol, beta",
+    "label": "Vitamin E beta"
+  },
+  {
+    "key": "Tocopherol, delta",
+    "label": "Vitamin E delta"
+  },
+  {
+    "key": "Tocopherol, gamma",
+    "label": "Vitamin E gamma"
+  },
+  {
+    "key": "Tocotrienol, alpha",
+    "label": "Vitamin E alfa-tokotrijenol"
+  },
+  {
+    "key": "Tocotrienol, beta",
+    "label": "Vitamin E beta-tokotrijenol"
+  },
+  {
+    "key": "Tocotrienol, delta",
+    "label": "Vitamin E delta-tokotrijenol"
+  },
+  {
+    "key": "Tocotrienol, gamma",
+    "label": "Vitamin E gama-tokotrijenol"
+  },
+  {
+    "key": "Total Sugars",
+    "label": "Šećeri"
+  },
+  {
+    "key": "Total lipid (fat)",
+    "label": "Masti"
+  },
+  {
+    "key": "Tryptophan",
+    "label": "Triptofan"
+  },
+  {
+    "key": "Tyrosine",
+    "label": "Tirozin"
+  },
+  {
+    "key": "Valine",
+    "label": "Valin"
+  },
+  {
+    "key": "Vitamin A, RAE",
+    "label": "Vitamin A"
+  },
+  {
+    "key": "Vitamin B-12",
+    "label": "Vitamin B12"
+  },
+  {
+    "key": "Vitamin B-6",
+    "label": "Vitamin B6"
+  },
+  {
+    "key": "Vitamin C, total ascorbic acid",
+    "label": "Vitamin C"
+  },
+  {
+    "key": "Vitamin D (D2 + D3)",
+    "label": "Vitamin D"
+  },
+  {
+    "key": "Vitamin D2 (ergocalciferol)",
+    "label": "Vitamin D2"
+  },
+  {
+    "key": "Vitamin D3 (cholecalciferol)",
+    "label": "Vitamin D3"
+  },
+  {
+    "key": "Vitamin E (alpha-tocopherol)",
+    "label": "Vitamin E"
+  },
+  {
+    "key": "Vitamin K (Dihydrophylloquinone)",
+    "label": "Vitamin K (dihidrofilokinon)"
+  },
+  {
+    "key": "Vitamin K (Menaquinone-4)",
+    "label": "Vitamin K2"
+  },
+  {
+    "key": "Vitamin K (phylloquinone)",
+    "label": "Vitamin K1"
+  },
+  {
+    "key": "Water",
+    "label": "Voda"
+  },
+  {
+    "key": "Zinc, Zn",
+    "label": "Cink"
+  }
+]

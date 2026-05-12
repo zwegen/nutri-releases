@@ -1,0 +1,44 @@
+{
+  "slug": "sample_salmon",
+  "search_name": "sample salmon cooked",
+  "display_name": "Sample Salmon",
+  "kind": "animal",
+  "data": {
+    "Energy": {
+      "value": 206,
+      "unit": "kcal"
+    },
+    "Water": {
+      "value": 64.8,
+      "unit": "g"
+    },
+    "Protein": {
+      "value": 22.1,
+      "unit": "g"
+    },
+    "Total lipid (fat)": {
+      "value": 12.4,
+      "unit": "g"
+    },
+    "Carbohydrate, by difference": {
+      "value": 0,
+      "unit": "g"
+    },
+    "Fatty acids, total saturated": {
+      "value": 2.4,
+      "unit": "g"
+    },
+    "Vitamin B-12": {
+      "value": 3.2,
+      "unit": "ug"
+    },
+    "Vitamin D (D2 + D3)": {
+      "value": 13.1,
+      "unit": "ug"
+    },
+    "Potassium, K": {
+      "value": 384,
+      "unit": "mg"
+    }
+  }
+}

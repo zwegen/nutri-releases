@@ -1,0 +1,566 @@
+[
+  {
+    "key": "Alanine",
+    "label": "Alanin"
+  },
+  {
+    "key": "Alcohol, ethyl",
+    "label": "Alkohol"
+  },
+  {
+    "key": "Arginine",
+    "label": "Arginin"
+  },
+  {
+    "key": "Ash",
+    "label": "Aske"
+  },
+  {
+    "key": "Aspartic acid",
+    "label": "Asparaginsyre"
+  },
+  {
+    "key": "Beta-sitosterol",
+    "label": "Beta-sitosterol"
+  },
+  {
+    "key": "Betaine",
+    "label": "Betain"
+  },
+  {
+    "key": "Caffeine",
+    "label": "Koffein"
+  },
+  {
+    "key": "Calcium, Ca",
+    "label": "Kalsium"
+  },
+  {
+    "key": "Campesterol",
+    "label": "Campesterol"
+  },
+  {
+    "key": "Carbohydrate, by difference",
+    "label": "Karbohydrater"
+  },
+  {
+    "key": "Carotene, alpha",
+    "label": "Alfa-karoten"
+  },
+  {
+    "key": "Carotene, beta",
+    "label": "Beta-karoten"
+  },
+  {
+    "key": "Cholesterol",
+    "label": "Kolesterol"
+  },
+  {
+    "key": "Choline, total",
+    "label": "Kolin"
+  },
+  {
+    "key": "Copper, Cu",
+    "label": "Kobber"
+  },
+  {
+    "key": "Cryptoxanthin, beta",
+    "label": "Beta-kryptoksantin"
+  },
+  {
+    "key": "Cystine",
+    "label": "Cystin"
+  },
+  {
+    "key": "Energy",
+    "label": "Kalorier"
+  },
+  {
+    "key": "Fatty acids, total monounsaturated",
+    "label": "Enumettet fett"
+  },
+  {
+    "key": "Fatty acids, total polyunsaturated",
+    "label": "Flerumettet fett"
+  },
+  {
+    "key": "Fatty acids, total saturated",
+    "label": "Mettet fett"
+  },
+  {
+    "key": "Fatty acids, total trans",
+    "label": "Transfett"
+  },
+  {
+    "key": "Fatty acids, total trans-monoenoic",
+    "label": "Transfett (monoenfettsyre)"
+  },
+  {
+    "key": "Fatty acids, total trans-polyenoic",
+    "label": "Transfett (polyenfettsyre)"
+  },
+  {
+    "key": "Fiber, total dietary",
+    "label": "Kostfiber"
+  },
+  {
+    "key": "Fluoride, F",
+    "label": "Fluorid"
+  },
+  {
+    "key": "Folate, food",
+    "label": "Folat"
+  },
+  {
+    "key": "Folate, total",
+    "label": "Folat"
+  },
+  {
+    "key": "Folic acid",
+    "label": "Folsyre"
+  },
+  {
+    "key": "Fructose",
+    "label": "Fruktose"
+  },
+  {
+    "key": "Galactose",
+    "label": "Galaktose"
+  },
+  {
+    "key": "Glucose",
+    "label": "Glukose"
+  },
+  {
+    "key": "Glutamic acid",
+    "label": "Glutaminsyre"
+  },
+  {
+    "key": "Glycine",
+    "label": "Glysin"
+  },
+  {
+    "key": "Histidine",
+    "label": "Histidin"
+  },
+  {
+    "key": "Hydroxyproline",
+    "label": "Hydroksyprolin"
+  },
+  {
+    "key": "Iron, Fe",
+    "label": "Jern"
+  },
+  {
+    "key": "Isoleucine",
+    "label": "Isoleucin"
+  },
+  {
+    "key": "Lactose",
+    "label": "Laktose"
+  },
+  {
+    "key": "Leucine",
+    "label": "Leucin"
+  },
+  {
+    "key": "Lutein + zeaxanthin",
+    "label": "Lutein + zeaxantin"
+  },
+  {
+    "key": "Lycopene",
+    "label": "Lykopen"
+  },
+  {
+    "key": "Lysine",
+    "label": "Lysin"
+  },
+  {
+    "key": "MUFA 14:1",
+    "label": "Enumettet fett 14:1"
+  },
+  {
+    "key": "MUFA 15:1",
+    "label": "Enumettet fett 15:1"
+  },
+  {
+    "key": "MUFA 16:1",
+    "label": "Enumettet fett 16:1"
+  },
+  {
+    "key": "MUFA 16:1 c",
+    "label": "Enumettet fett 16:1 c"
+  },
+  {
+    "key": "MUFA 17:1",
+    "label": "Enumettet fett 17:1"
+  },
+  {
+    "key": "MUFA 18:1",
+    "label": "Enumettet fett 18:1"
+  },
+  {
+    "key": "MUFA 18:1 c",
+    "label": "Enumettet fett 18:1 c"
+  },
+  {
+    "key": "MUFA 20:1",
+    "label": "Enumettet fett 20:1"
+  },
+  {
+    "key": "MUFA 22:1",
+    "label": "Enumettet fett 22:1"
+  },
+  {
+    "key": "MUFA 22:1 c",
+    "label": "Enumettet fett 22:1 c"
+  },
+  {
+    "key": "MUFA 24:1 c",
+    "label": "Enumettet fett 24:1 c"
+  },
+  {
+    "key": "Magnesium, Mg",
+    "label": "Magnesium"
+  },
+  {
+    "key": "Maltose",
+    "label": "Maltose"
+  },
+  {
+    "key": "Manganese, Mn",
+    "label": "Mangan"
+  },
+  {
+    "key": "Methionine",
+    "label": "Metionin"
+  },
+  {
+    "key": "Niacin",
+    "label": "Vitamin B3"
+  },
+  {
+    "key": "PUFA 18:2",
+    "label": "Flerumettet fett 18:2"
+  },
+  {
+    "key": "PUFA 18:2 CLAs",
+    "label": "CLA"
+  },
+  {
+    "key": "PUFA 18:2 i",
+    "label": "Flerumettet fett 18:2 i"
+  },
+  {
+    "key": "PUFA 18:2 n-6 c,c",
+    "label": "Omega-6"
+  },
+  {
+    "key": "PUFA 18:3",
+    "label": "Flerumettet fett 18:3"
+  },
+  {
+    "key": "PUFA 18:3 n-3 c,c,c (ALA)",
+    "label": "Omega-3"
+  },
+  {
+    "key": "PUFA 18:3 n-6 c,c,c",
+    "label": "Gammalinolensyre"
+  },
+  {
+    "key": "PUFA 18:3i",
+    "label": "Flerumettet fett 18:3 i"
+  },
+  {
+    "key": "PUFA 18:4",
+    "label": "Flerumettet fett 18:4"
+  },
+  {
+    "key": "PUFA 20:2 n-6 c,c",
+    "label": "Flerumettet fett 20:2 omega-6"
+  },
+  {
+    "key": "PUFA 20:3",
+    "label": "Flerumettet fett 20:3"
+  },
+  {
+    "key": "PUFA 20:3 n-3",
+    "label": "Flerumettet fett 20:3 omega-3"
+  },
+  {
+    "key": "PUFA 20:3 n-6",
+    "label": "Flerumettet fett 20:3 omega-6"
+  },
+  {
+    "key": "PUFA 20:4",
+    "label": "Arakidonsyre"
+  },
+  {
+    "key": "PUFA 20:5 n-3 (EPA)",
+    "label": "EPA (omega-3)"
+  },
+  {
+    "key": "PUFA 21:5",
+    "label": "Flerumettet fett 21:5"
+  },
+  {
+    "key": "PUFA 22:4",
+    "label": "Flerumettet fett 22:4"
+  },
+  {
+    "key": "PUFA 22:5 n-3 (DPA)",
+    "label": "DPA (omega-3)"
+  },
+  {
+    "key": "PUFA 22:6 n-3 (DHA)",
+    "label": "DHA (omega-3)"
+  },
+  {
+    "key": "Pantothenic acid",
+    "label": "Vitamin B5"
+  },
+  {
+    "key": "Phenylalanine",
+    "label": "Fenylalanin"
+  },
+  {
+    "key": "Phosphorus, P",
+    "label": "Fosfor"
+  },
+  {
+    "key": "Phytosterols",
+    "label": "Fytosteroler"
+  },
+  {
+    "key": "Potassium, K",
+    "label": "Kalium"
+  },
+  {
+    "key": "Proline",
+    "label": "Prolin"
+  },
+  {
+    "key": "Protein",
+    "label": "Protein"
+  },
+  {
+    "key": "Retinol",
+    "label": "Retinol (vitamin A)"
+  },
+  {
+    "key": "Riboflavin",
+    "label": "Vitamin B2"
+  },
+  {
+    "key": "SFA 10:0",
+    "label": "Mettet fett 10:0"
+  },
+  {
+    "key": "SFA 12:0",
+    "label": "Mettet fett 12:0"
+  },
+  {
+    "key": "SFA 13:0",
+    "label": "Mettet fett 13:0"
+  },
+  {
+    "key": "SFA 14:0",
+    "label": "Mettet fett 14:0"
+  },
+  {
+    "key": "SFA 15:0",
+    "label": "Mettet fett 15:0"
+  },
+  {
+    "key": "SFA 16:0",
+    "label": "Mettet fett 16:0"
+  },
+  {
+    "key": "SFA 17:0",
+    "label": "Mettet fett 17:0"
+  },
+  {
+    "key": "SFA 18:0",
+    "label": "Mettet fett 18:0"
+  },
+  {
+    "key": "SFA 20:0",
+    "label": "Mettet fett 20:0"
+  },
+  {
+    "key": "SFA 22:0",
+    "label": "Mettet fett 22:0"
+  },
+  {
+    "key": "SFA 24:0",
+    "label": "Mettet fett 24:0"
+  },
+  {
+    "key": "SFA 4:0",
+    "label": "Mettet fett 4:0"
+  },
+  {
+    "key": "SFA 6:0",
+    "label": "Mettet fett 6:0"
+  },
+  {
+    "key": "SFA 8:0",
+    "label": "Mettet fett 8:0"
+  },
+  {
+    "key": "Selenium, Se",
+    "label": "Selen"
+  },
+  {
+    "key": "Serine",
+    "label": "Serin"
+  },
+  {
+    "key": "Sodium, Na",
+    "label": "Natrium"
+  },
+  {
+    "key": "Starch",
+    "label": "Stivelse"
+  },
+  {
+    "key": "Stigmasterol",
+    "label": "Stigmasterol"
+  },
+  {
+    "key": "Sucrose",
+    "label": "Sukrose"
+  },
+  {
+    "key": "TFA 16:1 t",
+    "label": "Transfett 16:1"
+  },
+  {
+    "key": "TFA 18:1 t",
+    "label": "Transfett 18:1"
+  },
+  {
+    "key": "TFA 18:2 t not further defined",
+    "label": "Transfett 18:2"
+  },
+  {
+    "key": "TFA 18:2 t,t",
+    "label": "Transfett 18:2 t,t"
+  },
+  {
+    "key": "TFA 22:1 t",
+    "label": "Transfett 22:1"
+  },
+  {
+    "key": "Theobromine",
+    "label": "Teobromin"
+  },
+  {
+    "key": "Thiamin",
+    "label": "Vitamin B1"
+  },
+  {
+    "key": "Threonine",
+    "label": "Treonin"
+  },
+  {
+    "key": "Tocopherol, beta",
+    "label": "Vitamin E beta"
+  },
+  {
+    "key": "Tocopherol, delta",
+    "label": "Vitamin E delta"
+  },
+  {
+    "key": "Tocopherol, gamma",
+    "label": "Vitamin E gamma"
+  },
+  {
+    "key": "Tocotrienol, alpha",
+    "label": "Vitamin E alfa-tokotrienol"
+  },
+  {
+    "key": "Tocotrienol, beta",
+    "label": "Vitamin E beta-tokotrienol"
+  },
+  {
+    "key": "Tocotrienol, delta",
+    "label": "Vitamin E delta-tokotrienol"
+  },
+  {
+    "key": "Tocotrienol, gamma",
+    "label": "Vitamin E gamma-tokotrienol"
+  },
+  {
+    "key": "Total Sugars",
+    "label": "Sukkerarter"
+  },
+  {
+    "key": "Total lipid (fat)",
+    "label": "Fett"
+  },
+  {
+    "key": "Tryptophan",
+    "label": "Tryptofan"
+  },
+  {
+    "key": "Tyrosine",
+    "label": "Tyrosin"
+  },
+  {
+    "key": "Valine",
+    "label": "Valin"
+  },
+  {
+    "key": "Vitamin A, RAE",
+    "label": "Vitamin A"
+  },
+  {
+    "key": "Vitamin B-12",
+    "label": "Vitamin B12"
+  },
+  {
+    "key": "Vitamin B-6",
+    "label": "Vitamin B6"
+  },
+  {
+    "key": "Vitamin C, total ascorbic acid",
+    "label": "Vitamin C"
+  },
+  {
+    "key": "Vitamin D (D2 + D3)",
+    "label": "Vitamin D"
+  },
+  {
+    "key": "Vitamin D2 (ergocalciferol)",
+    "label": "Vitamin D2"
+  },
+  {
+    "key": "Vitamin D3 (cholecalciferol)",
+    "label": "Vitamin D3"
+  },
+  {
+    "key": "Vitamin E (alpha-tocopherol)",
+    "label": "Vitamin E"
+  },
+  {
+    "key": "Vitamin K (Dihydrophylloquinone)",
+    "label": "Spesiell vitamin K-form"
+  },
+  {
+    "key": "Vitamin K (Menaquinone-4)",
+    "label": "Vitamin K2"
+  },
+  {
+    "key": "Vitamin K (phylloquinone)",
+    "label": "Vitamin K1"
+  },
+  {
+    "key": "Water",
+    "label": "Vann"
+  },
+  {
+    "key": "Zinc, Zn",
+    "label": "Sink"
+  }
+]

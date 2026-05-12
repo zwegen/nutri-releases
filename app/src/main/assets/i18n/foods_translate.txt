@@ -1,0 +1,1 @@
+# Sample food names only. Replace with your own dataset before publishing a full app.

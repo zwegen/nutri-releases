@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Nutri</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app">
+    <header class="topbar">
+      <div class="brand-wrap">
+        <img src="img/header_icon.png" alt="" class="title-icon">
+        <span class="title-wrap">Nutri</span>
+      </div>
+      <button id="menuBtn" class="burger-menu-btn" type="button" aria-label="Open menu" aria-expanded="false">
+        <span class="burger-lines" aria-hidden="true">
+          <span></span>
+          <span></span>
+          <span></span>
+        </span>
+      </button>
+    </header>
+
+    <div id="menuModal" class="shopping-modal hidden-control">
+      <div id="menuBackdrop" class="shopping-backdrop"></div>
+      <section class="shopping card menu-overlay-card">
+        <div class="shopping-header">
+          <strong id="menuTitle">Menu</strong>
+          <button id="closeMenuBtn" type="button" class="shopping-close-btn">×</button>
+        </div>
+        <div id="menuPanel" class="shopping-list" role="menu">
+          <button id="languageMenuItem" type="button" class="menu-item menu-item-with-icon" role="menuitem"><span class="menu-item-icon menu-item-icon-image" aria-hidden="true"><img src="img/menu_language.svg" alt=""></span><span id="languageMenuItemLabel">Language</span></button>
+          <button id="shoppingMenuItem" type="button" class="menu-item menu-item-with-icon" role="menuitem"><span class="menu-item-icon menu-item-icon-image" aria-hidden="true"><img src="img/menu_favorites.svg" alt=""></span><span id="shoppingMenuItemLabel">Shopping</span></button>
+          <button id="donateMenuItem" type="button" class="menu-item menu-item-with-icon" role="menuitem"><span class="menu-item-icon menu-item-icon-image" aria-hidden="true"><img src="img/menu_donate.svg" alt=""></span><span id="donateMenuItemLabel">Donate</span></button>
+          <button id="infoMenuItem" type="button" class="menu-item menu-item-with-icon" role="menuitem"><span class="menu-item-icon menu-item-icon-image" aria-hidden="true"><img src="img/menu_info.svg" alt=""></span><span id="infoMenuItemLabel">Info</span></button>
+          <button id="updateMenuItem" type="button" class="menu-item menu-item-with-icon" role="menuitem"><span class="menu-item-icon menu-item-icon-image" aria-hidden="true"><img src="img/update_box_arrow.svg" alt=""></span><span id="updateMenuItemLabel">Update</span></button>
+        </div>
+      </section>
+     </div>
+
+    <div id="donateModal" class="shopping-modal hidden-control">
+      <div id="donateBackdrop" class="shopping-backdrop"></div>
+      <section class="shopping card donate-card">
+        <div class="shopping-header">
+          <strong id="donateTitle">Donate</strong>
+          <button id="closeDonateBtn" type="button" class="shopping-close-btn">×</button>
+        </div>
+        <div class="donate-content">
+          <img src="img/nutrilightning_tinted.png" alt="Donate QR" class="donate-qr">
+          <button id="donateAddress" type="button" class="donate-address"><span class="donate-label">Lightning:</span> <span class="donate-handle">nutriapp@coinos.io</span></button>
+        </div>
+      </section>
+    </div>
+
+    <div id="infoModal" class="shopping-modal hidden-control">
+      <div id="infoBackdrop" class="shopping-backdrop"></div>
+      <section class="shopping card donate-card">
+        <div class="shopping-header">
+          <strong id="infoTitle">Info</strong>
+          <button id="closeInfoBtn" type="button" class="shopping-close-btn">×</button>
+        </div>
+        <div class="info-content">
+          <div class="info-block info-description" id="infoDescription">Nutri is a multilingual offline Android nutrition reference app with calories, macros, vitamins, minerals, amino acids, fatty acids and more — based on USDA data. Search, compare, save favorites, and stay private without an account.</div>
+          <button id="infoZapstoreBtn" type="button" class="zapstore-info-btn" aria-label="Open Nutri on Zapstore">
+            <img src="img/zapstore.svg" alt="Zapstore">
+          </button>
+          <div class="info-footer-row">
+            <div class="info-block" id="infoVersionLine">Version 1.825</div>
+            <button id="infoGithubLink" type="button" class="info-link-btn">GitHub repository</button>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <div id="updateModal" class="shopping-modal hidden-control">
+      <div id="updateBackdrop" class="shopping-backdrop"></div>
+      <section class="shopping card donate-card">
+        <div class="shopping-header">
+          <strong id="updateTitle">Update</strong>
+          <button id="closeUpdateBtn" type="button" class="shopping-close-btn">×</button>
+        </div>
+        <div class="info-content">
+          <div class="info-block" id="updateStatusText">Checking for updates...</div>
+          <div id="updateChoices" class="update-choices hidden-control">
+            <div class="info-block update-choice-label" id="updateChoiceLabel">Update via Zapstore or APK</div>
+            <button id="updateZapstoreBtn" type="button" class="zapstore-info-btn" aria-label="Open Nutri on Zapstore">
+              <img src="img/zapstore.svg" alt="Zapstore">
+            </button>
+            <button id="updateActionBtn" type="button" class="download-badge github-download-badge">
+              <img src="img/github.svg" alt="" aria-hidden="true">
+              <span id="updateActionLabel">Download</span>
+            </button>
+          </div>
+          <div id="updateDebugText" class="info-block hidden-control"></div>
+        </div>
+      </section>
+    </div>
+
+    <section class="controls card sticky-controls">
+      <div class="controls-row">
+        <label id="searchControl" class="search-wrap control-main">
+          <div class="search-row">
+            <div class="search-input-wrap">
+              <input id="searchInput" type="text" placeholder="Search foods, e.g. spinach" autocomplete="off">
+              <button id="clearSearchBtn" type="button" class="search-clear-btn" aria-label="Clear search">×</button>
+              <div id="searchSuggestions" class="search-suggestions hidden-control"></div>
+            </div>
+          </div>
+        </label>
+      </div>
+    </section>
+
+    <div id="shoppingModal" class="shopping-modal hidden-control">
+      <div id="shoppingBackdrop" class="shopping-backdrop"></div>
+      <section id="shoppingSection" class="shopping card">
+        <div class="shopping-header">
+          <strong id="shoppingTitle">Shopping</strong>
+          <button id="closeShoppingBtn" type="button" class="shopping-close-btn">×</button>
+        </div>
+        <div id="shoppingEmpty" class="shopping-empty">Nothing in the list yet</div>
+        <div id="shoppingList" class="shopping-list"></div>
+      </section>
+    </div>
+
+    <div id="languageModal" class="shopping-modal hidden-control">
+      <div id="languageBackdrop" class="shopping-backdrop"></div>
+      <section class="shopping card language-card">
+        <div class="shopping-header">
+          <strong id="languageTitle">Language</strong>
+          <button id="closeLanguageBtn" type="button" class="shopping-close-btn">×</button>
+        </div>
+        <div id="languageList" class="shopping-list">
+          <button id="languageOptionEn" type="button" class="menu-item language-option">English</button>
+          <button id="languageOptionFr" type="button" class="menu-item language-option">Français</button>
+          <button id="languageOptionDe" type="button" class="menu-item language-option">Deutsch</button>
+          <button id="languageOptionEl" type="button" class="menu-item language-option">Ελληνικά</button>
+          <button id="languageOptionEs" type="button" class="menu-item language-option">Español</button>
+          <button id="languageOptionIt" type="button" class="menu-item language-option">Italiano</button>
+          <button id="languageOptionHu" type="button" class="menu-item language-option">Magyar</button>
+          <button id="languageOptionNl" type="button" class="menu-item language-option">Nederlands</button>
+          <button id="languageOptionNb" type="button" class="menu-item language-option">Norsk bokmål</button>
+          <button id="languageOptionBg" type="button" class="menu-item language-option">Български</button>
+          <button id="languageOptionPl" type="button" class="menu-item language-option">Polski</button>
+          <button id="languageOptionPt" type="button" class="menu-item language-option">Português</button>
+          <button id="languageOptionRo" type="button" class="menu-item language-option">Română</button>
+          <button id="languageOptionCs" type="button" class="menu-item language-option">Čeština</button>
+          <button id="languageOptionRu" type="button" class="menu-item language-option">Русский</button>
+          <button id="languageOptionTr" type="button" class="menu-item language-option">Türkçe</button>
+          <button id="languageOptionSv" type="button" class="menu-item language-option">Svenska</button>
+          <button id="languageOptionSr" type="button" class="menu-item language-option">Srpski</button>
+        </div>
+      </section>
+    </div>
+
+    <section class="results card">
+      <div class="table-wrap">
+        <table>
+          <colgroup>
+            <col class="col-name">
+            <col class="col-type">
+            <col class="col-value">
+            <col class="col-unit">
+          </colgroup>
+          <thead>
+            <tr>
+              <th id="thName" class="sortable">Name</th>
+              <th id="thCategory" class="sortable">Type</th>
+              <th id="thValue" class="sortable" colspan="2">Value</th>
+            </tr>
+          </thead>
+          <tbody id="resultsBody"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <span id="statusText">Loading data...</span>
+      <span id="unitText">per 100 g</span>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

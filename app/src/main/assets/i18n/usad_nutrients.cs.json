@@ -1,0 +1,566 @@
+[
+  {
+    "key": "Alanine",
+    "label": "Alanin"
+  },
+  {
+    "key": "Alcohol, ethyl",
+    "label": "Alkohol"
+  },
+  {
+    "key": "Arginine",
+    "label": "Arginin"
+  },
+  {
+    "key": "Ash",
+    "label": "Popeloviny"
+  },
+  {
+    "key": "Aspartic acid",
+    "label": "Kyselina asparagová"
+  },
+  {
+    "key": "Beta-sitosterol",
+    "label": "Beta-sitosterol"
+  },
+  {
+    "key": "Betaine",
+    "label": "Betain"
+  },
+  {
+    "key": "Caffeine",
+    "label": "Kofein"
+  },
+  {
+    "key": "Calcium, Ca",
+    "label": "Vápník"
+  },
+  {
+    "key": "Campesterol",
+    "label": "Kampesterol"
+  },
+  {
+    "key": "Carbohydrate, by difference",
+    "label": "Sacharidy"
+  },
+  {
+    "key": "Carotene, alpha",
+    "label": "Alfa-karoten"
+  },
+  {
+    "key": "Carotene, beta",
+    "label": "Beta-karoten"
+  },
+  {
+    "key": "Cholesterol",
+    "label": "Cholesterol"
+  },
+  {
+    "key": "Choline, total",
+    "label": "Cholin"
+  },
+  {
+    "key": "Copper, Cu",
+    "label": "Měď"
+  },
+  {
+    "key": "Cryptoxanthin, beta",
+    "label": "Beta-kryptoxanthin"
+  },
+  {
+    "key": "Cystine",
+    "label": "Cystin"
+  },
+  {
+    "key": "Energy",
+    "label": "Kalorie"
+  },
+  {
+    "key": "Fatty acids, total monounsaturated",
+    "label": "Mononenasycené tuky"
+  },
+  {
+    "key": "Fatty acids, total polyunsaturated",
+    "label": "Polynenasycené tuky"
+  },
+  {
+    "key": "Fatty acids, total saturated",
+    "label": "Nasycené tuky"
+  },
+  {
+    "key": "Fatty acids, total trans",
+    "label": "Trans tuky"
+  },
+  {
+    "key": "Fatty acids, total trans-monoenoic",
+    "label": "Trans tuky (monoenové)"
+  },
+  {
+    "key": "Fatty acids, total trans-polyenoic",
+    "label": "Trans tuky (polyenové)"
+  },
+  {
+    "key": "Fiber, total dietary",
+    "label": "Vláknina"
+  },
+  {
+    "key": "Fluoride, F",
+    "label": "Fluorid"
+  },
+  {
+    "key": "Folate, food",
+    "label": "Folát"
+  },
+  {
+    "key": "Folate, total",
+    "label": "Folát"
+  },
+  {
+    "key": "Folic acid",
+    "label": "Kyselina listová"
+  },
+  {
+    "key": "Fructose",
+    "label": "Fruktóza"
+  },
+  {
+    "key": "Galactose",
+    "label": "Galaktóza"
+  },
+  {
+    "key": "Glucose",
+    "label": "Glukóza"
+  },
+  {
+    "key": "Glutamic acid",
+    "label": "Kyselina glutamová"
+  },
+  {
+    "key": "Glycine",
+    "label": "Glycin"
+  },
+  {
+    "key": "Histidine",
+    "label": "Histidin"
+  },
+  {
+    "key": "Hydroxyproline",
+    "label": "Hydroxyprolin"
+  },
+  {
+    "key": "Iron, Fe",
+    "label": "Železo"
+  },
+  {
+    "key": "Isoleucine",
+    "label": "Isoleucin"
+  },
+  {
+    "key": "Lactose",
+    "label": "Laktóza"
+  },
+  {
+    "key": "Leucine",
+    "label": "Leucin"
+  },
+  {
+    "key": "Lutein + zeaxanthin",
+    "label": "Lutein + zeaxantin"
+  },
+  {
+    "key": "Lycopene",
+    "label": "Lykopen"
+  },
+  {
+    "key": "Lysine",
+    "label": "Lysin"
+  },
+  {
+    "key": "MUFA 14:1",
+    "label": "Mononenasycený tuk 14:1"
+  },
+  {
+    "key": "MUFA 15:1",
+    "label": "Mononenasycený tuk 15:1"
+  },
+  {
+    "key": "MUFA 16:1",
+    "label": "Mononenasycený tuk 16:1"
+  },
+  {
+    "key": "MUFA 16:1 c",
+    "label": "Mononenasycený tuk 16:1 c"
+  },
+  {
+    "key": "MUFA 17:1",
+    "label": "Mononenasycený tuk 17:1"
+  },
+  {
+    "key": "MUFA 18:1",
+    "label": "Mononenasycený tuk 18:1"
+  },
+  {
+    "key": "MUFA 18:1 c",
+    "label": "Mononenasycený tuk 18:1 c"
+  },
+  {
+    "key": "MUFA 20:1",
+    "label": "Mononenasycený tuk 20:1"
+  },
+  {
+    "key": "MUFA 22:1",
+    "label": "Mononenasycený tuk 22:1"
+  },
+  {
+    "key": "MUFA 22:1 c",
+    "label": "Mononenasycený tuk 22:1 c"
+  },
+  {
+    "key": "MUFA 24:1 c",
+    "label": "Mononenasycený tuk 24:1 c"
+  },
+  {
+    "key": "Magnesium, Mg",
+    "label": "Hořčík"
+  },
+  {
+    "key": "Maltose",
+    "label": "Maltóza"
+  },
+  {
+    "key": "Manganese, Mn",
+    "label": "Mangan"
+  },
+  {
+    "key": "Methionine",
+    "label": "Methionin"
+  },
+  {
+    "key": "Niacin",
+    "label": "Vitamin B3"
+  },
+  {
+    "key": "PUFA 18:2",
+    "label": "Polynenasycený tuk 18:2"
+  },
+  {
+    "key": "PUFA 18:2 CLAs",
+    "label": "CLA"
+  },
+  {
+    "key": "PUFA 18:2 i",
+    "label": "Polynenasycený tuk 18:2 i"
+  },
+  {
+    "key": "PUFA 18:2 n-6 c,c",
+    "label": "Omega-6"
+  },
+  {
+    "key": "PUFA 18:3",
+    "label": "Polynenasycený tuk 18:3"
+  },
+  {
+    "key": "PUFA 18:3 n-3 c,c,c (ALA)",
+    "label": "Omega-3"
+  },
+  {
+    "key": "PUFA 18:3 n-6 c,c,c",
+    "label": "Kyselina gama-linolenová"
+  },
+  {
+    "key": "PUFA 18:3i",
+    "label": "Polynenasycený tuk 18:3 i"
+  },
+  {
+    "key": "PUFA 18:4",
+    "label": "Polynenasycený tuk 18:4"
+  },
+  {
+    "key": "PUFA 20:2 n-6 c,c",
+    "label": "Polynenasycený tuk 20:2 omega-6"
+  },
+  {
+    "key": "PUFA 20:3",
+    "label": "Polynenasycený tuk 20:3"
+  },
+  {
+    "key": "PUFA 20:3 n-3",
+    "label": "Polynenasycený tuk 20:3 omega-3"
+  },
+  {
+    "key": "PUFA 20:3 n-6",
+    "label": "Polynenasycený tuk 20:3 omega-6"
+  },
+  {
+    "key": "PUFA 20:4",
+    "label": "Kyselina arachidonová"
+  },
+  {
+    "key": "PUFA 20:5 n-3 (EPA)",
+    "label": "EPA (omega-3)"
+  },
+  {
+    "key": "PUFA 21:5",
+    "label": "Polynenasycený tuk 21:5"
+  },
+  {
+    "key": "PUFA 22:4",
+    "label": "Polynenasycený tuk 22:4"
+  },
+  {
+    "key": "PUFA 22:5 n-3 (DPA)",
+    "label": "DPA (omega-3)"
+  },
+  {
+    "key": "PUFA 22:6 n-3 (DHA)",
+    "label": "DHA (omega-3)"
+  },
+  {
+    "key": "Pantothenic acid",
+    "label": "Vitamin B5"
+  },
+  {
+    "key": "Phenylalanine",
+    "label": "Fenylalanin"
+  },
+  {
+    "key": "Phosphorus, P",
+    "label": "Fosfor"
+  },
+  {
+    "key": "Phytosterols",
+    "label": "Fytosteroly"
+  },
+  {
+    "key": "Potassium, K",
+    "label": "Draslík"
+  },
+  {
+    "key": "Proline",
+    "label": "Prolin"
+  },
+  {
+    "key": "Protein",
+    "label": "Bílkoviny"
+  },
+  {
+    "key": "Retinol",
+    "label": "Retinol (vitamin A)"
+  },
+  {
+    "key": "Riboflavin",
+    "label": "Vitamin B2"
+  },
+  {
+    "key": "SFA 10:0",
+    "label": "Nasycený tuk 10:0"
+  },
+  {
+    "key": "SFA 12:0",
+    "label": "Nasycený tuk 12:0"
+  },
+  {
+    "key": "SFA 13:0",
+    "label": "Nasycený tuk 13:0"
+  },
+  {
+    "key": "SFA 14:0",
+    "label": "Nasycený tuk 14:0"
+  },
+  {
+    "key": "SFA 15:0",
+    "label": "Nasycený tuk 15:0"
+  },
+  {
+    "key": "SFA 16:0",
+    "label": "Nasycený tuk 16:0"
+  },
+  {
+    "key": "SFA 17:0",
+    "label": "Nasycený tuk 17:0"
+  },
+  {
+    "key": "SFA 18:0",
+    "label": "Nasycený tuk 18:0"
+  },
+  {
+    "key": "SFA 20:0",
+    "label": "Nasycený tuk 20:0"
+  },
+  {
+    "key": "SFA 22:0",
+    "label": "Nasycený tuk 22:0"
+  },
+  {
+    "key": "SFA 24:0",
+    "label": "Nasycený tuk 24:0"
+  },
+  {
+    "key": "SFA 4:0",
+    "label": "Nasycený tuk 4:0"
+  },
+  {
+    "key": "SFA 6:0",
+    "label": "Nasycený tuk 6:0"
+  },
+  {
+    "key": "SFA 8:0",
+    "label": "Nasycený tuk 8:0"
+  },
+  {
+    "key": "Selenium, Se",
+    "label": "Selen"
+  },
+  {
+    "key": "Serine",
+    "label": "Serin"
+  },
+  {
+    "key": "Sodium, Na",
+    "label": "Sodík"
+  },
+  {
+    "key": "Starch",
+    "label": "Škrob"
+  },
+  {
+    "key": "Stigmasterol",
+    "label": "Stigmasterol"
+  },
+  {
+    "key": "Sucrose",
+    "label": "Sacharóza"
+  },
+  {
+    "key": "TFA 16:1 t",
+    "label": "Trans tuk 16:1"
+  },
+  {
+    "key": "TFA 18:1 t",
+    "label": "Trans tuk 18:1"
+  },
+  {
+    "key": "TFA 18:2 t not further defined",
+    "label": "Trans tuk 18:2"
+  },
+  {
+    "key": "TFA 18:2 t,t",
+    "label": "Trans tuk 18:2 t,t"
+  },
+  {
+    "key": "TFA 22:1 t",
+    "label": "Trans tuk 22:1"
+  },
+  {
+    "key": "Theobromine",
+    "label": "Theobromin"
+  },
+  {
+    "key": "Thiamin",
+    "label": "Vitamin B1"
+  },
+  {
+    "key": "Threonine",
+    "label": "Threonin"
+  },
+  {
+    "key": "Tocopherol, beta",
+    "label": "Vitamin E beta"
+  },
+  {
+    "key": "Tocopherol, delta",
+    "label": "Vitamin E delta"
+  },
+  {
+    "key": "Tocopherol, gamma",
+    "label": "Vitamin E gama"
+  },
+  {
+    "key": "Tocotrienol, alpha",
+    "label": "Vitamin E alfa tokotrienol"
+  },
+  {
+    "key": "Tocotrienol, beta",
+    "label": "Vitamin E beta tokotrienol"
+  },
+  {
+    "key": "Tocotrienol, delta",
+    "label": "Vitamin E delta tokotrienol"
+  },
+  {
+    "key": "Tocotrienol, gamma",
+    "label": "Vitamin E gama tokotrienol"
+  },
+  {
+    "key": "Total Sugars",
+    "label": "Cukry"
+  },
+  {
+    "key": "Total lipid (fat)",
+    "label": "Tuky"
+  },
+  {
+    "key": "Tryptophan",
+    "label": "Tryptofan"
+  },
+  {
+    "key": "Tyrosine",
+    "label": "Tyrosin"
+  },
+  {
+    "key": "Valine",
+    "label": "Valin"
+  },
+  {
+    "key": "Vitamin A, RAE",
+    "label": "Vitamin A"
+  },
+  {
+    "key": "Vitamin B-12",
+    "label": "Vitamin B12"
+  },
+  {
+    "key": "Vitamin B-6",
+    "label": "Vitamin B6"
+  },
+  {
+    "key": "Vitamin C, total ascorbic acid",
+    "label": "Vitamin C"
+  },
+  {
+    "key": "Vitamin D (D2 + D3)",
+    "label": "Vitamin D"
+  },
+  {
+    "key": "Vitamin D2 (ergocalciferol)",
+    "label": "Vitamin D2"
+  },
+  {
+    "key": "Vitamin D3 (cholecalciferol)",
+    "label": "Vitamin D3"
+  },
+  {
+    "key": "Vitamin E (alpha-tocopherol)",
+    "label": "Vitamin E"
+  },
+  {
+    "key": "Vitamin K (Dihydrophylloquinone)",
+    "label": "Zvláštní forma vitaminu K"
+  },
+  {
+    "key": "Vitamin K (Menaquinone-4)",
+    "label": "Vitamin K2"
+  },
+  {
+    "key": "Vitamin K (phylloquinone)",
+    "label": "Vitamin K1"
+  },
+  {
+    "key": "Water",
+    "label": "Voda"
+  },
+  {
+    "key": "Zinc, Zn",
+    "label": "Zinek"
+  }
+]
