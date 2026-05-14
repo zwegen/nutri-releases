@@ -297,6 +297,21 @@ function getCurrentVersionCode() {
   return Number(window.__NUTRI_VERSION_CODE__ || 0);
 }
 
+function getCurrentVersionName() {
+  return String(window.__NUTRI_VERSION_NAME__ || '').trim();
+}
+
+function updateInfoVersionLine() {
+  const versionName = getCurrentVersionName();
+  infoVersionLine.textContent = versionName
+    ? `${t('infoVersion')} ${versionName}`
+    : t('infoVersion');
+}
+
+window.refreshNativeVersionDisplay = function () {
+  updateInfoVersionLine();
+};
+
 function getLastUpdateCheck() {
   return Number(localStorage.getItem(STORAGE_KEYS.updateLastCheck) || '0');
 }
@@ -506,7 +521,7 @@ function applyTranslations() {
   updateChoiceLabel.textContent = t('updateChoiceLabel');
   updateActionLabel.textContent = t('updateDownload');
   infoDescription.textContent = t('infoDescription');
-  infoVersionLine.textContent = `${t('infoVersion')} 1.825`;
+  updateInfoVersionLine();
   infoGithubLink.textContent = t('infoGithubRepository');
   shoppingEmpty.textContent = t('shoppingEmpty');
 

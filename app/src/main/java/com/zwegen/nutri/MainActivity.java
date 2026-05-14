@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
                     long versionCode = packageInfo.getLongVersionCode();
                     String versionName = packageInfo.versionName == null ? "" : packageInfo.versionName;
                     String escapedVersionName = escapeForJs(versionName);
-                    view.evaluateJavascript("window.__NUTRI_VERSION_CODE__ = " + versionCode + "; window.__NUTRI_VERSION_NAME__ = '" + escapedVersionName + "';", null);
+                    view.evaluateJavascript("window.__NUTRI_VERSION_CODE__ = " + versionCode + "; window.__NUTRI_VERSION_NAME__ = '" + escapedVersionName + "'; if (window.refreshNativeVersionDisplay) window.refreshNativeVersionDisplay();", null);
                     checkStartupNetworkAccess();
                 } catch (Exception ignored) {
                     checkStartupNetworkAccess();

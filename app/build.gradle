@@ -10,8 +10,8 @@ android {
         applicationId 'com.zwegen.nutri'
         minSdk 24
         targetSdk 34
-        versionCode 1830
-        versionName '1.83'
+        versionCode 1840
+        versionName '1.84'
     }
 
     buildTypes {
