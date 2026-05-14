@@ -324,7 +324,9 @@ function parseVersionCodeFromTag(tagName) {
   const cleaned = String(tagName || '').trim().replace(/^v/i, '');
   const match = cleaned.match(/^(\d+)\.(\d+)$/);
   if (!match) return null;
-  return Number(match[1]) * 100 + Number(match[2]);
+  const major = Number(match[1]);
+  const minor = match[2].padEnd(3, '0').slice(0, 3);
+  return major * 1000 + Number(minor);
 }
 
 let updateCheckResolver = null;
