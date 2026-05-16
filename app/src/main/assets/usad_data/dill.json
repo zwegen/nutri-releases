@@ -1,0 +1,258 @@
+{
+  "search_name": "dill fresh",
+  "display_name": "Dill",
+  "data": {
+    "Energy": {
+      "value": 43.0,
+      "unit": "kcal"
+    },
+    "Niacin": {
+      "value": 1.57,
+      "unit": "mg"
+    },
+    "Pantothenic acid": {
+      "value": 0.397,
+      "unit": "mg"
+    },
+    "Vitamin B-6": {
+      "value": 0.185,
+      "unit": "mg"
+    },
+    "Total lipid (fat)": {
+      "value": 1.12,
+      "unit": "g"
+    },
+    "Carbohydrate, by difference": {
+      "value": 7.02,
+      "unit": "g"
+    },
+    "Water": {
+      "value": 86.0,
+      "unit": "g"
+    },
+    "Calcium, Ca": {
+      "value": 208,
+      "unit": "mg"
+    },
+    "Potassium, K": {
+      "value": 738,
+      "unit": "mg"
+    },
+    "Zinc, Zn": {
+      "value": 0.91,
+      "unit": "mg"
+    },
+    "Isoleucine": {
+      "value": 0.195,
+      "unit": "g"
+    },
+    "Leucine": {
+      "value": 0.159,
+      "unit": "g"
+    },
+    "Lysine": {
+      "value": 0.246,
+      "unit": "g"
+    },
+    "Cystine": {
+      "value": 0.017,
+      "unit": "g"
+    },
+    "Valine": {
+      "value": 0.154,
+      "unit": "g"
+    },
+    "Arginine": {
+      "value": 0.142,
+      "unit": "g"
+    },
+    "Histidine": {
+      "value": 0.071,
+      "unit": "g"
+    },
+    "Aspartic acid": {
+      "value": 0.343,
+      "unit": "g"
+    },
+    "Serine": {
+      "value": 0.158,
+      "unit": "g"
+    },
+    "SFA 16:0": {
+      "value": 0.049,
+      "unit": "g"
+    },
+    "SFA 18:0": {
+      "value": 0.009,
+      "unit": "g"
+    },
+    "MUFA 18:1": {
+      "value": 0.798,
+      "unit": "g"
+    },
+    "PUFA 18:2": {
+      "value": 0.082,
+      "unit": "g"
+    },
+    "PUFA 18:3": {
+      "value": 0.013,
+      "unit": "g"
+    },
+    "Fatty acids, total monounsaturated": {
+      "value": 0.802,
+      "unit": "g"
+    },
+    "Fatty acids, total polyunsaturated": {
+      "value": 0.095,
+      "unit": "g"
+    },
+    "Protein": {
+      "value": 3.46,
+      "unit": "g"
+    },
+    "Ash": {
+      "value": 2.45,
+      "unit": "g"
+    },
+    "Vitamin C, total ascorbic acid": {
+      "value": 85.0,
+      "unit": "mg"
+    },
+    "Thiamin": {
+      "value": 0.058,
+      "unit": "mg"
+    },
+    "Riboflavin": {
+      "value": 0.296,
+      "unit": "mg"
+    },
+    "Folate, total": {
+      "value": 150,
+      "unit": "ug"
+    },
+    "Vitamin B-12": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Folate, food": {
+      "value": 150,
+      "unit": "ug"
+    },
+    "Tryptophan": {
+      "value": 0.014,
+      "unit": "g"
+    },
+    "Threonine": {
+      "value": 0.068,
+      "unit": "g"
+    },
+    "Methionine": {
+      "value": 0.011,
+      "unit": "g"
+    },
+    "Phenylalanine": {
+      "value": 0.065,
+      "unit": "g"
+    },
+    "Tyrosine": {
+      "value": 0.096,
+      "unit": "g"
+    },
+    "Alanine": {
+      "value": 0.227,
+      "unit": "g"
+    },
+    "Glutamic acid": {
+      "value": 0.29,
+      "unit": "g"
+    },
+    "Glycine": {
+      "value": 0.169,
+      "unit": "g"
+    },
+    "Proline": {
+      "value": 0.248,
+      "unit": "g"
+    },
+    "Cholesterol": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Iron, Fe": {
+      "value": 6.59,
+      "unit": "mg"
+    },
+    "Magnesium, Mg": {
+      "value": 55.0,
+      "unit": "mg"
+    },
+    "Phosphorus, P": {
+      "value": 66.0,
+      "unit": "mg"
+    },
+    "Sodium, Na": {
+      "value": 61.0,
+      "unit": "mg"
+    },
+    "Copper, Cu": {
+      "value": 0.146,
+      "unit": "mg"
+    },
+    "Manganese, Mn": {
+      "value": 1.26,
+      "unit": "mg"
+    },
+    "Vitamin A, IU": {
+      "value": 7720.0,
+      "unit": "iu"
+    },
+    "Fatty acids, total saturated": {
+      "value": 0.06,
+      "unit": "g"
+    },
+    "SFA 12:0": {
+      "value": 0.001,
+      "unit": "g"
+    },
+    "SFA 14:0": {
+      "value": 0.001,
+      "unit": "g"
+    },
+    "MUFA 16:1": {
+      "value": 0.004,
+      "unit": "g"
+    },
+    "Folic acid": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Vitamin D (D2 + D3), International Units": {
+      "value": 0.0,
+      "unit": "iu"
+    },
+    "Retinol": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Vitamin A, RAE": {
+      "value": 386,
+      "unit": "ug"
+    },
+    "Folate, DFE": {
+      "value": 150,
+      "unit": "ug"
+    },
+    "Fatty acids, total trans": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Fiber, total dietary": {
+      "value": 2.1,
+      "unit": "g"
+    },
+    "Vitamin D (D2 + D3)": {
+      "value": 0.0,
+      "unit": "ug"
+    }
+  }
+}

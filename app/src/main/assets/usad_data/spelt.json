@@ -1,0 +1,166 @@
+{
+  "search_name": "spelt raw",
+  "display_name": "Spelt",
+  "data": {
+    "Protein": {
+      "value": 5.5,
+      "unit": "g"
+    },
+    "Ash": {
+      "value": 0.65,
+      "unit": "g"
+    },
+    "Starch": {
+      "value": 19.6,
+      "unit": "g"
+    },
+    "Energy": {
+      "value": 127,
+      "unit": "kcal"
+    },
+    "Fiber, total dietary": {
+      "value": 3.9,
+      "unit": "g"
+    },
+    "Iron, Fe": {
+      "value": 1.67,
+      "unit": "mg"
+    },
+    "Magnesium, Mg": {
+      "value": 49.0,
+      "unit": "mg"
+    },
+    "Phosphorus, P": {
+      "value": 150,
+      "unit": "mg"
+    },
+    "Sodium, Na": {
+      "value": 5.0,
+      "unit": "mg"
+    },
+    "Copper, Cu": {
+      "value": 0.215,
+      "unit": "mg"
+    },
+    "Manganese, Mn": {
+      "value": 1.09,
+      "unit": "mg"
+    },
+    "Vitamin A, IU": {
+      "value": 4.0,
+      "unit": "iu"
+    },
+    "Retinol": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Vitamin A, RAE": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Tocopherol, delta": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Tocotrienol, gamma": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Tocotrienol, delta": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Vitamin C, total ascorbic acid": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Thiamin": {
+      "value": 0.103,
+      "unit": "mg"
+    },
+    "Riboflavin": {
+      "value": 0.03,
+      "unit": "mg"
+    },
+    "Folate, total": {
+      "value": 13.0,
+      "unit": "ug"
+    },
+    "Vitamin B-12": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Folate, food": {
+      "value": 13.0,
+      "unit": "ug"
+    },
+    "Cholesterol": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Total lipid (fat)": {
+      "value": 0.85,
+      "unit": "g"
+    },
+    "Carbohydrate, by difference": {
+      "value": 26.4,
+      "unit": "g"
+    },
+    "Water": {
+      "value": 66.6,
+      "unit": "g"
+    },
+    "Calcium, Ca": {
+      "value": 10.0,
+      "unit": "mg"
+    },
+    "Potassium, K": {
+      "value": 143,
+      "unit": "mg"
+    },
+    "Zinc, Zn": {
+      "value": 1.25,
+      "unit": "mg"
+    },
+    "Selenium, Se": {
+      "value": 4.0,
+      "unit": "ug"
+    },
+    "Vitamin E (alpha-tocopherol)": {
+      "value": 0.26,
+      "unit": "mg"
+    },
+    "Tocopherol, beta": {
+      "value": 0.08,
+      "unit": "mg"
+    },
+    "Tocopherol, gamma": {
+      "value": 0.55,
+      "unit": "mg"
+    },
+    "Tocotrienol, alpha": {
+      "value": 0.11,
+      "unit": "mg"
+    },
+    "Tocotrienol, beta": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Niacin": {
+      "value": 2.57,
+      "unit": "mg"
+    },
+    "Vitamin B-6": {
+      "value": 0.08,
+      "unit": "mg"
+    },
+    "Folic acid": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Folate, DFE": {
+      "value": 13.0,
+      "unit": "ug"
+    }
+  }
+}

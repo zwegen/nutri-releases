@@ -1,0 +1,250 @@
+{
+  "search_name": "couscous dry",
+  "display_name": "Couscous",
+  "data": {
+    "Energy": {
+      "value": 376,
+      "unit": "kcal"
+    },
+    "Folic acid": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Folate, DFE": {
+      "value": 20.0,
+      "unit": "ug"
+    },
+    "Vitamin D (D2 + D3), International Units": {
+      "value": 0.0,
+      "unit": "iu"
+    },
+    "Retinol": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Vitamin A, RAE": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Ash": {
+      "value": 0.62,
+      "unit": "g"
+    },
+    "Fiber, total dietary": {
+      "value": 5.0,
+      "unit": "g"
+    },
+    "Iron, Fe": {
+      "value": 1.08,
+      "unit": "mg"
+    },
+    "Magnesium, Mg": {
+      "value": 44.0,
+      "unit": "mg"
+    },
+    "Phosphorus, P": {
+      "value": 170,
+      "unit": "mg"
+    },
+    "Sodium, Na": {
+      "value": 10.0,
+      "unit": "mg"
+    },
+    "Copper, Cu": {
+      "value": 0.247,
+      "unit": "mg"
+    },
+    "Manganese, Mn": {
+      "value": 0.78,
+      "unit": "mg"
+    },
+    "Vitamin A, IU": {
+      "value": 0.0,
+      "unit": "iu"
+    },
+    "Vitamin C, total ascorbic acid": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Thiamin": {
+      "value": 0.163,
+      "unit": "mg"
+    },
+    "Riboflavin": {
+      "value": 0.078,
+      "unit": "mg"
+    },
+    "Folate, total": {
+      "value": 20.0,
+      "unit": "ug"
+    },
+    "Vitamin B-12": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Folate, food": {
+      "value": 20.0,
+      "unit": "ug"
+    },
+    "Tryptophan": {
+      "value": 0.163,
+      "unit": "g"
+    },
+    "Threonine": {
+      "value": 0.337,
+      "unit": "g"
+    },
+    "Methionine": {
+      "value": 0.199,
+      "unit": "g"
+    },
+    "Phenylalanine": {
+      "value": 0.62,
+      "unit": "g"
+    },
+    "Tyrosine": {
+      "value": 0.335,
+      "unit": "g"
+    },
+    "Alanine": {
+      "value": 0.374,
+      "unit": "g"
+    },
+    "Glutamic acid": {
+      "value": 4.6,
+      "unit": "g"
+    },
+    "Glycine": {
+      "value": 0.403,
+      "unit": "g"
+    },
+    "Proline": {
+      "value": 1.4,
+      "unit": "g"
+    },
+    "Cholesterol": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Fatty acids, total saturated": {
+      "value": 0.117,
+      "unit": "g"
+    },
+    "SFA 14:0": {
+      "value": 0.001,
+      "unit": "g"
+    },
+    "MUFA 16:1": {
+      "value": 0.002,
+      "unit": "g"
+    },
+    "Protein": {
+      "value": 12.8,
+      "unit": "g"
+    },
+    "Total lipid (fat)": {
+      "value": 0.64,
+      "unit": "g"
+    },
+    "Carbohydrate, by difference": {
+      "value": 77.4,
+      "unit": "g"
+    },
+    "Water": {
+      "value": 8.56,
+      "unit": "g"
+    },
+    "Calcium, Ca": {
+      "value": 24.0,
+      "unit": "mg"
+    },
+    "Potassium, K": {
+      "value": 166,
+      "unit": "mg"
+    },
+    "Zinc, Zn": {
+      "value": 0.83,
+      "unit": "mg"
+    },
+    "Niacin": {
+      "value": 3.49,
+      "unit": "mg"
+    },
+    "Pantothenic acid": {
+      "value": 1.24,
+      "unit": "mg"
+    },
+    "Vitamin B-6": {
+      "value": 0.11,
+      "unit": "mg"
+    },
+    "Isoleucine": {
+      "value": 0.493,
+      "unit": "g"
+    },
+    "Leucine": {
+      "value": 0.872,
+      "unit": "g"
+    },
+    "Lysine": {
+      "value": 0.245,
+      "unit": "g"
+    },
+    "Cystine": {
+      "value": 0.36,
+      "unit": "g"
+    },
+    "Valine": {
+      "value": 0.544,
+      "unit": "g"
+    },
+    "Arginine": {
+      "value": 0.47,
+      "unit": "g"
+    },
+    "Histidine": {
+      "value": 0.259,
+      "unit": "g"
+    },
+    "Aspartic acid": {
+      "value": 0.521,
+      "unit": "g"
+    },
+    "Serine": {
+      "value": 0.601,
+      "unit": "g"
+    },
+    "SFA 16:0": {
+      "value": 0.109,
+      "unit": "g"
+    },
+    "SFA 18:0": {
+      "value": 0.006,
+      "unit": "g"
+    },
+    "MUFA 18:1": {
+      "value": 0.086,
+      "unit": "g"
+    },
+    "PUFA 18:2": {
+      "value": 0.24,
+      "unit": "g"
+    },
+    "PUFA 18:3": {
+      "value": 0.012,
+      "unit": "g"
+    },
+    "Fatty acids, total monounsaturated": {
+      "value": 0.089,
+      "unit": "g"
+    },
+    "Fatty acids, total polyunsaturated": {
+      "value": 0.252,
+      "unit": "g"
+    },
+    "Vitamin D (D2 + D3)": {
+      "value": 0.0,
+      "unit": "ug"
+    }
+  }
+}

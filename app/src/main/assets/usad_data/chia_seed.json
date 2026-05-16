@@ -1,0 +1,266 @@
+{
+  "search_name": "chia seed raw",
+  "display_name": "Chia Seed",
+  "data": {
+    "Protein": {
+      "value": 16.5,
+      "unit": "g"
+    },
+    "Ash": {
+      "value": 4.8,
+      "unit": "g"
+    },
+    "Energy": {
+      "value": 486,
+      "unit": "kcal"
+    },
+    "Fiber, total dietary": {
+      "value": 34.4,
+      "unit": "g"
+    },
+    "Iron, Fe": {
+      "value": 7.72,
+      "unit": "mg"
+    },
+    "Magnesium, Mg": {
+      "value": 335,
+      "unit": "mg"
+    },
+    "Phosphorus, P": {
+      "value": 860,
+      "unit": "mg"
+    },
+    "Sodium, Na": {
+      "value": 16.0,
+      "unit": "mg"
+    },
+    "Copper, Cu": {
+      "value": 0.924,
+      "unit": "mg"
+    },
+    "Manganese, Mn": {
+      "value": 2.72,
+      "unit": "mg"
+    },
+    "Vitamin A, IU": {
+      "value": 54.0,
+      "unit": "iu"
+    },
+    "Vitamin C, total ascorbic acid": {
+      "value": 1.6,
+      "unit": "mg"
+    },
+    "Thiamin": {
+      "value": 0.62,
+      "unit": "mg"
+    },
+    "Riboflavin": {
+      "value": 0.17,
+      "unit": "mg"
+    },
+    "Folate, total": {
+      "value": 49.0,
+      "unit": "ug"
+    },
+    "Folate, food": {
+      "value": 49.0,
+      "unit": "ug"
+    },
+    "Tryptophan": {
+      "value": 0.436,
+      "unit": "g"
+    },
+    "Threonine": {
+      "value": 0.709,
+      "unit": "g"
+    },
+    "Methionine": {
+      "value": 0.588,
+      "unit": "g"
+    },
+    "Phenylalanine": {
+      "value": 1.02,
+      "unit": "g"
+    },
+    "Tyrosine": {
+      "value": 0.563,
+      "unit": "g"
+    },
+    "Alanine": {
+      "value": 1.04,
+      "unit": "g"
+    },
+    "Glutamic acid": {
+      "value": 3.5,
+      "unit": "g"
+    },
+    "Glycine": {
+      "value": 0.943,
+      "unit": "g"
+    },
+    "Proline": {
+      "value": 0.776,
+      "unit": "g"
+    },
+    "PUFA 18:2 n-6 c,c": {
+      "value": 5.84,
+      "unit": "g"
+    },
+    "PUFA 18:3 n-3 c,c,c (ALA)": {
+      "value": 17.8,
+      "unit": "g"
+    },
+    "Fatty acids, total trans": {
+      "value": 0.14,
+      "unit": "g"
+    },
+    "Fatty acids, total saturated": {
+      "value": 3.33,
+      "unit": "g"
+    },
+    "MUFA 16:1": {
+      "value": 0.029,
+      "unit": "g"
+    },
+    "Total lipid (fat)": {
+      "value": 30.7,
+      "unit": "g"
+    },
+    "Carbohydrate, by difference": {
+      "value": 42.1,
+      "unit": "g"
+    },
+    "Water": {
+      "value": 5.8,
+      "unit": "g"
+    },
+    "MUFA 18:1": {
+      "value": 2.2,
+      "unit": "g"
+    },
+    "PUFA 18:2": {
+      "value": 5.84,
+      "unit": "g"
+    },
+    "PUFA 18:3": {
+      "value": 17.8,
+      "unit": "g"
+    },
+    "Fatty acids, total monounsaturated": {
+      "value": 2.31,
+      "unit": "g"
+    },
+    "Fatty acids, total polyunsaturated": {
+      "value": 23.7,
+      "unit": "g"
+    },
+    "Potassium, K": {
+      "value": 407,
+      "unit": "mg"
+    },
+    "Zinc, Zn": {
+      "value": 4.58,
+      "unit": "mg"
+    },
+    "Selenium, Se": {
+      "value": 55.2,
+      "unit": "ug"
+    },
+    "Vitamin E (alpha-tocopherol)": {
+      "value": 0.5,
+      "unit": "mg"
+    },
+    "Niacin": {
+      "value": 8.83,
+      "unit": "mg"
+    },
+    "Isoleucine": {
+      "value": 0.801,
+      "unit": "g"
+    },
+    "Leucine": {
+      "value": 1.37,
+      "unit": "g"
+    },
+    "Lysine": {
+      "value": 0.97,
+      "unit": "g"
+    },
+    "Cystine": {
+      "value": 0.407,
+      "unit": "g"
+    },
+    "Valine": {
+      "value": 0.95,
+      "unit": "g"
+    },
+    "Arginine": {
+      "value": 2.14,
+      "unit": "g"
+    },
+    "Histidine": {
+      "value": 0.531,
+      "unit": "g"
+    },
+    "Aspartic acid": {
+      "value": 1.69,
+      "unit": "g"
+    },
+    "Serine": {
+      "value": 1.05,
+      "unit": "g"
+    },
+    "SFA 16:0": {
+      "value": 2.17,
+      "unit": "g"
+    },
+    "SFA 18:0": {
+      "value": 0.912,
+      "unit": "g"
+    },
+    "MUFA 17:1": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "SFA 17:0": {
+      "value": 0.063,
+      "unit": "g"
+    },
+    "SFA 14:0": {
+      "value": 0.03,
+      "unit": "g"
+    },
+    "SFA 22:0": {
+      "value": 0.032,
+      "unit": "g"
+    },
+    "MUFA 14:1": {
+      "value": 0.03,
+      "unit": "g"
+    },
+    "SFA 20:0": {
+      "value": 0.093,
+      "unit": "g"
+    },
+    "SFA 15:0": {
+      "value": 0.03,
+      "unit": "g"
+    },
+    "MUFA 20:1": {
+      "value": 0.046,
+      "unit": "g"
+    },
+    "Calcium, Ca": {
+      "value": 631,
+      "unit": "mg"
+    },
+    "Cholesterol": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Vitamin B-12": {
+      "value": 0.0,
+      "unit": "ug"
+    }
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "search_name": "bay leaf fresh",
+  "display_name": "Bay Leaf",
+  "data": {
+    "Energy": {
+      "value": 313,
+      "unit": "kcal"
+    },
+    "Vitamin B-12": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Cholesterol": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Fatty acids, total saturated": {
+      "value": 2.28,
+      "unit": "g"
+    },
+    "SFA 8:0": {
+      "value": 0.01,
+      "unit": "g"
+    },
+    "SFA 12:0": {
+      "value": 0.53,
+      "unit": "g"
+    },
+    "SFA 14:0": {
+      "value": 0.21,
+      "unit": "g"
+    },
+    "MUFA 16:1": {
+      "value": 0.14,
+      "unit": "g"
+    },
+    "Fiber, total dietary": {
+      "value": 26.3,
+      "unit": "g"
+    },
+    "Iron, Fe": {
+      "value": 43.0,
+      "unit": "mg"
+    },
+    "Magnesium, Mg": {
+      "value": 120,
+      "unit": "mg"
+    },
+    "Phosphorus, P": {
+      "value": 113,
+      "unit": "mg"
+    },
+    "Sodium, Na": {
+      "value": 23.0,
+      "unit": "mg"
+    },
+    "Manganese, Mn": {
+      "value": 8.17,
+      "unit": "mg"
+    },
+    "Vitamin A, IU": {
+      "value": 6180.0,
+      "unit": "iu"
+    },
+    "Vitamin C, total ascorbic acid": {
+      "value": 46.5,
+      "unit": "mg"
+    },
+    "Thiamin": {
+      "value": 0.009,
+      "unit": "mg"
+    },
+    "Riboflavin": {
+      "value": 0.421,
+      "unit": "mg"
+    },
+    "Protein": {
+      "value": 7.61,
+      "unit": "g"
+    },
+    "Ash": {
+      "value": 3.62,
+      "unit": "g"
+    },
+    "Niacin": {
+      "value": 2.0,
+      "unit": "mg"
+    },
+    "Total lipid (fat)": {
+      "value": 8.36,
+      "unit": "g"
+    },
+    "Carbohydrate, by difference": {
+      "value": 75.0,
+      "unit": "g"
+    },
+    "Water": {
+      "value": 5.44,
+      "unit": "g"
+    },
+    "Calcium, Ca": {
+      "value": 834,
+      "unit": "mg"
+    },
+    "Potassium, K": {
+      "value": 529,
+      "unit": "mg"
+    },
+    "Zinc, Zn": {
+      "value": 3.7,
+      "unit": "mg"
+    },
+    "SFA 10:0": {
+      "value": 0.01,
+      "unit": "g"
+    },
+    "SFA 16:0": {
+      "value": 1.27,
+      "unit": "g"
+    },
+    "SFA 18:0": {
+      "value": 0.16,
+      "unit": "g"
+    },
+    "MUFA 18:1": {
+      "value": 1.5,
+      "unit": "g"
+    },
+    "PUFA 18:2": {
+      "value": 1.24,
+      "unit": "g"
+    },
+    "PUFA 18:3": {
+      "value": 1.05,
+      "unit": "g"
+    },
+    "Fatty acids, total monounsaturated": {
+      "value": 1.64,
+      "unit": "g"
+    },
+    "Fatty acids, total polyunsaturated": {
+      "value": 2.29,
+      "unit": "g"
+    },
+    "SFA 4:0": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "SFA 6:0": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "PUFA 20:4": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "PUFA 18:4": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "MUFA 20:1": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "MUFA 22:1": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "PUFA 22:6 n-3 (DHA)": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "PUFA 20:5 n-3 (EPA)": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "PUFA 22:5 n-3 (DPA)": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Folic acid": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Copper, Cu": {
+      "value": 0.416,
+      "unit": "mg"
+    },
+    "Vitamin D (D2 + D3), International Units": {
+      "value": 0.0,
+      "unit": "iu"
+    },
+    "Retinol": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Fatty acids, total trans": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Selenium, Se": {
+      "value": 2.8,
+      "unit": "ug"
+    },
+    "Vitamin A, RAE": {
+      "value": 309,
+      "unit": "ug"
+    },
+    "Folate, food": {
+      "value": 180,
+      "unit": "ug"
+    },
+    "Folate, DFE": {
+      "value": 180,
+      "unit": "ug"
+    },
+    "Vitamin B-6": {
+      "value": 1.74,
+      "unit": "mg"
+    },
+    "Vitamin D (D2 + D3)": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Alcohol, ethyl": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Folate, total": {
+      "value": 180,
+      "unit": "ug"
+    }
+  }
+}

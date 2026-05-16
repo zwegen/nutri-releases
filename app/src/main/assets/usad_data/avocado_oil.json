@@ -1,0 +1,166 @@
+{
+  "search_name": "avocado oil",
+  "display_name": "Avocado Oil",
+  "data": {
+    "Folic acid": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Energy": {
+      "value": 884,
+      "unit": "kcal"
+    },
+    "Protein": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Ash": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Fiber, total dietary": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Iron, Fe": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Magnesium, Mg": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Phosphorus, P": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Sodium, Na": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Copper, Cu": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Manganese, Mn": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Vitamin A, IU": {
+      "value": 0.0,
+      "unit": "iu"
+    },
+    "Vitamin C, total ascorbic acid": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Thiamin": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Riboflavin": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Folate, total": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Vitamin B-12": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Folate, food": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Fatty acids, total saturated": {
+      "value": 11.6,
+      "unit": "g"
+    },
+    "MUFA 16:1": {
+      "value": 2.66,
+      "unit": "g"
+    },
+    "Total lipid (fat)": {
+      "value": 100,
+      "unit": "g"
+    },
+    "Carbohydrate, by difference": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Water": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Calcium, Ca": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Potassium, K": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Zinc, Zn": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Niacin": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Pantothenic acid": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Vitamin B-6": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "SFA 16:0": {
+      "value": 10.9,
+      "unit": "g"
+    },
+    "SFA 18:0": {
+      "value": 0.66,
+      "unit": "g"
+    },
+    "MUFA 18:1": {
+      "value": 67.9,
+      "unit": "g"
+    },
+    "PUFA 18:2": {
+      "value": 12.5,
+      "unit": "g"
+    },
+    "PUFA 18:3": {
+      "value": 0.957,
+      "unit": "g"
+    },
+    "Fatty acids, total monounsaturated": {
+      "value": 70.6,
+      "unit": "g"
+    },
+    "Fatty acids, total polyunsaturated": {
+      "value": 13.5,
+      "unit": "g"
+    },
+    "Retinol": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Vitamin A, RAE": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Folate, DFE": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Selenium, Se": {
+      "value": 0.0,
+      "unit": "ug"
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "search_name": "butter",
+  "display_name": "Butter",
+  "data": {
+    "Protein": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Ash": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Energy": {
+      "value": 900,
+      "unit": "kcal"
+    },
+    "Fiber, total dietary": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Iron, Fe": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Sodium, Na": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Vitamin A, IU": {
+      "value": 4000.0,
+      "unit": "iu"
+    },
+    "Vitamin C, total ascorbic acid": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Cholesterol": {
+      "value": 300,
+      "unit": "mg"
+    },
+    "Fatty acids, total trans": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Fatty acids, total saturated": {
+      "value": 60.0,
+      "unit": "g"
+    },
+    "Total lipid (fat)": {
+      "value": 100,
+      "unit": "g"
+    },
+    "Carbohydrate, by difference": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Water": {
+      "value": 0.5,
+      "unit": "g"
+    },
+    "Total Sugars": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Calcium, Ca": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Fatty acids, total polyunsaturated": {
+      "value": 4.0,
+      "unit": "g"
+    }
+  }
+}

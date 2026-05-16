@@ -247,11 +247,46 @@ function formatValue(value, unit = '') {
     : rounded.toFixed(1);
 }
 
-function formatCategory(kind) {
-  if (kind === 'animal') {
-    return `<span class="category-icon animal" title="${escapeHtml(t('animalTitle'))}">🥩</span>`;
-  }
-  return `<span class="category-icon plant" title="${escapeHtml(t('plantTitle'))}">🥬</span>`;
+const ICON_KIND_EMOJIS = {
+  plant: '🌿',
+  fruit: '🍉',
+  berry: '🫐',
+  vegetable: '🥦',
+  mushroom: '🍄‍🟫',
+  grain: '🌾',
+  legume: '🫘',
+  nut_seed: '🥜',
+  seed: '🌻',
+  herb_spice: '🪴',
+  spice: '🧂',
+  oil_fat: '🫒',
+  animal_fat: '🧈',
+  meat: '🥩',
+  poultry: '🍗',
+  fish: '🐟',
+  cheese: '🧀',
+  dairy: '🥛',
+  egg: '🥚',
+  sweetener: '🍯',
+  drink: '🍵',
+  vinegar: '🍶',
+  chocolate: '🍫'
+};
+
+function getKindSortRank(kind) {
+  return kind === 'animal' ? 1 : 0;
+}
+
+function compareFoodKind(aKind, bKind) {
+  return getKindSortRank(aKind) - getKindSortRank(bKind);
+}
+
+function formatCategory(kind, iconKind = '') {
+  const resolvedIconKind = iconKind || (kind === 'animal' ? 'meat' : 'plant');
+  const icon = ICON_KIND_EMOJIS[resolvedIconKind] || ICON_KIND_EMOJIS.plant;
+  const title = kind === 'animal' ? t('animalTitle') : t('plantTitle');
+  const kindClass = kind === 'animal' ? 'animal' : 'plant';
+  return `<span class="category-icon ${kindClass} ${escapeHtml(resolvedIconKind)}" title="${escapeHtml(title)}">${icon}</span>`;
 }
 
 function loadStoredShoppingState() {
@@ -583,7 +618,11 @@ function applyTableHeader() {
   }
 
   thName.appendChild(nameHeaderContent);
-  thCategory.textContent = t('tableCategory');
+  if (state.sortBy === 'category') {
+    thCategory.textContent = state.descending ? '🐄' : '🌿';
+  } else {
+    thCategory.textContent = '🏷️';
+  }
   thValue.textContent = t('tableValue');
   thValue.colSpan = 2;
 }
@@ -798,9 +837,9 @@ function createNameCell({ label, onClick, favoriteItem = null, showPlaceholder =
   return nameCell;
 }
 
-function createCategoryCell(kind) {
+function createCategoryCell(kind, iconKind = '') {
   const categoryCell = document.createElement('td');
-  categoryCell.innerHTML = formatCategory(kind);
+  categoryCell.innerHTML = formatCategory(kind, iconKind);
   return categoryCell;
 }
 
@@ -844,10 +883,10 @@ function resolveSearchMatches(term) {
   return { foods, nutrients };
 }
 
-function appendStandardRow({ label, onClick, kind, value, unit, favoriteItem = null, showPlaceholder = false }) {
+function appendStandardRow({ label, onClick, kind, iconKind = '', value, unit, favoriteItem = null, showPlaceholder = false }) {
   const tr = document.createElement('tr');
   tr.appendChild(createNameCell({ label, onClick, favoriteItem, showPlaceholder }));
-  tr.appendChild(createCategoryCell(kind));
+  tr.appendChild(createCategoryCell(kind, iconKind));
   tr.appendChild(createValueCell(value));
   tr.appendChild(createUnitCell(unit));
   resultsBody.appendChild(tr);
@@ -881,6 +920,7 @@ async function render() {
         label: getNutrientLabel(row.name),
         onClick: () => openNutrient(row.name),
         kind: state.selectedFood.kind,
+        iconKind: state.selectedFood.iconKind,
         value: formatValue(display.value, display.unit),
         unit: display.unit || '',
         favoriteItem: { type: 'nutrient', value: row.name }
@@ -898,11 +938,8 @@ async function render() {
         return state.descending ? b.baseValue - a.baseValue : a.baseValue - b.baseValue;
       }
       if (state.sortBy === 'category') {
-        const av = String(a.food.kind || '').toLowerCase();
-        const bv = String(b.food.kind || '').toLowerCase();
-        if (av < bv) return state.descending ? 1 : -1;
-        if (av > bv) return state.descending ? -1 : 1;
-        return 0;
+        const result = compareFoodKind(a.food.kind, b.food.kind);
+        return state.descending ? -result : result;
       }
       const av = getFoodLabel(a.food.display_name).toLowerCase();
       const bv = getFoodLabel(b.food.display_name).toLowerCase();
@@ -917,6 +954,7 @@ async function render() {
         label: getFoodLabel(row.food.display_name),
         onClick: () => openFood(row.food),
         kind: row.food.kind,
+        iconKind: row.food.iconKind,
         value: formatValue(display.value, display.unit),
         unit: display.unit || '',
         favoriteItem: { type: 'food', value: row.food.display_name }
@@ -935,8 +973,12 @@ async function render() {
       const bv = Number(b.data?.Energy?.value || 0);
       return state.descending ? bv - av : av - bv;
     }
-    const av = state.sortBy === 'category' ? String(a.kind || '').toLowerCase() : getFoodLabel(a.display_name).toLowerCase();
-    const bv = state.sortBy === 'category' ? String(b.kind || '').toLowerCase() : getFoodLabel(b.display_name).toLowerCase();
+    if (state.sortBy === 'category') {
+      const result = compareFoodKind(a.kind, b.kind);
+      return state.descending ? -result : result;
+    }
+    const av = getFoodLabel(a.display_name).toLowerCase();
+    const bv = getFoodLabel(b.display_name).toLowerCase();
     if (av < bv) return state.descending ? 1 : -1;
     if (av > bv) return state.descending ? -1 : 1;
     return 0;
@@ -961,6 +1003,7 @@ async function render() {
         label: getFoodLabel(row.display_name),
         onClick: () => openFood(row),
         kind: row.kind,
+        iconKind: row.iconKind,
         value,
         unit,
         favoriteItem: { type: 'food', value: row.display_name }

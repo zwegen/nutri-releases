@@ -1,23 +1,1703 @@
 [
   {
-    "key": "Sample Apple",
-    "label": "Sample Apple",
+    "key": "Apricot",
+    "label": "Abricot",
+    "aliases": []
+  },
+  {
+    "key": "Adzuki Beans",
+    "label": "Adzuki Beans",
+    "aliases": []
+  },
+  {
+    "key": "Lamb",
+    "label": "Agneau",
+    "aliases": []
+  },
+  {
+    "key": "Garlic",
+    "label": "Ail",
+    "aliases": []
+  },
+  {
+    "key": "Ramson",
+    "label": "Ail des ours",
+    "aliases": []
+  },
+  {
+    "key": "Lingonberry",
+    "label": "Airelle rouge",
+    "aliases": []
+  },
+  {
+    "key": "Almond",
+    "label": "Amande",
+    "aliases": []
+  },
+  {
+    "key": "Amaranth",
+    "label": "Amarante",
+    "aliases": []
+  },
+  {
+    "key": "Pineapple",
+    "label": "Ananas",
+    "aliases": []
+  },
+  {
+    "key": "Anchovy",
+    "label": "Anchois",
+    "aliases": []
+  },
+  {
+    "key": "Dill",
+    "label": "Aneth",
+    "aliases": []
+  },
+  {
+    "key": "Anise",
+    "label": "Anis",
+    "aliases": []
+  },
+  {
+    "key": "Sea Buckthorn",
+    "label": "Argousier",
+    "aliases": []
+  },
+  {
+    "key": "Artichoke",
+    "label": "Artichaut",
+    "aliases": []
+  },
+  {
+    "key": "Asparagus",
+    "label": "Asperge",
+    "aliases": []
+  },
+  {
+    "key": "Eggplant",
+    "label": "Aubergine",
+    "aliases": []
+  },
+  {
+    "key": "Avocado",
+    "label": "Avocat",
+    "aliases": []
+  },
+  {
+    "key": "Oats",
+    "label": "Avoine",
+    "aliases": []
+  },
+  {
+    "key": "Buttermilk",
+    "label": "Babeurre",
+    "aliases": []
+  },
+  {
+    "key": "Bacon",
+    "label": "Bacon",
+    "aliases": []
+  },
+  {
+    "key": "Baguette",
+    "label": "Baguette",
+    "aliases": []
+  },
+  {
+    "key": "Bamboo Shoots",
+    "label": "Bamboo Shoots",
+    "aliases": []
+  },
+  {
+    "key": "Banana",
+    "label": "Banane",
+    "aliases": []
+  },
+  {
+    "key": "Plantain",
+    "label": "Banane plantain",
+    "aliases": []
+  },
+  {
+    "key": "Sea Bass",
+    "label": "Bar",
+    "aliases": []
+  },
+  {
+    "key": "Basil",
+    "label": "Basilic",
+    "aliases": []
+  },
+  {
+    "key": "Beetroot",
+    "label": "Betterave",
+    "aliases": []
+  },
+  {
+    "key": "Butter",
+    "label": "Beurre",
+    "aliases": []
+  },
+  {
+    "key": "Almond Butter",
+    "label": "Beurre d'amande",
+    "aliases": []
+  },
+  {
+    "key": "Peanut Butter",
+    "label": "Beurre de cacahuète",
+    "aliases": []
+  },
+  {
+    "key": "Hazelnut Butter",
+    "label": "Beurre de noisette",
+    "aliases": []
+  },
+  {
+    "key": "Bison",
+    "label": "Bison",
+    "aliases": []
+  },
+  {
+    "key": "Turkey Breast",
+    "label": "Blanc de dinde",
+    "aliases": []
+  },
+  {
+    "key": "Chicken Breast",
+    "label": "Blanc de poulet",
+    "aliases": []
+  },
+  {
+    "key": "Swiss Chard",
+    "label": "Blette",
+    "aliases": []
+  },
+  {
+    "key": "Wheat",
+    "label": "Blé",
+    "aliases": []
+  },
+  {
+    "key": "Celery Stalk",
+    "label": "Branche de céleri",
+    "aliases": []
+  },
+  {
+    "key": "Brie",
+    "label": "Brie",
+    "aliases": []
+  },
+  {
+    "key": "Broccoli",
+    "label": "Broccoli",
+    "aliases": []
+  },
+  {
+    "key": "Pike",
+    "label": "Brochet",
     "aliases": [
-      "Example fruit"
+      "Pike"
     ]
   },
   {
-    "key": "Sample Lentils",
-    "label": "Sample Lentils",
+    "key": "Bulgur",
+    "label": "Bulgur",
+    "aliases": []
+  },
+  {
+    "key": "Beef",
+    "label": "Bœuf",
+    "aliases": []
+  },
+  {
+    "key": "Ground Beef",
+    "label": "Bœuf haché",
+    "aliases": []
+  },
+  {
+    "key": "Beef Lean",
+    "label": "Bœuf maigre",
+    "aliases": []
+  },
+  {
+    "key": "Cod",
+    "label": "Cabillaud",
+    "aliases": []
+  },
+  {
+    "key": "Peanut",
+    "label": "Cacahuète",
+    "aliases": []
+  },
+  {
+    "key": "Cocoa Powder",
+    "label": "Cacao en poudre",
+    "aliases": []
+  },
+  {
+    "key": "Coffee",
+    "label": "Café",
+    "aliases": []
+  },
+  {
+    "key": "Squid",
+    "label": "Calmar",
     "aliases": [
-      "Example legume"
+      "Squid"
     ]
   },
   {
-    "key": "Sample Salmon",
-    "label": "Sample Salmon",
+    "key": "Camembert Cheese",
+    "label": "Camembert",
+    "aliases": []
+  },
+  {
+    "key": "Cranberry",
+    "label": "Canneberge",
     "aliases": [
-      "Example fish"
+      "Cranberry"
     ]
+  },
+  {
+    "key": "Cinnamon",
+    "label": "Cannelle",
+    "aliases": []
+  },
+  {
+    "key": "Cardamom",
+    "label": "Cardamome",
+    "aliases": []
+  },
+  {
+    "key": "Carrot",
+    "label": "Carotte",
+    "aliases": []
+  },
+  {
+    "key": "Carp",
+    "label": "Carpe",
+    "aliases": [
+      "Carp"
+    ]
+  },
+  {
+    "key": "Caraway",
+    "label": "Carvi",
+    "aliases": []
+  },
+  {
+    "key": "Black Currant",
+    "label": "Cassis",
+    "aliases": []
+  },
+  {
+    "key": "Chervil",
+    "label": "Cerfeuil",
+    "aliases": []
+  },
+  {
+    "key": "Cherry",
+    "label": "Cerise",
+    "aliases": []
+  },
+  {
+    "key": "Button Mushroom",
+    "label": "Champignon de Paris",
+    "aliases": []
+  },
+  {
+    "key": "Shiitake Mushroom",
+    "label": "Champignon shiitake",
+    "aliases": []
+  },
+  {
+    "key": "Chayote",
+    "label": "Chayote",
+    "aliases": []
+  },
+  {
+    "key": "Cheddar Cheese",
+    "label": "Cheddar",
+    "aliases": []
+  },
+  {
+    "key": "Chorizo",
+    "label": "Chorizo",
+    "aliases": []
+  },
+  {
+    "key": "White Cabbage",
+    "label": "Chou blanc",
+    "aliases": []
+  },
+  {
+    "key": "Collard Greens",
+    "label": "Chou cavalier",
+    "aliases": [
+      "Collard Greens"
+    ]
+  },
+  {
+    "key": "Chinese Cabbage",
+    "label": "Chou chinois",
+    "aliases": []
+  },
+  {
+    "key": "Savoy Cabbage",
+    "label": "Chou de Savoie",
+    "aliases": []
+  },
+  {
+    "key": "Kale",
+    "label": "Chou kale",
+    "aliases": []
+  },
+  {
+    "key": "Red Cabbage",
+    "label": "Chou rouge",
+    "aliases": []
+  },
+  {
+    "key": "Cauliflower",
+    "label": "Chou-fleur",
+    "aliases": []
+  },
+  {
+    "key": "Kohlrabi",
+    "label": "Chou-rave",
+    "aliases": []
+  },
+  {
+    "key": "Sauerkraut",
+    "label": "Choucroute",
+    "aliases": []
+  },
+  {
+    "key": "Brussels Sprouts",
+    "label": "Choux de Bruxelles",
+    "aliases": []
+  },
+  {
+    "key": "Chives",
+    "label": "Ciboulette",
+    "aliases": []
+  },
+  {
+    "key": "Lemon",
+    "label": "Citron",
+    "aliases": []
+  },
+  {
+    "key": "Lime",
+    "label": "Citron vert",
+    "aliases": []
+  },
+  {
+    "key": "Pumpkin",
+    "label": "Citrouille",
+    "aliases": []
+  },
+  {
+    "key": "Clove",
+    "label": "Clou de girofle",
+    "aliases": []
+  },
+  {
+    "key": "Quince",
+    "label": "Coing",
+    "aliases": []
+  },
+  {
+    "key": "Tomato Paste",
+    "label": "Concentré de tomate",
+    "aliases": []
+  },
+  {
+    "key": "Cucumber",
+    "label": "Concombre",
+    "aliases": []
+  },
+  {
+    "key": "Coriander",
+    "label": "Coriandre",
+    "aliases": []
+  },
+  {
+    "key": "Butternut Squash",
+    "label": "Courge butternut",
+    "aliases": [
+      "Butternut Squash"
+    ]
+  },
+  {
+    "key": "Acorn Squash",
+    "label": "Courge poivrée",
+    "aliases": [
+      "Acorn Squash"
+    ]
+  },
+  {
+    "key": "Zucchini",
+    "label": "Courgette",
+    "aliases": []
+  },
+  {
+    "key": "Couscous",
+    "label": "Couscous",
+    "aliases": []
+  },
+  {
+    "key": "Crab",
+    "label": "Crabe",
+    "aliases": []
+  },
+  {
+    "key": "Shrimp",
+    "label": "Crevette",
+    "aliases": []
+  },
+  {
+    "key": "Cream",
+    "label": "Crème",
+    "aliases": []
+  },
+  {
+    "key": "Sour Cream",
+    "label": "Crème aigre",
+    "aliases": [
+      "Sour Cream"
+    ]
+  },
+  {
+    "key": "Cumin",
+    "label": "Cumin",
+    "aliases": []
+  },
+  {
+    "key": "Turmeric",
+    "label": "Curcuma",
+    "aliases": []
+  },
+  {
+    "key": "Capers",
+    "label": "Câpres",
+    "aliases": []
+  },
+  {
+    "key": "Celery Root",
+    "label": "Céleri-rave",
+    "aliases": []
+  },
+  {
+    "key": "Date",
+    "label": "Datte",
+    "aliases": []
+  },
+  {
+    "key": "Sea Bream",
+    "label": "Daurade",
+    "aliases": []
+  },
+  {
+    "key": "Turkey",
+    "label": "Dinde",
+    "aliases": []
+  },
+  {
+    "key": "Duck",
+    "label": "Duck",
+    "aliases": []
+  },
+  {
+    "key": "Edamame",
+    "label": "Edamame",
+    "aliases": []
+  },
+  {
+    "key": "Eel",
+    "label": "Eel",
+    "aliases": []
+  },
+  {
+    "key": "Emmental Cheese",
+    "label": "Emmental",
+    "aliases": []
+  },
+  {
+    "key": "Endive",
+    "label": "Endive",
+    "aliases": []
+  },
+  {
+    "key": "Tarragon",
+    "label": "Estragon",
+    "aliases": []
+  },
+  {
+    "key": "White Flour",
+    "label": "Farine blanche",
+    "aliases": []
+  },
+  {
+    "key": "Rye Flour",
+    "label": "Farine de seigle",
+    "aliases": []
+  },
+  {
+    "key": "Oat Flour",
+    "label": "Farine d’avoine",
+    "aliases": []
+  },
+  {
+    "key": "Spelt Flour",
+    "label": "Farine d’épeautre",
+    "aliases": []
+  },
+  {
+    "key": "Fennel",
+    "label": "Fenouil",
+    "aliases": []
+  },
+  {
+    "key": "Feta Cheese",
+    "label": "Feta",
+    "aliases": []
+  },
+  {
+    "key": "Mustard Greens",
+    "label": "Feuilles de moutarde",
+    "aliases": []
+  },
+  {
+    "key": "Turnip Greens",
+    "label": "Feuilles de navet",
+    "aliases": []
+  },
+  {
+    "key": "Grape Leaves",
+    "label": "Feuilles de vigne",
+    "aliases": [
+      "Grape Leaves"
+    ]
+  },
+  {
+    "key": "Fig",
+    "label": "Figue",
+    "aliases": []
+  },
+  {
+    "key": "Prickly Pear",
+    "label": "Figue de Barbarie",
+    "aliases": []
+  },
+  {
+    "key": "Oat Flakes",
+    "label": "Flocons d'avoine",
+    "aliases": []
+  },
+  {
+    "key": "Spelt Flakes",
+    "label": "Flocons d'épeautre",
+    "aliases": []
+  },
+  {
+    "key": "Rye Flakes",
+    "label": "Flocons de seigle",
+    "aliases": []
+  },
+  {
+    "key": "Halibut",
+    "label": "Flétan",
+    "aliases": []
+  },
+  {
+    "key": "Liver",
+    "label": "Foie",
+    "aliases": []
+  },
+  {
+    "key": "Strawberry",
+    "label": "Fraise",
+    "aliases": []
+  },
+  {
+    "key": "Raspberry",
+    "label": "Framboise",
+    "aliases": []
+  },
+  {
+    "key": "Low Fat Quark",
+    "label": "Fromage blanc maigre",
+    "aliases": []
+  },
+  {
+    "key": "Cotija Cheese",
+    "label": "Fromage cotija",
+    "aliases": []
+  },
+  {
+    "key": "Cottage Cheese",
+    "label": "Fromage cottage",
+    "aliases": []
+  },
+  {
+    "key": "Goat Cheese",
+    "label": "Fromage de chèvre",
+    "aliases": []
+  },
+  {
+    "key": "Cream Cheese",
+    "label": "Fromage frais",
+    "aliases": []
+  },
+  {
+    "key": "Fava Bean",
+    "label": "Fève",
+    "aliases": []
+  },
+  {
+    "key": "Lentil Sprouts",
+    "label": "Germes de lentilles",
+    "aliases": []
+  },
+  {
+    "key": "Ginger",
+    "label": "Gingembre",
+    "aliases": []
+  },
+  {
+    "key": "Gnocchi",
+    "label": "Gnocchi",
+    "aliases": []
+  },
+  {
+    "key": "Okra",
+    "label": "Gombo",
+    "aliases": []
+  },
+  {
+    "key": "Goose",
+    "label": "Goose",
+    "aliases": []
+  },
+  {
+    "key": "Gouda Cheese",
+    "label": "Gouda",
+    "aliases": []
+  },
+  {
+    "key": "Hemp Seed",
+    "label": "Graines de chanvre",
+    "aliases": []
+  },
+  {
+    "key": "Chia Seed",
+    "label": "Graines de chia",
+    "aliases": []
+  },
+  {
+    "key": "Pumpkin Seed",
+    "label": "Graines de courge",
+    "aliases": []
+  },
+  {
+    "key": "Fennel Seed",
+    "label": "Graines de fenouil",
+    "aliases": []
+  },
+  {
+    "key": "Flaxseed",
+    "label": "Graines de lin",
+    "aliases": []
+  },
+  {
+    "key": "Mustard Seed",
+    "label": "Graines de moutarde",
+    "aliases": []
+  },
+  {
+    "key": "Poppy Seed",
+    "label": "Graines de pavot",
+    "aliases": []
+  },
+  {
+    "key": "Sesame Seed",
+    "label": "Graines de sésame",
+    "aliases": []
+  },
+  {
+    "key": "Sunflower Seed",
+    "label": "Graines de tournesol",
+    "aliases": []
+  },
+  {
+    "key": "Pomegranate",
+    "label": "Grenade",
+    "aliases": []
+  },
+  {
+    "key": "Sour Cherry",
+    "label": "Griotte",
+    "aliases": []
+  },
+  {
+    "key": "Currant",
+    "label": "Groseille",
+    "aliases": []
+  },
+  {
+    "key": "Red Currant",
+    "label": "Groseille rouge",
+    "aliases": []
+  },
+  {
+    "key": "Gooseberry",
+    "label": "Groseille à maquereau",
+    "aliases": []
+  },
+  {
+    "key": "Guava",
+    "label": "Guava",
+    "aliases": []
+  },
+  {
+    "key": "Herring",
+    "label": "Hareng",
+    "aliases": []
+  },
+  {
+    "key": "White Bean",
+    "label": "Haricot blanc",
+    "aliases": []
+  },
+  {
+    "key": "Mung Bean",
+    "label": "Haricot mungo",
+    "aliases": []
+  },
+  {
+    "key": "Black Bean",
+    "label": "Haricot noir",
+    "aliases": []
+  },
+  {
+    "key": "Pinto Bean",
+    "label": "Haricot pinto",
+    "aliases": []
+  },
+  {
+    "key": "Kidney Bean",
+    "label": "Haricot rouge",
+    "aliases": []
+  },
+  {
+    "key": "Green Bean",
+    "label": "Haricot vert",
+    "aliases": []
+  },
+  {
+    "key": "Lima Beans",
+    "label": "Haricots de Lima",
+    "aliases": [
+      "Lima Beans"
+    ]
+  },
+  {
+    "key": "Peanut Oil",
+    "label": "Huile d'arachide",
+    "aliases": []
+  },
+  {
+    "key": "Avocado Oil",
+    "label": "Huile d'avocat",
+    "aliases": []
+  },
+  {
+    "key": "Olive Oil",
+    "label": "Huile d'olive",
+    "aliases": []
+  },
+  {
+    "key": "Coconut Oil",
+    "label": "Huile de coco",
+    "aliases": []
+  },
+  {
+    "key": "Canola Oil",
+    "label": "Huile de colza",
+    "aliases": []
+  },
+  {
+    "key": "Flaxseed Oil",
+    "label": "Huile de lin",
+    "aliases": []
+  },
+  {
+    "key": "Corn Oil",
+    "label": "Huile de maïs",
+    "aliases": []
+  },
+  {
+    "key": "Walnut Oil",
+    "label": "Huile de noix",
+    "aliases": []
+  },
+  {
+    "key": "Soybean Oil",
+    "label": "Huile de soja",
+    "aliases": []
+  },
+  {
+    "key": "Sesame Oil",
+    "label": "Huile de sésame",
+    "aliases": []
+  },
+  {
+    "key": "Sunflower Oil",
+    "label": "Huile de tournesol",
+    "aliases": []
+  },
+  {
+    "key": "Ham",
+    "label": "Jambon",
+    "aliases": []
+  },
+  {
+    "key": "Jicama",
+    "label": "Jicama",
+    "aliases": []
+  },
+  {
+    "key": "Kiwi",
+    "label": "Kiwi",
+    "aliases": []
+  },
+  {
+    "key": "Kefir",
+    "label": "Kéfir",
+    "aliases": []
+  },
+  {
+    "key": "Low Fat Milk",
+    "label": "Lait demi-écrémé",
+    "aliases": []
+  },
+  {
+    "key": "Whole Milk",
+    "label": "Lait entier",
+    "aliases": []
+  },
+  {
+    "key": "Iceberg Lettuce",
+    "label": "Laitue iceberg",
+    "aliases": []
+  },
+  {
+    "key": "Bay Leaf",
+    "label": "Laurier",
+    "aliases": []
+  },
+  {
+    "key": "Lentil",
+    "label": "Lentille",
+    "aliases": []
+  },
+  {
+    "key": "Pollock",
+    "label": "Lieu",
+    "aliases": []
+  },
+  {
+    "key": "Litchi",
+    "label": "Litchi",
+    "aliases": []
+  },
+  {
+    "key": "Lovage",
+    "label": "Livèche",
+    "aliases": []
+  },
+  {
+    "key": "Lobster",
+    "label": "Lobster",
+    "aliases": []
+  },
+  {
+    "key": "Lupin Bean",
+    "label": "Lupin",
+    "aliases": []
+  },
+  {
+    "key": "Mandarin",
+    "label": "Mandarine",
+    "aliases": []
+  },
+  {
+    "key": "Mango",
+    "label": "Mango",
+    "aliases": []
+  },
+  {
+    "key": "Cassava",
+    "label": "Manioc",
+    "aliases": []
+  },
+  {
+    "key": "Mackerel",
+    "label": "Maquereau",
+    "aliases": []
+  },
+  {
+    "key": "Marjoram",
+    "label": "Marjolaine",
+    "aliases": []
+  },
+  {
+    "key": "Masa Harina",
+    "label": "Masa harina",
+    "aliases": []
+  },
+  {
+    "key": "Mascarpone Cheese",
+    "label": "Mascarpone",
+    "aliases": []
+  },
+  {
+    "key": "Corn",
+    "label": "Maïs",
+    "aliases": []
+  },
+  {
+    "key": "Sweet Corn",
+    "label": "Maïs doux",
+    "aliases": []
+  },
+  {
+    "key": "Melon",
+    "label": "Melon",
+    "aliases": []
+  },
+  {
+    "key": "Mint",
+    "label": "Menthe",
+    "aliases": []
+  },
+  {
+    "key": "Honey",
+    "label": "Miel",
+    "aliases": []
+  },
+  {
+    "key": "Millet",
+    "label": "Millet",
+    "aliases": []
+  },
+  {
+    "key": "Mirabelle Plum",
+    "label": "Mirabelle",
+    "aliases": []
+  },
+  {
+    "key": "Miso",
+    "label": "Miso",
+    "aliases": []
+  },
+  {
+    "key": "Mussel",
+    "label": "Moule",
+    "aliases": []
+  },
+  {
+    "key": "Mustard",
+    "label": "Moutarde",
+    "aliases": []
+  },
+  {
+    "key": "Mozzarella",
+    "label": "Mozzarella",
+    "aliases": []
+  },
+  {
+    "key": "Blueberry",
+    "label": "Myrtille",
+    "aliases": []
+  },
+  {
+    "key": "Lamb's Lettuce",
+    "label": "Mâche",
+    "aliases": []
+  },
+  {
+    "key": "Molasses",
+    "label": "Mélasse",
+    "aliases": []
+  },
+  {
+    "key": "Lemon Balm",
+    "label": "Mélisse",
+    "aliases": []
+  },
+  {
+    "key": "Blackberry",
+    "label": "Mûre",
+    "aliases": []
+  },
+  {
+    "key": "Turnip",
+    "label": "Navet",
+    "aliases": []
+  },
+  {
+    "key": "Navy Beans",
+    "label": "Navy Beans",
+    "aliases": []
+  },
+  {
+    "key": "Nectarine",
+    "label": "Nectarine",
+    "aliases": []
+  },
+  {
+    "key": "Hazelnut",
+    "label": "Noisette",
+    "aliases": []
+  },
+  {
+    "key": "Walnut",
+    "label": "Noix",
+    "aliases": []
+  },
+  {
+    "key": "Cashew",
+    "label": "Noix de cajou",
+    "aliases": []
+  },
+  {
+    "key": "Macadamia",
+    "label": "Noix de macadamia",
+    "aliases": []
+  },
+  {
+    "key": "Nutmeg",
+    "label": "Noix de muscade",
+    "aliases": []
+  },
+  {
+    "key": "Pecan",
+    "label": "Noix de pécan",
+    "aliases": []
+  },
+  {
+    "key": "Brazil Nut",
+    "label": "Noix du Brésil",
+    "aliases": []
+  },
+  {
+    "key": "Nopal",
+    "label": "Nopal",
+    "aliases": []
+  },
+  {
+    "key": "Onion",
+    "label": "Oignon",
+    "aliases": []
+  },
+  {
+    "key": "Spring Onion",
+    "label": "Oignon nouveau",
+    "aliases": []
+  },
+  {
+    "key": "Black Olive",
+    "label": "Olive noire",
+    "aliases": []
+  },
+  {
+    "key": "Green Olive",
+    "label": "Olive verte",
+    "aliases": []
+  },
+  {
+    "key": "Orange",
+    "label": "Orange",
+    "aliases": []
+  },
+  {
+    "key": "Barley",
+    "label": "Orge",
+    "aliases": []
+  },
+  {
+    "key": "Oregano",
+    "label": "Origan",
+    "aliases": []
+  },
+  {
+    "key": "White Bread",
+    "label": "Pain blanc",
+    "aliases": []
+  },
+  {
+    "key": "Whole Wheat Bread",
+    "label": "Pain complet",
+    "aliases": []
+  },
+  {
+    "key": "Pak Choi",
+    "label": "Pak-choï",
+    "aliases": []
+  },
+  {
+    "key": "Grapefruit",
+    "label": "Pamplemousse",
+    "aliases": []
+  },
+  {
+    "key": "Parsnip",
+    "label": "Panais",
+    "aliases": []
+  },
+  {
+    "key": "Papaya",
+    "label": "Papaya",
+    "aliases": []
+  },
+  {
+    "key": "Paprika",
+    "label": "Paprika",
+    "aliases": []
+  },
+  {
+    "key": "Parmesan Cheese",
+    "label": "Parmesan",
+    "aliases": []
+  },
+  {
+    "key": "Passion Fruit",
+    "label": "Passion Fruit",
+    "aliases": []
+  },
+  {
+    "key": "Watermelon",
+    "label": "Pastèque",
+    "aliases": []
+  },
+  {
+    "key": "Sweet Potato",
+    "label": "Patate douce",
+    "aliases": []
+  },
+  {
+    "key": "Parsley",
+    "label": "Persil",
+    "aliases": []
+  },
+  {
+    "key": "Persimmon",
+    "label": "Persimmon",
+    "aliases": []
+  },
+  {
+    "key": "White Bread Roll",
+    "label": "Petit pain blanc",
+    "aliases": []
+  },
+  {
+    "key": "Green Pea",
+    "label": "Petit pois",
+    "aliases": []
+  },
+  {
+    "key": "Pine Nut",
+    "label": "Pignon de pin",
+    "aliases": []
+  },
+  {
+    "key": "Chili Pepper",
+    "label": "Piment",
+    "aliases": []
+  },
+  {
+    "key": "Jalapeño Pepper",
+    "label": "Piment jalapeño",
+    "aliases": []
+  },
+  {
+    "key": "Poblano Pepper",
+    "label": "Piment poblano",
+    "aliases": []
+  },
+  {
+    "key": "Pistachio",
+    "label": "Pistache",
+    "aliases": []
+  },
+  {
+    "key": "Oyster Mushroom",
+    "label": "Pleurote",
+    "aliases": []
+  },
+  {
+    "key": "King Oyster Mushroom",
+    "label": "Pleurote du panicaut",
+    "aliases": []
+  },
+  {
+    "key": "Pear",
+    "label": "Poire",
+    "aliases": []
+  },
+  {
+    "key": "Leek",
+    "label": "Poireau",
+    "aliases": []
+  },
+  {
+    "key": "Chickpea",
+    "label": "Pois chiche",
+    "aliases": []
+  },
+  {
+    "key": "Catfish",
+    "label": "Poisson-chat",
+    "aliases": [
+      "Catfish"
+    ]
+  },
+  {
+    "key": "Black Pepper",
+    "label": "Poivre noir",
+    "aliases": []
+  },
+  {
+    "key": "Yellow Bell Pepper",
+    "label": "Poivron jaune",
+    "aliases": []
+  },
+  {
+    "key": "Red Bell Pepper",
+    "label": "Poivron rouge",
+    "aliases": []
+  },
+  {
+    "key": "Green Bell Pepper",
+    "label": "Poivron vert",
+    "aliases": []
+  },
+  {
+    "key": "Polenta",
+    "label": "Polenta",
+    "aliases": []
+  },
+  {
+    "key": "Apple",
+    "label": "Pomme",
+    "aliases": []
+  },
+  {
+    "key": "Potato",
+    "label": "Pomme de terre",
+    "aliases": []
+  },
+  {
+    "key": "Pork",
+    "label": "Porc",
+    "aliases": []
+  },
+  {
+    "key": "Ground Pork",
+    "label": "Porc haché",
+    "aliases": []
+  },
+  {
+    "key": "Pork Lean",
+    "label": "Porc maigre",
+    "aliases": []
+  },
+  {
+    "key": "Chili Powder",
+    "label": "Poudre de chili",
+    "aliases": []
+  },
+  {
+    "key": "Curry Powder",
+    "label": "Poudre de curry",
+    "aliases": []
+  },
+  {
+    "key": "Octopus",
+    "label": "Poulpe",
+    "aliases": [
+      "Octopus"
+    ]
+  },
+  {
+    "key": "Purslane",
+    "label": "Pourpier",
+    "aliases": []
+  },
+  {
+    "key": "Plum",
+    "label": "Prune",
+    "aliases": []
+  },
+  {
+    "key": "Pasta",
+    "label": "Pâtes",
+    "aliases": []
+  },
+  {
+    "key": "Peach",
+    "label": "Pêche",
+    "aliases": []
+  },
+  {
+    "key": "Quark",
+    "label": "Quark",
+    "aliases": []
+  },
+  {
+    "key": "Queso Fresco",
+    "label": "Queso fresco",
+    "aliases": []
+  },
+  {
+    "key": "Quinoa",
+    "label": "Quinoa",
+    "aliases": []
+  },
+  {
+    "key": "Rabbit",
+    "label": "Rabbit",
+    "aliases": []
+  },
+  {
+    "key": "Radicchio",
+    "label": "Radicchio",
+    "aliases": []
+  },
+  {
+    "key": "Radish",
+    "label": "Radis",
+    "aliases": []
+  },
+  {
+    "key": "Horseradish",
+    "label": "Raifort",
+    "aliases": []
+  },
+  {
+    "key": "Grape",
+    "label": "Raisin",
+    "aliases": []
+  },
+  {
+    "key": "Raisin",
+    "label": "Raisin sec",
+    "aliases": []
+  },
+  {
+    "key": "Rhubarb",
+    "label": "Rhubarbe",
+    "aliases": []
+  },
+  {
+    "key": "Ricotta Cheese",
+    "label": "Ricotta",
+    "aliases": []
+  },
+  {
+    "key": "White Rice",
+    "label": "Riz blanc",
+    "aliases": []
+  },
+  {
+    "key": "Brown Rice",
+    "label": "Riz complet",
+    "aliases": []
+  },
+  {
+    "key": "Wild Rice",
+    "label": "Riz sauvage",
+    "aliases": []
+  },
+  {
+    "key": "Romanesco",
+    "label": "Romanesco",
+    "aliases": []
+  },
+  {
+    "key": "Rosemary",
+    "label": "Romarin",
+    "aliases": []
+  },
+  {
+    "key": "Arugula",
+    "label": "Roquette",
+    "aliases": []
+  },
+  {
+    "key": "Rutabaga",
+    "label": "Rutabaga",
+    "aliases": []
+  },
+  {
+    "key": "Lard",
+    "label": "Saindoux",
+    "aliases": []
+  },
+  {
+    "key": "Salami",
+    "label": "Salami",
+    "aliases": []
+  },
+  {
+    "key": "Black Salsify",
+    "label": "Salsifis noir",
+    "aliases": []
+  },
+  {
+    "key": "Sardine",
+    "label": "Sardine",
+    "aliases": []
+  },
+  {
+    "key": "Buckwheat",
+    "label": "Sarrasin",
+    "aliases": []
+  },
+  {
+    "key": "Sage",
+    "label": "Sauge",
+    "aliases": []
+  },
+  {
+    "key": "Salmon",
+    "label": "Saumon",
+    "aliases": []
+  },
+  {
+    "key": "Scallop",
+    "label": "Scallop",
+    "aliases": []
+  },
+  {
+    "key": "Rye",
+    "label": "Seigle",
+    "aliases": []
+  },
+  {
+    "key": "Seitan",
+    "label": "Seitan",
+    "aliases": []
+  },
+  {
+    "key": "Semolina",
+    "label": "Semoule",
+    "aliases": []
+  },
+  {
+    "key": "Corn Grits",
+    "label": "Semoule de maïs",
+    "aliases": []
+  },
+  {
+    "key": "Maple Syrup",
+    "label": "Sirop d'érable",
+    "aliases": []
+  },
+  {
+    "key": "Wheat Bran",
+    "label": "Son de blé",
+    "aliases": []
+  },
+  {
+    "key": "Sorghum",
+    "label": "Sorgho",
+    "aliases": []
+  },
+  {
+    "key": "Elderberry",
+    "label": "Sureau",
+    "aliases": []
+  },
+  {
+    "key": "Swordfish",
+    "label": "Swordfish",
+    "aliases": []
+  },
+  {
+    "key": "Tapioca",
+    "label": "Tapioca",
+    "aliases": []
+  },
+  {
+    "key": "Teff",
+    "label": "Teff",
+    "aliases": []
+  },
+  {
+    "key": "Tempeh",
+    "label": "Tempeh",
+    "aliases": []
+  },
+  {
+    "key": "Tuna",
+    "label": "Thon",
+    "aliases": []
+  },
+  {
+    "key": "Thyme",
+    "label": "Thym",
+    "aliases": []
+  },
+  {
+    "key": "Black Tea",
+    "label": "Thé noir",
+    "aliases": []
+  },
+  {
+    "key": "Oolong Tea",
+    "label": "Thé oolong",
+    "aliases": []
+  },
+  {
+    "key": "Green Tea",
+    "label": "Thé vert",
+    "aliases": []
+  },
+  {
+    "key": "Tilapia",
+    "label": "Tilapia",
+    "aliases": [
+      "Tilapia"
+    ]
+  },
+  {
+    "key": "Chamomile Tea",
+    "label": "Tisane de camomille",
+    "aliases": []
+  },
+  {
+    "key": "Hibiscus Tea",
+    "label": "Tisane d’hibiscus",
+    "aliases": []
+  },
+  {
+    "key": "Tofu",
+    "label": "Tofu",
+    "aliases": []
+  },
+  {
+    "key": "Tomato",
+    "label": "Tomate",
+    "aliases": []
+  },
+  {
+    "key": "Tomatillo",
+    "label": "Tomatillo",
+    "aliases": []
+  },
+  {
+    "key": "Jerusalem Artichoke",
+    "label": "Topinambour",
+    "aliases": []
+  },
+  {
+    "key": "Wheat Tortilla",
+    "label": "Tortilla de blé",
+    "aliases": []
+  },
+  {
+    "key": "Corn Tortilla",
+    "label": "Tortilla de maïs",
+    "aliases": []
+  },
+  {
+    "key": "Trout",
+    "label": "Truite",
+    "aliases": []
+  },
+  {
+    "key": "Veal",
+    "label": "Veau",
+    "aliases": []
+  },
+  {
+    "key": "Venison",
+    "label": "Venison",
+    "aliases": []
+  },
+  {
+    "key": "Mixed Ground Meat",
+    "label": "Viande hachée mélangée",
+    "aliases": []
+  },
+  {
+    "key": "Vinegar",
+    "label": "Vinaigre",
+    "aliases": []
+  },
+  {
+    "key": "Balsamic Vinegar",
+    "label": "Vinaigre balsamique",
+    "aliases": []
+  },
+  {
+    "key": "Apple Cider Vinegar",
+    "label": "Vinaigre de cidre",
+    "aliases": []
+  },
+  {
+    "key": "Water Chestnut",
+    "label": "Water Chestnut",
+    "aliases": []
+  },
+  {
+    "key": "Watercress",
+    "label": "Watercress",
+    "aliases": []
+  },
+  {
+    "key": "Greek Yogurt",
+    "label": "Yaourt grec",
+    "aliases": []
+  },
+  {
+    "key": "Plain Yogurt",
+    "label": "Yaourt nature",
+    "aliases": []
+  },
+  {
+    "key": "Shallot",
+    "label": "Échalote",
+    "aliases": []
+  },
+  {
+    "key": "Crayfish",
+    "label": "Écrevisse",
+    "aliases": []
+  },
+  {
+    "key": "Haddock",
+    "label": "Églefin",
+    "aliases": []
+  },
+  {
+    "key": "Spelt",
+    "label": "Épeautre",
+    "aliases": []
+  },
+  {
+    "key": "Spinach",
+    "label": "Épinards",
+    "aliases": []
+  },
+  {
+    "key": "Egg",
+    "label": "Œuf",
+    "aliases": []
   }
 ]

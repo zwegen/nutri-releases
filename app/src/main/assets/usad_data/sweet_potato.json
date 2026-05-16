@@ -1,0 +1,202 @@
+{
+  "search_name": "sweet potato raw",
+  "display_name": "Sweet Potato",
+  "data": {
+    "Folic acid": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Vitamin D (D2 + D3), International Units": {
+      "value": 0.0,
+      "unit": "iu"
+    },
+    "Retinol": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Fatty acids, total trans": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Fatty acids, total saturated": {
+      "value": 0.111,
+      "unit": "g"
+    },
+    "Sodium, Na": {
+      "value": 6.0,
+      "unit": "mg"
+    },
+    "Vitamin A, IU": {
+      "value": 3780.0,
+      "unit": "iu"
+    },
+    "Cryptoxanthin, beta": {
+      "value": 58.0,
+      "unit": "ug"
+    },
+    "Lycopene": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Vitamin K (phylloquinone)": {
+      "value": 302,
+      "unit": "ug"
+    },
+    "Folate, food": {
+      "value": 1.0,
+      "unit": "ug"
+    },
+    "Vitamin A, RAE": {
+      "value": 189,
+      "unit": "ug"
+    },
+    "Carotene, beta": {
+      "value": 2220.0,
+      "unit": "ug"
+    },
+    "Carotene, alpha": {
+      "value": 42.0,
+      "unit": "ug"
+    },
+    "Protein": {
+      "value": 2.49,
+      "unit": "g"
+    },
+    "Energy": {
+      "value": 42.0,
+      "unit": "kcal"
+    },
+    "Fiber, total dietary": {
+      "value": 5.3,
+      "unit": "g"
+    },
+    "Iron, Fe": {
+      "value": 0.97,
+      "unit": "mg"
+    },
+    "Magnesium, Mg": {
+      "value": 70.0,
+      "unit": "mg"
+    },
+    "Phosphorus, P": {
+      "value": 81.0,
+      "unit": "mg"
+    },
+    "Folate, DFE": {
+      "value": 1.0,
+      "unit": "ug"
+    },
+    "Lutein + zeaxanthin": {
+      "value": 14700.0,
+      "unit": "ug"
+    },
+    "Total lipid (fat)": {
+      "value": 0.51,
+      "unit": "g"
+    },
+    "Carbohydrate, by difference": {
+      "value": 8.82,
+      "unit": "g"
+    },
+    "Water": {
+      "value": 86.8,
+      "unit": "g"
+    },
+    "Calcium, Ca": {
+      "value": 78.0,
+      "unit": "mg"
+    },
+    "Potassium, K": {
+      "value": 508,
+      "unit": "mg"
+    },
+    "SFA 16:0": {
+      "value": 0.1,
+      "unit": "g"
+    },
+    "SFA 18:0": {
+      "value": 0.01,
+      "unit": "g"
+    },
+    "MUFA 18:1": {
+      "value": 0.02,
+      "unit": "g"
+    },
+    "PUFA 18:2": {
+      "value": 0.192,
+      "unit": "g"
+    },
+    "PUFA 18:3": {
+      "value": 0.036,
+      "unit": "g"
+    },
+    "Fatty acids, total monounsaturated": {
+      "value": 0.02,
+      "unit": "g"
+    },
+    "Fatty acids, total polyunsaturated": {
+      "value": 0.228,
+      "unit": "g"
+    },
+    "Ash": {
+      "value": 1.36,
+      "unit": "g"
+    },
+    "Tryptophan": {
+      "value": 0.035,
+      "unit": "g"
+    },
+    "Methionine": {
+      "value": 0.086,
+      "unit": "g"
+    },
+    "Cholesterol": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Vitamin C, total ascorbic acid": {
+      "value": 11.0,
+      "unit": "mg"
+    },
+    "Thiamin": {
+      "value": 0.156,
+      "unit": "mg"
+    },
+    "Riboflavin": {
+      "value": 0.345,
+      "unit": "mg"
+    },
+    "Vitamin B-12": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Lysine": {
+      "value": 0.228,
+      "unit": "g"
+    },
+    "Cystine": {
+      "value": 0.047,
+      "unit": "g"
+    },
+    "Niacin": {
+      "value": 1.13,
+      "unit": "mg"
+    },
+    "Pantothenic acid": {
+      "value": 0.225,
+      "unit": "mg"
+    },
+    "Vitamin B-6": {
+      "value": 0.19,
+      "unit": "mg"
+    },
+    "Vitamin D (D2 + D3)": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Selenium, Se": {
+      "value": 0.9,
+      "unit": "ug"
+    }
+  }
+}

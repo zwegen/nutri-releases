@@ -1,0 +1,214 @@
+{
+  "search_name": "sardine raw",
+  "display_name": "Sardine",
+  "data": {
+    "Folic acid": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Vitamin D (D2 + D3), International Units": {
+      "value": 332,
+      "unit": "iu"
+    },
+    "Energy": {
+      "value": 902,
+      "unit": "kcal"
+    },
+    "Vitamin D (D2 + D3)": {
+      "value": 8.3,
+      "unit": "ug"
+    },
+    "Folate, DFE": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Protein": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Ash": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Fiber, total dietary": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Iron, Fe": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Magnesium, Mg": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Phosphorus, P": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Sodium, Na": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Copper, Cu": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Manganese, Mn": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Vitamin A, IU": {
+      "value": 0.0,
+      "unit": "iu"
+    },
+    "Vitamin C, total ascorbic acid": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Thiamin": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Riboflavin": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Folate, total": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Vitamin B-12": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Folate, food": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Cholesterol": {
+      "value": 710,
+      "unit": "mg"
+    },
+    "Fatty acids, total saturated": {
+      "value": 29.9,
+      "unit": "g"
+    },
+    "SFA 12:0": {
+      "value": 0.103,
+      "unit": "g"
+    },
+    "SFA 14:0": {
+      "value": 6.52,
+      "unit": "g"
+    },
+    "PUFA 22:6 n-3 (DHA)": {
+      "value": 10.7,
+      "unit": "g"
+    },
+    "MUFA 16:1": {
+      "value": 7.51,
+      "unit": "g"
+    },
+    "PUFA 20:5 n-3 (EPA)": {
+      "value": 10.1,
+      "unit": "g"
+    },
+    "PUFA 22:5 n-3 (DPA)": {
+      "value": 1.97,
+      "unit": "g"
+    },
+    "Total lipid (fat)": {
+      "value": 100,
+      "unit": "g"
+    },
+    "Carbohydrate, by difference": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Water": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Calcium, Ca": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Potassium, K": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Zinc, Zn": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "SFA 16:0": {
+      "value": 16.6,
+      "unit": "g"
+    },
+    "Niacin": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Pantothenic acid": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Vitamin B-6": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "SFA 18:0": {
+      "value": 3.89,
+      "unit": "g"
+    },
+    "MUFA 18:1": {
+      "value": 14.8,
+      "unit": "g"
+    },
+    "PUFA 18:2": {
+      "value": 2.01,
+      "unit": "g"
+    },
+    "PUFA 18:3": {
+      "value": 1.33,
+      "unit": "g"
+    },
+    "PUFA 20:4": {
+      "value": 1.76,
+      "unit": "g"
+    },
+    "PUFA 18:4": {
+      "value": 3.02,
+      "unit": "g"
+    },
+    "MUFA 20:1": {
+      "value": 5.99,
+      "unit": "g"
+    },
+    "MUFA 22:1": {
+      "value": 5.59,
+      "unit": "g"
+    },
+    "Fatty acids, total monounsaturated": {
+      "value": 33.8,
+      "unit": "g"
+    },
+    "Fatty acids, total polyunsaturated": {
+      "value": 31.9,
+      "unit": "g"
+    },
+    "Retinol": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Vitamin A, RAE": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Selenium, Se": {
+      "value": 0.0,
+      "unit": "ug"
+    }
+  }
+}

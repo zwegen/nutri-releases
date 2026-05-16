@@ -1,0 +1,266 @@
+{
+  "search_name": "date raw",
+  "display_name": "Date",
+  "data": {
+    "Vitamin D (D2 + D3), International Units": {
+      "value": 0.0,
+      "unit": "iu"
+    },
+    "Lutein + zeaxanthin": {
+      "value": 23.0,
+      "unit": "ug"
+    },
+    "Niacin": {
+      "value": 1.61,
+      "unit": "mg"
+    },
+    "Pantothenic acid": {
+      "value": 0.805,
+      "unit": "mg"
+    },
+    "Vitamin B-6": {
+      "value": 0.249,
+      "unit": "mg"
+    },
+    "Total lipid (fat)": {
+      "value": 0.15,
+      "unit": "g"
+    },
+    "Sucrose": {
+      "value": 0.53,
+      "unit": "g"
+    },
+    "Glucose": {
+      "value": 33.7,
+      "unit": "g"
+    },
+    "Maltose": {
+      "value": 0.3,
+      "unit": "g"
+    },
+    "Water": {
+      "value": 21.3,
+      "unit": "g"
+    },
+    "Total Sugars": {
+      "value": 66.5,
+      "unit": "g"
+    },
+    "Calcium, Ca": {
+      "value": 64.0,
+      "unit": "mg"
+    },
+    "Potassium, K": {
+      "value": 696,
+      "unit": "mg"
+    },
+    "Zinc, Zn": {
+      "value": 0.44,
+      "unit": "mg"
+    },
+    "Isoleucine": {
+      "value": 0.045,
+      "unit": "g"
+    },
+    "Leucine": {
+      "value": 0.082,
+      "unit": "g"
+    },
+    "Lysine": {
+      "value": 0.054,
+      "unit": "g"
+    },
+    "Cystine": {
+      "value": 0.046,
+      "unit": "g"
+    },
+    "Valine": {
+      "value": 0.066,
+      "unit": "g"
+    },
+    "Arginine": {
+      "value": 0.06,
+      "unit": "g"
+    },
+    "Histidine": {
+      "value": 0.029,
+      "unit": "g"
+    },
+    "Aspartic acid": {
+      "value": 0.22,
+      "unit": "g"
+    },
+    "Serine": {
+      "value": 0.062,
+      "unit": "g"
+    },
+    "Tryptophan": {
+      "value": 0.007,
+      "unit": "g"
+    },
+    "Threonine": {
+      "value": 0.042,
+      "unit": "g"
+    },
+    "Methionine": {
+      "value": 0.017,
+      "unit": "g"
+    },
+    "Phenylalanine": {
+      "value": 0.048,
+      "unit": "g"
+    },
+    "Tyrosine": {
+      "value": 0.016,
+      "unit": "g"
+    },
+    "Alanine": {
+      "value": 0.078,
+      "unit": "g"
+    },
+    "Glutamic acid": {
+      "value": 0.265,
+      "unit": "g"
+    },
+    "Glycine": {
+      "value": 0.09,
+      "unit": "g"
+    },
+    "Proline": {
+      "value": 0.111,
+      "unit": "g"
+    },
+    "Protein": {
+      "value": 1.81,
+      "unit": "g"
+    },
+    "Ash": {
+      "value": 1.74,
+      "unit": "g"
+    },
+    "Fructose": {
+      "value": 32.0,
+      "unit": "g"
+    },
+    "Lactose": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Galactose": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Fiber, total dietary": {
+      "value": 6.7,
+      "unit": "g"
+    },
+    "Iron, Fe": {
+      "value": 0.9,
+      "unit": "mg"
+    },
+    "Magnesium, Mg": {
+      "value": 54.0,
+      "unit": "mg"
+    },
+    "Phosphorus, P": {
+      "value": 62.0,
+      "unit": "mg"
+    },
+    "Sodium, Na": {
+      "value": 1.0,
+      "unit": "mg"
+    },
+    "Copper, Cu": {
+      "value": 0.362,
+      "unit": "mg"
+    },
+    "Manganese, Mn": {
+      "value": 0.296,
+      "unit": "mg"
+    },
+    "Vitamin A, IU": {
+      "value": 149,
+      "unit": "iu"
+    },
+    "Vitamin A, RAE": {
+      "value": 7.0,
+      "unit": "ug"
+    },
+    "Carotene, beta": {
+      "value": 89.0,
+      "unit": "ug"
+    },
+    "Carotene, alpha": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Cryptoxanthin, beta": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Lycopene": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Vitamin C, total ascorbic acid": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Thiamin": {
+      "value": 0.05,
+      "unit": "mg"
+    },
+    "Riboflavin": {
+      "value": 0.06,
+      "unit": "mg"
+    },
+    "Folate, total": {
+      "value": 15.0,
+      "unit": "ug"
+    },
+    "Vitamin K (Dihydrophylloquinone)": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Vitamin K (phylloquinone)": {
+      "value": 2.7,
+      "unit": "ug"
+    },
+    "Folate, food": {
+      "value": 15.0,
+      "unit": "ug"
+    },
+    "Energy": {
+      "value": 277,
+      "unit": "kcal"
+    },
+    "Carbohydrate, by difference": {
+      "value": 75.0,
+      "unit": "g"
+    },
+    "Choline, total": {
+      "value": 9.9,
+      "unit": "mg"
+    },
+    "Folate, DFE": {
+      "value": 15.0,
+      "unit": "ug"
+    },
+    "Betaine": {
+      "value": 0.4,
+      "unit": "mg"
+    },
+    "Folic acid": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Fatty acids, total trans": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Vitamin D (D2 + D3)": {
+      "value": 0.0,
+      "unit": "ug"
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "search_name": "seitan raw",
+  "display_name": "Seitan",
+  "data": {
+    "Vitamin A, IU": {
+      "value": 100,
+      "unit": "iu"
+    },
+    "Energy": {
+      "value": 69.0,
+      "unit": "kcal"
+    },
+    "Carbohydrate, by difference": {
+      "value": 17.6,
+      "unit": "g"
+    },
+    "Retinol": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Vitamin A, RAE": {
+      "value": 5.0,
+      "unit": "ug"
+    },
+    "Fatty acids, total trans": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Calcium, Ca": {
+      "value": 8.0,
+      "unit": "mg"
+    },
+    "Potassium, K": {
+      "value": 304,
+      "unit": "mg"
+    },
+    "Zinc, Zn": {
+      "value": 0.31,
+      "unit": "mg"
+    },
+    "Sucrose": {
+      "value": 0.05,
+      "unit": "g"
+    },
+    "Glucose": {
+      "value": 4.5,
+      "unit": "g"
+    },
+    "Maltose": {
+      "value": 0.2,
+      "unit": "g"
+    },
+    "Water": {
+      "value": 79.9,
+      "unit": "g"
+    },
+    "Total lipid (fat)": {
+      "value": 0.1,
+      "unit": "g"
+    },
+    "Protein": {
+      "value": 1.5,
+      "unit": "g"
+    },
+    "Ash": {
+      "value": 0.9,
+      "unit": "g"
+    },
+    "Fructose": {
+      "value": 3.8,
+      "unit": "g"
+    },
+    "Fatty acids, total saturated": {
+      "value": 0.014,
+      "unit": "g"
+    },
+    "Carotene, beta": {
+      "value": 60.0,
+      "unit": "ug"
+    },
+    "Carotene, alpha": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Vitamin C, total ascorbic acid": {
+      "value": 54.1,
+      "unit": "mg"
+    },
+    "Fiber, total dietary": {
+      "value": 5.3,
+      "unit": "g"
+    },
+    "Iron, Fe": {
+      "value": 1.61,
+      "unit": "mg"
+    },
+    "Magnesium, Mg": {
+      "value": 24.0,
+      "unit": "mg"
+    },
+    "Phosphorus, P": {
+      "value": 47.0,
+      "unit": "mg"
+    },
+    "Sodium, Na": {
+      "value": 20.0,
+      "unit": "mg"
+    },
+    "Copper, Cu": {
+      "value": 0.057,
+      "unit": "mg"
+    },
+    "Manganese, Mn": {
+      "value": 0.182,
+      "unit": "mg"
+    },
+    "Total Sugars": {
+      "value": 8.55,
+      "unit": "g"
+    },
+    "Lactose": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Galactose": {
+      "value": 0.0,
+      "unit": "g"
+    }
+  }
+}

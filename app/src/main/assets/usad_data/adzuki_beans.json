@@ -1,0 +1,242 @@
+{
+  "search_name": "adzuki beans raw",
+  "display_name": "Adzuki Beans",
+  "data": {
+    "Folic acid": {
+      "value": 0,
+      "unit": "ug"
+    },
+    "Folate, DFE": {
+      "value": 622,
+      "unit": "ug"
+    },
+    "Vitamin D (D2 + D3), International Units": {
+      "value": 0,
+      "unit": "iu"
+    },
+    "Fatty acids, total monounsaturated": {
+      "value": 0.05,
+      "unit": "g"
+    },
+    "Fatty acids, total polyunsaturated": {
+      "value": 0.113,
+      "unit": "g"
+    },
+    "Retinol": {
+      "value": 0,
+      "unit": "ug"
+    },
+    "Vitamin A, RAE": {
+      "value": 1,
+      "unit": "ug"
+    },
+    "Fatty acids, total trans": {
+      "value": 0,
+      "unit": "g"
+    },
+    "Vitamin D (D2 + D3)": {
+      "value": 0,
+      "unit": "ug"
+    },
+    "Vitamin C, total ascorbic acid": {
+      "value": 0,
+      "unit": "mg"
+    },
+    "Thiamin": {
+      "value": 0.455,
+      "unit": "mg"
+    },
+    "Riboflavin": {
+      "value": 0.22,
+      "unit": "mg"
+    },
+    "Folate, total": {
+      "value": 622,
+      "unit": "ug"
+    },
+    "Vitamin B-12": {
+      "value": 0,
+      "unit": "ug"
+    },
+    "Folate, food": {
+      "value": 622,
+      "unit": "ug"
+    },
+    "Tryptophan": {
+      "value": 0.191,
+      "unit": "g"
+    },
+    "Threonine": {
+      "value": 0.674,
+      "unit": "g"
+    },
+    "Methionine": {
+      "value": 0.21,
+      "unit": "g"
+    },
+    "Phenylalanine": {
+      "value": 1.05,
+      "unit": "g"
+    },
+    "Tyrosine": {
+      "value": 0.591,
+      "unit": "g"
+    },
+    "Alanine": {
+      "value": 1.16,
+      "unit": "g"
+    },
+    "Glutamic acid": {
+      "value": 3.1,
+      "unit": "g"
+    },
+    "Glycine": {
+      "value": 0.756,
+      "unit": "g"
+    },
+    "Proline": {
+      "value": 0.874,
+      "unit": "g"
+    },
+    "Cholesterol": {
+      "value": 0,
+      "unit": "mg"
+    },
+    "Fatty acids, total saturated": {
+      "value": 0.191,
+      "unit": "g"
+    },
+    "Phytosterols": {
+      "value": 76,
+      "unit": "mg"
+    },
+    "Fiber, total dietary": {
+      "value": 12.7,
+      "unit": "g"
+    },
+    "Iron, Fe": {
+      "value": 4.98,
+      "unit": "mg"
+    },
+    "Magnesium, Mg": {
+      "value": 127,
+      "unit": "mg"
+    },
+    "Phosphorus, P": {
+      "value": 381,
+      "unit": "mg"
+    },
+    "Sodium, Na": {
+      "value": 5,
+      "unit": "mg"
+    },
+    "Copper, Cu": {
+      "value": 1.09,
+      "unit": "mg"
+    },
+    "Manganese, Mn": {
+      "value": 1.73,
+      "unit": "mg"
+    },
+    "Vitamin A, IU": {
+      "value": 17,
+      "unit": "iu"
+    },
+    "Protein": {
+      "value": 19.9,
+      "unit": "g"
+    },
+    "Ash": {
+      "value": 3.26,
+      "unit": "g"
+    },
+    "Isoleucine": {
+      "value": 0.791,
+      "unit": "g"
+    },
+    "Leucine": {
+      "value": 1.67,
+      "unit": "g"
+    },
+    "Lysine": {
+      "value": 1.5,
+      "unit": "g"
+    },
+    "Cystine": {
+      "value": 0.184,
+      "unit": "g"
+    },
+    "Valine": {
+      "value": 1.02,
+      "unit": "g"
+    },
+    "Arginine": {
+      "value": 1.28,
+      "unit": "g"
+    },
+    "Histidine": {
+      "value": 0.524,
+      "unit": "g"
+    },
+    "Aspartic acid": {
+      "value": 2.36,
+      "unit": "g"
+    },
+    "Serine": {
+      "value": 0.976,
+      "unit": "g"
+    },
+    "MUFA 18:1": {
+      "value": 0.05,
+      "unit": "g"
+    },
+    "PUFA 18:2": {
+      "value": 0.113,
+      "unit": "g"
+    },
+    "Niacin": {
+      "value": 2.63,
+      "unit": "mg"
+    },
+    "Pantothenic acid": {
+      "value": 1.47,
+      "unit": "mg"
+    },
+    "Vitamin B-6": {
+      "value": 0.351,
+      "unit": "mg"
+    },
+    "Total lipid (fat)": {
+      "value": 0.53,
+      "unit": "g"
+    },
+    "Carbohydrate, by difference": {
+      "value": 62.9,
+      "unit": "g"
+    },
+    "Water": {
+      "value": 13.4,
+      "unit": "g"
+    },
+    "Calcium, Ca": {
+      "value": 66,
+      "unit": "mg"
+    },
+    "Potassium, K": {
+      "value": 1250,
+      "unit": "mg"
+    },
+    "Zinc, Zn": {
+      "value": 5.04,
+      "unit": "mg"
+    },
+    "Selenium, Se": {
+      "value": 3.1,
+      "unit": "ug"
+    },
+    "Energy": {
+      "value": 329,
+      "unit": "kcal"
+    }
+  }
+}

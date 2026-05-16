@@ -1,0 +1,218 @@
+{
+  "search_name": "greek yogurt",
+  "display_name": "Greek Yogurt",
+  "data": {
+    "Total lipid (fat)": {
+      "value": 0.24,
+      "unit": "g"
+    },
+    "Carbohydrate, by difference": {
+      "value": 12.8,
+      "unit": "g"
+    },
+    "Energy": {
+      "value": 82.0,
+      "unit": "kcal"
+    },
+    "Sucrose": {
+      "value": 5.05,
+      "unit": "g"
+    },
+    "Vitamin D2 (ergocalciferol)": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Isoleucine": {
+      "value": 0.391,
+      "unit": "g"
+    },
+    "Leucine": {
+      "value": 0.72,
+      "unit": "g"
+    },
+    "Lysine": {
+      "value": 0.62,
+      "unit": "g"
+    },
+    "Cystine": {
+      "value": 0.046,
+      "unit": "g"
+    },
+    "Valine": {
+      "value": 0.475,
+      "unit": "g"
+    },
+    "Arginine": {
+      "value": 0.26,
+      "unit": "g"
+    },
+    "Histidine": {
+      "value": 0.207,
+      "unit": "g"
+    },
+    "Aspartic acid": {
+      "value": 0.574,
+      "unit": "g"
+    },
+    "Serine": {
+      "value": 0.398,
+      "unit": "g"
+    },
+    "Fatty acids, total monounsaturated": {
+      "value": 0.037,
+      "unit": "g"
+    },
+    "Fatty acids, total polyunsaturated": {
+      "value": 0.037,
+      "unit": "g"
+    },
+    "Glucose": {
+      "value": 1.49,
+      "unit": "g"
+    },
+    "Maltose": {
+      "value": 0.11,
+      "unit": "g"
+    },
+    "Water": {
+      "value": 79.2,
+      "unit": "g"
+    },
+    "Caffeine": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Total Sugars": {
+      "value": 10.3,
+      "unit": "g"
+    },
+    "Calcium, Ca": {
+      "value": 90.0,
+      "unit": "mg"
+    },
+    "Potassium, K": {
+      "value": 128,
+      "unit": "mg"
+    },
+    "Protein": {
+      "value": 7.23,
+      "unit": "g"
+    },
+    "Ash": {
+      "value": 0.55,
+      "unit": "g"
+    },
+    "Fructose": {
+      "value": 1.75,
+      "unit": "g"
+    },
+    "Lactose": {
+      "value": 2.01,
+      "unit": "g"
+    },
+    "Alcohol, ethyl": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Fiber, total dietary": {
+      "value": 0.5,
+      "unit": "g"
+    },
+    "Iron, Fe": {
+      "value": 0.15,
+      "unit": "mg"
+    },
+    "Sodium, Na": {
+      "value": 32.0,
+      "unit": "mg"
+    },
+    "Vitamin A, IU": {
+      "value": 62.0,
+      "unit": "iu"
+    },
+    "Retinol": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Vitamin A, RAE": {
+      "value": 3.0,
+      "unit": "ug"
+    },
+    "Carotene, beta": {
+      "value": 37.0,
+      "unit": "ug"
+    },
+    "Carotene, alpha": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Vitamin D3 (cholecalciferol)": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Vitamin D (D2 + D3)": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Cryptoxanthin, beta": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Vitamin C, total ascorbic acid": {
+      "value": 0.3,
+      "unit": "mg"
+    },
+    "Tryptophan": {
+      "value": 0.107,
+      "unit": "g"
+    },
+    "Threonine": {
+      "value": 0.322,
+      "unit": "g"
+    },
+    "Methionine": {
+      "value": 0.199,
+      "unit": "g"
+    },
+    "Phenylalanine": {
+      "value": 0.36,
+      "unit": "g"
+    },
+    "Tyrosine": {
+      "value": 0.36,
+      "unit": "g"
+    },
+    "Alanine": {
+      "value": 0.245,
+      "unit": "g"
+    },
+    "Glutamic acid": {
+      "value": 1.55,
+      "unit": "g"
+    },
+    "Glycine": {
+      "value": 0.138,
+      "unit": "g"
+    },
+    "Proline": {
+      "value": 0.735,
+      "unit": "g"
+    },
+    "Cholesterol": {
+      "value": 4.0,
+      "unit": "mg"
+    },
+    "Fatty acids, total trans": {
+      "value": 0.007,
+      "unit": "g"
+    },
+    "Fatty acids, total saturated": {
+      "value": 0.037,
+      "unit": "g"
+    },
+    "Vitamin D (D2 + D3), International Units": {
+      "value": 0.0,
+      "unit": "iu"
+    }
+  }
+}

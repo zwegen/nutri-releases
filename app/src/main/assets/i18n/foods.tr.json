@@ -1,23 +1,1703 @@
 [
   {
-    "key": "Sample Apple",
-    "label": "Sample Apple",
+    "key": "Lupin Bean",
+    "label": "Acı bakla",
+    "aliases": []
+  },
+  {
+    "key": "Chili Pepper",
+    "label": "Acı biber",
+    "aliases": []
+  },
+  {
+    "key": "Sage",
+    "label": "Adaçayı",
+    "aliases": []
+  },
+  {
+    "key": "Adzuki Beans",
+    "label": "Adzuki Beans",
+    "aliases": []
+  },
+  {
+    "key": "Octopus",
+    "label": "Ahtapot",
     "aliases": [
-      "Example fruit"
+      "Octopus"
     ]
   },
   {
-    "key": "Sample Lentils",
-    "label": "Sample Lentils",
+    "key": "Raspberry",
+    "label": "Ahududu",
+    "aliases": []
+  },
+  {
+    "key": "Maple Syrup",
+    "label": "Akçaağaç şurubu",
+    "aliases": []
+  },
+  {
+    "key": "Trout",
+    "label": "Alabalık",
+    "aliases": []
+  },
+  {
+    "key": "Kohlrabi",
+    "label": "Alabaş",
+    "aliases": []
+  },
+  {
+    "key": "Amaranth",
+    "label": "Amarant",
+    "aliases": []
+  },
+  {
+    "key": "Pineapple",
+    "label": "Ananas",
+    "aliases": []
+  },
+  {
+    "key": "Anise",
+    "label": "Anason",
+    "aliases": []
+  },
+  {
+    "key": "Pistachio",
+    "label": "Antep fıstığı",
+    "aliases": []
+  },
+  {
+    "key": "Pear",
+    "label": "Armut",
+    "aliases": []
+  },
+  {
+    "key": "Barley",
+    "label": "Arpa",
+    "aliases": []
+  },
+  {
+    "key": "Shallot",
+    "label": "Arpacık soğan",
+    "aliases": []
+  },
+  {
+    "key": "Grape Leaves",
+    "label": "Asma yaprağı",
     "aliases": [
-      "Example legume"
+      "Grape Leaves"
     ]
   },
   {
-    "key": "Sample Salmon",
-    "label": "Sample Salmon",
+    "key": "Avocado",
+    "label": "Avokado",
+    "aliases": []
+  },
+  {
+    "key": "Avocado Oil",
+    "label": "Avokado yağı",
+    "aliases": []
+  },
+  {
+    "key": "Iceberg Lettuce",
+    "label": "Aysberg marul",
+    "aliases": []
+  },
+  {
+    "key": "Quince",
+    "label": "Ayva",
+    "aliases": []
+  },
+  {
+    "key": "Sunflower Seed",
+    "label": "Ayçekirdeği",
+    "aliases": []
+  },
+  {
+    "key": "Sunflower Oil",
+    "label": "Ayçiçek yağı",
+    "aliases": []
+  },
+  {
+    "key": "Bacon",
+    "label": "Bacon",
+    "aliases": []
+  },
+  {
+    "key": "Almond",
+    "label": "Badem",
+    "aliases": []
+  },
+  {
+    "key": "Almond Butter",
+    "label": "Badem ezmesi",
+    "aliases": []
+  },
+  {
+    "key": "Baguette",
+    "label": "Baget ekmek",
+    "aliases": []
+  },
+  {
+    "key": "Fava Bean",
+    "label": "Bakla",
+    "aliases": []
+  },
+  {
+    "key": "Honey",
+    "label": "Bal",
+    "aliases": []
+  },
+  {
+    "key": "Pumpkin",
+    "label": "Balkabağı",
+    "aliases": []
+  },
+  {
+    "key": "Balsamic Vinegar",
+    "label": "Balzamik sirke",
+    "aliases": []
+  },
+  {
+    "key": "Bamboo Shoots",
+    "label": "Bamboo Shoots",
+    "aliases": []
+  },
+  {
+    "key": "Okra",
+    "label": "Bamya",
+    "aliases": []
+  },
+  {
+    "key": "Kidney Bean",
+    "label": "Barbunya",
+    "aliases": []
+  },
+  {
+    "key": "White Bread",
+    "label": "Beyaz ekmek",
+    "aliases": []
+  },
+  {
+    "key": "White Cabbage",
+    "label": "Beyaz lahana",
+    "aliases": []
+  },
+  {
+    "key": "Feta Cheese",
+    "label": "Beyaz peynir",
+    "aliases": []
+  },
+  {
+    "key": "White Rice",
+    "label": "Beyaz pirinç",
+    "aliases": []
+  },
+  {
+    "key": "White Bread Roll",
+    "label": "Beyaz sandviç ekmeği",
+    "aliases": []
+  },
+  {
+    "key": "White Flour",
+    "label": "Beyaz un",
+    "aliases": []
+  },
+  {
+    "key": "Green Pea",
+    "label": "Bezelye",
+    "aliases": []
+  },
+  {
+    "key": "Rosemary",
+    "label": "Biberiye",
+    "aliases": []
+  },
+  {
+    "key": "Bison",
+    "label": "Bison",
+    "aliases": []
+  },
+  {
+    "key": "Black Currant",
+    "label": "Black Currant",
+    "aliases": []
+  },
+  {
+    "key": "Brazil Nut",
+    "label": "Brezilya cevizi",
+    "aliases": []
+  },
+  {
+    "key": "Brie",
+    "label": "Brie",
+    "aliases": []
+  },
+  {
+    "key": "Broccoli",
+    "label": "Brokoli",
+    "aliases": []
+  },
+  {
+    "key": "Brussels Sprouts",
+    "label": "Brüksel lahanası",
+    "aliases": []
+  },
+  {
+    "key": "Bulgur",
+    "label": "Bulgur",
+    "aliases": []
+  },
+  {
+    "key": "Butternut Squash",
+    "label": "Butternut kabağı",
     "aliases": [
-      "Example fish"
+      "Butternut Squash"
     ]
+  },
+  {
+    "key": "Wheat",
+    "label": "Buğday",
+    "aliases": []
+  },
+  {
+    "key": "Blackberry",
+    "label": "Böğürtlen",
+    "aliases": []
+  },
+  {
+    "key": "Camembert Cheese",
+    "label": "Camembert peyniri",
+    "aliases": []
+  },
+  {
+    "key": "Cassava",
+    "label": "Cassava",
+    "aliases": []
+  },
+  {
+    "key": "Walnut",
+    "label": "Ceviz",
+    "aliases": []
+  },
+  {
+    "key": "Walnut Oil",
+    "label": "Ceviz yağı",
+    "aliases": []
+  },
+  {
+    "key": "Chayote",
+    "label": "Chayote",
+    "aliases": []
+  },
+  {
+    "key": "Cheddar Cheese",
+    "label": "Cheddar peyniri",
+    "aliases": []
+  },
+  {
+    "key": "Chia Seed",
+    "label": "Chia tohumu",
+    "aliases": []
+  },
+  {
+    "key": "Chorizo",
+    "label": "Chorizo",
+    "aliases": []
+  },
+  {
+    "key": "Corn Tortilla",
+    "label": "Corn Tortilla",
+    "aliases": []
+  },
+  {
+    "key": "Cotija Cheese",
+    "label": "Cotija Cheese",
+    "aliases": []
+  },
+  {
+    "key": "Crayfish",
+    "label": "Crayfish",
+    "aliases": []
+  },
+  {
+    "key": "Veal",
+    "label": "Dana",
+    "aliases": []
+  },
+  {
+    "key": "Beef",
+    "label": "Dana eti",
+    "aliases": []
+  },
+  {
+    "key": "Ground Beef",
+    "label": "Dana kıyma",
+    "aliases": []
+  },
+  {
+    "key": "Millet",
+    "label": "Darı",
+    "aliases": []
+  },
+  {
+    "key": "Bay Leaf",
+    "label": "Defne yaprağı",
+    "aliases": []
+  },
+  {
+    "key": "Sea Buckthorn",
+    "label": "Deniz iğdesi",
+    "aliases": []
+  },
+  {
+    "key": "Dill",
+    "label": "Dereotu",
+    "aliases": []
+  },
+  {
+    "key": "Tomato",
+    "label": "Domates",
+    "aliases": []
+  },
+  {
+    "key": "Tomato Paste",
+    "label": "Domates salçası",
+    "aliases": []
+  },
+  {
+    "key": "Pork",
+    "label": "Domuz eti",
+    "aliases": []
+  },
+  {
+    "key": "Ground Pork",
+    "label": "Domuz kıyma",
+    "aliases": []
+  },
+  {
+    "key": "Duck",
+    "label": "Duck",
+    "aliases": []
+  },
+  {
+    "key": "Edamame",
+    "label": "Edamame",
+    "aliases": []
+  },
+  {
+    "key": "Eel",
+    "label": "Eel",
+    "aliases": []
+  },
+  {
+    "key": "Sour Cream",
+    "label": "Ekşi krema",
+    "aliases": [
+      "Sour Cream"
+    ]
+  },
+  {
+    "key": "Apple",
+    "label": "Elma",
+    "aliases": []
+  },
+  {
+    "key": "Apple Cider Vinegar",
+    "label": "Elma sirkesi",
+    "aliases": []
+  },
+  {
+    "key": "Emmental Cheese",
+    "label": "Emmental peyniri",
+    "aliases": []
+  },
+  {
+    "key": "Artichoke",
+    "label": "Enginar",
+    "aliases": []
+  },
+  {
+    "key": "Plum",
+    "label": "Erik",
+    "aliases": []
+  },
+  {
+    "key": "Brown Rice",
+    "label": "Esmer pirinç",
+    "aliases": []
+  },
+  {
+    "key": "Basil",
+    "label": "Fesleğen",
+    "aliases": []
+  },
+  {
+    "key": "Chervil",
+    "label": "Frenk maydanozu",
+    "aliases": []
+  },
+  {
+    "key": "Chives",
+    "label": "Frenk soğanı",
+    "aliases": []
+  },
+  {
+    "key": "Currant",
+    "label": "Frenk üzümü",
+    "aliases": []
+  },
+  {
+    "key": "Hazelnut",
+    "label": "Fındık",
+    "aliases": []
+  },
+  {
+    "key": "Hazelnut Butter",
+    "label": "Fındık ezmesi",
+    "aliases": []
+  },
+  {
+    "key": "Peanut Butter",
+    "label": "Fıstık ezmesi",
+    "aliases": []
+  },
+  {
+    "key": "Gnocchi",
+    "label": "Gnocchi",
+    "aliases": []
+  },
+  {
+    "key": "Goose",
+    "label": "Goose",
+    "aliases": []
+  },
+  {
+    "key": "Gooseberry",
+    "label": "Gooseberry",
+    "aliases": []
+  },
+  {
+    "key": "Gouda Cheese",
+    "label": "Gouda peyniri",
+    "aliases": []
+  },
+  {
+    "key": "Grapefruit",
+    "label": "Greyfurt",
+    "aliases": []
+  },
+  {
+    "key": "Guava",
+    "label": "Guava",
+    "aliases": []
+  },
+  {
+    "key": "Anchovy",
+    "label": "Hamsi",
+    "aliases": []
+  },
+  {
+    "key": "Mustard",
+    "label": "Hardal",
+    "aliases": []
+  },
+  {
+    "key": "Mustard Seed",
+    "label": "Hardal tohumu",
+    "aliases": []
+  },
+  {
+    "key": "Carrot",
+    "label": "Havuç",
+    "aliases": []
+  },
+  {
+    "key": "Poppy Seed",
+    "label": "Haşhaş tohumu",
+    "aliases": []
+  },
+  {
+    "key": "Hibiscus Tea",
+    "label": "Hibiskus çayı",
+    "aliases": []
+  },
+  {
+    "key": "Turkey",
+    "label": "Hindi eti",
+    "aliases": []
+  },
+  {
+    "key": "Turkey Breast",
+    "label": "Hindi göğsü",
+    "aliases": []
+  },
+  {
+    "key": "Endive",
+    "label": "Hindiba",
+    "aliases": []
+  },
+  {
+    "key": "Coconut Oil",
+    "label": "Hindistan cevizi yağı",
+    "aliases": []
+  },
+  {
+    "key": "Date",
+    "label": "Hurma",
+    "aliases": []
+  },
+  {
+    "key": "Spinach",
+    "label": "Ispanak",
+    "aliases": []
+  },
+  {
+    "key": "Fig",
+    "label": "İncir",
+    "aliases": []
+  },
+  {
+    "key": "Semolina",
+    "label": "İrmik",
+    "aliases": []
+  },
+  {
+    "key": "Oyster Mushroom",
+    "label": "İstiridye mantarı",
+    "aliases": []
+  },
+  {
+    "key": "Lard",
+    "label": "İç yağ",
+    "aliases": []
+  },
+  {
+    "key": "Jalapeño Pepper",
+    "label": "Jalapeño Pepper",
+    "aliases": []
+  },
+  {
+    "key": "Ham",
+    "label": "Jambon",
+    "aliases": []
+  },
+  {
+    "key": "Jicama",
+    "label": "Jicama",
+    "aliases": []
+  },
+  {
+    "key": "Zucchini",
+    "label": "Kabak",
+    "aliases": []
+  },
+  {
+    "key": "Pumpkin Seed",
+    "label": "Kabak çekirdeği",
+    "aliases": []
+  },
+  {
+    "key": "Coffee",
+    "label": "Kahve",
+    "aliases": []
+  },
+  {
+    "key": "Cashew",
+    "label": "Kaju",
+    "aliases": []
+  },
+  {
+    "key": "Cocoa Powder",
+    "label": "Kakao tozu",
+    "aliases": []
+  },
+  {
+    "key": "Cardamom",
+    "label": "Kakule",
+    "aliases": []
+  },
+  {
+    "key": "Squid",
+    "label": "Kalamar",
+    "aliases": [
+      "Squid"
+    ]
+  },
+  {
+    "key": "Canola Oil",
+    "label": "Kanola yağı",
+    "aliases": []
+  },
+  {
+    "key": "Capers",
+    "label": "Kapari",
+    "aliases": []
+  },
+  {
+    "key": "Collard Greens",
+    "label": "Kara lahana",
+    "aliases": [
+      "Collard Greens"
+    ]
+  },
+  {
+    "key": "Black Pepper",
+    "label": "Karabiber",
+    "aliases": []
+  },
+  {
+    "key": "Buckwheat",
+    "label": "Karabuğday",
+    "aliases": []
+  },
+  {
+    "key": "Liver",
+    "label": "Karaciğer",
+    "aliases": []
+  },
+  {
+    "key": "Black Salsify",
+    "label": "Karahindiba kökü",
+    "aliases": []
+  },
+  {
+    "key": "Clove",
+    "label": "Karanfil",
+    "aliases": []
+  },
+  {
+    "key": "Shrimp",
+    "label": "Karides",
+    "aliases": []
+  },
+  {
+    "key": "Cauliflower",
+    "label": "Karnabahar",
+    "aliases": []
+  },
+  {
+    "key": "Watermelon",
+    "label": "Karpuz",
+    "aliases": []
+  },
+  {
+    "key": "Mixed Ground Meat",
+    "label": "Karışık kıyma",
+    "aliases": []
+  },
+  {
+    "key": "Melon",
+    "label": "Kavun",
+    "aliases": []
+  },
+  {
+    "key": "Spelt",
+    "label": "Kavılca",
+    "aliases": []
+  },
+  {
+    "key": "Spelt Flakes",
+    "label": "Kavılca ezmesi",
+    "aliases": []
+  },
+  {
+    "key": "Apricot",
+    "label": "Kayısı",
+    "aliases": []
+  },
+  {
+    "key": "Kefir",
+    "label": "Kefir",
+    "aliases": []
+  },
+  {
+    "key": "Oregano",
+    "label": "Kekik",
+    "aliases": []
+  },
+  {
+    "key": "Thyme",
+    "label": "Kekik otu",
+    "aliases": []
+  },
+  {
+    "key": "Hemp Seed",
+    "label": "Kenevir tohumu",
+    "aliases": []
+  },
+  {
+    "key": "Celery Root",
+    "label": "Kereviz kökü",
+    "aliases": []
+  },
+  {
+    "key": "Lovage",
+    "label": "Kereviz otu",
+    "aliases": []
+  },
+  {
+    "key": "Celery Stalk",
+    "label": "Kereviz sapı",
+    "aliases": []
+  },
+  {
+    "key": "Flaxseed",
+    "label": "Keten tohumu",
+    "aliases": []
+  },
+  {
+    "key": "Flaxseed Oil",
+    "label": "Keten tohumu yağı",
+    "aliases": []
+  },
+  {
+    "key": "Goat Cheese",
+    "label": "Keçi peyniri",
+    "aliases": []
+  },
+  {
+    "key": "Cumin",
+    "label": "Kimyon",
+    "aliases": []
+  },
+  {
+    "key": "Caraway",
+    "label": "Kimyon otu",
+    "aliases": []
+  },
+  {
+    "key": "Quinoa",
+    "label": "Kinoa",
+    "aliases": []
+  },
+  {
+    "key": "Cherry",
+    "label": "Kiraz",
+    "aliases": []
+  },
+  {
+    "key": "Kiwi",
+    "label": "Kivi",
+    "aliases": []
+  },
+  {
+    "key": "Coriander",
+    "label": "Kişniş",
+    "aliases": []
+  },
+  {
+    "key": "King Oyster Mushroom",
+    "label": "Kral istiridye mantarı",
+    "aliases": []
+  },
+  {
+    "key": "Cream Cheese",
+    "label": "Krem peynir",
+    "aliases": []
+  },
+  {
+    "key": "Cream",
+    "label": "Krema",
+    "aliases": []
+  },
+  {
+    "key": "White Bean",
+    "label": "Kuru fasulye",
+    "aliases": []
+  },
+  {
+    "key": "Raisin",
+    "label": "Kuru üzüm",
+    "aliases": []
+  },
+  {
+    "key": "Couscous",
+    "label": "Kuskus",
+    "aliases": []
+  },
+  {
+    "key": "Lamb",
+    "label": "Kuzu eti",
+    "aliases": []
+  },
+  {
+    "key": "Lamb's Lettuce",
+    "label": "Kuzu marulu",
+    "aliases": []
+  },
+  {
+    "key": "Asparagus",
+    "label": "Kuşkonmaz",
+    "aliases": []
+  },
+  {
+    "key": "Curry Powder",
+    "label": "Köri tozu",
+    "aliases": []
+  },
+  {
+    "key": "Button Mushroom",
+    "label": "Kültür mantarı",
+    "aliases": []
+  },
+  {
+    "key": "Red Bell Pepper",
+    "label": "Kırmızı dolmalık biber",
+    "aliases": []
+  },
+  {
+    "key": "Red Cabbage",
+    "label": "Kırmızı lahana",
+    "aliases": []
+  },
+  {
+    "key": "Lingonberry",
+    "label": "Kırmızı yaban mersini",
+    "aliases": []
+  },
+  {
+    "key": "Kale",
+    "label": "Kıvırcık lahana",
+    "aliases": []
+  },
+  {
+    "key": "Sauerkraut",
+    "label": "Lahana turşusu",
+    "aliases": []
+  },
+  {
+    "key": "Sea Bass",
+    "label": "Levrek",
+    "aliases": []
+  },
+  {
+    "key": "Lima Beans",
+    "label": "Lima fasulyesi",
+    "aliases": [
+      "Lima Beans"
+    ]
+  },
+  {
+    "key": "Lemon",
+    "label": "Limon",
+    "aliases": []
+  },
+  {
+    "key": "Litchi",
+    "label": "Litchi",
+    "aliases": []
+  },
+  {
+    "key": "Lobster",
+    "label": "Lobster",
+    "aliases": []
+  },
+  {
+    "key": "Cottage Cheese",
+    "label": "Lor peyniri",
+    "aliases": []
+  },
+  {
+    "key": "Macadamia",
+    "label": "Makademya",
+    "aliases": []
+  },
+  {
+    "key": "Pasta",
+    "label": "Makarna",
+    "aliases": []
+  },
+  {
+    "key": "Mandarin",
+    "label": "Mandalina",
+    "aliases": []
+  },
+  {
+    "key": "Mango",
+    "label": "Mango",
+    "aliases": []
+  },
+  {
+    "key": "Masa Harina",
+    "label": "Masa Harina",
+    "aliases": []
+  },
+  {
+    "key": "Mascarpone Cheese",
+    "label": "Mascarpone peyniri",
+    "aliases": []
+  },
+  {
+    "key": "Parsley",
+    "label": "Maydanoz",
+    "aliases": []
+  },
+  {
+    "key": "Mung Bean",
+    "label": "Maş fasulyesi",
+    "aliases": []
+  },
+  {
+    "key": "Lemon Balm",
+    "label": "Melisa",
+    "aliases": []
+  },
+  {
+    "key": "Marjoram",
+    "label": "Mercanköşk",
+    "aliases": []
+  },
+  {
+    "key": "Lentil",
+    "label": "Mercimek",
+    "aliases": []
+  },
+  {
+    "key": "Lentil Sprouts",
+    "label": "Mercimek filizi",
+    "aliases": []
+  },
+  {
+    "key": "Haddock",
+    "label": "Mezgit",
+    "aliases": []
+  },
+  {
+    "key": "Acorn Squash",
+    "label": "Meşe palamudu kabağı",
+    "aliases": [
+      "Acorn Squash"
+    ]
+  },
+  {
+    "key": "Mussel",
+    "label": "Midye",
+    "aliases": []
+  },
+  {
+    "key": "Lime",
+    "label": "Misket limonu",
+    "aliases": []
+  },
+  {
+    "key": "Miso",
+    "label": "Miso",
+    "aliases": []
+  },
+  {
+    "key": "Molasses",
+    "label": "Molasses",
+    "aliases": []
+  },
+  {
+    "key": "Cod",
+    "label": "Morina",
+    "aliases": []
+  },
+  {
+    "key": "Mozzarella",
+    "label": "Mozzarella",
+    "aliases": []
+  },
+  {
+    "key": "Nutmeg",
+    "label": "Muskat",
+    "aliases": []
+  },
+  {
+    "key": "Mustard Greens",
+    "label": "Mustard Greens",
+    "aliases": []
+  },
+  {
+    "key": "Banana",
+    "label": "Muz",
+    "aliases": []
+  },
+  {
+    "key": "Elderberry",
+    "label": "Mürver",
+    "aliases": []
+  },
+  {
+    "key": "Corn",
+    "label": "Mısır",
+    "aliases": []
+  },
+  {
+    "key": "Corn Grits",
+    "label": "Mısır irmiği",
+    "aliases": []
+  },
+  {
+    "key": "Corn Oil",
+    "label": "Mısır yağı",
+    "aliases": []
+  },
+  {
+    "key": "Mint",
+    "label": "Nane",
+    "aliases": []
+  },
+  {
+    "key": "Pomegranate",
+    "label": "Nar",
+    "aliases": []
+  },
+  {
+    "key": "Navy Beans",
+    "label": "Navy Beans",
+    "aliases": []
+  },
+  {
+    "key": "Nectarine",
+    "label": "Nektarin",
+    "aliases": []
+  },
+  {
+    "key": "Chickpea",
+    "label": "Nohut",
+    "aliases": []
+  },
+  {
+    "key": "Nopal",
+    "label": "Nopal",
+    "aliases": []
+  },
+  {
+    "key": "Oat Flour",
+    "label": "Oat Flour",
+    "aliases": []
+  },
+  {
+    "key": "Oolong Tea",
+    "label": "Oolong çayı",
+    "aliases": []
+  },
+  {
+    "key": "Pak Choi",
+    "label": "Pak choi",
+    "aliases": []
+  },
+  {
+    "key": "Beetroot",
+    "label": "Pancar",
+    "aliases": []
+  },
+  {
+    "key": "Chamomile Tea",
+    "label": "Papatya çayı",
+    "aliases": []
+  },
+  {
+    "key": "Papaya",
+    "label": "Papaya",
+    "aliases": []
+  },
+  {
+    "key": "Parmesan Cheese",
+    "label": "Parmesan peyniri",
+    "aliases": []
+  },
+  {
+    "key": "Passion Fruit",
+    "label": "Passion Fruit",
+    "aliases": []
+  },
+  {
+    "key": "Potato",
+    "label": "Patates",
+    "aliases": []
+  },
+  {
+    "key": "Eggplant",
+    "label": "Patlıcan",
+    "aliases": []
+  },
+  {
+    "key": "Swiss Chard",
+    "label": "Pazı",
+    "aliases": []
+  },
+  {
+    "key": "Pecan",
+    "label": "Pekan cevizi",
+    "aliases": []
+  },
+  {
+    "key": "Persimmon",
+    "label": "Persimmon",
+    "aliases": []
+  },
+  {
+    "key": "Pinto Bean",
+    "label": "Pinto fasulyesi",
+    "aliases": []
+  },
+  {
+    "key": "Halibut",
+    "label": "Pisi balığı",
+    "aliases": []
+  },
+  {
+    "key": "Plantain",
+    "label": "Plantain",
+    "aliases": []
+  },
+  {
+    "key": "Poblano Pepper",
+    "label": "Poblano Pepper",
+    "aliases": []
+  },
+  {
+    "key": "Polenta",
+    "label": "Polenta",
+    "aliases": []
+  },
+  {
+    "key": "Orange",
+    "label": "Portakal",
+    "aliases": []
+  },
+  {
+    "key": "Prickly Pear",
+    "label": "Prickly Pear",
+    "aliases": []
+  },
+  {
+    "key": "Leek",
+    "label": "Pırasa",
+    "aliases": []
+  },
+  {
+    "key": "Quark",
+    "label": "Quark",
+    "aliases": []
+  },
+  {
+    "key": "Queso Fresco",
+    "label": "Queso Fresco",
+    "aliases": []
+  },
+  {
+    "key": "Rabbit",
+    "label": "Rabbit",
+    "aliases": []
+  },
+  {
+    "key": "Radicchio",
+    "label": "Radicchio",
+    "aliases": []
+  },
+  {
+    "key": "Rhubarb",
+    "label": "Ravent",
+    "aliases": []
+  },
+  {
+    "key": "Red Currant",
+    "label": "Red Currant",
+    "aliases": []
+  },
+  {
+    "key": "Fennel",
+    "label": "Rezene",
+    "aliases": []
+  },
+  {
+    "key": "Fennel Seed",
+    "label": "Rezene tohumu",
+    "aliases": []
+  },
+  {
+    "key": "Ricotta Cheese",
+    "label": "Ricotta peyniri",
+    "aliases": []
+  },
+  {
+    "key": "Herring",
+    "label": "Ringa balığı",
+    "aliases": []
+  },
+  {
+    "key": "Arugula",
+    "label": "Roka",
+    "aliases": []
+  },
+  {
+    "key": "Romanesco",
+    "label": "Romanesco",
+    "aliases": []
+  },
+  {
+    "key": "Rutabaga",
+    "label": "Rutabaga",
+    "aliases": []
+  },
+  {
+    "key": "Rye Flour",
+    "label": "Rye Flour",
+    "aliases": []
+  },
+  {
+    "key": "Salami",
+    "label": "Salami",
+    "aliases": []
+  },
+  {
+    "key": "Cucumber",
+    "label": "Salatalık",
+    "aliases": []
+  },
+  {
+    "key": "Sardine",
+    "label": "Sardalya",
+    "aliases": []
+  },
+  {
+    "key": "Yellow Bell Pepper",
+    "label": "Sarı dolmalık biber",
+    "aliases": []
+  },
+  {
+    "key": "Mirabelle Plum",
+    "label": "Sarı erik",
+    "aliases": []
+  },
+  {
+    "key": "Garlic",
+    "label": "Sarımsak",
+    "aliases": []
+  },
+  {
+    "key": "Carp",
+    "label": "Sazan",
+    "aliases": [
+      "Carp"
+    ]
+  },
+  {
+    "key": "Scallop",
+    "label": "Scallop",
+    "aliases": []
+  },
+  {
+    "key": "Pollock",
+    "label": "Sei balığı",
+    "aliases": []
+  },
+  {
+    "key": "Seitan",
+    "label": "Seitan",
+    "aliases": []
+  },
+  {
+    "key": "Purslane",
+    "label": "Semizotu",
+    "aliases": []
+  },
+  {
+    "key": "Vinegar",
+    "label": "Sirke",
+    "aliases": []
+  },
+  {
+    "key": "Savoy Cabbage",
+    "label": "Sivri lahana",
+    "aliases": []
+  },
+  {
+    "key": "Black Bean",
+    "label": "Siyah fasulye",
+    "aliases": []
+  },
+  {
+    "key": "Black Olive",
+    "label": "Siyah zeytin",
+    "aliases": []
+  },
+  {
+    "key": "Black Tea",
+    "label": "Siyah çay",
+    "aliases": []
+  },
+  {
+    "key": "Salmon",
+    "label": "Somon",
+    "aliases": []
+  },
+  {
+    "key": "Sorghum",
+    "label": "Sorghum",
+    "aliases": []
+  },
+  {
+    "key": "Sour Cherry",
+    "label": "Sour Cherry",
+    "aliases": []
+  },
+  {
+    "key": "Soybean Oil",
+    "label": "Soya yağı",
+    "aliases": []
+  },
+  {
+    "key": "Onion",
+    "label": "Soğan",
+    "aliases": []
+  },
+  {
+    "key": "Spelt Flour",
+    "label": "Spelt Flour",
+    "aliases": []
+  },
+  {
+    "key": "Sesame Seed",
+    "label": "Susam",
+    "aliases": []
+  },
+  {
+    "key": "Sesame Oil",
+    "label": "Susam yağı",
+    "aliases": []
+  },
+  {
+    "key": "Sweet Corn",
+    "label": "Sweet Corn",
+    "aliases": []
+  },
+  {
+    "key": "Swordfish",
+    "label": "Swordfish",
+    "aliases": []
+  },
+  {
+    "key": "Greek Yogurt",
+    "label": "Süzme yoğurt",
+    "aliases": []
+  },
+  {
+    "key": "Whole Wheat Bread",
+    "label": "Tam buğday ekmeği",
+    "aliases": []
+  },
+  {
+    "key": "Whole Milk",
+    "label": "Tam yağlı süt",
+    "aliases": []
+  },
+  {
+    "key": "Tapioca",
+    "label": "Tapioca",
+    "aliases": []
+  },
+  {
+    "key": "Tarragon",
+    "label": "Tarhun",
+    "aliases": []
+  },
+  {
+    "key": "Cinnamon",
+    "label": "Tarçın",
+    "aliases": []
+  },
+  {
+    "key": "Sweet Potato",
+    "label": "Tatlı patates",
+    "aliases": []
+  },
+  {
+    "key": "Chicken Breast",
+    "label": "Tavuk göğsü",
+    "aliases": []
+  },
+  {
+    "key": "Spring Onion",
+    "label": "Taze soğan",
+    "aliases": []
+  },
+  {
+    "key": "Teff",
+    "label": "Teff",
+    "aliases": []
+  },
+  {
+    "key": "Tempeh",
+    "label": "Tempeh",
+    "aliases": []
+  },
+  {
+    "key": "Butter",
+    "label": "Tereyağı",
+    "aliases": []
+  },
+  {
+    "key": "Tilapia",
+    "label": "Tilapia",
+    "aliases": [
+      "Tilapia"
+    ]
+  },
+  {
+    "key": "Tofu",
+    "label": "Tofu",
+    "aliases": []
+  },
+  {
+    "key": "Tomatillo",
+    "label": "Tomatillo",
+    "aliases": []
+  },
+  {
+    "key": "Tuna",
+    "label": "Ton balığı",
+    "aliases": []
+  },
+  {
+    "key": "Chili Powder",
+    "label": "Toz acı biber",
+    "aliases": []
+  },
+  {
+    "key": "Paprika",
+    "label": "Toz biber",
+    "aliases": []
+  },
+  {
+    "key": "Pike",
+    "label": "Turna balığı",
+    "aliases": [
+      "Pike"
+    ]
+  },
+  {
+    "key": "Cranberry",
+    "label": "Turna yemişi",
+    "aliases": [
+      "Cranberry"
+    ]
+  },
+  {
+    "key": "Turnip Greens",
+    "label": "Turnip Greens",
+    "aliases": []
+  },
+  {
+    "key": "Radish",
+    "label": "Turp",
+    "aliases": []
+  },
+  {
+    "key": "Mackerel",
+    "label": "Uskumru",
+    "aliases": []
+  },
+  {
+    "key": "Venison",
+    "label": "Venison",
+    "aliases": []
+  },
+  {
+    "key": "Water Chestnut",
+    "label": "Water Chestnut",
+    "aliases": []
+  },
+  {
+    "key": "Watercress",
+    "label": "Watercress",
+    "aliases": []
+  },
+  {
+    "key": "Wheat Bran",
+    "label": "Wheat Bran",
+    "aliases": []
+  },
+  {
+    "key": "Wheat Tortilla",
+    "label": "Wheat Tortilla",
+    "aliases": []
+  },
+  {
+    "key": "Parsnip",
+    "label": "Yaban havucu",
+    "aliases": []
+  },
+  {
+    "key": "Blueberry",
+    "label": "Yaban mersini",
+    "aliases": []
+  },
+  {
+    "key": "Horseradish",
+    "label": "Yaban turpu",
+    "aliases": []
+  },
+  {
+    "key": "Wild Rice",
+    "label": "Yabani pirinç",
+    "aliases": []
+  },
+  {
+    "key": "Ramson",
+    "label": "Yabani sarımsak",
+    "aliases": []
+  },
+  {
+    "key": "Low Fat Milk",
+    "label": "Yarım yağlı süt",
+    "aliases": []
+  },
+  {
+    "key": "Buttermilk",
+    "label": "Yayık ayranı",
+    "aliases": []
+  },
+  {
+    "key": "Catfish",
+    "label": "Yayın balığı",
+    "aliases": [
+      "Catfish"
+    ]
+  },
+  {
+    "key": "Beef Lean",
+    "label": "Yağsız dana eti",
+    "aliases": []
+  },
+  {
+    "key": "Pork Lean",
+    "label": "Yağsız domuz eti",
+    "aliases": []
+  },
+  {
+    "key": "Low Fat Quark",
+    "label": "Yağsız quark",
+    "aliases": []
+  },
+  {
+    "key": "Crab",
+    "label": "Yengeç",
+    "aliases": []
+  },
+  {
+    "key": "Jerusalem Artichoke",
+    "label": "Yer elması",
+    "aliases": []
+  },
+  {
+    "key": "Peanut",
+    "label": "Yer fıstığı",
+    "aliases": []
+  },
+  {
+    "key": "Peanut Oil",
+    "label": "Yer fıstığı yağı",
+    "aliases": []
+  },
+  {
+    "key": "Green Bell Pepper",
+    "label": "Yeşil dolmalık biber",
+    "aliases": []
+  },
+  {
+    "key": "Green Bean",
+    "label": "Yeşil fasulye",
+    "aliases": []
+  },
+  {
+    "key": "Green Olive",
+    "label": "Yeşil zeytin",
+    "aliases": []
+  },
+  {
+    "key": "Green Tea",
+    "label": "Yeşil çay",
+    "aliases": []
+  },
+  {
+    "key": "Plain Yogurt",
+    "label": "Yoğurt",
+    "aliases": []
+  },
+  {
+    "key": "Oats",
+    "label": "Yulaf",
+    "aliases": []
+  },
+  {
+    "key": "Oat Flakes",
+    "label": "Yulaf ezmesi",
+    "aliases": []
+  },
+  {
+    "key": "Egg",
+    "label": "Yumurta",
+    "aliases": []
+  },
+  {
+    "key": "Ginger",
+    "label": "Zencefil",
+    "aliases": []
+  },
+  {
+    "key": "Turmeric",
+    "label": "Zerdeçal",
+    "aliases": []
+  },
+  {
+    "key": "Olive Oil",
+    "label": "Zeytinyağı",
+    "aliases": []
+  },
+  {
+    "key": "Pine Nut",
+    "label": "Çam fıstığı",
+    "aliases": []
+  },
+  {
+    "key": "Rye",
+    "label": "Çavdar",
+    "aliases": []
+  },
+  {
+    "key": "Rye Flakes",
+    "label": "Çavdar ezmesi",
+    "aliases": []
+  },
+  {
+    "key": "Strawberry",
+    "label": "Çilek",
+    "aliases": []
+  },
+  {
+    "key": "Chinese Cabbage",
+    "label": "Çin lahanası",
+    "aliases": []
+  },
+  {
+    "key": "Sea Bream",
+    "label": "Çipura",
+    "aliases": []
+  },
+  {
+    "key": "Grape",
+    "label": "Üzüm",
+    "aliases": []
+  },
+  {
+    "key": "Turnip",
+    "label": "Şalgam",
+    "aliases": []
+  },
+  {
+    "key": "Peach",
+    "label": "Şeftali",
+    "aliases": []
+  },
+  {
+    "key": "Shiitake Mushroom",
+    "label": "Şiitake mantarı",
+    "aliases": []
   }
 ]

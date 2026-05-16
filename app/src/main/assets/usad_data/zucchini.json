@@ -1,0 +1,258 @@
+{
+  "search_name": "zucchini raw",
+  "display_name": "Zucchini",
+  "data": {
+    "Folic acid": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Vitamin D (D2 + D3), International Units": {
+      "value": 0.0,
+      "unit": "iu"
+    },
+    "Fiber, total dietary": {
+      "value": 1.1,
+      "unit": "g"
+    },
+    "Energy": {
+      "value": 21.0,
+      "unit": "kcal"
+    },
+    "Fatty acids, total saturated": {
+      "value": 0.083,
+      "unit": "g"
+    },
+    "Fatty acids, total monounsaturated": {
+      "value": 0.031,
+      "unit": "g"
+    },
+    "Fatty acids, total polyunsaturated": {
+      "value": 0.169,
+      "unit": "g"
+    },
+    "Carbohydrate, by difference": {
+      "value": 3.11,
+      "unit": "g"
+    },
+    "Retinol": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Folate, DFE": {
+      "value": 20.0,
+      "unit": "ug"
+    },
+    "Vitamin A, RAE": {
+      "value": 25.0,
+      "unit": "ug"
+    },
+    "Vitamin A, IU": {
+      "value": 490,
+      "unit": "iu"
+    },
+    "Fatty acids, total trans": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Protein": {
+      "value": 2.71,
+      "unit": "g"
+    },
+    "Ash": {
+      "value": 1.05,
+      "unit": "g"
+    },
+    "Iron, Fe": {
+      "value": 0.79,
+      "unit": "mg"
+    },
+    "Magnesium, Mg": {
+      "value": 33.0,
+      "unit": "mg"
+    },
+    "Phosphorus, P": {
+      "value": 93.0,
+      "unit": "mg"
+    },
+    "Sodium, Na": {
+      "value": 3.0,
+      "unit": "mg"
+    },
+    "Copper, Cu": {
+      "value": 0.097,
+      "unit": "mg"
+    },
+    "Manganese, Mn": {
+      "value": 0.196,
+      "unit": "mg"
+    },
+    "Vitamin C, total ascorbic acid": {
+      "value": 34.1,
+      "unit": "mg"
+    },
+    "Thiamin": {
+      "value": 0.042,
+      "unit": "mg"
+    },
+    "Riboflavin": {
+      "value": 0.036,
+      "unit": "mg"
+    },
+    "Folate, total": {
+      "value": 20.0,
+      "unit": "ug"
+    },
+    "Vitamin B-12": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "SFA 12:0": {
+      "value": 0.003,
+      "unit": "g"
+    },
+    "MUFA 16:1": {
+      "value": 0.003,
+      "unit": "g"
+    },
+    "Tryptophan": {
+      "value": 0.024,
+      "unit": "g"
+    },
+    "Threonine": {
+      "value": 0.066,
+      "unit": "g"
+    },
+    "Methionine": {
+      "value": 0.039,
+      "unit": "g"
+    },
+    "Phenylalanine": {
+      "value": 0.096,
+      "unit": "g"
+    },
+    "Tyrosine": {
+      "value": 0.073,
+      "unit": "g"
+    },
+    "Alanine": {
+      "value": 0.142,
+      "unit": "g"
+    },
+    "Glutamic acid": {
+      "value": 0.291,
+      "unit": "g"
+    },
+    "Glycine": {
+      "value": 0.103,
+      "unit": "g"
+    },
+    "Proline": {
+      "value": 0.085,
+      "unit": "g"
+    },
+    "Cholesterol": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Total lipid (fat)": {
+      "value": 0.4,
+      "unit": "g"
+    },
+    "Niacin": {
+      "value": 0.705,
+      "unit": "mg"
+    },
+    "Pantothenic acid": {
+      "value": 0.367,
+      "unit": "mg"
+    },
+    "Vitamin B-6": {
+      "value": 0.142,
+      "unit": "mg"
+    },
+    "Water": {
+      "value": 92.7,
+      "unit": "g"
+    },
+    "Calcium, Ca": {
+      "value": 21.0,
+      "unit": "mg"
+    },
+    "Potassium, K": {
+      "value": 459,
+      "unit": "mg"
+    },
+    "Zinc, Zn": {
+      "value": 0.83,
+      "unit": "mg"
+    },
+    "Isoleucine": {
+      "value": 0.098,
+      "unit": "g"
+    },
+    "Leucine": {
+      "value": 0.159,
+      "unit": "g"
+    },
+    "Lysine": {
+      "value": 0.151,
+      "unit": "g"
+    },
+    "Cystine": {
+      "value": 0.029,
+      "unit": "g"
+    },
+    "Valine": {
+      "value": 0.123,
+      "unit": "g"
+    },
+    "Arginine": {
+      "value": 0.115,
+      "unit": "g"
+    },
+    "Histidine": {
+      "value": 0.059,
+      "unit": "g"
+    },
+    "Aspartic acid": {
+      "value": 0.332,
+      "unit": "g"
+    },
+    "Serine": {
+      "value": 0.111,
+      "unit": "g"
+    },
+    "SFA 16:0": {
+      "value": 0.071,
+      "unit": "g"
+    },
+    "SFA 18:0": {
+      "value": 0.009,
+      "unit": "g"
+    },
+    "MUFA 18:1": {
+      "value": 0.029,
+      "unit": "g"
+    },
+    "PUFA 18:2": {
+      "value": 0.063,
+      "unit": "g"
+    },
+    "PUFA 18:3": {
+      "value": 0.106,
+      "unit": "g"
+    },
+    "Vitamin D (D2 + D3)": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Folate, food": {
+      "value": 20.0,
+      "unit": "ug"
+    },
+    "Selenium, Se": {
+      "value": 0.3,
+      "unit": "ug"
+    }
+  }
+}

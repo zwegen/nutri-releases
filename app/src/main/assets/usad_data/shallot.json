@@ -1,0 +1,354 @@
+{
+  "search_name": "shallot raw",
+  "display_name": "Shallot",
+  "data": {
+    "Folic acid": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Vitamin D (D2 + D3), International Units": {
+      "value": 0.0,
+      "unit": "iu"
+    },
+    "Carbohydrate, by difference": {
+      "value": 16.8,
+      "unit": "g"
+    },
+    "Energy": {
+      "value": 71.9,
+      "unit": "kcal"
+    },
+    "Retinol": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Folate, DFE": {
+      "value": 34.0,
+      "unit": "ug"
+    },
+    "Fatty acids, total trans": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Total lipid (fat)": {
+      "value": 0.1,
+      "unit": "g"
+    },
+    "Fatty acids, total monounsaturated": {
+      "value": 0.014,
+      "unit": "g"
+    },
+    "Fatty acids, total polyunsaturated": {
+      "value": 0.039,
+      "unit": "g"
+    },
+    "Isoleucine": {
+      "value": 0.106,
+      "unit": "g"
+    },
+    "Leucine": {
+      "value": 0.149,
+      "unit": "g"
+    },
+    "Lysine": {
+      "value": 0.125,
+      "unit": "g"
+    },
+    "Valine": {
+      "value": 0.11,
+      "unit": "g"
+    },
+    "Arginine": {
+      "value": 0.181,
+      "unit": "g"
+    },
+    "Histidine": {
+      "value": 0.043,
+      "unit": "g"
+    },
+    "Aspartic acid": {
+      "value": 0.231,
+      "unit": "g"
+    },
+    "Serine": {
+      "value": 0.113,
+      "unit": "g"
+    },
+    "SFA 16:0": {
+      "value": 0.015,
+      "unit": "g"
+    },
+    "SFA 18:0": {
+      "value": 0.001,
+      "unit": "g"
+    },
+    "MUFA 18:1": {
+      "value": 0.014,
+      "unit": "g"
+    },
+    "PUFA 18:2": {
+      "value": 0.037,
+      "unit": "g"
+    },
+    "PUFA 18:3": {
+      "value": 0.002,
+      "unit": "g"
+    },
+    "Water": {
+      "value": 79.8,
+      "unit": "g"
+    },
+    "Calcium, Ca": {
+      "value": 37.0,
+      "unit": "mg"
+    },
+    "Potassium, K": {
+      "value": 334,
+      "unit": "mg"
+    },
+    "Zinc, Zn": {
+      "value": 0.4,
+      "unit": "mg"
+    },
+    "Niacin": {
+      "value": 0.2,
+      "unit": "mg"
+    },
+    "Pantothenic acid": {
+      "value": 0.29,
+      "unit": "mg"
+    },
+    "Vitamin B-6": {
+      "value": 0.345,
+      "unit": "mg"
+    },
+    "Iron, Fe": {
+      "value": 1.2,
+      "unit": "mg"
+    },
+    "Magnesium, Mg": {
+      "value": 21.0,
+      "unit": "mg"
+    },
+    "Phosphorus, P": {
+      "value": 60.0,
+      "unit": "mg"
+    },
+    "Sodium, Na": {
+      "value": 12.0,
+      "unit": "mg"
+    },
+    "Copper, Cu": {
+      "value": 0.088,
+      "unit": "mg"
+    },
+    "Manganese, Mn": {
+      "value": 0.292,
+      "unit": "mg"
+    },
+    "Tryptophan": {
+      "value": 0.028,
+      "unit": "g"
+    },
+    "Threonine": {
+      "value": 0.098,
+      "unit": "g"
+    },
+    "Methionine": {
+      "value": 0.027,
+      "unit": "g"
+    },
+    "Phenylalanine": {
+      "value": 0.081,
+      "unit": "g"
+    },
+    "Tyrosine": {
+      "value": 0.072,
+      "unit": "g"
+    },
+    "Alanine": {
+      "value": 0.113,
+      "unit": "g"
+    },
+    "Glutamic acid": {
+      "value": 0.517,
+      "unit": "g"
+    },
+    "Glycine": {
+      "value": 0.124,
+      "unit": "g"
+    },
+    "Proline": {
+      "value": 0.165,
+      "unit": "g"
+    },
+    "Cholesterol": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Protein": {
+      "value": 2.5,
+      "unit": "g"
+    },
+    "Ash": {
+      "value": 0.8,
+      "unit": "g"
+    },
+    "Fatty acids, total saturated": {
+      "value": 0.017,
+      "unit": "g"
+    },
+    "Vitamin C, total ascorbic acid": {
+      "value": 8.0,
+      "unit": "mg"
+    },
+    "Thiamin": {
+      "value": 0.06,
+      "unit": "mg"
+    },
+    "Riboflavin": {
+      "value": 0.02,
+      "unit": "mg"
+    },
+    "Folate, total": {
+      "value": 34.0,
+      "unit": "ug"
+    },
+    "SFA 14:0": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Phytosterols": {
+      "value": 5.0,
+      "unit": "mg"
+    },
+    "Caffeine": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Theobromine": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Total Sugars": {
+      "value": 7.87,
+      "unit": "g"
+    },
+    "Choline, total": {
+      "value": 11.3,
+      "unit": "mg"
+    },
+    "PUFA 20:4": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "PUFA 18:4": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "MUFA 20:1": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "MUFA 22:1": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "SFA 4:0": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "SFA 6:0": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "SFA 10:0": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Lutein + zeaxanthin": {
+      "value": 8.0,
+      "unit": "ug"
+    },
+    "Vitamin E (alpha-tocopherol)": {
+      "value": 0.04,
+      "unit": "mg"
+    },
+    "Alcohol, ethyl": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Vitamin A, IU": {
+      "value": 4.0,
+      "unit": "iu"
+    },
+    "Vitamin A, RAE": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Carotene, beta": {
+      "value": 3.0,
+      "unit": "ug"
+    },
+    "Carotene, alpha": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Fiber, total dietary": {
+      "value": 3.2,
+      "unit": "g"
+    },
+    "Cryptoxanthin, beta": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Lycopene": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "PUFA 22:6 n-3 (DHA)": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "MUFA 16:1": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "PUFA 20:5 n-3 (EPA)": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "PUFA 22:5 n-3 (DPA)": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Vitamin B-12": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Vitamin K (phylloquinone)": {
+      "value": 0.8,
+      "unit": "ug"
+    },
+    "SFA 8:0": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "SFA 12:0": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Vitamin D (D2 + D3)": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Folate, food": {
+      "value": 34.0,
+      "unit": "ug"
+    },
+    "Selenium, Se": {
+      "value": 1.2,
+      "unit": "ug"
+    }
+  }
+}

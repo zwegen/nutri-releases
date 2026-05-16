@@ -1,0 +1,170 @@
+{
+  "search_name": "button mushroom raw",
+  "display_name": "Button Mushroom",
+  "data": {
+    "Energy": {
+      "value": 32.0,
+      "unit": "kcal"
+    },
+    "Fatty acids, total trans": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Stigmasterol": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Beta-sitosterol": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Sucrose": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Glucose": {
+      "value": 1.16,
+      "unit": "g"
+    },
+    "Maltose": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Total Sugars": {
+      "value": 1.16,
+      "unit": "g"
+    },
+    "Campesterol": {
+      "value": 1.0,
+      "unit": "mg"
+    },
+    "Galactose": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Fructose": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Lactose": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Folate, total": {
+      "value": 2.0,
+      "unit": "ug"
+    },
+    "Folate, food": {
+      "value": 2.0,
+      "unit": "ug"
+    },
+    "Folic acid": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Protein": {
+      "value": 1.49,
+      "unit": "g"
+    },
+    "Ash": {
+      "value": 1.26,
+      "unit": "g"
+    },
+    "Thiamin": {
+      "value": 0.015,
+      "unit": "mg"
+    },
+    "Riboflavin": {
+      "value": 0.215,
+      "unit": "mg"
+    },
+    "Fiber, total dietary": {
+      "value": 3.8,
+      "unit": "g"
+    },
+    "Iron, Fe": {
+      "value": 3.47,
+      "unit": "mg"
+    },
+    "Magnesium, Mg": {
+      "value": 13.0,
+      "unit": "mg"
+    },
+    "Phosphorus, P": {
+      "value": 57.0,
+      "unit": "mg"
+    },
+    "Sodium, Na": {
+      "value": 9.0,
+      "unit": "mg"
+    },
+    "Copper, Cu": {
+      "value": 0.353,
+      "unit": "mg"
+    },
+    "Manganese, Mn": {
+      "value": 0.286,
+      "unit": "mg"
+    },
+    "Total lipid (fat)": {
+      "value": 0.53,
+      "unit": "g"
+    },
+    "Calcium, Ca": {
+      "value": 15.0,
+      "unit": "mg"
+    },
+    "Potassium, K": {
+      "value": 506,
+      "unit": "mg"
+    },
+    "Zinc, Zn": {
+      "value": 0.71,
+      "unit": "mg"
+    },
+    "Selenium, Se": {
+      "value": 2.2,
+      "unit": "ug"
+    },
+    "Vitamin D2 (ergocalciferol)": {
+      "value": 5.3,
+      "unit": "ug"
+    },
+    "Niacin": {
+      "value": 4.08,
+      "unit": "mg"
+    },
+    "Pantothenic acid": {
+      "value": 1.08,
+      "unit": "mg"
+    },
+    "Vitamin B-6": {
+      "value": 0.044,
+      "unit": "mg"
+    },
+    "Water": {
+      "value": 89.8,
+      "unit": "g"
+    },
+    "Vitamin D3 (cholecalciferol)": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Vitamin D (D2 + D3)": {
+      "value": 5.3,
+      "unit": "ug"
+    },
+    "Carbohydrate, by difference": {
+      "value": 6.86,
+      "unit": "g"
+    },
+    "Folate, DFE": {
+      "value": 2.0,
+      "unit": "ug"
+    },
+    "Vitamin D (D2 + D3), International Units": {
+      "value": 212,
+      "unit": "iu"
+    }
+  }
+}

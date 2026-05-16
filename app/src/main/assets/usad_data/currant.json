@@ -1,0 +1,154 @@
+{
+  "search_name": "currant raw",
+  "display_name": "Currant",
+  "data": {
+    "Energy": {
+      "value": 63.0,
+      "unit": "kcal"
+    },
+    "Retinol": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Vitamin A, RAE": {
+      "value": 12.0,
+      "unit": "ug"
+    },
+    "Fatty acids, total trans": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Fatty acids, total saturated": {
+      "value": 0.034,
+      "unit": "g"
+    },
+    "MUFA 16:1": {
+      "value": 0.001,
+      "unit": "g"
+    },
+    "Vitamin C, total ascorbic acid": {
+      "value": 181,
+      "unit": "mg"
+    },
+    "Thiamin": {
+      "value": 0.05,
+      "unit": "mg"
+    },
+    "Riboflavin": {
+      "value": 0.05,
+      "unit": "mg"
+    },
+    "Vitamin B-12": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Cholesterol": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Protein": {
+      "value": 1.4,
+      "unit": "g"
+    },
+    "Ash": {
+      "value": 0.86,
+      "unit": "g"
+    },
+    "Iron, Fe": {
+      "value": 1.54,
+      "unit": "mg"
+    },
+    "Magnesium, Mg": {
+      "value": 24.0,
+      "unit": "mg"
+    },
+    "Phosphorus, P": {
+      "value": 59.0,
+      "unit": "mg"
+    },
+    "Sodium, Na": {
+      "value": 2.0,
+      "unit": "mg"
+    },
+    "Copper, Cu": {
+      "value": 0.086,
+      "unit": "mg"
+    },
+    "Manganese, Mn": {
+      "value": 0.256,
+      "unit": "mg"
+    },
+    "Vitamin A, IU": {
+      "value": 230,
+      "unit": "iu"
+    },
+    "Total lipid (fat)": {
+      "value": 0.41,
+      "unit": "g"
+    },
+    "Carbohydrate, by difference": {
+      "value": 15.4,
+      "unit": "g"
+    },
+    "Water": {
+      "value": 82.0,
+      "unit": "g"
+    },
+    "Calcium, Ca": {
+      "value": 55.0,
+      "unit": "mg"
+    },
+    "Potassium, K": {
+      "value": 322,
+      "unit": "mg"
+    },
+    "Zinc, Zn": {
+      "value": 0.27,
+      "unit": "mg"
+    },
+    "Vitamin E (alpha-tocopherol)": {
+      "value": 1.0,
+      "unit": "mg"
+    },
+    "Niacin": {
+      "value": 0.3,
+      "unit": "mg"
+    },
+    "Pantothenic acid": {
+      "value": 0.398,
+      "unit": "mg"
+    },
+    "Vitamin B-6": {
+      "value": 0.066,
+      "unit": "mg"
+    },
+    "SFA 16:0": {
+      "value": 0.02,
+      "unit": "g"
+    },
+    "SFA 18:0": {
+      "value": 0.007,
+      "unit": "g"
+    },
+    "MUFA 18:1": {
+      "value": 0.056,
+      "unit": "g"
+    },
+    "PUFA 18:2": {
+      "value": 0.107,
+      "unit": "g"
+    },
+    "PUFA 18:3": {
+      "value": 0.072,
+      "unit": "g"
+    },
+    "Fatty acids, total monounsaturated": {
+      "value": 0.058,
+      "unit": "g"
+    },
+    "Fatty acids, total polyunsaturated": {
+      "value": 0.179,
+      "unit": "g"
+    }
+  }
+}

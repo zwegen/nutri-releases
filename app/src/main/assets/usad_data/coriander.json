@@ -1,0 +1,174 @@
+{
+  "search_name": "coriander fresh",
+  "display_name": "Coriander",
+  "data": {
+    "Total lipid (fat)": {
+      "value": 17.8,
+      "unit": "g"
+    },
+    "Carbohydrate, by difference": {
+      "value": 55.0,
+      "unit": "g"
+    },
+    "Energy": {
+      "value": 296.4,
+      "unit": "kcal"
+    },
+    "Water": {
+      "value": 8.86,
+      "unit": "g"
+    },
+    "Calcium, Ca": {
+      "value": 709,
+      "unit": "mg"
+    },
+    "Potassium, K": {
+      "value": 1270.0,
+      "unit": "mg"
+    },
+    "Zinc, Zn": {
+      "value": 4.7,
+      "unit": "mg"
+    },
+    "SFA 16:0": {
+      "value": 0.81,
+      "unit": "g"
+    },
+    "SFA 18:0": {
+      "value": 0.11,
+      "unit": "g"
+    },
+    "MUFA 18:1": {
+      "value": 13.5,
+      "unit": "g"
+    },
+    "PUFA 18:2": {
+      "value": 1.75,
+      "unit": "g"
+    },
+    "Fatty acids, total monounsaturated": {
+      "value": 13.6,
+      "unit": "g"
+    },
+    "Fatty acids, total polyunsaturated": {
+      "value": 1.75,
+      "unit": "g"
+    },
+    "Niacin": {
+      "value": 2.13,
+      "unit": "mg"
+    },
+    "Iron, Fe": {
+      "value": 16.3,
+      "unit": "mg"
+    },
+    "Magnesium, Mg": {
+      "value": 330,
+      "unit": "mg"
+    },
+    "Phosphorus, P": {
+      "value": 409,
+      "unit": "mg"
+    },
+    "Sodium, Na": {
+      "value": 35.0,
+      "unit": "mg"
+    },
+    "Copper, Cu": {
+      "value": 0.975,
+      "unit": "mg"
+    },
+    "Manganese, Mn": {
+      "value": 1.9,
+      "unit": "mg"
+    },
+    "Vitamin A, IU": {
+      "value": 0.0,
+      "unit": "iu"
+    },
+    "Thiamin": {
+      "value": 0.239,
+      "unit": "mg"
+    },
+    "Riboflavin": {
+      "value": 0.29,
+      "unit": "mg"
+    },
+    "Folate, total": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Vitamin B-12": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Folate, food": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Cholesterol": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Fatty acids, total saturated": {
+      "value": 0.99,
+      "unit": "g"
+    },
+    "SFA 14:0": {
+      "value": 0.02,
+      "unit": "g"
+    },
+    "MUFA 16:1": {
+      "value": 0.1,
+      "unit": "g"
+    },
+    "Phytosterols": {
+      "value": 46.0,
+      "unit": "mg"
+    },
+    "Protein": {
+      "value": 12.4,
+      "unit": "g"
+    },
+    "Ash": {
+      "value": 6.02,
+      "unit": "g"
+    },
+    "Fiber, total dietary": {
+      "value": 41.9,
+      "unit": "g"
+    },
+    "Vitamin C, total ascorbic acid": {
+      "value": 21.0,
+      "unit": "mg"
+    },
+    "Folic acid": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Selenium, Se": {
+      "value": 26.2,
+      "unit": "ug"
+    },
+    "Vitamin D (D2 + D3), International Units": {
+      "value": 0.0,
+      "unit": "iu"
+    },
+    "Retinol": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Vitamin A, RAE": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Folate, DFE": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Vitamin D (D2 + D3)": {
+      "value": 0.0,
+      "unit": "ug"
+    }
+  }
+}

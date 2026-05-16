@@ -1,0 +1,114 @@
+{
+  "search_name": "balsamic vinegar",
+  "display_name": "Balsamic Vinegar",
+  "data": {
+    "Total Sugars": {
+      "value": 15.0,
+      "unit": "g"
+    },
+    "Calcium, Ca": {
+      "value": 27.0,
+      "unit": "mg"
+    },
+    "Zinc, Zn": {
+      "value": 0.08,
+      "unit": "mg"
+    },
+    "Protein": {
+      "value": 0.49,
+      "unit": "g"
+    },
+    "Ash": {
+      "value": 0.37,
+      "unit": "g"
+    },
+    "Iron, Fe": {
+      "value": 0.72,
+      "unit": "mg"
+    },
+    "Magnesium, Mg": {
+      "value": 12.0,
+      "unit": "mg"
+    },
+    "Phosphorus, P": {
+      "value": 19.0,
+      "unit": "mg"
+    },
+    "Sodium, Na": {
+      "value": 23.0,
+      "unit": "mg"
+    },
+    "Copper, Cu": {
+      "value": 0.026,
+      "unit": "mg"
+    },
+    "Manganese, Mn": {
+      "value": 0.131,
+      "unit": "mg"
+    },
+    "Vitamin C, total ascorbic acid": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Fatty acids, total trans": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Fatty acids, total saturated": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Vitamin A, IU": {
+      "value": 0.0,
+      "unit": "iu"
+    },
+    "Potassium, K": {
+      "value": 112,
+      "unit": "mg"
+    },
+    "Water": {
+      "value": 76.4,
+      "unit": "g"
+    },
+    "Total lipid (fat)": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Carbohydrate, by difference": {
+      "value": 17.0,
+      "unit": "g"
+    },
+    "Energy": {
+      "value": 88.2,
+      "unit": "kcal"
+    },
+    "Sucrose": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Glucose": {
+      "value": 7.57,
+      "unit": "g"
+    },
+    "Maltose": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Vitamin A, RAE": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Fructose": {
+      "value": 7.38,
+      "unit": "g"
+    },
+    "Lactose": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Galactose": {
+      "value": 0.0,
+      "unit": "g"
+    }
+  }
+}

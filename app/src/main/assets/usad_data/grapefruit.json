@@ -1,0 +1,174 @@
+{
+  "search_name": "grapefruit raw",
+  "display_name": "Grapefruit",
+  "data": {
+    "Energy": {
+      "value": 39.0,
+      "unit": "kcal"
+    },
+    "Folic acid": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Folate, DFE": {
+      "value": 10.0,
+      "unit": "ug"
+    },
+    "Vitamin D (D2 + D3), International Units": {
+      "value": 0.0,
+      "unit": "iu"
+    },
+    "Retinol": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Vitamin A, RAE": {
+      "value": 22.0,
+      "unit": "ug"
+    },
+    "Fatty acids, total trans": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Protein": {
+      "value": 0.5,
+      "unit": "g"
+    },
+    "Ash": {
+      "value": 0.2,
+      "unit": "g"
+    },
+    "Vitamin C, total ascorbic acid": {
+      "value": 38.0,
+      "unit": "mg"
+    },
+    "Thiamin": {
+      "value": 0.04,
+      "unit": "mg"
+    },
+    "Riboflavin": {
+      "value": 0.02,
+      "unit": "mg"
+    },
+    "Folate, total": {
+      "value": 10.0,
+      "unit": "ug"
+    },
+    "Vitamin B-12": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Folate, food": {
+      "value": 10.0,
+      "unit": "ug"
+    },
+    "Cholesterol": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Fatty acids, total saturated": {
+      "value": 0.014,
+      "unit": "g"
+    },
+    "MUFA 16:1": {
+      "value": 0.001,
+      "unit": "g"
+    },
+    "Iron, Fe": {
+      "value": 0.2,
+      "unit": "mg"
+    },
+    "Magnesium, Mg": {
+      "value": 12.0,
+      "unit": "mg"
+    },
+    "Phosphorus, P": {
+      "value": 15.0,
+      "unit": "mg"
+    },
+    "Sodium, Na": {
+      "value": 1.0,
+      "unit": "mg"
+    },
+    "Copper, Cu": {
+      "value": 0.033,
+      "unit": "mg"
+    },
+    "Manganese, Mn": {
+      "value": 0.02,
+      "unit": "mg"
+    },
+    "Vitamin A, IU": {
+      "value": 440,
+      "unit": "iu"
+    },
+    "Niacin": {
+      "value": 0.2,
+      "unit": "mg"
+    },
+    "Pantothenic acid": {
+      "value": 0.189,
+      "unit": "mg"
+    },
+    "Vitamin B-6": {
+      "value": 0.044,
+      "unit": "mg"
+    },
+    "Total lipid (fat)": {
+      "value": 0.1,
+      "unit": "g"
+    },
+    "Carbohydrate, by difference": {
+      "value": 9.2,
+      "unit": "g"
+    },
+    "Water": {
+      "value": 90.0,
+      "unit": "g"
+    },
+    "Calcium, Ca": {
+      "value": 9.0,
+      "unit": "mg"
+    },
+    "Potassium, K": {
+      "value": 162,
+      "unit": "mg"
+    },
+    "Zinc, Zn": {
+      "value": 0.05,
+      "unit": "mg"
+    },
+    "SFA 16:0": {
+      "value": 0.012,
+      "unit": "g"
+    },
+    "SFA 18:0": {
+      "value": 0.001,
+      "unit": "g"
+    },
+    "MUFA 18:1": {
+      "value": 0.012,
+      "unit": "g"
+    },
+    "PUFA 18:2": {
+      "value": 0.019,
+      "unit": "g"
+    },
+    "PUFA 18:3": {
+      "value": 0.005,
+      "unit": "g"
+    },
+    "Fatty acids, total monounsaturated": {
+      "value": 0.013,
+      "unit": "g"
+    },
+    "Fatty acids, total polyunsaturated": {
+      "value": 0.024,
+      "unit": "g"
+    },
+    "Vitamin D (D2 + D3)": {
+      "value": 0.0,
+      "unit": "ug"
+    }
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "search_name": "raisin raw",
+  "display_name": "Raisin",
+  "data": {
+    "Energy": {
+      "value": 296,
+      "unit": "kcal"
+    },
+    "Folic acid": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Folate, DFE": {
+      "value": 3.0,
+      "unit": "ug"
+    },
+    "PUFA 20:4": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "PUFA 18:4": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "MUFA 20:1": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "MUFA 22:1": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "SFA 4:0": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "SFA 6:0": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "SFA 10:0": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "PUFA 22:6 n-3 (DHA)": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "MUFA 16:1": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "PUFA 20:5 n-3 (EPA)": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "PUFA 22:5 n-3 (DPA)": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "SFA 8:0": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "SFA 12:0": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Vitamin D (D2 + D3), International Units": {
+      "value": 0.0,
+      "unit": "iu"
+    },
+    "Alcohol, ethyl": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Retinol": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Vitamin A, RAE": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Fatty acids, total trans": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Protein": {
+      "value": 2.52,
+      "unit": "g"
+    },
+    "Ash": {
+      "value": 1.89,
+      "unit": "g"
+    },
+    "SFA 14:0": {
+      "value": 0.004,
+      "unit": "g"
+    },
+    "Fatty acids, total saturated": {
+      "value": 0.178,
+      "unit": "g"
+    },
+    "Vitamin C, total ascorbic acid": {
+      "value": 5.4,
+      "unit": "mg"
+    },
+    "Thiamin": {
+      "value": 0.112,
+      "unit": "mg"
+    },
+    "Riboflavin": {
+      "value": 0.182,
+      "unit": "mg"
+    },
+    "Folate, total": {
+      "value": 3.0,
+      "unit": "ug"
+    },
+    "Vitamin B-12": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Folate, food": {
+      "value": 3.0,
+      "unit": "ug"
+    },
+    "Cholesterol": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Fiber, total dietary": {
+      "value": 6.8,
+      "unit": "g"
+    },
+    "Iron, Fe": {
+      "value": 2.59,
+      "unit": "mg"
+    },
+    "Magnesium, Mg": {
+      "value": 30.0,
+      "unit": "mg"
+    },
+    "Phosphorus, P": {
+      "value": 75.0,
+      "unit": "mg"
+    },
+    "Sodium, Na": {
+      "value": 28.0,
+      "unit": "mg"
+    },
+    "Copper, Cu": {
+      "value": 0.302,
+      "unit": "mg"
+    },
+    "Manganese, Mn": {
+      "value": 0.267,
+      "unit": "mg"
+    },
+    "Vitamin A, IU": {
+      "value": 0.0,
+      "unit": "iu"
+    },
+    "Total lipid (fat)": {
+      "value": 0.54,
+      "unit": "g"
+    },
+    "Carbohydrate, by difference": {
+      "value": 78.5,
+      "unit": "g"
+    },
+    "Water": {
+      "value": 16.6,
+      "unit": "g"
+    },
+    "Calcium, Ca": {
+      "value": 28.0,
+      "unit": "mg"
+    },
+    "Potassium, K": {
+      "value": 825,
+      "unit": "mg"
+    },
+    "Zinc, Zn": {
+      "value": 0.18,
+      "unit": "mg"
+    },
+    "Fatty acids, total monounsaturated": {
+      "value": 0.022,
+      "unit": "g"
+    },
+    "Fatty acids, total polyunsaturated": {
+      "value": 0.159,
+      "unit": "g"
+    },
+    "Niacin": {
+      "value": 1.11,
+      "unit": "mg"
+    },
+    "Pantothenic acid": {
+      "value": 0.045,
+      "unit": "mg"
+    },
+    "Vitamin B-6": {
+      "value": 0.188,
+      "unit": "mg"
+    },
+    "SFA 16:0": {
+      "value": 0.153,
+      "unit": "g"
+    },
+    "SFA 18:0": {
+      "value": 0.021,
+      "unit": "g"
+    },
+    "MUFA 18:1": {
+      "value": 0.022,
+      "unit": "g"
+    },
+    "PUFA 18:2": {
+      "value": 0.122,
+      "unit": "g"
+    },
+    "PUFA 18:3": {
+      "value": 0.037,
+      "unit": "g"
+    },
+    "Vitamin D (D2 + D3)": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Selenium, Se": {
+      "value": 0.6,
+      "unit": "ug"
+    }
+  }
+}

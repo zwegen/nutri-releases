@@ -1,0 +1,146 @@
+{
+  "search_name": "black salsify raw",
+  "display_name": "Black Salsify",
+  "data": {
+    "Energy": {
+      "value": 82.0,
+      "unit": "kcal"
+    },
+    "Folic acid": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Folate, DFE": {
+      "value": 26.0,
+      "unit": "ug"
+    },
+    "Vitamin D (D2 + D3), International Units": {
+      "value": 0.0,
+      "unit": "iu"
+    },
+    "Retinol": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Vitamin A, RAE": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Fatty acids, total trans": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Total lipid (fat)": {
+      "value": 0.2,
+      "unit": "g"
+    },
+    "Carbohydrate, by difference": {
+      "value": 18.6,
+      "unit": "g"
+    },
+    "Water": {
+      "value": 77.0,
+      "unit": "g"
+    },
+    "Calcium, Ca": {
+      "value": 60.0,
+      "unit": "mg"
+    },
+    "Potassium, K": {
+      "value": 380,
+      "unit": "mg"
+    },
+    "Zinc, Zn": {
+      "value": 0.38,
+      "unit": "mg"
+    },
+    "Niacin": {
+      "value": 0.5,
+      "unit": "mg"
+    },
+    "Pantothenic acid": {
+      "value": 0.371,
+      "unit": "mg"
+    },
+    "Vitamin B-6": {
+      "value": 0.277,
+      "unit": "mg"
+    },
+    "Protein": {
+      "value": 3.3,
+      "unit": "g"
+    },
+    "Ash": {
+      "value": 0.9,
+      "unit": "g"
+    },
+    "Vitamin C, total ascorbic acid": {
+      "value": 8.0,
+      "unit": "mg"
+    },
+    "Thiamin": {
+      "value": 0.08,
+      "unit": "mg"
+    },
+    "Riboflavin": {
+      "value": 0.22,
+      "unit": "mg"
+    },
+    "Folate, total": {
+      "value": 26.0,
+      "unit": "ug"
+    },
+    "Vitamin B-12": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Fiber, total dietary": {
+      "value": 3.3,
+      "unit": "g"
+    },
+    "Iron, Fe": {
+      "value": 0.7,
+      "unit": "mg"
+    },
+    "Magnesium, Mg": {
+      "value": 23.0,
+      "unit": "mg"
+    },
+    "Phosphorus, P": {
+      "value": 75.0,
+      "unit": "mg"
+    },
+    "Sodium, Na": {
+      "value": 20.0,
+      "unit": "mg"
+    },
+    "Copper, Cu": {
+      "value": 0.089,
+      "unit": "mg"
+    },
+    "Manganese, Mn": {
+      "value": 0.268,
+      "unit": "mg"
+    },
+    "Vitamin A, IU": {
+      "value": 0.0,
+      "unit": "iu"
+    },
+    "Cholesterol": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Vitamin D (D2 + D3)": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Folate, food": {
+      "value": 26.0,
+      "unit": "ug"
+    },
+    "Selenium, Se": {
+      "value": 0.8,
+      "unit": "ug"
+    }
+  }
+}

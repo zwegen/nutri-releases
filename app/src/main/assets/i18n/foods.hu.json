@@ -1,23 +1,1703 @@
 [
   {
-    "key": "Sample Apple",
-    "label": "Sample Apple",
+    "key": "Adzuki Beans",
+    "label": "Adzuki Beans",
+    "aliases": []
+  },
+  {
+    "key": "Apple",
+    "label": "Alma",
+    "aliases": []
+  },
+  {
+    "key": "Apple Cider Vinegar",
+    "label": "Almaecet",
+    "aliases": []
+  },
+  {
+    "key": "Amaranth",
+    "label": "Amaránt",
+    "aliases": []
+  },
+  {
+    "key": "Pineapple",
+    "label": "Ananász",
+    "aliases": []
+  },
+  {
+    "key": "Sea Bream",
+    "label": "Aranydurbincs",
+    "aliases": []
+  },
+  {
+    "key": "Artichoke",
+    "label": "Articsóka",
+    "aliases": []
+  },
+  {
+    "key": "Avocado",
+    "label": "Avokádó",
+    "aliases": []
+  },
+  {
+    "key": "Avocado Oil",
+    "label": "Avokádóolaj",
+    "aliases": []
+  },
+  {
+    "key": "Bay Leaf",
+    "label": "Babérlevél",
+    "aliases": []
+  },
+  {
+    "key": "Bacon",
+    "label": "Bacon",
+    "aliases": []
+  },
+  {
+    "key": "Baguette",
+    "label": "Bagett",
+    "aliases": []
+  },
+  {
+    "key": "Balsamic Vinegar",
+    "label": "Balzsamecet",
+    "aliases": []
+  },
+  {
+    "key": "Bamboo Shoots",
+    "label": "Bamboo Shoots",
+    "aliases": []
+  },
+  {
+    "key": "Banana",
+    "label": "Banán",
+    "aliases": []
+  },
+  {
+    "key": "Brown Rice",
+    "label": "Barna rizs",
+    "aliases": []
+  },
+  {
+    "key": "Basil",
+    "label": "Bazsalikom",
+    "aliases": []
+  },
+  {
+    "key": "Quince",
+    "label": "Birsalma",
+    "aliases": []
+  },
+  {
+    "key": "Bison",
+    "label": "Bison",
+    "aliases": []
+  },
+  {
+    "key": "Black Currant",
+    "label": "Black Currant",
+    "aliases": []
+  },
+  {
+    "key": "Elderberry",
+    "label": "Bodza",
+    "aliases": []
+  },
+  {
+    "key": "Veal",
+    "label": "Borjúhús",
+    "aliases": []
+  },
+  {
+    "key": "Brazil Nut",
+    "label": "Brazil dió",
+    "aliases": []
+  },
+  {
+    "key": "Brie",
+    "label": "Brie",
+    "aliases": []
+  },
+  {
+    "key": "Broccoli",
+    "label": "Brokkoli",
+    "aliases": []
+  },
+  {
+    "key": "Bulgur",
+    "label": "Bulgur",
+    "aliases": []
+  },
+  {
+    "key": "Potato",
+    "label": "Burgonya",
+    "aliases": []
+  },
+  {
+    "key": "Lamb",
+    "label": "Bárányhús",
+    "aliases": []
+  },
+  {
+    "key": "Wheat",
+    "label": "Búza",
+    "aliases": []
+  },
+  {
+    "key": "Semolina",
+    "label": "Búzadara",
+    "aliases": []
+  },
+  {
+    "key": "Camembert Cheese",
+    "label": "Camembert sajt",
+    "aliases": []
+  },
+  {
+    "key": "Cassava",
+    "label": "Cassava",
+    "aliases": []
+  },
+  {
+    "key": "Chayote",
+    "label": "Chayote",
+    "aliases": []
+  },
+  {
+    "key": "Cheddar Cheese",
+    "label": "Cheddar sajt",
+    "aliases": []
+  },
+  {
+    "key": "Chia Seed",
+    "label": "Chiamag",
+    "aliases": []
+  },
+  {
+    "key": "Chili Pepper",
+    "label": "Chilipaprika",
+    "aliases": []
+  },
+  {
+    "key": "Chili Powder",
+    "label": "Chilipor",
+    "aliases": []
+  },
+  {
+    "key": "Chorizo",
+    "label": "Chorizo",
+    "aliases": []
+  },
+  {
+    "key": "Lemon",
+    "label": "Citrom",
+    "aliases": []
+  },
+  {
+    "key": "Lemon Balm",
+    "label": "Citromfű",
+    "aliases": []
+  },
+  {
+    "key": "Corn Tortilla",
+    "label": "Corn Tortilla",
+    "aliases": []
+  },
+  {
+    "key": "Cotija Cheese",
+    "label": "Cotija Cheese",
+    "aliases": []
+  },
+  {
+    "key": "Crayfish",
+    "label": "Crayfish",
+    "aliases": []
+  },
+  {
+    "key": "Cherry",
+    "label": "Cseresznye",
+    "aliases": []
+  },
+  {
+    "key": "Chickpea",
+    "label": "Csicseriborsó",
+    "aliases": []
+  },
+  {
+    "key": "Jerusalem Artichoke",
+    "label": "Csicsóka",
+    "aliases": []
+  },
+  {
+    "key": "Lupin Bean",
+    "label": "Csillagfürtbab",
+    "aliases": []
+  },
+  {
+    "key": "Button Mushroom",
+    "label": "Csiperkegomba",
+    "aliases": []
+  },
+  {
+    "key": "Chicken Breast",
+    "label": "Csirkemell",
+    "aliases": []
+  },
+  {
+    "key": "Pike",
+    "label": "Csuka",
     "aliases": [
-      "Example fruit"
+      "Pike"
     ]
   },
   {
-    "key": "Sample Lentils",
-    "label": "Sample Lentils",
+    "key": "Zucchini",
+    "label": "Cukkini",
+    "aliases": []
+  },
+  {
+    "key": "Curry Powder",
+    "label": "Currypor",
+    "aliases": []
+  },
+  {
+    "key": "Beetroot",
+    "label": "Cékla",
+    "aliases": []
+  },
+  {
+    "key": "Ground Beef",
+    "label": "Darált marhahús",
+    "aliases": []
+  },
+  {
+    "key": "Ground Pork",
+    "label": "Darált sertéshús",
+    "aliases": []
+  },
+  {
+    "key": "Date",
+    "label": "Datolya",
+    "aliases": []
+  },
+  {
+    "key": "Walnut",
+    "label": "Dió",
+    "aliases": []
+  },
+  {
+    "key": "Walnut Oil",
+    "label": "Dióolaj",
+    "aliases": []
+  },
+  {
+    "key": "Duck",
+    "label": "Duck",
+    "aliases": []
+  },
+  {
+    "key": "Vinegar",
+    "label": "Ecet",
+    "aliases": []
+  },
+  {
+    "key": "Edamame",
+    "label": "Edamame",
+    "aliases": []
+  },
+  {
+    "key": "Eel",
+    "label": "Eel",
+    "aliases": []
+  },
+  {
+    "key": "Emmental Cheese",
+    "label": "Emmentáli sajt",
+    "aliases": []
+  },
+  {
+    "key": "Endive",
+    "label": "Endívia",
+    "aliases": []
+  },
+  {
+    "key": "Strawberry",
+    "label": "Eper",
+    "aliases": []
+  },
+  {
+    "key": "Cinnamon",
+    "label": "Fahéj",
+    "aliases": []
+  },
+  {
+    "key": "White Bean",
+    "label": "Fehér bab",
+    "aliases": []
+  },
+  {
+    "key": "White Bread",
+    "label": "Fehér kenyér",
+    "aliases": []
+  },
+  {
+    "key": "White Rice",
+    "label": "Fehér rizs",
+    "aliases": []
+  },
+  {
+    "key": "Turnip",
+    "label": "Fehérrépa",
+    "aliases": []
+  },
+  {
+    "key": "White Cabbage",
+    "label": "Fejes káposzta",
+    "aliases": []
+  },
+  {
+    "key": "Black Bean",
+    "label": "Fekete bab",
+    "aliases": []
+  },
+  {
+    "key": "Black Pepper",
+    "label": "Fekete bors",
+    "aliases": []
+  },
+  {
+    "key": "Black Salsify",
+    "label": "Fekete gyökér",
+    "aliases": []
+  },
+  {
+    "key": "Black Olive",
+    "label": "Fekete olajbogyó",
+    "aliases": []
+  },
+  {
+    "key": "Black Tea",
+    "label": "Fekete tea",
+    "aliases": []
+  },
+  {
+    "key": "Pine Nut",
+    "label": "Fenyőmag",
+    "aliases": []
+  },
+  {
+    "key": "Feta Cheese",
+    "label": "Feta sajt",
+    "aliases": []
+  },
+  {
+    "key": "White Flour",
+    "label": "Finomliszt",
+    "aliases": []
+  },
+  {
+    "key": "Kale",
+    "label": "Fodros kel",
+    "aliases": []
+  },
+  {
+    "key": "Garlic",
+    "label": "Fokhagyma",
+    "aliases": []
+  },
+  {
+    "key": "Haddock",
+    "label": "Foltos tőkehal",
+    "aliases": []
+  },
+  {
+    "key": "Peanut",
+    "label": "Földimogyoró",
+    "aliases": []
+  },
+  {
+    "key": "Peanut Oil",
+    "label": "Földimogyoró-olaj",
+    "aliases": []
+  },
+  {
+    "key": "Fig",
+    "label": "Füge",
+    "aliases": []
+  },
+  {
+    "key": "Shrimp",
+    "label": "Garnéla",
+    "aliases": []
+  },
+  {
+    "key": "Gnocchi",
+    "label": "Gnocchi",
+    "aliases": []
+  },
+  {
+    "key": "Goose",
+    "label": "Goose",
+    "aliases": []
+  },
+  {
+    "key": "Gooseberry",
+    "label": "Gooseberry",
+    "aliases": []
+  },
+  {
+    "key": "Gouda Cheese",
+    "label": "Gouda sajt",
+    "aliases": []
+  },
+  {
+    "key": "Grapefruit",
+    "label": "Grapefruit",
+    "aliases": []
+  },
+  {
+    "key": "Pomegranate",
+    "label": "Gránátalma",
+    "aliases": []
+  },
+  {
+    "key": "Guava",
+    "label": "Guava",
+    "aliases": []
+  },
+  {
+    "key": "Ginger",
+    "label": "Gyömbér",
+    "aliases": []
+  },
+  {
+    "key": "Greek Yogurt",
+    "label": "Görög joghurt",
+    "aliases": []
+  },
+  {
+    "key": "Watermelon",
+    "label": "Görögdinnye",
+    "aliases": []
+  },
+  {
+    "key": "Onion",
+    "label": "Hagyma",
+    "aliases": []
+  },
+  {
+    "key": "Buckwheat",
+    "label": "Hajdina",
+    "aliases": []
+  },
+  {
+    "key": "Catfish",
+    "label": "Harcsa",
     "aliases": [
-      "Example legume"
+      "Catfish"
     ]
   },
   {
-    "key": "Sample Salmon",
-    "label": "Sample Salmon",
+    "key": "Herring",
+    "label": "Hering",
+    "aliases": []
+  },
+  {
+    "key": "Hibiscus Tea",
+    "label": "Hibiszkusztea",
+    "aliases": []
+  },
+  {
+    "key": "Sea Buckthorn",
+    "label": "Homoktövis",
+    "aliases": []
+  },
+  {
+    "key": "Jalapeño Pepper",
+    "label": "Jalapeño Pepper",
+    "aliases": []
+  },
+  {
+    "key": "Jicama",
+    "label": "Jicama",
+    "aliases": []
+  },
+  {
+    "key": "Maple Syrup",
+    "label": "Juharszirup",
+    "aliases": []
+  },
+  {
+    "key": "Iceberg Lettuce",
+    "label": "Jégsaláta",
+    "aliases": []
+  },
+  {
+    "key": "Mussel",
+    "label": "Kagyló",
+    "aliases": []
+  },
+  {
+    "key": "Cocoa Powder",
+    "label": "Kakaópor",
+    "aliases": []
+  },
+  {
+    "key": "Thyme",
+    "label": "Kakukkfű",
+    "aliases": []
+  },
+  {
+    "key": "Chamomile Tea",
+    "label": "Kamillatea",
+    "aliases": []
+  },
+  {
+    "key": "Dill",
+    "label": "Kapor",
+    "aliases": []
+  },
+  {
+    "key": "Capers",
+    "label": "Kapribogyó",
+    "aliases": []
+  },
+  {
+    "key": "Kohlrabi",
+    "label": "Karalábé",
+    "aliases": []
+  },
+  {
+    "key": "Cardamom",
+    "label": "Kardamom",
+    "aliases": []
+  },
+  {
+    "key": "Cauliflower",
+    "label": "Karfiol",
+    "aliases": []
+  },
+  {
+    "key": "Goat Cheese",
+    "label": "Kecskesajt",
+    "aliases": []
+  },
+  {
+    "key": "Kefir",
+    "label": "Kefir",
+    "aliases": []
+  },
+  {
+    "key": "Brussels Sprouts",
+    "label": "Kelbimbó",
+    "aliases": []
+  },
+  {
+    "key": "Savoy Cabbage",
+    "label": "Kelkáposzta",
+    "aliases": []
+  },
+  {
+    "key": "Hemp Seed",
+    "label": "Kendermag",
+    "aliases": []
+  },
+  {
+    "key": "Cashew",
+    "label": "Kesudió",
+    "aliases": []
+  },
+  {
+    "key": "Quinoa",
+    "label": "Kinoa",
+    "aliases": []
+  },
+  {
+    "key": "Kiwi",
+    "label": "Kiwi",
+    "aliases": []
+  },
+  {
+    "key": "Coriander",
+    "label": "Koriander",
+    "aliases": []
+  },
+  {
+    "key": "Cream Cheese",
+    "label": "Krémsajt",
+    "aliases": []
+  },
+  {
+    "key": "Corn",
+    "label": "Kukorica",
+    "aliases": []
+  },
+  {
+    "key": "Corn Grits",
+    "label": "Kukoricadara",
+    "aliases": []
+  },
+  {
+    "key": "Corn Oil",
+    "label": "Kukoricaolaj",
+    "aliases": []
+  },
+  {
+    "key": "Turmeric",
+    "label": "Kurkuma",
+    "aliases": []
+  },
+  {
+    "key": "Couscous",
+    "label": "Kuszkusz",
+    "aliases": []
+  },
+  {
+    "key": "Coffee",
+    "label": "Kávé",
+    "aliases": []
+  },
+  {
+    "key": "Chinese Cabbage",
+    "label": "Kínai kel",
+    "aliases": []
+  },
+  {
+    "key": "Coconut Oil",
+    "label": "Kókuszolaj",
+    "aliases": []
+  },
+  {
+    "key": "Millet",
+    "label": "Köles",
+    "aliases": []
+  },
+  {
+    "key": "Caraway",
+    "label": "Kömény",
+    "aliases": []
+  },
+  {
+    "key": "Pear",
+    "label": "Körte",
+    "aliases": []
+  },
+  {
+    "key": "Halibut",
+    "label": "Laposhal",
+    "aliases": []
+  },
+  {
+    "key": "Oyster Mushroom",
+    "label": "Laskagomba",
+    "aliases": []
+  },
+  {
+    "key": "Salmon",
+    "label": "Lazac",
+    "aliases": []
+  },
+  {
+    "key": "Lentil",
+    "label": "Lencse",
+    "aliases": []
+  },
+  {
+    "key": "Lentil Sprouts",
+    "label": "Lencsecsíra",
+    "aliases": []
+  },
+  {
+    "key": "Flaxseed",
+    "label": "Lenmag",
+    "aliases": []
+  },
+  {
+    "key": "Flaxseed Oil",
+    "label": "Lenmagolaj",
+    "aliases": []
+  },
+  {
+    "key": "Lovage",
+    "label": "Lestyán",
+    "aliases": []
+  },
+  {
+    "key": "Collard Greens",
+    "label": "Levélkel",
     "aliases": [
-      "Example fish"
+      "Collard Greens"
     ]
+  },
+  {
+    "key": "Red Cabbage",
+    "label": "Lilakáposzta",
+    "aliases": []
+  },
+  {
+    "key": "Lima Beans",
+    "label": "Limabab",
+    "aliases": [
+      "Lima Beans"
+    ]
+  },
+  {
+    "key": "Lime",
+    "label": "Lime",
+    "aliases": []
+  },
+  {
+    "key": "Litchi",
+    "label": "Litchi",
+    "aliases": []
+  },
+  {
+    "key": "Lobster",
+    "label": "Lobster",
+    "aliases": []
+  },
+  {
+    "key": "Fava Bean",
+    "label": "Lóbab",
+    "aliases": []
+  },
+  {
+    "key": "Lamb's Lettuce",
+    "label": "Madársaláta",
+    "aliases": []
+  },
+  {
+    "key": "Marjoram",
+    "label": "Majoránna",
+    "aliases": []
+  },
+  {
+    "key": "Macadamia",
+    "label": "Makadámdió",
+    "aliases": []
+  },
+  {
+    "key": "Acorn Squash",
+    "label": "Makktök",
+    "aliases": [
+      "Acorn Squash"
+    ]
+  },
+  {
+    "key": "Mackerel",
+    "label": "Makréla",
+    "aliases": []
+  },
+  {
+    "key": "Mandarin",
+    "label": "Mandarin narancs",
+    "aliases": []
+  },
+  {
+    "key": "Almond",
+    "label": "Mandula",
+    "aliases": []
+  },
+  {
+    "key": "Almond Butter",
+    "label": "Mandulavaj",
+    "aliases": []
+  },
+  {
+    "key": "Mango",
+    "label": "Mangó",
+    "aliases": []
+  },
+  {
+    "key": "Beef",
+    "label": "Marhahús",
+    "aliases": []
+  },
+  {
+    "key": "Masa Harina",
+    "label": "Masa Harina",
+    "aliases": []
+  },
+  {
+    "key": "Mascarpone Cheese",
+    "label": "Mascarpone",
+    "aliases": []
+  },
+  {
+    "key": "Raisin",
+    "label": "Mazsola",
+    "aliases": []
+  },
+  {
+    "key": "Ramson",
+    "label": "Medvehagyma",
+    "aliases": []
+  },
+  {
+    "key": "Mint",
+    "label": "Menta",
+    "aliases": []
+  },
+  {
+    "key": "Chives",
+    "label": "Metélőhagyma",
+    "aliases": []
+  },
+  {
+    "key": "Mirabelle Plum",
+    "label": "Mirabella szilva",
+    "aliases": []
+  },
+  {
+    "key": "Miso",
+    "label": "Miso",
+    "aliases": []
+  },
+  {
+    "key": "Hazelnut",
+    "label": "Mogyoró",
+    "aliases": []
+  },
+  {
+    "key": "Hazelnut Butter",
+    "label": "Mogyoróvaj",
+    "aliases": []
+  },
+  {
+    "key": "Peanut Butter",
+    "label": "Mogyoróvaj",
+    "aliases": []
+  },
+  {
+    "key": "Molasses",
+    "label": "Molasses",
+    "aliases": []
+  },
+  {
+    "key": "Mozzarella",
+    "label": "Mozzarella",
+    "aliases": []
+  },
+  {
+    "key": "Mung Bean",
+    "label": "Mungóbab",
+    "aliases": []
+  },
+  {
+    "key": "Mustard Greens",
+    "label": "Mustard Greens",
+    "aliases": []
+  },
+  {
+    "key": "Mustard",
+    "label": "Mustár",
+    "aliases": []
+  },
+  {
+    "key": "Mustard Seed",
+    "label": "Mustármag",
+    "aliases": []
+  },
+  {
+    "key": "Liver",
+    "label": "Máj",
+    "aliases": []
+  },
+  {
+    "key": "Poppy Seed",
+    "label": "Mák",
+    "aliases": []
+  },
+  {
+    "key": "Raspberry",
+    "label": "Málna",
+    "aliases": []
+  },
+  {
+    "key": "Swiss Chard",
+    "label": "Mángold",
+    "aliases": []
+  },
+  {
+    "key": "Honey",
+    "label": "Méz",
+    "aliases": []
+  },
+  {
+    "key": "Sunflower Seed",
+    "label": "Napraforgómag",
+    "aliases": []
+  },
+  {
+    "key": "Sunflower Oil",
+    "label": "Napraforgóolaj",
+    "aliases": []
+  },
+  {
+    "key": "Orange",
+    "label": "Narancs",
+    "aliases": []
+  },
+  {
+    "key": "Plain Yogurt",
+    "label": "Natúr joghurt",
+    "aliases": []
+  },
+  {
+    "key": "Navy Beans",
+    "label": "Navy Beans",
+    "aliases": []
+  },
+  {
+    "key": "Nectarine",
+    "label": "Nektarin",
+    "aliases": []
+  },
+  {
+    "key": "Nopal",
+    "label": "Nopal",
+    "aliases": []
+  },
+  {
+    "key": "Oat Flour",
+    "label": "Oat Flour",
+    "aliases": []
+  },
+  {
+    "key": "Okra",
+    "label": "Okra",
+    "aliases": []
+  },
+  {
+    "key": "Olive Oil",
+    "label": "Olívaolaj",
+    "aliases": []
+  },
+  {
+    "key": "Oolong Tea",
+    "label": "Oolong tea",
+    "aliases": []
+  },
+  {
+    "key": "Oregano",
+    "label": "Oregánó",
+    "aliases": []
+  },
+  {
+    "key": "Eggplant",
+    "label": "Padlizsán",
+    "aliases": []
+  },
+  {
+    "key": "Pak Choi",
+    "label": "Pak choi",
+    "aliases": []
+  },
+  {
+    "key": "Papaya",
+    "label": "Papaya",
+    "aliases": []
+  },
+  {
+    "key": "Paprika",
+    "label": "Paprika",
+    "aliases": []
+  },
+  {
+    "key": "Tomato",
+    "label": "Paradicsom",
+    "aliases": []
+  },
+  {
+    "key": "Tomato Paste",
+    "label": "Paradicsompüré",
+    "aliases": []
+  },
+  {
+    "key": "Parmesan Cheese",
+    "label": "Parmezán sajt",
+    "aliases": []
+  },
+  {
+    "key": "Passion Fruit",
+    "label": "Passion Fruit",
+    "aliases": []
+  },
+  {
+    "key": "Parsnip",
+    "label": "Paszternák",
+    "aliases": []
+  },
+  {
+    "key": "Pecan",
+    "label": "Pekándió",
+    "aliases": []
+  },
+  {
+    "key": "Persimmon",
+    "label": "Persimmon",
+    "aliases": []
+  },
+  {
+    "key": "Parsley",
+    "label": "Petrezselyem",
+    "aliases": []
+  },
+  {
+    "key": "Red Bell Pepper",
+    "label": "Piros kaliforniai paprika",
+    "aliases": []
+  },
+  {
+    "key": "Trout",
+    "label": "Pisztráng",
+    "aliases": []
+  },
+  {
+    "key": "Pistachio",
+    "label": "Pisztácia",
+    "aliases": []
+  },
+  {
+    "key": "Plantain",
+    "label": "Plantain",
+    "aliases": []
+  },
+  {
+    "key": "Poblano Pepper",
+    "label": "Poblano Pepper",
+    "aliases": []
+  },
+  {
+    "key": "Polenta",
+    "label": "Polenta",
+    "aliases": []
+  },
+  {
+    "key": "Octopus",
+    "label": "Polip",
+    "aliases": [
+      "Octopus"
+    ]
+  },
+  {
+    "key": "Carp",
+    "label": "Ponty",
+    "aliases": [
+      "Carp"
+    ]
+  },
+  {
+    "key": "Purslane",
+    "label": "Porcsin",
+    "aliases": []
+  },
+  {
+    "key": "Prickly Pear",
+    "label": "Prickly Pear",
+    "aliases": []
+  },
+  {
+    "key": "Turkey",
+    "label": "Pulyka",
+    "aliases": []
+  },
+  {
+    "key": "Turkey Breast",
+    "label": "Pulykamell",
+    "aliases": []
+  },
+  {
+    "key": "Leek",
+    "label": "Póréhagyma",
+    "aliases": []
+  },
+  {
+    "key": "Queso Fresco",
+    "label": "Queso Fresco",
+    "aliases": []
+  },
+  {
+    "key": "Rabbit",
+    "label": "Rabbit",
+    "aliases": []
+  },
+  {
+    "key": "Radicchio",
+    "label": "Radicchio",
+    "aliases": []
+  },
+  {
+    "key": "Rhubarb",
+    "label": "Rebarbara",
+    "aliases": []
+  },
+  {
+    "key": "Red Currant",
+    "label": "Red Currant",
+    "aliases": []
+  },
+  {
+    "key": "Canola Oil",
+    "label": "Repceolaj",
+    "aliases": []
+  },
+  {
+    "key": "Radish",
+    "label": "Retek",
+    "aliases": []
+  },
+  {
+    "key": "Currant",
+    "label": "Ribizli",
+    "aliases": []
+  },
+  {
+    "key": "Ricotta Cheese",
+    "label": "Ricotta",
+    "aliases": []
+  },
+  {
+    "key": "Romanesco",
+    "label": "Romanesco karfiol",
+    "aliases": []
+  },
+  {
+    "key": "Rosemary",
+    "label": "Rozmaring",
+    "aliases": []
+  },
+  {
+    "key": "Rye",
+    "label": "Rozs",
+    "aliases": []
+  },
+  {
+    "key": "Rye Flakes",
+    "label": "Rozspehely",
+    "aliases": []
+  },
+  {
+    "key": "Arugula",
+    "label": "Rukkola",
+    "aliases": []
+  },
+  {
+    "key": "Rutabaga",
+    "label": "Rutabaga",
+    "aliases": []
+  },
+  {
+    "key": "Rye Flour",
+    "label": "Rye Flour",
+    "aliases": []
+  },
+  {
+    "key": "Crab",
+    "label": "Rák",
+    "aliases": []
+  },
+  {
+    "key": "Carrot",
+    "label": "Répa",
+    "aliases": []
+  },
+  {
+    "key": "Cumin",
+    "label": "Római kömény",
+    "aliases": []
+  },
+  {
+    "key": "Salami",
+    "label": "Salami",
+    "aliases": []
+  },
+  {
+    "key": "Shallot",
+    "label": "Salotta",
+    "aliases": []
+  },
+  {
+    "key": "Sauerkraut",
+    "label": "Savanyú káposzta",
+    "aliases": []
+  },
+  {
+    "key": "Scallop",
+    "label": "Scallop",
+    "aliases": []
+  },
+  {
+    "key": "Pork",
+    "label": "Sertéshús",
+    "aliases": []
+  },
+  {
+    "key": "Shiitake Mushroom",
+    "label": "Shiitake gomba",
+    "aliases": []
+  },
+  {
+    "key": "Ham",
+    "label": "Sonka",
+    "aliases": []
+  },
+  {
+    "key": "Butternut Squash",
+    "label": "Sonkatök",
+    "aliases": [
+      "Butternut Squash"
+    ]
+  },
+  {
+    "key": "Sorghum",
+    "label": "Sorghum",
+    "aliases": []
+  },
+  {
+    "key": "Sour Cherry",
+    "label": "Sour Cherry",
+    "aliases": []
+  },
+  {
+    "key": "Beef Lean",
+    "label": "Sovány marhahús",
+    "aliases": []
+  },
+  {
+    "key": "Pork Lean",
+    "label": "Sovány sertéshús",
+    "aliases": []
+  },
+  {
+    "key": "Spelt Flour",
+    "label": "Spelt Flour",
+    "aliases": []
+  },
+  {
+    "key": "Spinach",
+    "label": "Spenót",
+    "aliases": []
+  },
+  {
+    "key": "Asparagus",
+    "label": "Spárga",
+    "aliases": []
+  },
+  {
+    "key": "Sweet Corn",
+    "label": "Sweet Corn",
+    "aliases": []
+  },
+  {
+    "key": "Swordfish",
+    "label": "Swordfish",
+    "aliases": []
+  },
+  {
+    "key": "Anchovy",
+    "label": "Szardella",
+    "aliases": []
+  },
+  {
+    "key": "Sardine",
+    "label": "Szardínia",
+    "aliases": []
+  },
+  {
+    "key": "Blackberry",
+    "label": "Szeder",
+    "aliases": []
+  },
+  {
+    "key": "Clove",
+    "label": "Szegfűszeg",
+    "aliases": []
+  },
+  {
+    "key": "Seitan",
+    "label": "Szejtán",
+    "aliases": []
+  },
+  {
+    "key": "Nutmeg",
+    "label": "Szerecsendió",
+    "aliases": []
+  },
+  {
+    "key": "Sesame Seed",
+    "label": "Szezámmag",
+    "aliases": []
+  },
+  {
+    "key": "Sesame Oil",
+    "label": "Szezámolaj",
+    "aliases": []
+  },
+  {
+    "key": "Plum",
+    "label": "Szilva",
+    "aliases": []
+  },
+  {
+    "key": "Celery Stalk",
+    "label": "Szárzeller",
+    "aliases": []
+  },
+  {
+    "key": "Soybean Oil",
+    "label": "Szójaolaj",
+    "aliases": []
+  },
+  {
+    "key": "Grape",
+    "label": "Szőlő",
+    "aliases": []
+  },
+  {
+    "key": "Grape Leaves",
+    "label": "Szőlőlevél",
+    "aliases": [
+      "Grape Leaves"
+    ]
+  },
+  {
+    "key": "Yellow Bell Pepper",
+    "label": "Sárga kaliforniai paprika",
+    "aliases": []
+  },
+  {
+    "key": "Pollock",
+    "label": "Sárga tőkehal",
+    "aliases": []
+  },
+  {
+    "key": "Apricot",
+    "label": "Sárgabarack",
+    "aliases": []
+  },
+  {
+    "key": "Melon",
+    "label": "Sárgadinnye",
+    "aliases": []
+  },
+  {
+    "key": "Pumpkin",
+    "label": "Sütőtök",
+    "aliases": []
+  },
+  {
+    "key": "Tapioca",
+    "label": "Tapioca",
+    "aliases": []
+  },
+  {
+    "key": "Pinto Bean",
+    "label": "Tarkabab",
+    "aliases": []
+  },
+  {
+    "key": "Teff",
+    "label": "Teff",
+    "aliases": []
+  },
+  {
+    "key": "Sour Cream",
+    "label": "Tejföl",
+    "aliases": [
+      "Sour Cream"
+    ]
+  },
+  {
+    "key": "Cream",
+    "label": "Tejszín",
+    "aliases": []
+  },
+  {
+    "key": "Whole Wheat Bread",
+    "label": "Teljes kiőrlésű kenyér",
+    "aliases": []
+  },
+  {
+    "key": "Whole Milk",
+    "label": "Teljes tej",
+    "aliases": []
+  },
+  {
+    "key": "Tempeh",
+    "label": "Tempeh",
+    "aliases": []
+  },
+  {
+    "key": "Sea Bass",
+    "label": "Tengeri sügér",
+    "aliases": []
+  },
+  {
+    "key": "Tilapia",
+    "label": "Tilápia",
+    "aliases": [
+      "Tilapia"
+    ]
+  },
+  {
+    "key": "Squid",
+    "label": "Tintahal",
+    "aliases": [
+      "Squid"
+    ]
+  },
+  {
+    "key": "Tofu",
+    "label": "Tofu",
+    "aliases": []
+  },
+  {
+    "key": "Egg",
+    "label": "Tojás",
+    "aliases": []
+  },
+  {
+    "key": "Tomatillo",
+    "label": "Tomatillo",
+    "aliases": []
+  },
+  {
+    "key": "Tuna",
+    "label": "Tonhal",
+    "aliases": []
+  },
+  {
+    "key": "Horseradish",
+    "label": "Torma",
+    "aliases": []
+  },
+  {
+    "key": "Chervil",
+    "label": "Turbolya",
+    "aliases": []
+  },
+  {
+    "key": "Turnip Greens",
+    "label": "Turnip Greens",
+    "aliases": []
+  },
+  {
+    "key": "Tarragon",
+    "label": "Tárkony",
+    "aliases": []
+  },
+  {
+    "key": "Pasta",
+    "label": "Tészta",
+    "aliases": []
+  },
+  {
+    "key": "Pumpkin Seed",
+    "label": "Tökmag",
+    "aliases": []
+  },
+  {
+    "key": "Spelt",
+    "label": "Tönköly",
+    "aliases": []
+  },
+  {
+    "key": "Spelt Flakes",
+    "label": "Tönkölypehely",
+    "aliases": []
+  },
+  {
+    "key": "Quark",
+    "label": "Túró",
+    "aliases": []
+  },
+  {
+    "key": "Cottage Cheese",
+    "label": "Túrószemcsés sajt",
+    "aliases": []
+  },
+  {
+    "key": "Cod",
+    "label": "Tőkehal",
+    "aliases": []
+  },
+  {
+    "key": "Cucumber",
+    "label": "Uborka",
+    "aliases": []
+  },
+  {
+    "key": "Wild Rice",
+    "label": "Vadrizs",
+    "aliases": []
+  },
+  {
+    "key": "Butter",
+    "label": "Vaj",
+    "aliases": []
+  },
+  {
+    "key": "Mixed Ground Meat",
+    "label": "Vegyes darált hús",
+    "aliases": []
+  },
+  {
+    "key": "Venison",
+    "label": "Venison",
+    "aliases": []
+  },
+  {
+    "key": "Lingonberry",
+    "label": "Vörös áfonya",
+    "aliases": []
+  },
+  {
+    "key": "Cranberry",
+    "label": "Vörös áfonya",
+    "aliases": [
+      "Cranberry"
+    ]
+  },
+  {
+    "key": "Kidney Bean",
+    "label": "Vörösbab",
+    "aliases": []
+  },
+  {
+    "key": "Water Chestnut",
+    "label": "Water Chestnut",
+    "aliases": []
+  },
+  {
+    "key": "Watercress",
+    "label": "Watercress",
+    "aliases": []
+  },
+  {
+    "key": "Wheat Bran",
+    "label": "Wheat Bran",
+    "aliases": []
+  },
+  {
+    "key": "Wheat Tortilla",
+    "label": "Wheat Tortilla",
+    "aliases": []
+  },
+  {
+    "key": "Oats",
+    "label": "Zab",
+    "aliases": []
+  },
+  {
+    "key": "Oat Flakes",
+    "label": "Zabpehely",
+    "aliases": []
+  },
+  {
+    "key": "Celery Root",
+    "label": "Zellergumó",
+    "aliases": []
+  },
+  {
+    "key": "White Bread Roll",
+    "label": "Zsemle",
+    "aliases": []
+  },
+  {
+    "key": "Sage",
+    "label": "Zsálya",
+    "aliases": []
+  },
+  {
+    "key": "Lard",
+    "label": "Zsír",
+    "aliases": []
+  },
+  {
+    "key": "Low Fat Milk",
+    "label": "Zsírszegény tej",
+    "aliases": []
+  },
+  {
+    "key": "Low Fat Quark",
+    "label": "Zsírszegény túró",
+    "aliases": []
+  },
+  {
+    "key": "Green Bell Pepper",
+    "label": "Zöld kaliforniai paprika",
+    "aliases": []
+  },
+  {
+    "key": "Green Olive",
+    "label": "Zöld olajbogyó",
+    "aliases": []
+  },
+  {
+    "key": "Green Tea",
+    "label": "Zöld tea",
+    "aliases": []
+  },
+  {
+    "key": "Green Bean",
+    "label": "Zöldbab",
+    "aliases": []
+  },
+  {
+    "key": "Green Pea",
+    "label": "Zöldborsó",
+    "aliases": []
+  },
+  {
+    "key": "Blueberry",
+    "label": "Áfonya",
+    "aliases": []
+  },
+  {
+    "key": "Anise",
+    "label": "Ánizs",
+    "aliases": []
+  },
+  {
+    "key": "Barley",
+    "label": "Árpa",
+    "aliases": []
+  },
+  {
+    "key": "Sweet Potato",
+    "label": "Édesburgonya",
+    "aliases": []
+  },
+  {
+    "key": "Fennel",
+    "label": "Édeskömény",
+    "aliases": []
+  },
+  {
+    "key": "Fennel Seed",
+    "label": "Édesköménymag",
+    "aliases": []
+  },
+  {
+    "key": "Buttermilk",
+    "label": "Író",
+    "aliases": []
+  },
+  {
+    "key": "King Oyster Mushroom",
+    "label": "Ördögszekérgomba",
+    "aliases": []
+  },
+  {
+    "key": "Spring Onion",
+    "label": "Újhagyma",
+    "aliases": []
+  },
+  {
+    "key": "Peach",
+    "label": "Őszibarack",
+    "aliases": []
   }
 ]

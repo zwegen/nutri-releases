@@ -1,0 +1,262 @@
+{
+  "search_name": "ground pork raw",
+  "display_name": "Ground Pork",
+  "data": {
+    "Energy": {
+      "value": 263,
+      "unit": "kcal"
+    },
+    "Fiber, total dietary": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Folic acid": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Folate, DFE": {
+      "value": 5.0,
+      "unit": "ug"
+    },
+    "Retinol": {
+      "value": 2.0,
+      "unit": "ug"
+    },
+    "Vitamin A, RAE": {
+      "value": 2.0,
+      "unit": "ug"
+    },
+    "Vitamin C, total ascorbic acid": {
+      "value": 0.7,
+      "unit": "mg"
+    },
+    "Thiamin": {
+      "value": 0.732,
+      "unit": "mg"
+    },
+    "Riboflavin": {
+      "value": 0.235,
+      "unit": "mg"
+    },
+    "Folate, total": {
+      "value": 5.0,
+      "unit": "ug"
+    },
+    "Vitamin B-12": {
+      "value": 0.7,
+      "unit": "ug"
+    },
+    "Folate, food": {
+      "value": 5.0,
+      "unit": "ug"
+    },
+    "Tryptophan": {
+      "value": 0.214,
+      "unit": "g"
+    },
+    "Threonine": {
+      "value": 0.771,
+      "unit": "g"
+    },
+    "Methionine": {
+      "value": 0.447,
+      "unit": "g"
+    },
+    "Phenylalanine": {
+      "value": 0.674,
+      "unit": "g"
+    },
+    "Iron, Fe": {
+      "value": 0.88,
+      "unit": "mg"
+    },
+    "Magnesium, Mg": {
+      "value": 19.0,
+      "unit": "mg"
+    },
+    "Phosphorus, P": {
+      "value": 175,
+      "unit": "mg"
+    },
+    "Sodium, Na": {
+      "value": 56.0,
+      "unit": "mg"
+    },
+    "Copper, Cu": {
+      "value": 0.045,
+      "unit": "mg"
+    },
+    "Manganese, Mn": {
+      "value": 0.01,
+      "unit": "mg"
+    },
+    "Vitamin A, IU": {
+      "value": 7.0,
+      "unit": "iu"
+    },
+    "Protein": {
+      "value": 16.9,
+      "unit": "g"
+    },
+    "Ash": {
+      "value": 0.87,
+      "unit": "g"
+    },
+    "Tyrosine": {
+      "value": 0.588,
+      "unit": "g"
+    },
+    "Alanine": {
+      "value": 0.983,
+      "unit": "g"
+    },
+    "Glutamic acid": {
+      "value": 2.64,
+      "unit": "g"
+    },
+    "Glycine": {
+      "value": 0.802,
+      "unit": "g"
+    },
+    "Proline": {
+      "value": 0.678,
+      "unit": "g"
+    },
+    "Cholesterol": {
+      "value": 72.0,
+      "unit": "mg"
+    },
+    "Fatty acids, total saturated": {
+      "value": 7.87,
+      "unit": "g"
+    },
+    "SFA 12:0": {
+      "value": 0.02,
+      "unit": "g"
+    },
+    "SFA 14:0": {
+      "value": 0.33,
+      "unit": "g"
+    },
+    "MUFA 16:1": {
+      "value": 0.65,
+      "unit": "g"
+    },
+    "Total lipid (fat)": {
+      "value": 21.2,
+      "unit": "g"
+    },
+    "Carbohydrate, by difference": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Water": {
+      "value": 61.1,
+      "unit": "g"
+    },
+    "Calcium, Ca": {
+      "value": 14.0,
+      "unit": "mg"
+    },
+    "Potassium, K": {
+      "value": 287,
+      "unit": "mg"
+    },
+    "Zinc, Zn": {
+      "value": 2.2,
+      "unit": "mg"
+    },
+    "Selenium, Se": {
+      "value": 24.6,
+      "unit": "ug"
+    },
+    "Niacin": {
+      "value": 4.34,
+      "unit": "mg"
+    },
+    "Pantothenic acid": {
+      "value": 0.668,
+      "unit": "mg"
+    },
+    "Vitamin B-6": {
+      "value": 0.383,
+      "unit": "mg"
+    },
+    "Isoleucine": {
+      "value": 0.79,
+      "unit": "g"
+    },
+    "Leucine": {
+      "value": 1.35,
+      "unit": "g"
+    },
+    "Lysine": {
+      "value": 1.52,
+      "unit": "g"
+    },
+    "Cystine": {
+      "value": 0.215,
+      "unit": "g"
+    },
+    "Valine": {
+      "value": 0.916,
+      "unit": "g"
+    },
+    "Arginine": {
+      "value": 1.05,
+      "unit": "g"
+    },
+    "Histidine": {
+      "value": 0.674,
+      "unit": "g"
+    },
+    "Aspartic acid": {
+      "value": 1.57,
+      "unit": "g"
+    },
+    "Serine": {
+      "value": 0.697,
+      "unit": "g"
+    },
+    "SFA 10:0": {
+      "value": 0.01,
+      "unit": "g"
+    },
+    "SFA 16:0": {
+      "value": 4.77,
+      "unit": "g"
+    },
+    "SFA 18:0": {
+      "value": 2.55,
+      "unit": "g"
+    },
+    "MUFA 18:1": {
+      "value": 8.5,
+      "unit": "g"
+    },
+    "PUFA 18:2": {
+      "value": 1.67,
+      "unit": "g"
+    },
+    "PUFA 18:3": {
+      "value": 0.07,
+      "unit": "g"
+    },
+    "PUFA 20:4": {
+      "value": 0.08,
+      "unit": "g"
+    },
+    "MUFA 20:1": {
+      "value": 0.16,
+      "unit": "g"
+    },
+    "Fatty acids, total monounsaturated": {
+      "value": 9.44,
+      "unit": "g"
+    },
+    "Fatty acids, total polyunsaturated": {
+      "value": 1.91,
+      "unit": "g"
+    }
+  }
+}

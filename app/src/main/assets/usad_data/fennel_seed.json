@@ -1,0 +1,218 @@
+{
+  "search_name": "fennel seed",
+  "display_name": "Fennel Seed",
+  "data": {
+    "Thiamin": {
+      "value": 0.408,
+      "unit": "mg"
+    },
+    "Riboflavin": {
+      "value": 0.353,
+      "unit": "mg"
+    },
+    "Vitamin B-12": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Tryptophan": {
+      "value": 0.253,
+      "unit": "g"
+    },
+    "Threonine": {
+      "value": 0.602,
+      "unit": "g"
+    },
+    "Methionine": {
+      "value": 0.301,
+      "unit": "g"
+    },
+    "Phenylalanine": {
+      "value": 0.647,
+      "unit": "g"
+    },
+    "Tyrosine": {
+      "value": 0.41,
+      "unit": "g"
+    },
+    "Alanine": {
+      "value": 0.789,
+      "unit": "g"
+    },
+    "Glutamic acid": {
+      "value": 2.96,
+      "unit": "g"
+    },
+    "Glycine": {
+      "value": 1.11,
+      "unit": "g"
+    },
+    "Proline": {
+      "value": 0.9,
+      "unit": "g"
+    },
+    "Cholesterol": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Fatty acids, total saturated": {
+      "value": 0.48,
+      "unit": "g"
+    },
+    "Phytosterols": {
+      "value": 66.0,
+      "unit": "mg"
+    },
+    "Iron, Fe": {
+      "value": 18.5,
+      "unit": "mg"
+    },
+    "Magnesium, Mg": {
+      "value": 385,
+      "unit": "mg"
+    },
+    "Phosphorus, P": {
+      "value": 487,
+      "unit": "mg"
+    },
+    "Sodium, Na": {
+      "value": 88.0,
+      "unit": "mg"
+    },
+    "Copper, Cu": {
+      "value": 1.07,
+      "unit": "mg"
+    },
+    "Manganese, Mn": {
+      "value": 6.53,
+      "unit": "mg"
+    },
+    "Vitamin A, IU": {
+      "value": 135,
+      "unit": "iu"
+    },
+    "Protein": {
+      "value": 15.8,
+      "unit": "g"
+    },
+    "Ash": {
+      "value": 8.22,
+      "unit": "g"
+    },
+    "Niacin": {
+      "value": 6.05,
+      "unit": "mg"
+    },
+    "Total lipid (fat)": {
+      "value": 14.9,
+      "unit": "g"
+    },
+    "Carbohydrate, by difference": {
+      "value": 52.3,
+      "unit": "g"
+    },
+    "Energy": {
+      "value": 344.2,
+      "unit": "kcal"
+    },
+    "Water": {
+      "value": 8.81,
+      "unit": "g"
+    },
+    "Calcium, Ca": {
+      "value": 1200.0,
+      "unit": "mg"
+    },
+    "Potassium, K": {
+      "value": 1690.0,
+      "unit": "mg"
+    },
+    "Zinc, Zn": {
+      "value": 3.7,
+      "unit": "mg"
+    },
+    "Isoleucine": {
+      "value": 0.695,
+      "unit": "g"
+    },
+    "Leucine": {
+      "value": 0.996,
+      "unit": "g"
+    },
+    "Lysine": {
+      "value": 0.758,
+      "unit": "g"
+    },
+    "Cystine": {
+      "value": 0.222,
+      "unit": "g"
+    },
+    "Valine": {
+      "value": 0.915,
+      "unit": "g"
+    },
+    "Arginine": {
+      "value": 0.68,
+      "unit": "g"
+    },
+    "Histidine": {
+      "value": 0.331,
+      "unit": "g"
+    },
+    "Aspartic acid": {
+      "value": 1.83,
+      "unit": "g"
+    },
+    "Serine": {
+      "value": 0.9,
+      "unit": "g"
+    },
+    "SFA 16:0": {
+      "value": 0.48,
+      "unit": "g"
+    },
+    "MUFA 18:1": {
+      "value": 9.91,
+      "unit": "g"
+    },
+    "PUFA 18:2": {
+      "value": 1.69,
+      "unit": "g"
+    },
+    "Fatty acids, total monounsaturated": {
+      "value": 9.91,
+      "unit": "g"
+    },
+    "Fatty acids, total polyunsaturated": {
+      "value": 1.69,
+      "unit": "g"
+    },
+    "Fiber, total dietary": {
+      "value": 39.8,
+      "unit": "g"
+    },
+    "Vitamin C, total ascorbic acid": {
+      "value": 21.0,
+      "unit": "mg"
+    },
+    "Vitamin A, RAE": {
+      "value": 7.0,
+      "unit": "ug"
+    },
+    "Vitamin B-6": {
+      "value": 0.47,
+      "unit": "mg"
+    },
+    "Vitamin D (D2 + D3), International Units": {
+      "value": 0.0,
+      "unit": "iu"
+    },
+    "Retinol": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Vitamin D (D2 + D3)": {
+      "value": 0.0,
+      "unit": "ug"
+    }
+  }
+}

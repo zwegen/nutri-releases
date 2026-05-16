@@ -1,23 +1,1703 @@
 [
   {
-    "key": "Sample Apple",
-    "label": "Sample Apple",
+    "key": "Adzuki Beans",
+    "label": "Adzuki Beans",
+    "aliases": []
+  },
+  {
+    "key": "Amaranth",
+    "label": "Amarant",
+    "aliases": []
+  },
+  {
+    "key": "Pineapple",
+    "label": "Ananas",
+    "aliases": []
+  },
+  {
+    "key": "Anise",
+    "label": "Anýz",
+    "aliases": []
+  },
+  {
+    "key": "Anchovy",
+    "label": "Ančovička",
+    "aliases": []
+  },
+  {
+    "key": "Peanut",
+    "label": "Arašíd",
+    "aliases": []
+  },
+  {
+    "key": "Peanut Butter",
+    "label": "Arašídové máslo",
+    "aliases": []
+  },
+  {
+    "key": "Peanut Oil",
+    "label": "Arašídový olej",
+    "aliases": []
+  },
+  {
+    "key": "Artichoke",
+    "label": "Artyčok",
+    "aliases": []
+  },
+  {
+    "key": "Avocado",
+    "label": "Avokádo",
+    "aliases": []
+  },
+  {
+    "key": "Avocado Oil",
+    "label": "Avokádový olej",
+    "aliases": []
+  },
+  {
+    "key": "Baguette",
+    "label": "Bageta",
+    "aliases": []
+  },
+  {
+    "key": "Balsamic Vinegar",
+    "label": "Balzamikový ocet",
+    "aliases": []
+  },
+  {
+    "key": "Bamboo Shoots",
+    "label": "Bamboo Shoots",
+    "aliases": []
+  },
+  {
+    "key": "Banana",
+    "label": "Banán",
+    "aliases": []
+  },
+  {
+    "key": "Sweet Potato",
+    "label": "Batát",
+    "aliases": []
+  },
+  {
+    "key": "Basil",
+    "label": "Bazalka",
+    "aliases": []
+  },
+  {
+    "key": "Elderberry",
+    "label": "Bezinka",
+    "aliases": []
+  },
+  {
+    "key": "Bison",
+    "label": "Bison",
+    "aliases": []
+  },
+  {
+    "key": "Black Currant",
+    "label": "Black Currant",
+    "aliases": []
+  },
+  {
+    "key": "Fava Bean",
+    "label": "Bob",
+    "aliases": []
+  },
+  {
+    "key": "Bay Leaf",
+    "label": "Bobkový list",
+    "aliases": []
+  },
+  {
+    "key": "Blueberry",
+    "label": "Borůvka",
+    "aliases": []
+  },
+  {
+    "key": "Potato",
+    "label": "Brambora",
+    "aliases": []
+  },
+  {
+    "key": "Brie",
+    "label": "Brie",
+    "aliases": []
+  },
+  {
+    "key": "Broccoli",
+    "label": "Brokolice",
+    "aliases": []
+  },
+  {
+    "key": "Peach",
+    "label": "Broskev",
+    "aliases": []
+  },
+  {
+    "key": "Lingonberry",
+    "label": "Brusinka",
+    "aliases": []
+  },
+  {
+    "key": "Cranberry",
+    "label": "Brusinka",
     "aliases": [
-      "Example fruit"
+      "Cranberry"
     ]
   },
   {
-    "key": "Sample Lentils",
-    "label": "Sample Lentils",
+    "key": "Bulgur",
+    "label": "Bulgur",
+    "aliases": []
+  },
+  {
+    "key": "White Flour",
+    "label": "Bílá mouka",
+    "aliases": []
+  },
+  {
+    "key": "White Rice",
+    "label": "Bílá rýže",
+    "aliases": []
+  },
+  {
+    "key": "White Bean",
+    "label": "Bílé fazole",
+    "aliases": []
+  },
+  {
+    "key": "White Cabbage",
+    "label": "Bílé zelí",
+    "aliases": []
+  },
+  {
+    "key": "White Bread",
+    "label": "Bílý chléb",
+    "aliases": []
+  },
+  {
+    "key": "Plain Yogurt",
+    "label": "Bílý jogurt",
+    "aliases": []
+  },
+  {
+    "key": "White Bread Roll",
+    "label": "Bílý rohlík",
+    "aliases": []
+  },
+  {
+    "key": "Camembert Cheese",
+    "label": "Camembert",
+    "aliases": []
+  },
+  {
+    "key": "Cassava",
+    "label": "Cassava",
+    "aliases": []
+  },
+  {
+    "key": "Celery Root",
+    "label": "Celer bulva",
+    "aliases": []
+  },
+  {
+    "key": "Whole Wheat Bread",
+    "label": "Celozrnný chléb",
+    "aliases": []
+  },
+  {
+    "key": "Chayote",
+    "label": "Chayote",
+    "aliases": []
+  },
+  {
+    "key": "Cheddar Cheese",
+    "label": "Cheddar",
+    "aliases": []
+  },
+  {
+    "key": "Chia Seed",
+    "label": "Chia semínka",
+    "aliases": []
+  },
+  {
+    "key": "Chili Pepper",
+    "label": "Chilli paprička",
+    "aliases": []
+  },
+  {
+    "key": "Chili Powder",
+    "label": "Chilli prášek",
+    "aliases": []
+  },
+  {
+    "key": "Octopus",
+    "label": "Chobotnice",
     "aliases": [
-      "Example legume"
+      "Octopus"
     ]
   },
   {
-    "key": "Sample Salmon",
-    "label": "Sample Salmon",
+    "key": "Chorizo",
+    "label": "Chorizo",
+    "aliases": []
+  },
+  {
+    "key": "Asparagus",
+    "label": "Chřest",
+    "aliases": []
+  },
+  {
+    "key": "Onion",
+    "label": "Cibule",
+    "aliases": []
+  },
+  {
+    "key": "Lemon",
+    "label": "Citron",
+    "aliases": []
+  },
+  {
+    "key": "Chickpea",
+    "label": "Cizrna",
+    "aliases": []
+  },
+  {
+    "key": "Corn Tortilla",
+    "label": "Corn Tortilla",
+    "aliases": []
+  },
+  {
+    "key": "Cotija Cheese",
+    "label": "Cotija Cheese",
+    "aliases": []
+  },
+  {
+    "key": "Cottage Cheese",
+    "label": "Cottage sýr",
+    "aliases": []
+  },
+  {
+    "key": "Crayfish",
+    "label": "Crayfish",
+    "aliases": []
+  },
+  {
+    "key": "Zucchini",
+    "label": "Cuketa",
+    "aliases": []
+  },
+  {
+    "key": "Date",
+    "label": "Datle",
+    "aliases": []
+  },
+  {
+    "key": "Wild Rice",
+    "label": "Divoká rýže",
+    "aliases": []
+  },
+  {
+    "key": "Duck",
+    "label": "Duck",
+    "aliases": []
+  },
+  {
+    "key": "Pumpkin",
+    "label": "Dýně",
+    "aliases": []
+  },
+  {
+    "key": "Pumpkin Seed",
+    "label": "Dýňové semínko",
+    "aliases": []
+  },
+  {
+    "key": "Edamame",
+    "label": "Edamame",
+    "aliases": []
+  },
+  {
+    "key": "Eel",
+    "label": "Eel",
+    "aliases": []
+  },
+  {
+    "key": "Emmental Cheese",
+    "label": "Ementál",
+    "aliases": []
+  },
+  {
+    "key": "Endive",
+    "label": "Endivie",
+    "aliases": []
+  },
+  {
+    "key": "Tarragon",
+    "label": "Estragon",
+    "aliases": []
+  },
+  {
+    "key": "Lima Beans",
+    "label": "Fazole lima",
     "aliases": [
-      "Example fish"
+      "Lima Beans"
     ]
+  },
+  {
+    "key": "Mung Bean",
+    "label": "Fazole mungo",
+    "aliases": []
+  },
+  {
+    "key": "Fennel",
+    "label": "Fenykl",
+    "aliases": []
+  },
+  {
+    "key": "Fennel Seed",
+    "label": "Fenyklové semínko",
+    "aliases": []
+  },
+  {
+    "key": "Feta Cheese",
+    "label": "Feta",
+    "aliases": []
+  },
+  {
+    "key": "Fig",
+    "label": "Fík",
+    "aliases": []
+  },
+  {
+    "key": "Gnocchi",
+    "label": "Gnocchi",
+    "aliases": []
+  },
+  {
+    "key": "Goose",
+    "label": "Goose",
+    "aliases": []
+  },
+  {
+    "key": "Gooseberry",
+    "label": "Gooseberry",
+    "aliases": []
+  },
+  {
+    "key": "Gouda Cheese",
+    "label": "Gouda",
+    "aliases": []
+  },
+  {
+    "key": "Pomegranate",
+    "label": "Granátové jablko",
+    "aliases": []
+  },
+  {
+    "key": "Grapefruit",
+    "label": "Grapefruit",
+    "aliases": []
+  },
+  {
+    "key": "Guava",
+    "label": "Guava",
+    "aliases": []
+  },
+  {
+    "key": "Halibut",
+    "label": "Halibut",
+    "aliases": []
+  },
+  {
+    "key": "Chamomile Tea",
+    "label": "Heřmánkový čaj",
+    "aliases": []
+  },
+  {
+    "key": "King Oyster Mushroom",
+    "label": "Hlíva královská",
+    "aliases": []
+  },
+  {
+    "key": "Oyster Mushroom",
+    "label": "Hlíva ústřičná",
+    "aliases": []
+  },
+  {
+    "key": "Brown Rice",
+    "label": "Hnědá rýže",
+    "aliases": []
+  },
+  {
+    "key": "Shiitake Mushroom",
+    "label": "Houba shiitake",
+    "aliases": []
+  },
+  {
+    "key": "Beef",
+    "label": "Hovězí maso",
+    "aliases": []
+  },
+  {
+    "key": "Mustard",
+    "label": "Hořčice",
+    "aliases": []
+  },
+  {
+    "key": "Mustard Seed",
+    "label": "Hořčičné semínko",
+    "aliases": []
+  },
+  {
+    "key": "Grape",
+    "label": "Hroznové víno",
+    "aliases": []
+  },
+  {
+    "key": "Pear",
+    "label": "Hruška",
+    "aliases": []
+  },
+  {
+    "key": "Green Pea",
+    "label": "Hrášek",
+    "aliases": []
+  },
+  {
+    "key": "Clove",
+    "label": "Hřebíček",
+    "aliases": []
+  },
+  {
+    "key": "Hibiscus Tea",
+    "label": "Ibiškový čaj",
+    "aliases": []
+  },
+  {
+    "key": "Apple Cider Vinegar",
+    "label": "Jablečný ocet",
+    "aliases": []
+  },
+  {
+    "key": "Apple",
+    "label": "Jablko",
+    "aliases": []
+  },
+  {
+    "key": "Strawberry",
+    "label": "Jahoda",
+    "aliases": []
+  },
+  {
+    "key": "Jalapeño Pepper",
+    "label": "Jalapeño Pepper",
+    "aliases": []
+  },
+  {
+    "key": "Spring Onion",
+    "label": "Jarní cibulka",
+    "aliases": []
+  },
+  {
+    "key": "Maple Syrup",
+    "label": "Javorový sirup",
+    "aliases": []
+  },
+  {
+    "key": "Lamb",
+    "label": "Jehněčí",
+    "aliases": []
+  },
+  {
+    "key": "Barley",
+    "label": "Ječmen",
+    "aliases": []
+  },
+  {
+    "key": "Jicama",
+    "label": "Jicama",
+    "aliases": []
+  },
+  {
+    "key": "Millet",
+    "label": "Jáhly",
+    "aliases": []
+  },
+  {
+    "key": "Liver",
+    "label": "Játra",
+    "aliases": []
+  },
+  {
+    "key": "Kale",
+    "label": "Kadeřávek",
+    "aliases": []
+  },
+  {
+    "key": "Cocoa Powder",
+    "label": "Kakaový prášek",
+    "aliases": []
+  },
+  {
+    "key": "Capers",
+    "label": "Kapary",
+    "aliases": []
+  },
+  {
+    "key": "Carp",
+    "label": "Kapr",
+    "aliases": [
+      "Carp"
+    ]
+  },
+  {
+    "key": "Savoy Cabbage",
+    "label": "Kapusta",
+    "aliases": []
+  },
+  {
+    "key": "Cardamom",
+    "label": "Kardamom",
+    "aliases": []
+  },
+  {
+    "key": "Curry Powder",
+    "label": "Kari prášek",
+    "aliases": []
+  },
+  {
+    "key": "Quince",
+    "label": "Kdoule",
+    "aliases": []
+  },
+  {
+    "key": "Kohlrabi",
+    "label": "Kedluben",
+    "aliases": []
+  },
+  {
+    "key": "Kefir",
+    "label": "Kefír",
+    "aliases": []
+  },
+  {
+    "key": "Chervil",
+    "label": "Kerblík",
+    "aliases": []
+  },
+  {
+    "key": "Cashew",
+    "label": "Kešu",
+    "aliases": []
+  },
+  {
+    "key": "Kiwi",
+    "label": "Kiwi",
+    "aliases": []
+  },
+  {
+    "key": "Caraway",
+    "label": "Kmín",
+    "aliases": []
+  },
+  {
+    "key": "Coconut Oil",
+    "label": "Kokosový olej",
+    "aliases": []
+  },
+  {
+    "key": "Hemp Seed",
+    "label": "Konopné semínko",
+    "aliases": []
+  },
+  {
+    "key": "Dill",
+    "label": "Kopr",
+    "aliases": []
+  },
+  {
+    "key": "Coriander",
+    "label": "Koriandr",
+    "aliases": []
+  },
+  {
+    "key": "Goat Cheese",
+    "label": "Kozí sýr",
+    "aliases": []
+  },
+  {
+    "key": "Crab",
+    "label": "Krab",
+    "aliases": []
+  },
+  {
+    "key": "Shrimp",
+    "label": "Kreveta",
+    "aliases": []
+  },
+  {
+    "key": "Semolina",
+    "label": "Krupice",
+    "aliases": []
+  },
+  {
+    "key": "Turkey",
+    "label": "Krůta",
+    "aliases": []
+  },
+  {
+    "key": "Turkey Breast",
+    "label": "Krůtí prsa",
+    "aliases": []
+  },
+  {
+    "key": "Corn",
+    "label": "Kukuřice",
+    "aliases": []
+  },
+  {
+    "key": "Corn Grits",
+    "label": "Kukuřičná krupice",
+    "aliases": []
+  },
+  {
+    "key": "Corn Oil",
+    "label": "Kukuřičný olej",
+    "aliases": []
+  },
+  {
+    "key": "Turmeric",
+    "label": "Kurkuma",
+    "aliases": []
+  },
+  {
+    "key": "Couscous",
+    "label": "Kuskus",
+    "aliases": []
+  },
+  {
+    "key": "Chicken Breast",
+    "label": "Kuřecí prsa",
+    "aliases": []
+  },
+  {
+    "key": "Cauliflower",
+    "label": "Květák",
+    "aliases": []
+  },
+  {
+    "key": "Sauerkraut",
+    "label": "Kysané zelí",
+    "aliases": []
+  },
+  {
+    "key": "Coffee",
+    "label": "Káva",
+    "aliases": []
+  },
+  {
+    "key": "Horseradish",
+    "label": "Křen",
+    "aliases": []
+  },
+  {
+    "key": "Iceberg Lettuce",
+    "label": "Ledový salát",
+    "aliases": []
+  },
+  {
+    "key": "Lovage",
+    "label": "Libeček",
+    "aliases": []
+  },
+  {
+    "key": "Beef Lean",
+    "label": "Libové hovězí",
+    "aliases": []
+  },
+  {
+    "key": "Pork Lean",
+    "label": "Libové vepřové",
+    "aliases": []
+  },
+  {
+    "key": "Eggplant",
+    "label": "Lilek",
+    "aliases": []
+  },
+  {
+    "key": "Lime",
+    "label": "Limetka",
+    "aliases": []
+  },
+  {
+    "key": "Collard Greens",
+    "label": "Listová kapusta",
+    "aliases": [
+      "Collard Greens"
+    ]
+  },
+  {
+    "key": "Litchi",
+    "label": "Litchi",
+    "aliases": []
+  },
+  {
+    "key": "Flaxseed",
+    "label": "Lněné semínko",
+    "aliases": []
+  },
+  {
+    "key": "Flaxseed Oil",
+    "label": "Lněný olej",
+    "aliases": []
+  },
+  {
+    "key": "Lobster",
+    "label": "Lobster",
+    "aliases": []
+  },
+  {
+    "key": "Salmon",
+    "label": "Losos",
+    "aliases": []
+  },
+  {
+    "key": "Lupin Bean",
+    "label": "Lupinové boby",
+    "aliases": []
+  },
+  {
+    "key": "Hazelnut Butter",
+    "label": "Lískooříškové máslo",
+    "aliases": []
+  },
+  {
+    "key": "Hazelnut",
+    "label": "Lískový ořech",
+    "aliases": []
+  },
+  {
+    "key": "Marjoram",
+    "label": "Majoránka",
+    "aliases": []
+  },
+  {
+    "key": "Macadamia",
+    "label": "Makadamový ořech",
+    "aliases": []
+  },
+  {
+    "key": "Mackerel",
+    "label": "Makrela",
+    "aliases": []
+  },
+  {
+    "key": "Raspberry",
+    "label": "Malina",
+    "aliases": []
+  },
+  {
+    "key": "Mandarin",
+    "label": "Mandarinka",
+    "aliases": []
+  },
+  {
+    "key": "Almond",
+    "label": "Mandle",
+    "aliases": []
+  },
+  {
+    "key": "Almond Butter",
+    "label": "Mandlové máslo",
+    "aliases": []
+  },
+  {
+    "key": "Mango",
+    "label": "Mango",
+    "aliases": []
+  },
+  {
+    "key": "Swiss Chard",
+    "label": "Mangold",
+    "aliases": []
+  },
+  {
+    "key": "Masa Harina",
+    "label": "Masa Harina",
+    "aliases": []
+  },
+  {
+    "key": "Mascarpone Cheese",
+    "label": "Mascarpone",
+    "aliases": []
+  },
+  {
+    "key": "Honey",
+    "label": "Med",
+    "aliases": []
+  },
+  {
+    "key": "Lemon Balm",
+    "label": "Meduňka",
+    "aliases": []
+  },
+  {
+    "key": "Ramson",
+    "label": "Medvědí česnek",
+    "aliases": []
+  },
+  {
+    "key": "Melon",
+    "label": "Meloun",
+    "aliases": []
+  },
+  {
+    "key": "Apricot",
+    "label": "Meruňka",
+    "aliases": []
+  },
+  {
+    "key": "Mirabelle Plum",
+    "label": "Mirabelka",
+    "aliases": []
+  },
+  {
+    "key": "Miso",
+    "label": "Miso",
+    "aliases": []
+  },
+  {
+    "key": "Ground Beef",
+    "label": "Mleté hovězí",
+    "aliases": []
+  },
+  {
+    "key": "Ground Pork",
+    "label": "Mleté vepřové",
+    "aliases": []
+  },
+  {
+    "key": "Molasses",
+    "label": "Molasses",
+    "aliases": []
+  },
+  {
+    "key": "Mozzarella",
+    "label": "Mozzarella",
+    "aliases": []
+  },
+  {
+    "key": "Sea Bass",
+    "label": "Mořský vlk",
+    "aliases": []
+  },
+  {
+    "key": "Carrot",
+    "label": "Mrkev",
+    "aliases": []
+  },
+  {
+    "key": "Mustard Greens",
+    "label": "Mustard Greens",
+    "aliases": []
+  },
+  {
+    "key": "Nutmeg",
+    "label": "Muškátový oříšek",
+    "aliases": []
+  },
+  {
+    "key": "Poppy Seed",
+    "label": "Mák",
+    "aliases": []
+  },
+  {
+    "key": "Butter",
+    "label": "Máslo",
+    "aliases": []
+  },
+  {
+    "key": "Butternut Squash",
+    "label": "Máslová dýně",
+    "aliases": [
+      "Butternut Squash"
+    ]
+  },
+  {
+    "key": "Mint",
+    "label": "Máta",
+    "aliases": []
+  },
+  {
+    "key": "Mixed Ground Meat",
+    "label": "Míchané mleté maso",
+    "aliases": []
+  },
+  {
+    "key": "Navy Beans",
+    "label": "Navy Beans",
+    "aliases": []
+  },
+  {
+    "key": "Nectarine",
+    "label": "Nektarinka",
+    "aliases": []
+  },
+  {
+    "key": "Nopal",
+    "label": "Nopal",
+    "aliases": []
+  },
+  {
+    "key": "Low Fat Quark",
+    "label": "Nízkotučný tvaroh",
+    "aliases": []
+  },
+  {
+    "key": "Oat Flour",
+    "label": "Oat Flour",
+    "aliases": []
+  },
+  {
+    "key": "Vinegar",
+    "label": "Ocet",
+    "aliases": []
+  },
+  {
+    "key": "Okra",
+    "label": "Okra",
+    "aliases": []
+  },
+  {
+    "key": "Cucumber",
+    "label": "Okurka",
+    "aliases": []
+  },
+  {
+    "key": "Squid",
+    "label": "Oliheň",
+    "aliases": [
+      "Squid"
+    ]
+  },
+  {
+    "key": "Olive Oil",
+    "label": "Olivový olej",
+    "aliases": []
+  },
+  {
+    "key": "Oregano",
+    "label": "Oregano",
+    "aliases": []
+  },
+  {
+    "key": "Blackberry",
+    "label": "Ostružina",
+    "aliases": []
+  },
+  {
+    "key": "Oats",
+    "label": "Oves",
+    "aliases": []
+  },
+  {
+    "key": "Oat Flakes",
+    "label": "Ovesné vločky",
+    "aliases": []
+  },
+  {
+    "key": "Pak Choi",
+    "label": "Pak choi",
+    "aliases": []
+  },
+  {
+    "key": "Papaya",
+    "label": "Papaya",
+    "aliases": []
+  },
+  {
+    "key": "Paprika",
+    "label": "Paprika",
+    "aliases": []
+  },
+  {
+    "key": "Brazil Nut",
+    "label": "Para ořech",
+    "aliases": []
+  },
+  {
+    "key": "Parmesan Cheese",
+    "label": "Parmezán",
+    "aliases": []
+  },
+  {
+    "key": "Passion Fruit",
+    "label": "Passion Fruit",
+    "aliases": []
+  },
+  {
+    "key": "Parsnip",
+    "label": "Pastinák",
+    "aliases": []
+  },
+  {
+    "key": "Chives",
+    "label": "Pažitka",
+    "aliases": []
+  },
+  {
+    "key": "Pecan",
+    "label": "Pekanový ořech",
+    "aliases": []
+  },
+  {
+    "key": "Chinese Cabbage",
+    "label": "Pekingské zelí",
+    "aliases": []
+  },
+  {
+    "key": "Persimmon",
+    "label": "Persimmon",
+    "aliases": []
+  },
+  {
+    "key": "Parsley",
+    "label": "Petržel",
+    "aliases": []
+  },
+  {
+    "key": "Pine Nut",
+    "label": "Piniový oříšek",
+    "aliases": []
+  },
+  {
+    "key": "Pinto Bean",
+    "label": "Pinto fazole",
+    "aliases": []
+  },
+  {
+    "key": "Pistachio",
+    "label": "Pistácie",
+    "aliases": []
+  },
+  {
+    "key": "Plantain",
+    "label": "Plantain",
+    "aliases": []
+  },
+  {
+    "key": "Whole Milk",
+    "label": "Plnotučné mléko",
+    "aliases": []
+  },
+  {
+    "key": "Poblano Pepper",
+    "label": "Poblano Pepper",
+    "aliases": []
+  },
+  {
+    "key": "Buttermilk",
+    "label": "Podmáslí",
+    "aliases": []
+  },
+  {
+    "key": "Buckwheat",
+    "label": "Pohanka",
+    "aliases": []
+  },
+  {
+    "key": "Polenta",
+    "label": "Polenta",
+    "aliases": []
+  },
+  {
+    "key": "Lamb's Lettuce",
+    "label": "Polníček",
+    "aliases": []
+  },
+  {
+    "key": "Low Fat Milk",
+    "label": "Polotučné mléko",
+    "aliases": []
+  },
+  {
+    "key": "Orange",
+    "label": "Pomeranč",
+    "aliases": []
+  },
+  {
+    "key": "Sea Bream",
+    "label": "Pražma",
+    "aliases": []
+  },
+  {
+    "key": "Prickly Pear",
+    "label": "Prickly Pear",
+    "aliases": []
+  },
+  {
+    "key": "Trout",
+    "label": "Pstruh",
+    "aliases": []
+  },
+  {
+    "key": "Leek",
+    "label": "Pórek",
+    "aliases": []
+  },
+  {
+    "key": "Wheat",
+    "label": "Pšenice",
+    "aliases": []
+  },
+  {
+    "key": "Queso Fresco",
+    "label": "Queso Fresco",
+    "aliases": []
+  },
+  {
+    "key": "Quinoa",
+    "label": "Quinoa",
+    "aliases": []
+  },
+  {
+    "key": "Rabbit",
+    "label": "Rabbit",
+    "aliases": []
+  },
+  {
+    "key": "Radicchio",
+    "label": "Radicchio",
+    "aliases": []
+  },
+  {
+    "key": "Tomato Paste",
+    "label": "Rajčatový protlak",
+    "aliases": []
+  },
+  {
+    "key": "Tomato",
+    "label": "Rajče",
+    "aliases": []
+  },
+  {
+    "key": "Sea Buckthorn",
+    "label": "Rakytník",
+    "aliases": []
+  },
+  {
+    "key": "Rhubarb",
+    "label": "Rebarbora",
+    "aliases": []
+  },
+  {
+    "key": "Red Currant",
+    "label": "Red Currant",
+    "aliases": []
+  },
+  {
+    "key": "Ricotta Cheese",
+    "label": "Ricotta",
+    "aliases": []
+  },
+  {
+    "key": "Romanesco",
+    "label": "Romanesco",
+    "aliases": []
+  },
+  {
+    "key": "Raisin",
+    "label": "Rozinka",
+    "aliases": []
+  },
+  {
+    "key": "Rosemary",
+    "label": "Rozmarýn",
+    "aliases": []
+  },
+  {
+    "key": "Arugula",
+    "label": "Rukola",
+    "aliases": []
+  },
+  {
+    "key": "Rutabaga",
+    "label": "Rutabaga",
+    "aliases": []
+  },
+  {
+    "key": "Currant",
+    "label": "Rybíz",
+    "aliases": []
+  },
+  {
+    "key": "Rye Flour",
+    "label": "Rye Flour",
+    "aliases": []
+  },
+  {
+    "key": "Brussels Sprouts",
+    "label": "Růžičková kapusta",
+    "aliases": []
+  },
+  {
+    "key": "Salami",
+    "label": "Salami",
+    "aliases": []
+  },
+  {
+    "key": "Sardine",
+    "label": "Sardinka",
+    "aliases": []
+  },
+  {
+    "key": "Scallop",
+    "label": "Scallop",
+    "aliases": []
+  },
+  {
+    "key": "Seitan",
+    "label": "Seitan",
+    "aliases": []
+  },
+  {
+    "key": "Sesame Seed",
+    "label": "Sezamové semínko",
+    "aliases": []
+  },
+  {
+    "key": "Sesame Oil",
+    "label": "Sezamový olej",
+    "aliases": []
+  },
+  {
+    "key": "Cinnamon",
+    "label": "Skořice",
+    "aliases": []
+  },
+  {
+    "key": "Bacon",
+    "label": "Slanina",
+    "aliases": []
+  },
+  {
+    "key": "Herring",
+    "label": "Sleď",
+    "aliases": []
+  },
+  {
+    "key": "Sunflower Seed",
+    "label": "Slunečnicové semínko",
+    "aliases": []
+  },
+  {
+    "key": "Sunflower Oil",
+    "label": "Slunečnicový olej",
+    "aliases": []
+  },
+  {
+    "key": "Mussel",
+    "label": "Slávka",
+    "aliases": []
+  },
+  {
+    "key": "Cream",
+    "label": "Smetana",
+    "aliases": []
+  },
+  {
+    "key": "Sorghum",
+    "label": "Sorghum",
+    "aliases": []
+  },
+  {
+    "key": "Sour Cherry",
+    "label": "Sour Cherry",
+    "aliases": []
+  },
+  {
+    "key": "Spelt Flour",
+    "label": "Spelt Flour",
+    "aliases": []
+  },
+  {
+    "key": "Catfish",
+    "label": "Sumec",
+    "aliases": [
+      "Catfish"
+    ]
+  },
+  {
+    "key": "Sweet Corn",
+    "label": "Sweet Corn",
+    "aliases": []
+  },
+  {
+    "key": "Swordfish",
+    "label": "Swordfish",
+    "aliases": []
+  },
+  {
+    "key": "Lard",
+    "label": "Sádlo",
+    "aliases": []
+  },
+  {
+    "key": "Soybean Oil",
+    "label": "Sójový olej",
+    "aliases": []
+  },
+  {
+    "key": "Tapioca",
+    "label": "Tapioca",
+    "aliases": []
+  },
+  {
+    "key": "Teff",
+    "label": "Teff",
+    "aliases": []
+  },
+  {
+    "key": "Veal",
+    "label": "Telecí",
+    "aliases": []
+  },
+  {
+    "key": "Tempeh",
+    "label": "Tempeh",
+    "aliases": []
+  },
+  {
+    "key": "Tilapia",
+    "label": "Tilapie",
+    "aliases": [
+      "Tilapia"
+    ]
+  },
+  {
+    "key": "Tofu",
+    "label": "Tofu",
+    "aliases": []
+  },
+  {
+    "key": "Tomatillo",
+    "label": "Tomatillo",
+    "aliases": []
+  },
+  {
+    "key": "Jerusalem Artichoke",
+    "label": "Topinambur",
+    "aliases": []
+  },
+  {
+    "key": "Cod",
+    "label": "Treska",
+    "aliases": []
+  },
+  {
+    "key": "Haddock",
+    "label": "Treska jednoskvrnná",
+    "aliases": []
+  },
+  {
+    "key": "Pollock",
+    "label": "Treska tmavá",
+    "aliases": []
+  },
+  {
+    "key": "Turnip Greens",
+    "label": "Turnip Greens",
+    "aliases": []
+  },
+  {
+    "key": "Tuna",
+    "label": "Tuňák",
+    "aliases": []
+  },
+  {
+    "key": "Turnip",
+    "label": "Tuřín",
+    "aliases": []
+  },
+  {
+    "key": "Quark",
+    "label": "Tvaroh",
+    "aliases": []
+  },
+  {
+    "key": "Thyme",
+    "label": "Tymián",
+    "aliases": []
+  },
+  {
+    "key": "Pasta",
+    "label": "Těstoviny",
+    "aliases": []
+  },
+  {
+    "key": "Cherry",
+    "label": "Třešeň",
+    "aliases": []
+  },
+  {
+    "key": "Egg",
+    "label": "Vejce",
+    "aliases": []
+  },
+  {
+    "key": "Venison",
+    "label": "Venison",
+    "aliases": []
+  },
+  {
+    "key": "Pork",
+    "label": "Vepřové maso",
+    "aliases": []
+  },
+  {
+    "key": "Grape Leaves",
+    "label": "Vinné listy",
+    "aliases": [
+      "Grape Leaves"
+    ]
+  },
+  {
+    "key": "Walnut Oil",
+    "label": "Vlašský olej",
+    "aliases": []
+  },
+  {
+    "key": "Walnut",
+    "label": "Vlašský ořech",
+    "aliases": []
+  },
+  {
+    "key": "Watermelon",
+    "label": "Vodní meloun",
+    "aliases": []
+  },
+  {
+    "key": "Water Chestnut",
+    "label": "Water Chestnut",
+    "aliases": []
+  },
+  {
+    "key": "Watercress",
+    "label": "Watercress",
+    "aliases": []
+  },
+  {
+    "key": "Wheat Bran",
+    "label": "Wheat Bran",
+    "aliases": []
+  },
+  {
+    "key": "Wheat Tortilla",
+    "label": "Wheat Tortilla",
+    "aliases": []
+  },
+  {
+    "key": "Sour Cream",
+    "label": "Zakysaná smetana",
+    "aliases": [
+      "Sour Cream"
+    ]
+  },
+  {
+    "key": "Green Olive",
+    "label": "Zelená oliva",
+    "aliases": []
+  },
+  {
+    "key": "Green Bell Pepper",
+    "label": "Zelená paprika",
+    "aliases": []
+  },
+  {
+    "key": "Green Bean",
+    "label": "Zelené fazolky",
+    "aliases": []
+  },
+  {
+    "key": "Green Tea",
+    "label": "Zelený čaj",
+    "aliases": []
+  },
+  {
+    "key": "Ginger",
+    "label": "Zázvor",
+    "aliases": []
+  },
+  {
+    "key": "Oolong Tea",
+    "label": "Čaj oolong",
+    "aliases": []
+  },
+  {
+    "key": "Black Olive",
+    "label": "Černá oliva",
+    "aliases": []
+  },
+  {
+    "key": "Black Bean",
+    "label": "Černé fazole",
+    "aliases": []
+  },
+  {
+    "key": "Black Salsify",
+    "label": "Černý kořen",
+    "aliases": []
+  },
+  {
+    "key": "Black Pepper",
+    "label": "Černý pepř",
+    "aliases": []
+  },
+  {
+    "key": "Black Tea",
+    "label": "Černý čaj",
+    "aliases": []
+  },
+  {
+    "key": "Cream Cheese",
+    "label": "Čerstvý sýr",
+    "aliases": []
+  },
+  {
+    "key": "Red Bell Pepper",
+    "label": "Červená paprika",
+    "aliases": []
+  },
+  {
+    "key": "Beetroot",
+    "label": "Červená řepa",
+    "aliases": []
+  },
+  {
+    "key": "Kidney Bean",
+    "label": "Červené fazole",
+    "aliases": []
+  },
+  {
+    "key": "Red Cabbage",
+    "label": "Červené zelí",
+    "aliases": []
+  },
+  {
+    "key": "Garlic",
+    "label": "Česnek",
+    "aliases": []
+  },
+  {
+    "key": "Lentil",
+    "label": "Čočka",
+    "aliases": []
+  },
+  {
+    "key": "Lentil Sprouts",
+    "label": "Čočkové klíčky",
+    "aliases": []
+  },
+  {
+    "key": "Celery Stalk",
+    "label": "Řapíkatý celer",
+    "aliases": []
+  },
+  {
+    "key": "Greek Yogurt",
+    "label": "Řecký jogurt",
+    "aliases": []
+  },
+  {
+    "key": "Radish",
+    "label": "Ředkvička",
+    "aliases": []
+  },
+  {
+    "key": "Canola Oil",
+    "label": "Řepkový olej",
+    "aliases": []
+  },
+  {
+    "key": "Cumin",
+    "label": "Římský kmín",
+    "aliases": []
+  },
+  {
+    "key": "Shallot",
+    "label": "Šalotka",
+    "aliases": []
+  },
+  {
+    "key": "Sage",
+    "label": "Šalvěj",
+    "aliases": []
+  },
+  {
+    "key": "Spelt",
+    "label": "Špalda",
+    "aliases": []
+  },
+  {
+    "key": "Spelt Flakes",
+    "label": "Špaldové vločky",
+    "aliases": []
+  },
+  {
+    "key": "Spinach",
+    "label": "Špenát",
+    "aliases": []
+  },
+  {
+    "key": "Purslane",
+    "label": "Šrucha",
+    "aliases": []
+  },
+  {
+    "key": "Pike",
+    "label": "Štika",
+    "aliases": [
+      "Pike"
+    ]
+  },
+  {
+    "key": "Ham",
+    "label": "Šunka",
+    "aliases": []
+  },
+  {
+    "key": "Plum",
+    "label": "Švestka",
+    "aliases": []
+  },
+  {
+    "key": "Acorn Squash",
+    "label": "Žaludová dýně",
+    "aliases": [
+      "Acorn Squash"
+    ]
+  },
+  {
+    "key": "Button Mushroom",
+    "label": "Žampion",
+    "aliases": []
+  },
+  {
+    "key": "Rye Flakes",
+    "label": "Žitné vločky",
+    "aliases": []
+  },
+  {
+    "key": "Rye",
+    "label": "Žito",
+    "aliases": []
+  },
+  {
+    "key": "Yellow Bell Pepper",
+    "label": "Žlutá paprika",
+    "aliases": []
   }
 ]

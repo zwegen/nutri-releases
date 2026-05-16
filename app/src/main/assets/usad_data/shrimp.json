@@ -1,0 +1,270 @@
+{
+  "search_name": "shrimp raw",
+  "display_name": "Shrimp",
+  "data": {
+    "Total lipid (fat)": {
+      "value": 0.51,
+      "unit": "g"
+    },
+    "Carbohydrate, by difference": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Energy": {
+      "value": 85.1,
+      "unit": "kcal"
+    },
+    "Water": {
+      "value": 78.4,
+      "unit": "g"
+    },
+    "Calcium, Ca": {
+      "value": 64.0,
+      "unit": "mg"
+    },
+    "Potassium, K": {
+      "value": 264,
+      "unit": "mg"
+    },
+    "Zinc, Zn": {
+      "value": 1.34,
+      "unit": "mg"
+    },
+    "SFA 4:0": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "SFA 6:0": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "SFA 10:0": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "SFA 16:0": {
+      "value": 0.052,
+      "unit": "g"
+    },
+    "SFA 18:0": {
+      "value": 0.037,
+      "unit": "g"
+    },
+    "SFA 20:0": {
+      "value": 0.002,
+      "unit": "g"
+    },
+    "MUFA 18:1": {
+      "value": 0.038,
+      "unit": "g"
+    },
+    "PUFA 18:2": {
+      "value": 0.032,
+      "unit": "g"
+    },
+    "PUFA 18:3": {
+      "value": 0.002,
+      "unit": "g"
+    },
+    "PUFA 20:4": {
+      "value": 0.012,
+      "unit": "g"
+    },
+    "PUFA 18:4": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "MUFA 20:1": {
+      "value": 0.002,
+      "unit": "g"
+    },
+    "MUFA 22:1": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Fatty acids, total monounsaturated": {
+      "value": 0.086,
+      "unit": "g"
+    },
+    "Fatty acids, total polyunsaturated": {
+      "value": 0.152,
+      "unit": "g"
+    },
+    "SFA 15:0": {
+      "value": 0.001,
+      "unit": "g"
+    },
+    "TFA 18:1 t": {
+      "value": 0.002,
+      "unit": "g"
+    },
+    "TFA 22:1 t": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "TFA 18:2 t not further defined": {
+      "value": 0.001,
+      "unit": "g"
+    },
+    "PUFA 18:2 CLAs": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "PUFA 20:2 n-6 c,c": {
+      "value": 0.004,
+      "unit": "g"
+    },
+    "MUFA 16:1 c": {
+      "value": 0.002,
+      "unit": "g"
+    },
+    "PUFA 18:3 n-6 c,c,c": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "PUFA 20:3": {
+      "value": 0.002,
+      "unit": "g"
+    },
+    "Fatty acids, total trans-polyenoic": {
+      "value": 0.001,
+      "unit": "g"
+    },
+    "PUFA 20:3 n-6": {
+      "value": 0.002,
+      "unit": "g"
+    },
+    "Protein": {
+      "value": 20.1,
+      "unit": "g"
+    },
+    "Ash": {
+      "value": 1.23,
+      "unit": "g"
+    },
+    "Iron, Fe": {
+      "value": 0.52,
+      "unit": "mg"
+    },
+    "Magnesium, Mg": {
+      "value": 35.0,
+      "unit": "mg"
+    },
+    "Phosphorus, P": {
+      "value": 214,
+      "unit": "mg"
+    },
+    "Sodium, Na": {
+      "value": 119,
+      "unit": "mg"
+    },
+    "Copper, Cu": {
+      "value": 0.391,
+      "unit": "mg"
+    },
+    "Manganese, Mn": {
+      "value": 0.033,
+      "unit": "mg"
+    },
+    "Cholesterol": {
+      "value": 161,
+      "unit": "mg"
+    },
+    "Fatty acids, total trans": {
+      "value": 0.004,
+      "unit": "g"
+    },
+    "Fatty acids, total saturated": {
+      "value": 0.101,
+      "unit": "g"
+    },
+    "SFA 8:0": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "SFA 12:0": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "SFA 14:0": {
+      "value": 0.001,
+      "unit": "g"
+    },
+    "PUFA 22:6 n-3 (DHA)": {
+      "value": 0.031,
+      "unit": "g"
+    },
+    "SFA 22:0": {
+      "value": 0.003,
+      "unit": "g"
+    },
+    "MUFA 14:1": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "MUFA 16:1": {
+      "value": 0.003,
+      "unit": "g"
+    },
+    "PUFA 20:5 n-3 (EPA)": {
+      "value": 0.03,
+      "unit": "g"
+    },
+    "PUFA 22:5 n-3 (DPA)": {
+      "value": 0.002,
+      "unit": "g"
+    },
+    "SFA 17:0": {
+      "value": 0.004,
+      "unit": "g"
+    },
+    "SFA 24:0": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "TFA 16:1 t": {
+      "value": 0.001,
+      "unit": "g"
+    },
+    "MUFA 24:1 c": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "MUFA 18:1 c": {
+      "value": 0.036,
+      "unit": "g"
+    },
+    "PUFA 18:2 n-6 c,c": {
+      "value": 0.031,
+      "unit": "g"
+    },
+    "MUFA 22:1 c": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "MUFA 17:1": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Fatty acids, total trans-monoenoic": {
+      "value": 0.003,
+      "unit": "g"
+    },
+    "MUFA 15:1": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "PUFA 18:3 n-3 c,c,c (ALA)": {
+      "value": 0.002,
+      "unit": "g"
+    },
+    "PUFA 20:3 n-3": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "PUFA 22:4": {
+      "value": 0.001,
+      "unit": "g"
+    }
+  }
+}

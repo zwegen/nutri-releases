@@ -1,0 +1,242 @@
+{
+  "search_name": "chervil fresh",
+  "display_name": "Chervil",
+  "data": {
+    "Protein": {
+      "value": 23.2,
+      "unit": "g"
+    },
+    "Ash": {
+      "value": 16.6,
+      "unit": "g"
+    },
+    "Fiber, total dietary": {
+      "value": 11.3,
+      "unit": "g"
+    },
+    "Iron, Fe": {
+      "value": 32.0,
+      "unit": "mg"
+    },
+    "Magnesium, Mg": {
+      "value": 130,
+      "unit": "mg"
+    },
+    "Phosphorus, P": {
+      "value": 450,
+      "unit": "mg"
+    },
+    "Sodium, Na": {
+      "value": 83.0,
+      "unit": "mg"
+    },
+    "Copper, Cu": {
+      "value": 0.44,
+      "unit": "mg"
+    },
+    "Manganese, Mn": {
+      "value": 2.1,
+      "unit": "mg"
+    },
+    "Total lipid (fat)": {
+      "value": 3.9,
+      "unit": "g"
+    },
+    "Carbohydrate, by difference": {
+      "value": 49.1,
+      "unit": "g"
+    },
+    "Energy": {
+      "value": 236.6,
+      "unit": "kcal"
+    },
+    "Water": {
+      "value": 7.2,
+      "unit": "g"
+    },
+    "Calcium, Ca": {
+      "value": 1350.0,
+      "unit": "mg"
+    },
+    "Potassium, K": {
+      "value": 4740.0,
+      "unit": "mg"
+    },
+    "Zinc, Zn": {
+      "value": 8.8,
+      "unit": "mg"
+    },
+    "Folic acid": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Fatty acids, total saturated": {
+      "value": 0.169,
+      "unit": "g"
+    },
+    "SFA 8:0": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "SFA 12:0": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "SFA 14:0": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "PUFA 22:6 n-3 (DHA)": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "MUFA 16:1": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "PUFA 20:5 n-3 (EPA)": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "PUFA 22:5 n-3 (DPA)": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "SFA 4:0": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "SFA 6:0": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "SFA 10:0": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "SFA 16:0": {
+      "value": 0.169,
+      "unit": "g"
+    },
+    "SFA 18:0": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "MUFA 18:1": {
+      "value": 1.4,
+      "unit": "g"
+    },
+    "PUFA 18:2": {
+      "value": 1.8,
+      "unit": "g"
+    },
+    "PUFA 18:3": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "PUFA 20:4": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "PUFA 18:4": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "MUFA 20:1": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "MUFA 22:1": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Fatty acids, total monounsaturated": {
+      "value": 1.4,
+      "unit": "g"
+    },
+    "Fatty acids, total polyunsaturated": {
+      "value": 1.8,
+      "unit": "g"
+    },
+    "Selenium, Se": {
+      "value": 29.3,
+      "unit": "ug"
+    },
+    "Vitamin A, RAE": {
+      "value": 293,
+      "unit": "ug"
+    },
+    "Vitamin B-12": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Folate, food": {
+      "value": 274,
+      "unit": "ug"
+    },
+    "Cholesterol": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Folate, DFE": {
+      "value": 274,
+      "unit": "ug"
+    },
+    "Vitamin B-6": {
+      "value": 0.93,
+      "unit": "mg"
+    },
+    "Caffeine": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Theobromine": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Vitamin D (D2 + D3), International Units": {
+      "value": 0.0,
+      "unit": "iu"
+    },
+    "Niacin": {
+      "value": 5.4,
+      "unit": "mg"
+    },
+    "Alcohol, ethyl": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Vitamin A, IU": {
+      "value": 5850.0,
+      "unit": "iu"
+    },
+    "Vitamin C, total ascorbic acid": {
+      "value": 50.0,
+      "unit": "mg"
+    },
+    "Thiamin": {
+      "value": 0.38,
+      "unit": "mg"
+    },
+    "Riboflavin": {
+      "value": 0.68,
+      "unit": "mg"
+    },
+    "Folate, total": {
+      "value": 274,
+      "unit": "ug"
+    },
+    "Retinol": {
+      "value": 0.0,
+      "unit": "ug"
+    },
+    "Fatty acids, total trans": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Vitamin D (D2 + D3)": {
+      "value": 0.0,
+      "unit": "ug"
+    }
+  }
+}

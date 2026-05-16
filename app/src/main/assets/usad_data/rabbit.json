@@ -1,0 +1,246 @@
+{
+  "search_name": "rabbit raw",
+  "display_name": "Rabbit",
+  "data": {
+    "Folic acid": {
+      "value": 0,
+      "unit": "ug"
+    },
+    "Folate, DFE": {
+      "value": 8,
+      "unit": "ug"
+    },
+    "Total lipid (fat)": {
+      "value": 5.55,
+      "unit": "g"
+    },
+    "Carbohydrate, by difference": {
+      "value": 0,
+      "unit": "g"
+    },
+    "Water": {
+      "value": 72.8,
+      "unit": "g"
+    },
+    "Calcium, Ca": {
+      "value": 13,
+      "unit": "mg"
+    },
+    "Potassium, K": {
+      "value": 330,
+      "unit": "mg"
+    },
+    "Zinc, Zn": {
+      "value": 1.57,
+      "unit": "mg"
+    },
+    "Niacin": {
+      "value": 7.27,
+      "unit": "mg"
+    },
+    "Pantothenic acid": {
+      "value": 0.8,
+      "unit": "mg"
+    },
+    "Vitamin B-6": {
+      "value": 0.5,
+      "unit": "mg"
+    },
+    "Isoleucine": {
+      "value": 0.951,
+      "unit": "g"
+    },
+    "Leucine": {
+      "value": 1.56,
+      "unit": "g"
+    },
+    "Lysine": {
+      "value": 1.76,
+      "unit": "g"
+    },
+    "Cystine": {
+      "value": 0.252,
+      "unit": "g"
+    },
+    "Valine": {
+      "value": 1.02,
+      "unit": "g"
+    },
+    "Arginine": {
+      "value": 1.24,
+      "unit": "g"
+    },
+    "Histidine": {
+      "value": 0.562,
+      "unit": "g"
+    },
+    "Aspartic acid": {
+      "value": 1.96,
+      "unit": "g"
+    },
+    "Serine": {
+      "value": 0.889,
+      "unit": "g"
+    },
+    "SFA 16:0": {
+      "value": 1.25,
+      "unit": "g"
+    },
+    "SFA 18:0": {
+      "value": 0.26,
+      "unit": "g"
+    },
+    "MUFA 18:1": {
+      "value": 1.28,
+      "unit": "g"
+    },
+    "PUFA 18:2": {
+      "value": 0.86,
+      "unit": "g"
+    },
+    "PUFA 18:3": {
+      "value": 0.22,
+      "unit": "g"
+    },
+    "Fatty acids, total monounsaturated": {
+      "value": 1.5,
+      "unit": "g"
+    },
+    "Fatty acids, total polyunsaturated": {
+      "value": 1.08,
+      "unit": "g"
+    },
+    "Protein": {
+      "value": 20,
+      "unit": "g"
+    },
+    "Ash": {
+      "value": 0.72,
+      "unit": "g"
+    },
+    "Fiber, total dietary": {
+      "value": 0,
+      "unit": "g"
+    },
+    "Iron, Fe": {
+      "value": 1.57,
+      "unit": "mg"
+    },
+    "Magnesium, Mg": {
+      "value": 19,
+      "unit": "mg"
+    },
+    "Phosphorus, P": {
+      "value": 213,
+      "unit": "mg"
+    },
+    "Sodium, Na": {
+      "value": 41,
+      "unit": "mg"
+    },
+    "Copper, Cu": {
+      "value": 0.145,
+      "unit": "mg"
+    },
+    "Manganese, Mn": {
+      "value": 0.026,
+      "unit": "mg"
+    },
+    "Vitamin A, IU": {
+      "value": 0,
+      "unit": "iu"
+    },
+    "Vitamin C, total ascorbic acid": {
+      "value": 0,
+      "unit": "mg"
+    },
+    "Thiamin": {
+      "value": 0.1,
+      "unit": "mg"
+    },
+    "Riboflavin": {
+      "value": 0.15,
+      "unit": "mg"
+    },
+    "Folate, total": {
+      "value": 8,
+      "unit": "ug"
+    },
+    "Vitamin B-12": {
+      "value": 7.16,
+      "unit": "ug"
+    },
+    "Folate, food": {
+      "value": 8,
+      "unit": "ug"
+    },
+    "Tryptophan": {
+      "value": 0.265,
+      "unit": "g"
+    },
+    "Threonine": {
+      "value": 0.897,
+      "unit": "g"
+    },
+    "Methionine": {
+      "value": 0.502,
+      "unit": "g"
+    },
+    "Phenylalanine": {
+      "value": 0.823,
+      "unit": "g"
+    },
+    "Tyrosine": {
+      "value": 0.714,
+      "unit": "g"
+    },
+    "Alanine": {
+      "value": 1.21,
+      "unit": "g"
+    },
+    "Glutamic acid": {
+      "value": 3.22,
+      "unit": "g"
+    },
+    "Glycine": {
+      "value": 1.09,
+      "unit": "g"
+    },
+    "Proline": {
+      "value": 0.98,
+      "unit": "g"
+    },
+    "Cholesterol": {
+      "value": 57,
+      "unit": "mg"
+    },
+    "Fatty acids, total saturated": {
+      "value": 1.66,
+      "unit": "g"
+    },
+    "SFA 14:0": {
+      "value": 0.15,
+      "unit": "g"
+    },
+    "MUFA 16:1": {
+      "value": 0.18,
+      "unit": "g"
+    },
+    "Selenium, Se": {
+      "value": 23.7,
+      "unit": "ug"
+    },
+    "Retinol": {
+      "value": 0,
+      "unit": "ug"
+    },
+    "Vitamin A, RAE": {
+      "value": 0,
+      "unit": "ug"
+    },
+    "Energy": {
+      "value": 136,
+      "unit": "kcal"
+    }
+  }
+}

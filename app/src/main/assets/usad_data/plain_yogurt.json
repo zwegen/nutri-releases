@@ -1,0 +1,74 @@
+{
+  "search_name": "plain yogurt",
+  "display_name": "Plain Yogurt",
+  "data": {
+    "Vitamin D (D2 + D3)": {
+      "value": 1.3,
+      "unit": "ug"
+    },
+    "Fiber, total dietary": {
+      "value": 0.4,
+      "unit": "g"
+    },
+    "Sodium, Na": {
+      "value": 13.0,
+      "unit": "mg"
+    },
+    "Vitamin A, IU": {
+      "value": 0.0,
+      "unit": "iu"
+    },
+    "Protein": {
+      "value": 2.64,
+      "unit": "g"
+    },
+    "Ash": {
+      "value": 1.24,
+      "unit": "g"
+    },
+    "Vitamin C, total ascorbic acid": {
+      "value": 13.2,
+      "unit": "mg"
+    },
+    "Cholesterol": {
+      "value": 0.0,
+      "unit": "mg"
+    },
+    "Fatty acids, total trans": {
+      "value": 0.0,
+      "unit": "g"
+    },
+    "Fatty acids, total saturated": {
+      "value": 0.22,
+      "unit": "g"
+    },
+    "Total lipid (fat)": {
+      "value": 1.76,
+      "unit": "g"
+    },
+    "Carbohydrate, by difference": {
+      "value": 9.69,
+      "unit": "g"
+    },
+    "Energy": {
+      "value": 66.0,
+      "unit": "kcal"
+    },
+    "Water": {
+      "value": 84.7,
+      "unit": "g"
+    },
+    "Total Sugars": {
+      "value": 5.29,
+      "unit": "g"
+    },
+    "Calcium, Ca": {
+      "value": 132,
+      "unit": "mg"
+    },
+    "Vitamin D (D2 + D3), International Units": {
+      "value": 53.0,
+      "unit": "iu"
+    }
+  }
+}
