@@ -1,272 +1,272 @@
 [
   {
     "key": "Adzuki Beans",
-    "label": "Adzuki Beans",
+    "label": "Фасоль адзуки",
     "aliases": []
   },
   {
     "key": "Bamboo Shoots",
-    "label": "Bamboo Shoots",
+    "label": "Бамбуковые побеги",
     "aliases": []
   },
   {
     "key": "Bison",
-    "label": "Bison",
+    "label": "Бизон",
     "aliases": []
   },
   {
     "key": "Black Currant",
-    "label": "Black Currant",
+    "label": "Черная смородина",
     "aliases": []
   },
   {
     "key": "Brie",
-    "label": "Brie",
+    "label": "Бри",
     "aliases": []
   },
   {
     "key": "Cassava",
-    "label": "Cassava",
+    "label": "Маниока",
     "aliases": []
   },
   {
     "key": "Chayote",
-    "label": "Chayote",
+    "label": "Чайот",
     "aliases": []
   },
   {
     "key": "Chorizo",
-    "label": "Chorizo",
+    "label": "Чоризо",
     "aliases": []
   },
   {
     "key": "Corn Tortilla",
-    "label": "Corn Tortilla",
+    "label": "Кукурузная тортилья",
     "aliases": []
   },
   {
     "key": "Cotija Cheese",
-    "label": "Cotija Cheese",
+    "label": "Сыр Котия",
     "aliases": []
   },
   {
     "key": "Crayfish",
-    "label": "Crayfish",
+    "label": "Раки",
     "aliases": []
   },
   {
     "key": "Duck",
-    "label": "Duck",
+    "label": "Утка",
     "aliases": []
   },
   {
     "key": "Eel",
-    "label": "Eel",
+    "label": "Угорь",
     "aliases": []
   },
   {
     "key": "Goose",
-    "label": "Goose",
+    "label": "Гусь",
     "aliases": []
   },
   {
     "key": "Gooseberry",
-    "label": "Gooseberry",
+    "label": "Крыжовник",
     "aliases": []
   },
   {
     "key": "Guava",
-    "label": "Guava",
+    "label": "Гуава",
     "aliases": []
   },
   {
     "key": "Jalapeño Pepper",
-    "label": "Jalapeño Pepper",
+    "label": "перец халапеньо",
     "aliases": []
   },
   {
     "key": "Jicama",
-    "label": "Jicama",
+    "label": "Хикама",
     "aliases": []
   },
   {
     "key": "Litchi",
-    "label": "Litchi",
+    "label": "Личи",
     "aliases": []
   },
   {
     "key": "Lobster",
-    "label": "Lobster",
+    "label": "Омар",
     "aliases": []
   },
   {
     "key": "Masa Harina",
-    "label": "Masa Harina",
+    "label": "Маса Харина",
     "aliases": []
   },
   {
     "key": "Miso",
-    "label": "Miso",
+    "label": "Мисо",
     "aliases": []
   },
   {
     "key": "Molasses",
-    "label": "Molasses",
+    "label": "Патока",
     "aliases": []
   },
   {
     "key": "Mustard Greens",
-    "label": "Mustard Greens",
+    "label": "Листовая горчица",
     "aliases": []
   },
   {
     "key": "Navy Beans",
-    "label": "Navy Beans",
+    "label": "Белая фасоль",
     "aliases": []
   },
   {
     "key": "Nopal",
-    "label": "Nopal",
+    "label": "Нопал",
     "aliases": []
   },
   {
     "key": "Oat Flour",
-    "label": "Oat Flour",
+    "label": "Овсяная мука",
     "aliases": []
   },
   {
     "key": "Papaya",
-    "label": "Papaya",
+    "label": "Папайя",
     "aliases": []
   },
   {
     "key": "Passion Fruit",
-    "label": "Passion Fruit",
+    "label": "Маракуйя",
     "aliases": []
   },
   {
     "key": "Persimmon",
-    "label": "Persimmon",
+    "label": "Хурма",
     "aliases": []
   },
   {
     "key": "Plantain",
-    "label": "Plantain",
+    "label": "Плантан",
     "aliases": []
   },
   {
     "key": "Poblano Pepper",
-    "label": "Poblano Pepper",
+    "label": "Поблано перец",
     "aliases": []
   },
   {
     "key": "Prickly Pear",
-    "label": "Prickly Pear",
+    "label": "Опунция",
     "aliases": []
   },
   {
     "key": "Queso Fresco",
-    "label": "Queso Fresco",
+    "label": "Кесо Фреско",
     "aliases": []
   },
   {
     "key": "Rabbit",
-    "label": "Rabbit",
+    "label": "Кролик",
     "aliases": []
   },
   {
     "key": "Red Currant",
-    "label": "Red Currant",
+    "label": "Красная смородина",
     "aliases": []
   },
   {
     "key": "Rutabaga",
-    "label": "Rutabaga",
+    "label": "брюква",
     "aliases": []
   },
   {
     "key": "Rye Flour",
-    "label": "Rye Flour",
+    "label": "Ржаная мука",
     "aliases": []
   },
   {
     "key": "Salami",
-    "label": "Salami",
+    "label": "Салями",
     "aliases": []
   },
   {
     "key": "Scallop",
-    "label": "Scallop",
+    "label": "Гребешок",
     "aliases": []
   },
   {
     "key": "Sorghum",
-    "label": "Sorghum",
+    "label": "Сорго",
     "aliases": []
   },
   {
     "key": "Sour Cherry",
-    "label": "Sour Cherry",
+    "label": "кислая вишня",
     "aliases": []
   },
   {
     "key": "Spelt Flour",
-    "label": "Spelt Flour",
+    "label": "Полбяная мука",
     "aliases": []
   },
   {
     "key": "Sweet Corn",
-    "label": "Sweet Corn",
+    "label": "Сладкая кукуруза",
     "aliases": []
   },
   {
     "key": "Swordfish",
-    "label": "Swordfish",
+    "label": "Рыба-меч",
     "aliases": []
   },
   {
     "key": "Tapioca",
-    "label": "Tapioca",
+    "label": "Тапиока",
     "aliases": []
   },
   {
     "key": "Teff",
-    "label": "Teff",
+    "label": "Тефф",
     "aliases": []
   },
   {
     "key": "Tomatillo",
-    "label": "Tomatillo",
+    "label": "Томатилло",
     "aliases": []
   },
   {
     "key": "Turnip Greens",
-    "label": "Turnip Greens",
+    "label": "Зелень репы",
     "aliases": []
   },
   {
     "key": "Venison",
-    "label": "Venison",
+    "label": "оленина",
     "aliases": []
   },
   {
     "key": "Water Chestnut",
-    "label": "Water Chestnut",
+    "label": "Водяной каштан",
     "aliases": []
   },
   {
     "key": "Watercress",
-    "label": "Watercress",
+    "label": "Кресс-салат",
     "aliases": []
   },
   {
     "key": "Wheat Bran",
-    "label": "Wheat Bran",
+    "label": "Пшеничные отруби",
     "aliases": []
   },
   {
     "key": "Wheat Tortilla",
-    "label": "Wheat Tortilla",
+    "label": "Пшеничная тортилья",
     "aliases": []
   },
   {
@@ -478,7 +478,7 @@
   },
   {
     "key": "Cherry",
-    "label": "Вишня",
+    "label": "Черешня",
     "aliases": []
   },
   {

@@ -1,7 +1,7 @@
 [
   {
     "key": "Adzuki Beans",
-    "label": "Adzuki Beans",
+    "label": "Fasole Adzuki",
     "aliases": []
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "key": "Bamboo Shoots",
-    "label": "Bamboo Shoots",
+    "label": "Lăstarii de bambus",
     "aliases": []
   },
   {
@@ -111,12 +111,12 @@
   },
   {
     "key": "Bison",
-    "label": "Bison",
+    "label": "Zimbru",
     "aliases": []
   },
   {
     "key": "Black Currant",
-    "label": "Black Currant",
+    "label": "Coacăze negre",
     "aliases": []
   },
   {
@@ -270,7 +270,7 @@
   },
   {
     "key": "Mixed Ground Meat",
-    "label": "Carne tocată amestec",
+    "label": "Carne tocată amestecată",
     "aliases": []
   },
   {
@@ -295,7 +295,7 @@
   },
   {
     "key": "Cassava",
-    "label": "Cassava",
+    "label": "Manioc",
     "aliases": []
   },
   {
@@ -335,7 +335,7 @@
   },
   {
     "key": "Chives",
-    "label": "Ceapă verde",
+    "label": "Arpagic",
     "aliases": []
   },
   {
@@ -420,12 +420,12 @@
   },
   {
     "key": "Corn Tortilla",
-    "label": "Corn Tortilla",
+    "label": "Tortila de porumb",
     "aliases": []
   },
   {
     "key": "Cotija Cheese",
-    "label": "Cotija Cheese",
+    "label": "Brânză Cotija",
     "aliases": []
   },
   {
@@ -442,7 +442,7 @@
   },
   {
     "key": "Crayfish",
-    "label": "Crayfish",
+    "label": "Raci",
     "aliases": []
   },
   {
@@ -516,7 +516,7 @@
   },
   {
     "key": "Duck",
-    "label": "Duck",
+    "label": "Rață",
     "aliases": []
   },
   {
@@ -526,7 +526,7 @@
   },
   {
     "key": "Eel",
-    "label": "Eel",
+    "label": "Anghilă",
     "aliases": []
   },
   {
@@ -640,12 +640,12 @@
   },
   {
     "key": "Goose",
-    "label": "Goose",
+    "label": "gâscă",
     "aliases": []
   },
   {
     "key": "Gooseberry",
-    "label": "Gooseberry",
+    "label": "agrișă",
     "aliases": []
   },
   {
@@ -715,7 +715,7 @@
   },
   {
     "key": "Jalapeño Pepper",
-    "label": "Jalapeño Pepper",
+    "label": "Ardei Jalapeño",
     "aliases": []
   },
   {
@@ -775,7 +775,7 @@
   },
   {
     "key": "Lobster",
-    "label": "Lobster",
+    "label": "homar",
     "aliases": []
   },
   {
@@ -862,7 +862,7 @@
   },
   {
     "key": "Molasses",
-    "label": "Molasses",
+    "label": "Melasa",
     "aliases": []
   },
   {
@@ -877,7 +877,7 @@
   },
   {
     "key": "Pine Nut",
-    "label": "Mugur de pin",
+    "label": "Semințe de pin",
     "aliases": []
   },
   {
@@ -887,7 +887,7 @@
   },
   {
     "key": "Mustard Greens",
-    "label": "Mustard Greens",
+    "label": "Frunze de muștar",
     "aliases": []
   },
   {
@@ -937,7 +937,7 @@
   },
   {
     "key": "Navy Beans",
-    "label": "Navy Beans",
+    "label": "Fasole albă",
     "aliases": []
   },
   {
@@ -982,7 +982,7 @@
   },
   {
     "key": "Oat Flour",
-    "label": "Oat Flour",
+    "label": "Făină de Ovăz",
     "aliases": []
   },
   {
@@ -1057,7 +1057,7 @@
   },
   {
     "key": "Passion Fruit",
-    "label": "Passion Fruit",
+    "label": "Fructul pasiunii",
     "aliases": []
   },
   {
@@ -1082,7 +1082,7 @@
   },
   {
     "key": "Persimmon",
-    "label": "Persimmon",
+    "label": "Kaki",
     "aliases": []
   },
   {
@@ -1107,7 +1107,7 @@
   },
   {
     "key": "Plantain",
-    "label": "Plantain",
+    "label": "Banană de gătit",
     "aliases": []
   },
   {
@@ -1122,7 +1122,7 @@
   },
   {
     "key": "Poblano Pepper",
-    "label": "Poblano Pepper",
+    "label": "Ardei Poblano",
     "aliases": []
   },
   {
@@ -1147,7 +1147,7 @@
   },
   {
     "key": "Prickly Pear",
-    "label": "Prickly Pear",
+    "label": "Fruct de cactus",
     "aliases": []
   },
   {
@@ -1197,7 +1197,7 @@
   },
   {
     "key": "Quark",
-    "label": "Quark",
+    "label": "Quarc",
     "aliases": []
   },
   {
@@ -1217,7 +1217,7 @@
   },
   {
     "key": "Rabbit",
-    "label": "Rabbit",
+    "label": "Iepure",
     "aliases": []
   },
   {
@@ -1227,7 +1227,7 @@
   },
   {
     "key": "Red Currant",
-    "label": "Red Currant",
+    "label": "Coacăz roșu",
     "aliases": []
   },
   {
@@ -1277,12 +1277,12 @@
   },
   {
     "key": "Rye Flour",
-    "label": "Rye Flour",
+    "label": "Făină de secară",
     "aliases": []
   },
   {
     "key": "Salami",
-    "label": "Salami",
+    "label": "Salam",
     "aliases": []
   },
   {
@@ -1307,7 +1307,7 @@
   },
   {
     "key": "Scallop",
-    "label": "Scallop",
+    "label": "Scoică Saint-Jacques",
     "aliases": []
   },
   {
@@ -1421,12 +1421,12 @@
   },
   {
     "key": "Sorghum",
-    "label": "Sorghum",
+    "label": "sorg",
     "aliases": []
   },
   {
     "key": "Sour Cherry",
-    "label": "Sour Cherry",
+    "label": "Vișine",
     "aliases": []
   },
   {
@@ -1441,7 +1441,7 @@
   },
   {
     "key": "Spelt Flour",
-    "label": "Spelt Flour",
+    "label": "Făină de speltă",
     "aliases": []
   },
   {
@@ -1461,12 +1461,12 @@
   },
   {
     "key": "Sweet Corn",
-    "label": "Sweet Corn",
+    "label": "Porumb dulce",
     "aliases": []
   },
   {
     "key": "Swordfish",
-    "label": "Swordfish",
+    "label": "Pește-spadă",
     "aliases": []
   },
   {
@@ -1523,7 +1523,7 @@
   },
   {
     "key": "Turnip Greens",
-    "label": "Turnip Greens",
+    "label": "Frunze de nap",
     "aliases": []
   },
   {
@@ -1650,7 +1650,7 @@
   },
   {
     "key": "Venison",
-    "label": "Venison",
+    "label": "carne de căprioară",
     "aliases": []
   },
   {
@@ -1660,22 +1660,22 @@
   },
   {
     "key": "Water Chestnut",
-    "label": "Water Chestnut",
+    "label": "Castan de apă",
     "aliases": []
   },
   {
     "key": "Watercress",
-    "label": "Watercress",
+    "label": "Nasturel",
     "aliases": []
   },
   {
     "key": "Wheat Bran",
-    "label": "Wheat Bran",
+    "label": "Tărâțe de grâu",
     "aliases": []
   },
   {
     "key": "Wheat Tortilla",
-    "label": "Wheat Tortilla",
+    "label": "Tortila de grâu",
     "aliases": []
   },
   {

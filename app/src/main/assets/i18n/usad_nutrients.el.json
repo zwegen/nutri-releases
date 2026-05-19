@@ -109,11 +109,11 @@
   },
   {
     "key": "Folate, food",
-    "label": "Φολικό οξύ"
+    "label": "Φολικό οξύ τροφής"
   },
   {
     "key": "Folate, total",
-    "label": "Συνολικό φολικό οξύ"
+    "label": "Συνολικό φολικό"
   },
   {
     "key": "Folic acid",
@@ -545,7 +545,7 @@
   },
   {
     "key": "Vitamin K (Dihydrophylloquinone)",
-    "label": "Ειδική μορφή βιταμίνης K"
+    "label": "Βιταμίνη K"
   },
   {
     "key": "Vitamin K (Menaquinone-4)",

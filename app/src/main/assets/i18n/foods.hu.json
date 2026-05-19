@@ -1,7 +1,7 @@
 [
   {
     "key": "Adzuki Beans",
-    "label": "Adzuki Beans",
+    "label": "Adzuki bab",
     "aliases": []
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "key": "Bacon",
-    "label": "Bacon",
+    "label": "Szalonna",
     "aliases": []
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "key": "Bamboo Shoots",
-    "label": "Bamboo Shoots",
+    "label": "Bambuszrügyek",
     "aliases": []
   },
   {
@@ -91,12 +91,12 @@
   },
   {
     "key": "Bison",
-    "label": "Bison",
+    "label": "Bölény",
     "aliases": []
   },
   {
     "key": "Black Currant",
-    "label": "Black Currant",
+    "label": "Fekete ribizli",
     "aliases": []
   },
   {
@@ -156,7 +156,7 @@
   },
   {
     "key": "Cassava",
-    "label": "Cassava",
+    "label": "Manióka",
     "aliases": []
   },
   {
@@ -201,17 +201,17 @@
   },
   {
     "key": "Corn Tortilla",
-    "label": "Corn Tortilla",
+    "label": "Kukorica tortilla",
     "aliases": []
   },
   {
     "key": "Cotija Cheese",
-    "label": "Cotija Cheese",
+    "label": "Cotija sajt",
     "aliases": []
   },
   {
     "key": "Crayfish",
-    "label": "Crayfish",
+    "label": "Folyami rák",
     "aliases": []
   },
   {
@@ -293,7 +293,7 @@
   },
   {
     "key": "Duck",
-    "label": "Duck",
+    "label": "Kacsa",
     "aliases": []
   },
   {
@@ -308,7 +308,7 @@
   },
   {
     "key": "Eel",
-    "label": "Eel",
+    "label": "Angolna",
     "aliases": []
   },
   {
@@ -348,7 +348,7 @@
   },
   {
     "key": "Turnip",
-    "label": "Fehérrépa",
+    "label": "Tarlórépa",
     "aliases": []
   },
   {
@@ -438,12 +438,12 @@
   },
   {
     "key": "Goose",
-    "label": "Goose",
+    "label": "liba",
     "aliases": []
   },
   {
     "key": "Gooseberry",
-    "label": "Gooseberry",
+    "label": "Egres",
     "aliases": []
   },
   {
@@ -515,7 +515,7 @@
   },
   {
     "key": "Jalapeño Pepper",
-    "label": "Jalapeño Pepper",
+    "label": "Jalapeño paprika",
     "aliases": []
   },
   {
@@ -749,12 +749,12 @@
   },
   {
     "key": "Litchi",
-    "label": "Litchi",
+    "label": "Licsi",
     "aliases": []
   },
   {
     "key": "Lobster",
-    "label": "Lobster",
+    "label": "Homár",
     "aliases": []
   },
   {
@@ -866,12 +866,12 @@
   },
   {
     "key": "Peanut Butter",
-    "label": "Mogyoróvaj",
+    "label": "Földimogyoróvaj",
     "aliases": []
   },
   {
     "key": "Molasses",
-    "label": "Molasses",
+    "label": "Melasz",
     "aliases": []
   },
   {
@@ -886,7 +886,7 @@
   },
   {
     "key": "Mustard Greens",
-    "label": "Mustard Greens",
+    "label": "Mustárlevelek",
     "aliases": []
   },
   {
@@ -946,7 +946,7 @@
   },
   {
     "key": "Navy Beans",
-    "label": "Navy Beans",
+    "label": "Fehérbab",
     "aliases": []
   },
   {
@@ -961,7 +961,7 @@
   },
   {
     "key": "Oat Flour",
-    "label": "Oat Flour",
+    "label": "Zabliszt",
     "aliases": []
   },
   {
@@ -1021,7 +1021,7 @@
   },
   {
     "key": "Passion Fruit",
-    "label": "Passion Fruit",
+    "label": "Passiógyümölcs",
     "aliases": []
   },
   {
@@ -1036,7 +1036,7 @@
   },
   {
     "key": "Persimmon",
-    "label": "Persimmon",
+    "label": "Datolyaszilva",
     "aliases": []
   },
   {
@@ -1061,12 +1061,12 @@
   },
   {
     "key": "Plantain",
-    "label": "Plantain",
+    "label": "Főzőbanán",
     "aliases": []
   },
   {
     "key": "Poblano Pepper",
-    "label": "Poblano Pepper",
+    "label": "Poblano paprika",
     "aliases": []
   },
   {
@@ -1095,7 +1095,7 @@
   },
   {
     "key": "Prickly Pear",
-    "label": "Prickly Pear",
+    "label": "Fügekaktusz",
     "aliases": []
   },
   {
@@ -1120,7 +1120,7 @@
   },
   {
     "key": "Rabbit",
-    "label": "Rabbit",
+    "label": "Nyúl",
     "aliases": []
   },
   {
@@ -1135,7 +1135,7 @@
   },
   {
     "key": "Red Currant",
-    "label": "Red Currant",
+    "label": "Piros ribizli",
     "aliases": []
   },
   {
@@ -1190,7 +1190,7 @@
   },
   {
     "key": "Rye Flour",
-    "label": "Rye Flour",
+    "label": "Rozsliszt",
     "aliases": []
   },
   {
@@ -1210,7 +1210,7 @@
   },
   {
     "key": "Salami",
-    "label": "Salami",
+    "label": "szalámi",
     "aliases": []
   },
   {
@@ -1225,7 +1225,7 @@
   },
   {
     "key": "Scallop",
-    "label": "Scallop",
+    "label": "Fésűkagyló",
     "aliases": []
   },
   {
@@ -1252,12 +1252,12 @@
   },
   {
     "key": "Sorghum",
-    "label": "Sorghum",
+    "label": "Cirok",
     "aliases": []
   },
   {
     "key": "Sour Cherry",
-    "label": "Sour Cherry",
+    "label": "Meggy",
     "aliases": []
   },
   {
@@ -1272,7 +1272,7 @@
   },
   {
     "key": "Spelt Flour",
-    "label": "Spelt Flour",
+    "label": "Tönkölyliszt",
     "aliases": []
   },
   {
@@ -1287,12 +1287,12 @@
   },
   {
     "key": "Sweet Corn",
-    "label": "Sweet Corn",
+    "label": "Csemegekukorica",
     "aliases": []
   },
   {
     "key": "Swordfish",
-    "label": "Swordfish",
+    "label": "kardhal",
     "aliases": []
   },
   {
@@ -1389,7 +1389,7 @@
   },
   {
     "key": "Tapioca",
-    "label": "Tapioca",
+    "label": "Tápióka",
     "aliases": []
   },
   {
@@ -1480,7 +1480,7 @@
   },
   {
     "key": "Turnip Greens",
-    "label": "Turnip Greens",
+    "label": "Tarlórépa levelei",
     "aliases": []
   },
   {
@@ -1545,7 +1545,7 @@
   },
   {
     "key": "Venison",
-    "label": "Venison",
+    "label": "vadhús",
     "aliases": []
   },
   {
@@ -1555,7 +1555,7 @@
   },
   {
     "key": "Cranberry",
-    "label": "Vörös áfonya",
+    "label": "Tőzegáfonya",
     "aliases": [
       "Cranberry"
     ]
@@ -1567,22 +1567,22 @@
   },
   {
     "key": "Water Chestnut",
-    "label": "Water Chestnut",
+    "label": "Vízi gesztenye",
     "aliases": []
   },
   {
     "key": "Watercress",
-    "label": "Watercress",
+    "label": "Vízitorma",
     "aliases": []
   },
   {
     "key": "Wheat Bran",
-    "label": "Wheat Bran",
+    "label": "Búzakorpa",
     "aliases": []
   },
   {
     "key": "Wheat Tortilla",
-    "label": "Wheat Tortilla",
+    "label": "Búza tortilla",
     "aliases": []
   },
   {

@@ -345,7 +345,7 @@
   },
   {
     "key": "Retinol",
-    "label": "Retinolo"
+    "label": "Retinolo (vitamina A)"
   },
   {
     "key": "Riboflavin",
@@ -545,7 +545,7 @@
   },
   {
     "key": "Vitamin K (Dihydrophylloquinone)",
-    "label": "Vitamina K (diidrofillochinone)"
+    "label": "Vitamina K"
   },
   {
     "key": "Vitamin K (Menaquinone-4)",

@@ -21,7 +21,7 @@
   },
   {
     "key": "Adzuki Beans",
-    "label": "Adzuki Beans",
+    "label": "Fagioli Adzuki",
     "aliases": []
   },
   {
@@ -121,7 +121,7 @@
   },
   {
     "key": "Bamboo Shoots",
-    "label": "Bamboo Shoots",
+    "label": "Germogli di bambù",
     "aliases": []
   },
   {
@@ -146,7 +146,7 @@
   },
   {
     "key": "Bison",
-    "label": "Bison",
+    "label": "Bisonte",
     "aliases": []
   },
   {
@@ -367,7 +367,7 @@
   },
   {
     "key": "Couscous",
-    "label": "Couscous",
+    "label": "Cous cous",
     "aliases": []
   },
   {
@@ -417,7 +417,7 @@
   },
   {
     "key": "Duck",
-    "label": "Duck",
+    "label": "Anatra",
     "aliases": []
   },
   {
@@ -427,7 +427,7 @@
   },
   {
     "key": "Eel",
-    "label": "Eel",
+    "label": "Anguilla",
     "aliases": []
   },
   {
@@ -621,7 +621,7 @@
   },
   {
     "key": "Goose",
-    "label": "Goose",
+    "label": "Oca",
     "aliases": []
   },
   {
@@ -656,7 +656,7 @@
   },
   {
     "key": "Halibut",
-    "label": "Halibut",
+    "label": "Ippoglosso",
     "aliases": []
   },
   {
@@ -731,7 +731,7 @@
   },
   {
     "key": "Lobster",
-    "label": "Lobster",
+    "label": "Aragosta",
     "aliases": []
   },
   {
@@ -920,7 +920,7 @@
   },
   {
     "key": "Navy Beans",
-    "label": "Navy Beans",
+    "label": "Fagioli bianchi",
     "aliases": []
   },
   {
@@ -960,7 +960,7 @@
   },
   {
     "key": "Okra",
-    "label": "Okra",
+    "label": "Gombo",
     "aliases": []
   },
   {
@@ -1087,12 +1087,12 @@
   },
   {
     "key": "Papaya",
-    "label": "Papaya",
+    "label": "Papaia",
     "aliases": []
   },
   {
     "key": "Paprika",
-    "label": "Paprika",
+    "label": "Paprica",
     "aliases": []
   },
   {
@@ -1102,7 +1102,7 @@
   },
   {
     "key": "Passion Fruit",
-    "label": "Passion Fruit",
+    "label": "Frutto della passione",
     "aliases": []
   },
   {
@@ -1172,7 +1172,7 @@
   },
   {
     "key": "Persimmon",
-    "label": "Persimmon",
+    "label": "Cachi",
     "aliases": []
   },
   {
@@ -1229,7 +1229,7 @@
   },
   {
     "key": "Pollock",
-    "label": "Pollack",
+    "label": "Pollock",
     "aliases": []
   },
   {
@@ -1301,7 +1301,7 @@
   },
   {
     "key": "Rabbit",
-    "label": "Rabbit",
+    "label": "Coniglio",
     "aliases": []
   },
   {
@@ -1406,7 +1406,7 @@
   },
   {
     "key": "Scallop",
-    "label": "Scallop",
+    "label": "Capesante",
     "aliases": []
   },
   {
@@ -1521,7 +1521,7 @@
   },
   {
     "key": "Swordfish",
-    "label": "Swordfish",
+    "label": "Pesce spada",
     "aliases": []
   },
   {
@@ -1638,7 +1638,7 @@
   },
   {
     "key": "Venison",
-    "label": "Venison",
+    "label": "Carne di cervo",
     "aliases": []
   },
   {
@@ -1653,12 +1653,12 @@
   },
   {
     "key": "Water Chestnut",
-    "label": "Water Chestnut",
+    "label": "Castagna d'acqua",
     "aliases": []
   },
   {
     "key": "Watercress",
-    "label": "Watercress",
+    "label": "Crescione",
     "aliases": []
   },
   {

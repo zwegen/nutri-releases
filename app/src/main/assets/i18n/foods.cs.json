@@ -1,7 +1,7 @@
 [
   {
     "key": "Adzuki Beans",
-    "label": "Adzuki Beans",
+    "label": "Fazole adzuki",
     "aliases": []
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "key": "Bamboo Shoots",
-    "label": "Bamboo Shoots",
+    "label": "Bambusové výhonky",
     "aliases": []
   },
   {
@@ -91,12 +91,12 @@
   },
   {
     "key": "Bison",
-    "label": "Bison",
+    "label": "Bizon",
     "aliases": []
   },
   {
     "key": "Black Currant",
-    "label": "Black Currant",
+    "label": "Černý rybíz",
     "aliases": []
   },
   {
@@ -141,7 +141,7 @@
   },
   {
     "key": "Cranberry",
-    "label": "Brusinka",
+    "label": "Klikva",
     "aliases": [
       "Cranberry"
     ]
@@ -193,7 +193,7 @@
   },
   {
     "key": "Cassava",
-    "label": "Cassava",
+    "label": "Maniok",
     "aliases": []
   },
   {
@@ -265,12 +265,12 @@
   },
   {
     "key": "Corn Tortilla",
-    "label": "Corn Tortilla",
+    "label": "Kukuřičná tortilla",
     "aliases": []
   },
   {
     "key": "Cotija Cheese",
-    "label": "Cotija Cheese",
+    "label": "Sýr Cotija",
     "aliases": []
   },
   {
@@ -280,7 +280,7 @@
   },
   {
     "key": "Crayfish",
-    "label": "Crayfish",
+    "label": "Raci",
     "aliases": []
   },
   {
@@ -300,7 +300,7 @@
   },
   {
     "key": "Duck",
-    "label": "Duck",
+    "label": "Kachna",
     "aliases": []
   },
   {
@@ -320,7 +320,7 @@
   },
   {
     "key": "Eel",
-    "label": "Eel",
+    "label": "úhoř",
     "aliases": []
   },
   {
@@ -377,12 +377,12 @@
   },
   {
     "key": "Goose",
-    "label": "Goose",
+    "label": "Husa",
     "aliases": []
   },
   {
     "key": "Gooseberry",
-    "label": "Gooseberry",
+    "label": "Angrešt",
     "aliases": []
   },
   {
@@ -407,7 +407,7 @@
   },
   {
     "key": "Halibut",
-    "label": "Halibut",
+    "label": "halibut",
     "aliases": []
   },
   {
@@ -492,7 +492,7 @@
   },
   {
     "key": "Jalapeño Pepper",
-    "label": "Jalapeño Pepper",
+    "label": "Jalapeňo pepř",
     "aliases": []
   },
   {
@@ -594,7 +594,7 @@
   },
   {
     "key": "Kiwi",
-    "label": "Kiwi",
+    "label": "kiwi",
     "aliases": []
   },
   {
@@ -741,7 +741,7 @@
   },
   {
     "key": "Litchi",
-    "label": "Litchi",
+    "label": "Liči",
     "aliases": []
   },
   {
@@ -756,7 +756,7 @@
   },
   {
     "key": "Lobster",
-    "label": "Lobster",
+    "label": "Humr",
     "aliases": []
   },
   {
@@ -881,7 +881,7 @@
   },
   {
     "key": "Molasses",
-    "label": "Molasses",
+    "label": "melasa",
     "aliases": []
   },
   {
@@ -901,7 +901,7 @@
   },
   {
     "key": "Mustard Greens",
-    "label": "Mustard Greens",
+    "label": "Listy hořčice",
     "aliases": []
   },
   {
@@ -938,7 +938,7 @@
   },
   {
     "key": "Navy Beans",
-    "label": "Navy Beans",
+    "label": "Bílé fazole",
     "aliases": []
   },
   {
@@ -958,7 +958,7 @@
   },
   {
     "key": "Oat Flour",
-    "label": "Oat Flour",
+    "label": "Ovesná mouka",
     "aliases": []
   },
   {
@@ -1015,7 +1015,7 @@
   },
   {
     "key": "Papaya",
-    "label": "Papaya",
+    "label": "Papája",
     "aliases": []
   },
   {
@@ -1035,7 +1035,7 @@
   },
   {
     "key": "Passion Fruit",
-    "label": "Passion Fruit",
+    "label": "Mučenka",
     "aliases": []
   },
   {
@@ -1060,7 +1060,7 @@
   },
   {
     "key": "Persimmon",
-    "label": "Persimmon",
+    "label": "Tomel",
     "aliases": []
   },
   {
@@ -1085,7 +1085,7 @@
   },
   {
     "key": "Plantain",
-    "label": "Plantain",
+    "label": "Banán na vaření",
     "aliases": []
   },
   {
@@ -1095,7 +1095,7 @@
   },
   {
     "key": "Poblano Pepper",
-    "label": "Poblano Pepper",
+    "label": "Poblano pepř",
     "aliases": []
   },
   {
@@ -1135,7 +1135,7 @@
   },
   {
     "key": "Prickly Pear",
-    "label": "Prickly Pear",
+    "label": "Opuncie",
     "aliases": []
   },
   {
@@ -1165,12 +1165,12 @@
   },
   {
     "key": "Rabbit",
-    "label": "Rabbit",
+    "label": "Králík",
     "aliases": []
   },
   {
     "key": "Radicchio",
-    "label": "Radicchio",
+    "label": "Čekanka",
     "aliases": []
   },
   {
@@ -1195,7 +1195,7 @@
   },
   {
     "key": "Red Currant",
-    "label": "Red Currant",
+    "label": "Červený rybíz",
     "aliases": []
   },
   {
@@ -1235,7 +1235,7 @@
   },
   {
     "key": "Rye Flour",
-    "label": "Rye Flour",
+    "label": "Žitná mouka",
     "aliases": []
   },
   {
@@ -1245,7 +1245,7 @@
   },
   {
     "key": "Salami",
-    "label": "Salami",
+    "label": "salám",
     "aliases": []
   },
   {
@@ -1255,7 +1255,7 @@
   },
   {
     "key": "Scallop",
-    "label": "Scallop",
+    "label": "hřebenatka",
     "aliases": []
   },
   {
@@ -1310,17 +1310,17 @@
   },
   {
     "key": "Sorghum",
-    "label": "Sorghum",
+    "label": "čirok",
     "aliases": []
   },
   {
     "key": "Sour Cherry",
-    "label": "Sour Cherry",
+    "label": "Višeň",
     "aliases": []
   },
   {
     "key": "Spelt Flour",
-    "label": "Spelt Flour",
+    "label": "Špaldová mouka",
     "aliases": []
   },
   {
@@ -1332,12 +1332,12 @@
   },
   {
     "key": "Sweet Corn",
-    "label": "Sweet Corn",
+    "label": "Sladká kukuřice",
     "aliases": []
   },
   {
     "key": "Swordfish",
-    "label": "Swordfish",
+    "label": "Mečoun",
     "aliases": []
   },
   {
@@ -1352,7 +1352,7 @@
   },
   {
     "key": "Tapioca",
-    "label": "Tapioca",
+    "label": "Tapioka",
     "aliases": []
   },
   {
@@ -1409,7 +1409,7 @@
   },
   {
     "key": "Turnip Greens",
-    "label": "Turnip Greens",
+    "label": "Listy tuřínu",
     "aliases": []
   },
   {
@@ -1449,7 +1449,7 @@
   },
   {
     "key": "Venison",
-    "label": "Venison",
+    "label": "Zvěřina",
     "aliases": []
   },
   {
@@ -1481,22 +1481,22 @@
   },
   {
     "key": "Water Chestnut",
-    "label": "Water Chestnut",
+    "label": "Vodní kaštan",
     "aliases": []
   },
   {
     "key": "Watercress",
-    "label": "Watercress",
+    "label": "Řeřicha",
     "aliases": []
   },
   {
     "key": "Wheat Bran",
-    "label": "Wheat Bran",
+    "label": "Pšeničné otruby",
     "aliases": []
   },
   {
     "key": "Wheat Tortilla",
-    "label": "Wheat Tortilla",
+    "label": "Pšeničná tortilla",
     "aliases": []
   },
   {

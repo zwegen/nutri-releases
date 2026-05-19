@@ -109,7 +109,7 @@
   },
   {
     "key": "Folate, food",
-    "label": "Folat"
+    "label": "Besin folatı"
   },
   {
     "key": "Folate, total",
@@ -545,7 +545,7 @@
   },
   {
     "key": "Vitamin K (Dihydrophylloquinone)",
-    "label": "Özel K vitamini formu"
+    "label": "K vitamini"
   },
   {
     "key": "Vitamin K (Menaquinone-4)",

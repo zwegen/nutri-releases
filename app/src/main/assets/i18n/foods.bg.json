@@ -1,272 +1,272 @@
 [
   {
     "key": "Adzuki Beans",
-    "label": "Adzuki Beans",
+    "label": "Адзуки боб",
     "aliases": []
   },
   {
     "key": "Bamboo Shoots",
-    "label": "Bamboo Shoots",
+    "label": "Бамбукови издънки",
     "aliases": []
   },
   {
     "key": "Bison",
-    "label": "Bison",
+    "label": "Бизон",
     "aliases": []
   },
   {
     "key": "Black Currant",
-    "label": "Black Currant",
+    "label": "касис",
     "aliases": []
   },
   {
     "key": "Brie",
-    "label": "Brie",
+    "label": "Бри",
     "aliases": []
   },
   {
     "key": "Cassava",
-    "label": "Cassava",
+    "label": "Маниока",
     "aliases": []
   },
   {
     "key": "Chayote",
-    "label": "Chayote",
+    "label": "Чайот",
     "aliases": []
   },
   {
     "key": "Chorizo",
-    "label": "Chorizo",
+    "label": "Чоризо",
     "aliases": []
   },
   {
     "key": "Corn Tortilla",
-    "label": "Corn Tortilla",
+    "label": "Царевична тортила",
     "aliases": []
   },
   {
     "key": "Cotija Cheese",
-    "label": "Cotija Cheese",
+    "label": "Сирене Cotija",
     "aliases": []
   },
   {
     "key": "Crayfish",
-    "label": "Crayfish",
+    "label": "раци",
     "aliases": []
   },
   {
     "key": "Duck",
-    "label": "Duck",
+    "label": "патица",
     "aliases": []
   },
   {
     "key": "Eel",
-    "label": "Eel",
+    "label": "змиорка",
     "aliases": []
   },
   {
     "key": "Goose",
-    "label": "Goose",
+    "label": "гъска",
     "aliases": []
   },
   {
     "key": "Gooseberry",
-    "label": "Gooseberry",
+    "label": "цариградско грозде",
     "aliases": []
   },
   {
     "key": "Guava",
-    "label": "Guava",
+    "label": "Гуава",
     "aliases": []
   },
   {
     "key": "Jalapeño Pepper",
-    "label": "Jalapeño Pepper",
+    "label": "Халапеньо пипер",
     "aliases": []
   },
   {
     "key": "Jicama",
-    "label": "Jicama",
+    "label": "Джикама",
     "aliases": []
   },
   {
     "key": "Litchi",
-    "label": "Litchi",
+    "label": "Личи",
     "aliases": []
   },
   {
     "key": "Lobster",
-    "label": "Lobster",
+    "label": "Омар",
     "aliases": []
   },
   {
     "key": "Masa Harina",
-    "label": "Masa Harina",
+    "label": "Маса Харина",
     "aliases": []
   },
   {
     "key": "Miso",
-    "label": "Miso",
+    "label": "Мишо",
     "aliases": []
   },
   {
     "key": "Molasses",
-    "label": "Molasses",
+    "label": "Меласа",
     "aliases": []
   },
   {
     "key": "Mustard Greens",
-    "label": "Mustard Greens",
+    "label": "Листа от синап",
     "aliases": []
   },
   {
     "key": "Navy Beans",
-    "label": "Navy Beans",
+    "label": "Бял боб",
     "aliases": []
   },
   {
     "key": "Nopal",
-    "label": "Nopal",
+    "label": "Нопал",
     "aliases": []
   },
   {
     "key": "Oat Flour",
-    "label": "Oat Flour",
+    "label": "Овесено брашно",
     "aliases": []
   },
   {
     "key": "Papaya",
-    "label": "Papaya",
+    "label": "папая",
     "aliases": []
   },
   {
     "key": "Passion Fruit",
-    "label": "Passion Fruit",
+    "label": "Маракуя",
     "aliases": []
   },
   {
     "key": "Persimmon",
-    "label": "Persimmon",
+    "label": "Райска ябълка",
     "aliases": []
   },
   {
     "key": "Plantain",
-    "label": "Plantain",
+    "label": "Банан за готвене",
     "aliases": []
   },
   {
     "key": "Poblano Pepper",
-    "label": "Poblano Pepper",
+    "label": "Поблано пипер",
     "aliases": []
   },
   {
     "key": "Prickly Pear",
-    "label": "Prickly Pear",
+    "label": "Бодлива круша",
     "aliases": []
   },
   {
     "key": "Queso Fresco",
-    "label": "Queso Fresco",
+    "label": "Кесо фреско",
     "aliases": []
   },
   {
     "key": "Rabbit",
-    "label": "Rabbit",
+    "label": "Заек",
     "aliases": []
   },
   {
     "key": "Red Currant",
-    "label": "Red Currant",
+    "label": "Червено френско грозде",
     "aliases": []
   },
   {
     "key": "Rutabaga",
-    "label": "Rutabaga",
+    "label": "Рутабага",
     "aliases": []
   },
   {
     "key": "Rye Flour",
-    "label": "Rye Flour",
+    "label": "Ръжено брашно",
     "aliases": []
   },
   {
     "key": "Salami",
-    "label": "Salami",
+    "label": "салам",
     "aliases": []
   },
   {
     "key": "Scallop",
-    "label": "Scallop",
+    "label": "Мида Сен Жак",
     "aliases": []
   },
   {
     "key": "Sorghum",
-    "label": "Sorghum",
+    "label": "сорго",
     "aliases": []
   },
   {
     "key": "Sour Cherry",
-    "label": "Sour Cherry",
+    "label": "Вишна",
     "aliases": []
   },
   {
     "key": "Spelt Flour",
-    "label": "Spelt Flour",
+    "label": "Брашно от спелта",
     "aliases": []
   },
   {
     "key": "Sweet Corn",
-    "label": "Sweet Corn",
+    "label": "Сладка царевица",
     "aliases": []
   },
   {
     "key": "Swordfish",
-    "label": "Swordfish",
+    "label": "Риба меч",
     "aliases": []
   },
   {
     "key": "Tapioca",
-    "label": "Tapioca",
+    "label": "Тапиока",
     "aliases": []
   },
   {
     "key": "Teff",
-    "label": "Teff",
+    "label": "Теф",
     "aliases": []
   },
   {
     "key": "Tomatillo",
-    "label": "Tomatillo",
+    "label": "Томатило",
     "aliases": []
   },
   {
     "key": "Turnip Greens",
-    "label": "Turnip Greens",
+    "label": "Листа от ряпа",
     "aliases": []
   },
   {
     "key": "Venison",
-    "label": "Venison",
+    "label": "еленско месо",
     "aliases": []
   },
   {
     "key": "Water Chestnut",
-    "label": "Water Chestnut",
+    "label": "Воден кестен",
     "aliases": []
   },
   {
     "key": "Watercress",
-    "label": "Watercress",
+    "label": "кресон",
     "aliases": []
   },
   {
     "key": "Wheat Bran",
-    "label": "Wheat Bran",
+    "label": "Пшенични трици",
     "aliases": []
   },
   {
     "key": "Wheat Tortilla",
-    "label": "Wheat Tortilla",
+    "label": "Пшенична тортила",
     "aliases": []
   },
   {
@@ -622,7 +622,7 @@
   },
   {
     "key": "Halibut",
-    "label": "Камбала",
+    "label": "Палтус",
     "aliases": []
   },
   {
@@ -1432,7 +1432,7 @@
   },
   {
     "key": "Ground Beef",
-    "label": "Телешка кайма",
+    "label": "Говежда кайма",
     "aliases": []
   },
   {
@@ -1581,7 +1581,7 @@
   },
   {
     "key": "Cranberry",
-    "label": "Червена боровинка",
+    "label": "Американска червена боровинка",
     "aliases": [
       "Cranberry"
     ]

@@ -1,7 +1,7 @@
 [
   {
     "key": "Adzuki Beans",
-    "label": "Adzuki Beans",
+    "label": "Fasola Adzuki",
     "aliases": []
   },
   {
@@ -46,7 +46,7 @@
   },
   {
     "key": "Bamboo Shoots",
-    "label": "Bamboo Shoots",
+    "label": "Pędy Bambusa",
     "aliases": []
   },
   {
@@ -91,12 +91,12 @@
   },
   {
     "key": "Bison",
-    "label": "Bison",
+    "label": "Bizon",
     "aliases": []
   },
   {
     "key": "Black Currant",
-    "label": "Black Currant",
+    "label": "Czarna porzeczka",
     "aliases": []
   },
   {
@@ -171,7 +171,7 @@
   },
   {
     "key": "Cassava",
-    "label": "Cassava",
+    "label": "Maniok",
     "aliases": []
   },
   {
@@ -181,7 +181,7 @@
   },
   {
     "key": "Chayote",
-    "label": "Chayote",
+    "label": "Kolczoch",
     "aliases": []
   },
   {
@@ -231,17 +231,17 @@
   },
   {
     "key": "Corn Tortilla",
-    "label": "Corn Tortilla",
+    "label": "Tortilla kukurydziana",
     "aliases": []
   },
   {
     "key": "Cotija Cheese",
-    "label": "Cotija Cheese",
+    "label": "Ser Cotija",
     "aliases": []
   },
   {
     "key": "Crayfish",
-    "label": "Crayfish",
+    "label": "Raki",
     "aliases": []
   },
   {
@@ -326,7 +326,7 @@
   },
   {
     "key": "Duck",
-    "label": "Duck",
+    "label": "Kaczka",
     "aliases": []
   },
   {
@@ -365,7 +365,7 @@
   },
   {
     "key": "Eel",
-    "label": "Eel",
+    "label": "Węgorz",
     "aliases": []
   },
   {
@@ -417,12 +417,12 @@
   },
   {
     "key": "Goose",
-    "label": "Goose",
+    "label": "Gęś",
     "aliases": []
   },
   {
     "key": "Gooseberry",
-    "label": "Gooseberry",
+    "label": "Agrest",
     "aliases": []
   },
   {
@@ -457,7 +457,7 @@
   },
   {
     "key": "Guava",
-    "label": "Guava",
+    "label": "Gujawa",
     "aliases": []
   },
   {
@@ -507,7 +507,7 @@
   },
   {
     "key": "Jalapeño Pepper",
-    "label": "Jalapeño Pepper",
+    "label": "Papryczka Jalapeño",
     "aliases": []
   },
   {
@@ -708,7 +708,7 @@
   },
   {
     "key": "Litchi",
-    "label": "Litchi",
+    "label": "Liczi",
     "aliases": []
   },
   {
@@ -732,7 +732,7 @@
   },
   {
     "key": "Lobster",
-    "label": "Lobster",
+    "label": "Homar",
     "aliases": []
   },
   {
@@ -872,7 +872,7 @@
   },
   {
     "key": "Molasses",
-    "label": "Molasses",
+    "label": "Melasa",
     "aliases": []
   },
   {
@@ -887,7 +887,7 @@
   },
   {
     "key": "Mustard Greens",
-    "label": "Mustard Greens",
+    "label": "Liście gorczycy",
     "aliases": []
   },
   {
@@ -917,7 +917,7 @@
   },
   {
     "key": "Navy Beans",
-    "label": "Navy Beans",
+    "label": "Biała fasola",
     "aliases": []
   },
   {
@@ -937,7 +937,7 @@
   },
   {
     "key": "Oat Flour",
-    "label": "Oat Flour",
+    "label": "Mąka owsiana",
     "aliases": []
   },
   {
@@ -1084,7 +1084,7 @@
   },
   {
     "key": "Papaya",
-    "label": "Papaya",
+    "label": "Papaja",
     "aliases": []
   },
   {
@@ -1104,7 +1104,7 @@
   },
   {
     "key": "Passion Fruit",
-    "label": "Passion Fruit",
+    "label": "Marakuja",
     "aliases": []
   },
   {
@@ -1119,7 +1119,7 @@
   },
   {
     "key": "Persimmon",
-    "label": "Persimmon",
+    "label": "Persymona",
     "aliases": []
   },
   {
@@ -1169,12 +1169,12 @@
   },
   {
     "key": "Plantain",
-    "label": "Plantain",
+    "label": "Banan warzywny",
     "aliases": []
   },
   {
     "key": "Poblano Pepper",
-    "label": "Poblano Pepper",
+    "label": "Papryczka poblano",
     "aliases": []
   },
   {
@@ -1209,7 +1209,7 @@
   },
   {
     "key": "Prickly Pear",
-    "label": "Prickly Pear",
+    "label": "Opuncja",
     "aliases": []
   },
   {
@@ -1244,7 +1244,7 @@
   },
   {
     "key": "Queso Fresco",
-    "label": "Queso Fresco",
+    "label": "Queso fresco",
     "aliases": []
   },
   {
@@ -1254,7 +1254,7 @@
   },
   {
     "key": "Rabbit",
-    "label": "Rabbit",
+    "label": "Królik",
     "aliases": []
   },
   {
@@ -1264,7 +1264,7 @@
   },
   {
     "key": "Red Currant",
-    "label": "Red Currant",
+    "label": "Czerwona porzeczka",
     "aliases": []
   },
   {
@@ -1304,7 +1304,7 @@
   },
   {
     "key": "Rye Flour",
-    "label": "Rye Flour",
+    "label": "Mąka żytnia",
     "aliases": []
   },
   {
@@ -1344,7 +1344,7 @@
   },
   {
     "key": "Scallop",
-    "label": "Scallop",
+    "label": "Przegrzebek",
     "aliases": []
   },
   {
@@ -1434,17 +1434,17 @@
   },
   {
     "key": "Sorghum",
-    "label": "Sorghum",
+    "label": "Sorgo",
     "aliases": []
   },
   {
     "key": "Sour Cherry",
-    "label": "Sour Cherry",
+    "label": "Kwaśna Wiśnia",
     "aliases": []
   },
   {
     "key": "Spelt Flour",
-    "label": "Spelt Flour",
+    "label": "Mąka orkiszowa",
     "aliases": []
   },
   {
@@ -1456,12 +1456,12 @@
   },
   {
     "key": "Sweet Corn",
-    "label": "Sweet Corn",
+    "label": "Słodka kukurydza",
     "aliases": []
   },
   {
     "key": "Swordfish",
-    "label": "Swordfish",
+    "label": "Miecznik",
     "aliases": []
   },
   {
@@ -1508,7 +1508,7 @@
   },
   {
     "key": "Tapioca",
-    "label": "Tapioca",
+    "label": "Tapioka",
     "aliases": []
   },
   {
@@ -1535,7 +1535,7 @@
   },
   {
     "key": "Tomatillo",
-    "label": "Tomatillo",
+    "label": "Miechunka pomidorowa",
     "aliases": []
   },
   {
@@ -1555,7 +1555,7 @@
   },
   {
     "key": "Turnip Greens",
-    "label": "Turnip Greens",
+    "label": "Liście rzepy",
     "aliases": []
   },
   {
@@ -1575,27 +1575,27 @@
   },
   {
     "key": "Venison",
-    "label": "Venison",
+    "label": "Dziczyzna",
     "aliases": []
   },
   {
     "key": "Water Chestnut",
-    "label": "Water Chestnut",
+    "label": "Kasztan Wodny",
     "aliases": []
   },
   {
     "key": "Watercress",
-    "label": "Watercress",
+    "label": "Rukiew wodna",
     "aliases": []
   },
   {
     "key": "Wheat Bran",
-    "label": "Wheat Bran",
+    "label": "Otręby pszenne",
     "aliases": []
   },
   {
     "key": "Wheat Tortilla",
-    "label": "Wheat Tortilla",
+    "label": "Tortilla pszenna",
     "aliases": []
   },
   {

@@ -109,7 +109,7 @@
   },
   {
     "key": "Folate, food",
-    "label": "Folato"
+    "label": "Folato alimentario"
   },
   {
     "key": "Folate, total",
@@ -545,7 +545,7 @@
   },
   {
     "key": "Vitamin K (Dihydrophylloquinone)",
-    "label": "Forma especial de vitamina K"
+    "label": "Vitamina K"
   },
   {
     "key": "Vitamin K (Menaquinone-4)",

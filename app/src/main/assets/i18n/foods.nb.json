@@ -1,7 +1,7 @@
 [
   {
     "key": "Adzuki Beans",
-    "label": "Adzuki Beans",
+    "label": "Adzuki bønner",
     "aliases": []
   },
   {
@@ -88,7 +88,7 @@
   },
   {
     "key": "Bamboo Shoots",
-    "label": "Bamboo Shoots",
+    "label": "Bambusskudd",
     "aliases": []
   },
   {
@@ -113,7 +113,7 @@
   },
   {
     "key": "Black Currant",
-    "label": "Black Currant",
+    "label": "Solbær",
     "aliases": []
   },
   {
@@ -244,12 +244,12 @@
   },
   {
     "key": "Corn Tortilla",
-    "label": "Corn Tortilla",
+    "label": "Maistortilla",
     "aliases": []
   },
   {
     "key": "Cotija Cheese",
-    "label": "Cotija Cheese",
+    "label": "Cotija ost",
     "aliases": []
   },
   {
@@ -264,7 +264,7 @@
   },
   {
     "key": "Crayfish",
-    "label": "Crayfish",
+    "label": "Kreps",
     "aliases": []
   },
   {
@@ -284,7 +284,7 @@
   },
   {
     "key": "Duck",
-    "label": "Duck",
+    "label": "And",
     "aliases": []
   },
   {
@@ -299,7 +299,7 @@
   },
   {
     "key": "Eel",
-    "label": "Eel",
+    "label": "Ål",
     "aliases": []
   },
   {
@@ -398,12 +398,12 @@
   },
   {
     "key": "Goose",
-    "label": "Goose",
+    "label": "Gås",
     "aliases": []
   },
   {
     "key": "Gooseberry",
-    "label": "Gooseberry",
+    "label": "Stikkelsbær",
     "aliases": []
   },
   {
@@ -593,7 +593,7 @@
   },
   {
     "key": "Jalapeño Pepper",
-    "label": "Jalapeño Pepper",
+    "label": "Jalapeñopepper",
     "aliases": []
   },
   {
@@ -837,7 +837,7 @@
   },
   {
     "key": "Lobster",
-    "label": "Lobster",
+    "label": "Hummer",
     "aliases": []
   },
   {
@@ -969,7 +969,7 @@
   },
   {
     "key": "Molasses",
-    "label": "Molasses",
+    "label": "Melasse",
     "aliases": []
   },
   {
@@ -989,7 +989,7 @@
   },
   {
     "key": "Mustard Greens",
-    "label": "Mustard Greens",
+    "label": "Sennepsblader",
     "aliases": []
   },
   {
@@ -1004,7 +1004,7 @@
   },
   {
     "key": "Navy Beans",
-    "label": "Navy Beans",
+    "label": "Hvite bønner",
     "aliases": []
   },
   {
@@ -1029,7 +1029,7 @@
   },
   {
     "key": "Oat Flour",
-    "label": "Oat Flour",
+    "label": "Havremel",
     "aliases": []
   },
   {
@@ -1064,7 +1064,7 @@
   },
   {
     "key": "Paprika",
-    "label": "Paprika",
+    "label": "Paprikapulver",
     "aliases": []
   },
   {
@@ -1079,7 +1079,7 @@
   },
   {
     "key": "Passion Fruit",
-    "label": "Passion Fruit",
+    "label": "Pasjonsfrukt",
     "aliases": []
   },
   {
@@ -1144,7 +1144,7 @@
   },
   {
     "key": "Plantain",
-    "label": "Plantain",
+    "label": "Kokebanan",
     "aliases": []
   },
   {
@@ -1154,7 +1154,7 @@
   },
   {
     "key": "Poblano Pepper",
-    "label": "Poblano Pepper",
+    "label": "Poblanopepper",
     "aliases": []
   },
   {
@@ -1174,7 +1174,7 @@
   },
   {
     "key": "Prickly Pear",
-    "label": "Prickly Pear",
+    "label": "Kaktusfiken",
     "aliases": []
   },
   {
@@ -1204,7 +1204,7 @@
   },
   {
     "key": "Rabbit",
-    "label": "Rabbit",
+    "label": "Kanin",
     "aliases": []
   },
   {
@@ -1224,7 +1224,7 @@
   },
   {
     "key": "Red Currant",
-    "label": "Red Currant",
+    "label": "Rød rips",
     "aliases": []
   },
   {
@@ -1284,12 +1284,12 @@
   },
   {
     "key": "Rutabaga",
-    "label": "Rutabaga",
+    "label": "Kålrot",
     "aliases": []
   },
   {
     "key": "Rye Flour",
-    "label": "Rye Flour",
+    "label": "Rugmel",
     "aliases": []
   },
   {
@@ -1336,7 +1336,7 @@
   },
   {
     "key": "Scallop",
-    "label": "Scallop",
+    "label": "Kamskjell",
     "aliases": []
   },
   {
@@ -1436,7 +1436,7 @@
   },
   {
     "key": "Sour Cherry",
-    "label": "Sour Cherry",
+    "label": "Surkirsebær",
     "aliases": []
   },
   {
@@ -1451,7 +1451,7 @@
   },
   {
     "key": "Spelt Flour",
-    "label": "Spelt Flour",
+    "label": "Speltmel",
     "aliases": []
   },
   {
@@ -1531,12 +1531,12 @@
   },
   {
     "key": "Sweet Corn",
-    "label": "Sweet Corn",
+    "label": "Søt mais",
     "aliases": []
   },
   {
     "key": "Swordfish",
-    "label": "Swordfish",
+    "label": "Sverdfisk",
     "aliases": []
   },
   {
@@ -1546,7 +1546,7 @@
   },
   {
     "key": "Tapioca",
-    "label": "Tapioca",
+    "label": "Tapioka",
     "aliases": []
   },
   {
@@ -1615,7 +1615,7 @@
   },
   {
     "key": "Turnip Greens",
-    "label": "Turnip Greens",
+    "label": "Nepeblader",
     "aliases": []
   },
   {
@@ -1645,7 +1645,7 @@
   },
   {
     "key": "Venison",
-    "label": "Venison",
+    "label": "Hjortekjøtt",
     "aliases": []
   },
   {
@@ -1672,22 +1672,22 @@
   },
   {
     "key": "Water Chestnut",
-    "label": "Water Chestnut",
+    "label": "Vannkastanje",
     "aliases": []
   },
   {
     "key": "Watercress",
-    "label": "Watercress",
+    "label": "Brønnkarse",
     "aliases": []
   },
   {
     "key": "Wheat Bran",
-    "label": "Wheat Bran",
+    "label": "Hvetekli",
     "aliases": []
   },
   {
     "key": "Wheat Tortilla",
-    "label": "Wheat Tortilla",
+    "label": "Hvetetortilla",
     "aliases": []
   },
   {

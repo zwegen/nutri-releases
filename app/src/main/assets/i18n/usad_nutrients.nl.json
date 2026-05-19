@@ -93,11 +93,11 @@
   },
   {
     "key": "Fatty acids, total trans-monoenoic",
-    "label": "Transvet (mono-eenzadig)"
+    "label": "Transvetzuren, enkelvoudig onverzadigd"
   },
   {
     "key": "Fatty acids, total trans-polyenoic",
-    "label": "Transvet (poly-eenzadig)"
+    "label": "Transvetzuren, meervoudig onverzadigd"
   },
   {
     "key": "Fiber, total dietary",
@@ -109,11 +109,11 @@
   },
   {
     "key": "Folate, food",
-    "label": "Folaat"
+    "label": "Folaat uit voeding"
   },
   {
     "key": "Folate, total",
-    "label": "Folaat"
+    "label": "Totaal folaat"
   },
   {
     "key": "Folic acid",
@@ -545,7 +545,7 @@
   },
   {
     "key": "Vitamin K (Dihydrophylloquinone)",
-    "label": "Bijzondere vorm van vitamine K"
+    "label": "Vitamine K"
   },
   {
     "key": "Vitamin K (Menaquinone-4)",

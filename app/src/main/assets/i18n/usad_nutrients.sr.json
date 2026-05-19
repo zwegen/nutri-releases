@@ -109,11 +109,11 @@
   },
   {
     "key": "Folate, food",
-    "label": "Folat"
+    "label": "Folat iz hrane"
   },
   {
     "key": "Folate, total",
-    "label": "Folat"
+    "label": "Ukupni folat"
   },
   {
     "key": "Folic acid",
@@ -545,7 +545,7 @@
   },
   {
     "key": "Vitamin K (Dihydrophylloquinone)",
-    "label": "Vitamin K (dihidrofilokinon)"
+    "label": "Vitamin K"
   },
   {
     "key": "Vitamin K (Menaquinone-4)",

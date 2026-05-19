@@ -93,11 +93,11 @@
   },
   {
     "key": "Fatty acids, total trans-monoenoic",
-    "label": "Transfette (monoensäure)"
+    "label": "Transfettsäuren, einfach ungesättigt"
   },
   {
     "key": "Fatty acids, total trans-polyenoic",
-    "label": "Transfette (polyensäure)"
+    "label": "Transfettsäuren, mehrfach ungesättigt"
   },
   {
     "key": "Fiber, total dietary",
@@ -109,11 +109,11 @@
   },
   {
     "key": "Folate, food",
-    "label": "Folat"
+    "label": "Nahrungsfolat"
   },
   {
     "key": "Folate, total",
-    "label": "Folat"
+    "label": "Folat gesamt"
   },
   {
     "key": "Folic acid",
@@ -545,7 +545,7 @@
   },
   {
     "key": "Vitamin K (Dihydrophylloquinone)",
-    "label": "Spezielle Vitamin-K-Form"
+    "label": "Vitamin K"
   },
   {
     "key": "Vitamin K (Menaquinone-4)",

@@ -16,7 +16,7 @@
   },
   {
     "key": "Adzuki Beans",
-    "label": "Adzuki Beans",
+    "label": "Adzuki Fasulyesi",
     "aliases": []
   },
   {
@@ -120,7 +120,7 @@
   },
   {
     "key": "Bacon",
-    "label": "Bacon",
+    "label": "Domuz pastırması",
     "aliases": []
   },
   {
@@ -160,7 +160,7 @@
   },
   {
     "key": "Bamboo Shoots",
-    "label": "Bamboo Shoots",
+    "label": "Bambu filizi",
     "aliases": []
   },
   {
@@ -215,12 +215,12 @@
   },
   {
     "key": "Bison",
-    "label": "Bison",
+    "label": "Bizon",
     "aliases": []
   },
   {
     "key": "Black Currant",
-    "label": "Black Currant",
+    "label": "Siyah Frenk Üzümü",
     "aliases": []
   },
   {
@@ -272,7 +272,7 @@
   },
   {
     "key": "Cassava",
-    "label": "Cassava",
+    "label": "Manyok",
     "aliases": []
   },
   {
@@ -307,17 +307,17 @@
   },
   {
     "key": "Corn Tortilla",
-    "label": "Corn Tortilla",
+    "label": "Mısır Tortillası",
     "aliases": []
   },
   {
     "key": "Cotija Cheese",
-    "label": "Cotija Cheese",
+    "label": "Cotija Peyniri",
     "aliases": []
   },
   {
     "key": "Crayfish",
-    "label": "Crayfish",
+    "label": "Kerevit",
     "aliases": []
   },
   {
@@ -377,7 +377,7 @@
   },
   {
     "key": "Duck",
-    "label": "Duck",
+    "label": "Ördek",
     "aliases": []
   },
   {
@@ -387,7 +387,7 @@
   },
   {
     "key": "Eel",
-    "label": "Eel",
+    "label": "Yılan balığı",
     "aliases": []
   },
   {
@@ -469,12 +469,12 @@
   },
   {
     "key": "Goose",
-    "label": "Goose",
+    "label": "Kaz",
     "aliases": []
   },
   {
     "key": "Gooseberry",
-    "label": "Gooseberry",
+    "label": "Bektaşi üzümü",
     "aliases": []
   },
   {
@@ -569,12 +569,12 @@
   },
   {
     "key": "Lard",
-    "label": "İç yağ",
+    "label": "Domuz yağı",
     "aliases": []
   },
   {
     "key": "Jalapeño Pepper",
-    "label": "Jalapeño Pepper",
+    "label": "Jalapeno Biberi",
     "aliases": []
   },
   {
@@ -658,7 +658,7 @@
   },
   {
     "key": "Black Salsify",
-    "label": "Karahindiba kökü",
+    "label": "Kara tekesakalı",
     "aliases": []
   },
   {
@@ -885,12 +885,12 @@
   },
   {
     "key": "Litchi",
-    "label": "Litchi",
+    "label": "Liçi",
     "aliases": []
   },
   {
     "key": "Lobster",
-    "label": "Lobster",
+    "label": "Istakoz",
     "aliases": []
   },
   {
@@ -915,7 +915,7 @@
   },
   {
     "key": "Mango",
-    "label": "Mango",
+    "label": "mango",
     "aliases": []
   },
   {
@@ -987,7 +987,7 @@
   },
   {
     "key": "Molasses",
-    "label": "Molasses",
+    "label": "Pekmez",
     "aliases": []
   },
   {
@@ -997,7 +997,7 @@
   },
   {
     "key": "Mozzarella",
-    "label": "Mozzarella",
+    "label": "Mozarella",
     "aliases": []
   },
   {
@@ -1007,7 +1007,7 @@
   },
   {
     "key": "Mustard Greens",
-    "label": "Mustard Greens",
+    "label": "Hardal Yeşilleri",
     "aliases": []
   },
   {
@@ -1047,7 +1047,7 @@
   },
   {
     "key": "Navy Beans",
-    "label": "Navy Beans",
+    "label": "Beyaz fasulye",
     "aliases": []
   },
   {
@@ -1067,7 +1067,7 @@
   },
   {
     "key": "Oat Flour",
-    "label": "Oat Flour",
+    "label": "Yulaf Unu",
     "aliases": []
   },
   {
@@ -1102,7 +1102,7 @@
   },
   {
     "key": "Passion Fruit",
-    "label": "Passion Fruit",
+    "label": "Tutku meyvesi",
     "aliases": []
   },
   {
@@ -1127,7 +1127,7 @@
   },
   {
     "key": "Persimmon",
-    "label": "Persimmon",
+    "label": "Trabzon hurması",
     "aliases": []
   },
   {
@@ -1142,17 +1142,17 @@
   },
   {
     "key": "Plantain",
-    "label": "Plantain",
+    "label": "Pişirmelik muz",
     "aliases": []
   },
   {
     "key": "Poblano Pepper",
-    "label": "Poblano Pepper",
+    "label": "Poblano Biber",
     "aliases": []
   },
   {
     "key": "Polenta",
-    "label": "Polenta",
+    "label": "polenta",
     "aliases": []
   },
   {
@@ -1162,7 +1162,7 @@
   },
   {
     "key": "Prickly Pear",
-    "label": "Prickly Pear",
+    "label": "Dikenli incir",
     "aliases": []
   },
   {
@@ -1172,22 +1172,22 @@
   },
   {
     "key": "Quark",
-    "label": "Quark",
+    "label": "Kuark",
     "aliases": []
   },
   {
     "key": "Queso Fresco",
-    "label": "Queso Fresco",
+    "label": "Queso Fresk",
     "aliases": []
   },
   {
     "key": "Rabbit",
-    "label": "Rabbit",
+    "label": "Tavşan",
     "aliases": []
   },
   {
     "key": "Radicchio",
-    "label": "Radicchio",
+    "label": "Radikyo",
     "aliases": []
   },
   {
@@ -1197,7 +1197,7 @@
   },
   {
     "key": "Red Currant",
-    "label": "Red Currant",
+    "label": "Kırmızı Frenk Üzümü",
     "aliases": []
   },
   {
@@ -1227,7 +1227,7 @@
   },
   {
     "key": "Romanesco",
-    "label": "Romanesco",
+    "label": "Romanesko",
     "aliases": []
   },
   {
@@ -1237,12 +1237,12 @@
   },
   {
     "key": "Rye Flour",
-    "label": "Rye Flour",
+    "label": "Çavdar Unu",
     "aliases": []
   },
   {
     "key": "Salami",
-    "label": "Salami",
+    "label": "Salam",
     "aliases": []
   },
   {
@@ -1279,7 +1279,7 @@
   },
   {
     "key": "Scallop",
-    "label": "Scallop",
+    "label": "Deniz tarağı",
     "aliases": []
   },
   {
@@ -1304,7 +1304,7 @@
   },
   {
     "key": "Savoy Cabbage",
-    "label": "Sivri lahana",
+    "label": "Savoy lahanası",
     "aliases": []
   },
   {
@@ -1329,12 +1329,12 @@
   },
   {
     "key": "Sorghum",
-    "label": "Sorghum",
+    "label": "Sorgum",
     "aliases": []
   },
   {
     "key": "Sour Cherry",
-    "label": "Sour Cherry",
+    "label": "Vişne",
     "aliases": []
   },
   {
@@ -1349,7 +1349,7 @@
   },
   {
     "key": "Spelt Flour",
-    "label": "Spelt Flour",
+    "label": "Kızıl buğday unu",
     "aliases": []
   },
   {
@@ -1364,12 +1364,12 @@
   },
   {
     "key": "Sweet Corn",
-    "label": "Sweet Corn",
+    "label": "tatlı mısır",
     "aliases": []
   },
   {
     "key": "Swordfish",
-    "label": "Swordfish",
+    "label": "Kılıçbalığı",
     "aliases": []
   },
   {
@@ -1389,7 +1389,7 @@
   },
   {
     "key": "Tapioca",
-    "label": "Tapioca",
+    "label": "Tapyoka",
     "aliases": []
   },
   {
@@ -1424,7 +1424,7 @@
   },
   {
     "key": "Tempeh",
-    "label": "Tempeh",
+    "label": "Tempe",
     "aliases": []
   },
   {
@@ -1434,14 +1434,14 @@
   },
   {
     "key": "Tilapia",
-    "label": "Tilapia",
+    "label": "Tilapya",
     "aliases": [
       "Tilapia"
     ]
   },
   {
     "key": "Tofu",
-    "label": "Tofu",
+    "label": "Soya peyniri",
     "aliases": []
   },
   {
@@ -1480,7 +1480,7 @@
   },
   {
     "key": "Turnip Greens",
-    "label": "Turnip Greens",
+    "label": "Şalgam Yeşilleri",
     "aliases": []
   },
   {
@@ -1495,27 +1495,27 @@
   },
   {
     "key": "Venison",
-    "label": "Venison",
+    "label": "Geyik eti",
     "aliases": []
   },
   {
     "key": "Water Chestnut",
-    "label": "Water Chestnut",
+    "label": "Su Kestanesi",
     "aliases": []
   },
   {
     "key": "Watercress",
-    "label": "Watercress",
+    "label": "Su teresi",
     "aliases": []
   },
   {
     "key": "Wheat Bran",
-    "label": "Wheat Bran",
+    "label": "Buğday Kepeği",
     "aliases": []
   },
   {
     "key": "Wheat Tortilla",
-    "label": "Wheat Tortilla",
+    "label": "Buğday Tortillası",
     "aliases": []
   },
   {

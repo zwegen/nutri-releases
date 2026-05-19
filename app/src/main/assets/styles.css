@@ -1,5 +1,8 @@
 :root {
   color-scheme: light;
+  --update-button-width: min(260px, 100%);
+  --update-button-bg: #242930;
+  --update-button-bg-hover: #303640;
   --bg: #f9d8ab;
   --card: #fdf0d9;
   --text: #4a2f1f;
@@ -425,7 +428,7 @@ input[type="text"]:focus,
 
 .zapstore-info-btn {
   align-self: center;
-  width: min(260px, 100%);
+  width: var(--update-button-width);
   border: 0;
   background: transparent;
   padding: 0;
@@ -810,7 +813,7 @@ th:nth-child(2) {
 }
 
 .download-badge {
-  width: min(300px, 100%);
+  width: var(--update-button-width);
   min-height: 72px;
   align-self: center;
   display: inline-flex;
@@ -819,7 +822,7 @@ th:nth-child(2) {
   gap: 14px;
   border: 2px solid #fff;
   border-radius: 13px;
-  background: #080808;
+  background: var(--update-button-bg);
   color: #fff;
   padding: 12px 22px;
   font: inherit;
@@ -861,7 +864,7 @@ th:nth-child(2) {
 
 .download-badge:hover,
 .download-badge:focus-visible {
-  background: #161616;
+  background: var(--update-button-bg-hover);
   outline: none;
 }
 

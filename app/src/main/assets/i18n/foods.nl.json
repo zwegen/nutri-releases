@@ -21,7 +21,7 @@
   },
   {
     "key": "Adzuki Beans",
-    "label": "Adzuki Beans",
+    "label": "Adzukibonen",
     "aliases": []
   },
   {
@@ -106,12 +106,12 @@
   },
   {
     "key": "Bacon",
-    "label": "Bacon",
+    "label": "Spek",
     "aliases": []
   },
   {
     "key": "Baguette",
-    "label": "Baguette",
+    "label": "Stokbrood",
     "aliases": []
   },
   {
@@ -121,7 +121,7 @@
   },
   {
     "key": "Bamboo Shoots",
-    "label": "Bamboo Shoots",
+    "label": "Bamboescheuten",
     "aliases": []
   },
   {
@@ -151,12 +151,12 @@
   },
   {
     "key": "Bison",
-    "label": "Bison",
+    "label": "Bizon",
     "aliases": []
   },
   {
     "key": "Black Currant",
-    "label": "Black Currant",
+    "label": "Zwarte bes",
     "aliases": []
   },
   {
@@ -233,7 +233,7 @@
   },
   {
     "key": "Cassava",
-    "label": "Cassava",
+    "label": "Cassave",
     "aliases": []
   },
   {
@@ -288,12 +288,12 @@
   },
   {
     "key": "Corn Tortilla",
-    "label": "Corn Tortilla",
+    "label": "Maïs Tortilla",
     "aliases": []
   },
   {
     "key": "Cotija Cheese",
-    "label": "Cotija Cheese",
+    "label": "Cotija-kaas",
     "aliases": []
   },
   {
@@ -308,14 +308,14 @@
   },
   {
     "key": "Cranberry",
-    "label": "Cranberry",
+    "label": "Amerikaanse veenbes",
     "aliases": [
       "Cranberry"
     ]
   },
   {
     "key": "Crayfish",
-    "label": "Crayfish",
+    "label": "Rivierkreeft",
     "aliases": []
   },
   {
@@ -362,7 +362,7 @@
   },
   {
     "key": "Duck",
-    "label": "Duck",
+    "label": "Eend",
     "aliases": []
   },
   {
@@ -377,7 +377,7 @@
   },
   {
     "key": "Eel",
-    "label": "Eel",
+    "label": "Paling",
     "aliases": []
   },
   {
@@ -466,12 +466,12 @@
   },
   {
     "key": "Goose",
-    "label": "Goose",
+    "label": "Gans",
     "aliases": []
   },
   {
     "key": "Gooseberry",
-    "label": "Gooseberry",
+    "label": "Kruisbes",
     "aliases": []
   },
   {
@@ -516,7 +516,7 @@
   },
   {
     "key": "Guava",
-    "label": "Guava",
+    "label": "Guave",
     "aliases": []
   },
   {
@@ -593,7 +593,7 @@
   },
   {
     "key": "Jalapeño Pepper",
-    "label": "Jalapeño Pepper",
+    "label": "Jalapeño peper",
     "aliases": []
   },
   {
@@ -832,7 +832,7 @@
   },
   {
     "key": "Lobster",
-    "label": "Lobster",
+    "label": "Kreeft",
     "aliases": []
   },
   {
@@ -939,7 +939,7 @@
   },
   {
     "key": "Molasses",
-    "label": "Molasses",
+    "label": "Melasse",
     "aliases": []
   },
   {
@@ -974,7 +974,7 @@
   },
   {
     "key": "Mustard Greens",
-    "label": "Mustard Greens",
+    "label": "Mosterdblad",
     "aliases": []
   },
   {
@@ -984,7 +984,7 @@
   },
   {
     "key": "Navy Beans",
-    "label": "Navy Beans",
+    "label": "Witte bonen",
     "aliases": []
   },
   {
@@ -1004,7 +1004,7 @@
   },
   {
     "key": "Oat Flour",
-    "label": "Oat Flour",
+    "label": "Havermeel",
     "aliases": []
   },
   {
@@ -1046,7 +1046,7 @@
   },
   {
     "key": "Papaya",
-    "label": "Papaya",
+    "label": "Papaja",
     "aliases": []
   },
   {
@@ -1066,7 +1066,7 @@
   },
   {
     "key": "Passion Fruit",
-    "label": "Passion Fruit",
+    "label": "Passievrucht",
     "aliases": []
   },
   {
@@ -1141,12 +1141,12 @@
   },
   {
     "key": "Plantain",
-    "label": "Plantain",
+    "label": "Bakbanaan",
     "aliases": []
   },
   {
     "key": "Poblano Pepper",
-    "label": "Poblano Pepper",
+    "label": "Poblano-peper",
     "aliases": []
   },
   {
@@ -1176,7 +1176,7 @@
   },
   {
     "key": "Prickly Pear",
-    "label": "Prickly Pear",
+    "label": "Cactusvijg",
     "aliases": []
   },
   {
@@ -1186,7 +1186,7 @@
   },
   {
     "key": "Queso Fresco",
-    "label": "Queso Fresco",
+    "label": "Queso-fresco",
     "aliases": []
   },
   {
@@ -1211,7 +1211,7 @@
   },
   {
     "key": "Rabbit",
-    "label": "Rabbit",
+    "label": "Konijn",
     "aliases": []
   },
   {
@@ -1226,7 +1226,7 @@
   },
   {
     "key": "Red Currant",
-    "label": "Red Currant",
+    "label": "Rode bes",
     "aliases": []
   },
   {
@@ -1301,12 +1301,12 @@
   },
   {
     "key": "Rutabaga",
-    "label": "Rutabaga",
+    "label": "Koolraap",
     "aliases": []
   },
   {
     "key": "Rye Flour",
-    "label": "Rye Flour",
+    "label": "Roggemeel",
     "aliases": []
   },
   {
@@ -1331,7 +1331,7 @@
   },
   {
     "key": "Scallop",
-    "label": "Scallop",
+    "label": "Sint-jakobsschelp",
     "aliases": []
   },
   {
@@ -1398,7 +1398,7 @@
   },
   {
     "key": "Sour Cherry",
-    "label": "Sour Cherry",
+    "label": "Zure kers",
     "aliases": []
   },
   {
@@ -1408,7 +1408,7 @@
   },
   {
     "key": "Spelt Flour",
-    "label": "Spelt Flour",
+    "label": "Speltmeel",
     "aliases": []
   },
   {
@@ -1433,12 +1433,12 @@
   },
   {
     "key": "Sweet Corn",
-    "label": "Sweet Corn",
+    "label": "Zoete maïs",
     "aliases": []
   },
   {
     "key": "Swordfish",
-    "label": "Swordfish",
+    "label": "Zwaardvis",
     "aliases": []
   },
   {
@@ -1505,7 +1505,7 @@
   },
   {
     "key": "Turnip Greens",
-    "label": "Turnip Greens",
+    "label": "Raapgroenten",
     "aliases": []
   },
   {
@@ -1530,7 +1530,7 @@
   },
   {
     "key": "Venison",
-    "label": "Venison",
+    "label": "Hertenvlees",
     "aliases": []
   },
   {
@@ -1580,12 +1580,12 @@
   },
   {
     "key": "Water Chestnut",
-    "label": "Water Chestnut",
+    "label": "Waterkastanje",
     "aliases": []
   },
   {
     "key": "Watercress",
-    "label": "Watercress",
+    "label": "Waterkers",
     "aliases": []
   },
   {
@@ -1595,12 +1595,12 @@
   },
   {
     "key": "Wheat Bran",
-    "label": "Wheat Bran",
+    "label": "Tarwezemelen",
     "aliases": []
   },
   {
     "key": "Wheat Tortilla",
-    "label": "Wheat Tortilla",
+    "label": "Tarwe Tortilla",
     "aliases": []
   },
   {

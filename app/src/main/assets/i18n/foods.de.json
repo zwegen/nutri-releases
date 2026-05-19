@@ -140,7 +140,7 @@
   },
   {
     "key": "White Bread",
-    "label": "Brot",
+    "label": "Weißbrot",
     "aliases": []
   },
   {
@@ -945,7 +945,7 @@
   },
   {
     "key": "White Flour",
-    "label": "Mehl",
+    "label": "Weißmehl",
     "aliases": []
   },
   {
@@ -1005,7 +1005,7 @@
   },
   {
     "key": "Navy Beans",
-    "label": "Navy Beans",
+    "label": "Navybohnen",
     "aliases": [
       "Weiße Bohnen",
       "Navy-Bohnen"
@@ -1129,7 +1129,7 @@
   },
   {
     "key": "Black Pepper",
-    "label": "Pfeffer",
+    "label": "Schwarzer Pfeffer",
     "aliases": []
   },
   {
@@ -1219,7 +1219,7 @@
   },
   {
     "key": "White Rice",
-    "label": "Reis",
+    "label": "Weißer Reis",
     "aliases": []
   },
   {
@@ -1523,7 +1523,7 @@
   },
   {
     "key": "Turnip",
-    "label": "Steckrübe",
+    "label": "Speiserübe",
     "aliases": []
   },
   {
@@ -1682,7 +1682,7 @@
   },
   {
     "key": "Venison",
-    "label": "Wild/Reh",
+    "label": "Wildfleisch",
     "aliases": [
       "Reh",
       "Hirsch",

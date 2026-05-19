@@ -6,7 +6,7 @@
   },
   {
     "key": "Adzuki Beans",
-    "label": "Adzuki Beans",
+    "label": "Haricots Adzuki",
     "aliases": []
   },
   {
@@ -106,7 +106,7 @@
   },
   {
     "key": "Bamboo Shoots",
-    "label": "Bamboo Shoots",
+    "label": "Pousses de bambou",
     "aliases": []
   },
   {
@@ -191,7 +191,7 @@
   },
   {
     "key": "Broccoli",
-    "label": "Broccoli",
+    "label": "Brocoli",
     "aliases": []
   },
   {
@@ -203,7 +203,7 @@
   },
   {
     "key": "Bulgur",
-    "label": "Bulgur",
+    "label": "Boulgour",
     "aliases": []
   },
   {
@@ -314,7 +314,7 @@
   },
   {
     "key": "Chayote",
-    "label": "Chayote",
+    "label": "Chayotte",
     "aliases": []
   },
   {
@@ -507,17 +507,17 @@
   },
   {
     "key": "Duck",
-    "label": "Duck",
+    "label": "Canard",
     "aliases": []
   },
   {
     "key": "Edamame",
-    "label": "Edamame",
+    "label": "Édamame",
     "aliases": []
   },
   {
     "key": "Eel",
-    "label": "Eel",
+    "label": "Anguille",
     "aliases": []
   },
   {
@@ -669,7 +669,7 @@
   },
   {
     "key": "Gnocchi",
-    "label": "Gnocchi",
+    "label": "Gnocchis",
     "aliases": []
   },
   {
@@ -679,7 +679,7 @@
   },
   {
     "key": "Goose",
-    "label": "Goose",
+    "label": "Oie",
     "aliases": []
   },
   {
@@ -759,7 +759,7 @@
   },
   {
     "key": "Guava",
-    "label": "Guava",
+    "label": "Goyave",
     "aliases": []
   },
   {
@@ -911,7 +911,7 @@
   },
   {
     "key": "Litchi",
-    "label": "Litchi",
+    "label": "Litchis",
     "aliases": []
   },
   {
@@ -921,7 +921,7 @@
   },
   {
     "key": "Lobster",
-    "label": "Lobster",
+    "label": "Homard",
     "aliases": []
   },
   {
@@ -936,7 +936,7 @@
   },
   {
     "key": "Mango",
-    "label": "Mango",
+    "label": "Mangue",
     "aliases": []
   },
   {
@@ -1051,7 +1051,7 @@
   },
   {
     "key": "Navy Beans",
-    "label": "Navy Beans",
+    "label": "Haricots blancs",
     "aliases": []
   },
   {
@@ -1161,7 +1161,7 @@
   },
   {
     "key": "Papaya",
-    "label": "Papaya",
+    "label": "Papaye",
     "aliases": []
   },
   {
@@ -1176,7 +1176,7 @@
   },
   {
     "key": "Passion Fruit",
-    "label": "Passion Fruit",
+    "label": "Fruit de la Passion",
     "aliases": []
   },
   {
@@ -1196,7 +1196,7 @@
   },
   {
     "key": "Persimmon",
-    "label": "Persimmon",
+    "label": "Kaki",
     "aliases": []
   },
   {
@@ -1370,7 +1370,7 @@
   },
   {
     "key": "Rabbit",
-    "label": "Rabbit",
+    "label": "Lapin",
     "aliases": []
   },
   {
@@ -1480,7 +1480,7 @@
   },
   {
     "key": "Scallop",
-    "label": "Scallop",
+    "label": "Pétoncle",
     "aliases": []
   },
   {
@@ -1525,7 +1525,7 @@
   },
   {
     "key": "Swordfish",
-    "label": "Swordfish",
+    "label": "Espadon",
     "aliases": []
   },
   {
@@ -1597,7 +1597,7 @@
   },
   {
     "key": "Tomatillo",
-    "label": "Tomatillo",
+    "label": "Tomatille",
     "aliases": []
   },
   {
@@ -1627,7 +1627,7 @@
   },
   {
     "key": "Venison",
-    "label": "Venison",
+    "label": "Venaison",
     "aliases": []
   },
   {
@@ -1652,12 +1652,12 @@
   },
   {
     "key": "Water Chestnut",
-    "label": "Water Chestnut",
+    "label": "Châtaigne d'eau",
     "aliases": []
   },
   {
     "key": "Watercress",
-    "label": "Watercress",
+    "label": "Cresson",
     "aliases": []
   },
   {

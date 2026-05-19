@@ -109,11 +109,11 @@
   },
   {
     "key": "Folate, food",
-    "label": "Foliany"
+    "label": "Foliany z żywności"
   },
   {
     "key": "Folate, total",
-    "label": "Foliany"
+    "label": "Foliany ogółem"
   },
   {
     "key": "Folic acid",
@@ -545,7 +545,7 @@
   },
   {
     "key": "Vitamin K (Dihydrophylloquinone)",
-    "label": "Szczególna forma witaminy K"
+    "label": "Witamina K"
   },
   {
     "key": "Vitamin K (Menaquinone-4)",

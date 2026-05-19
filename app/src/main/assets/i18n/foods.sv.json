@@ -1,7 +1,7 @@
 [
   {
     "key": "Adzuki Beans",
-    "label": "Adzuki Beans",
+    "label": "Adzuki bönor",
     "aliases": []
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "key": "Bamboo Shoots",
-    "label": "Bamboo Shoots",
+    "label": "Bambuskott",
     "aliases": []
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "key": "Black Currant",
-    "label": "Black Currant",
+    "label": "Svarta vinbär",
     "aliases": []
   },
   {
@@ -215,12 +215,12 @@
   },
   {
     "key": "Corn Tortilla",
-    "label": "Corn Tortilla",
+    "label": "Majstortilla",
     "aliases": []
   },
   {
     "key": "Cotija Cheese",
-    "label": "Cotija Cheese",
+    "label": "Cotija ost",
     "aliases": []
   },
   {
@@ -230,7 +230,7 @@
   },
   {
     "key": "Crayfish",
-    "label": "Crayfish",
+    "label": "Kräftor",
     "aliases": []
   },
   {
@@ -265,7 +265,7 @@
   },
   {
     "key": "Duck",
-    "label": "Duck",
+    "label": "Anka",
     "aliases": []
   },
   {
@@ -275,7 +275,7 @@
   },
   {
     "key": "Eel",
-    "label": "Eel",
+    "label": "Ål",
     "aliases": []
   },
   {
@@ -357,12 +357,12 @@
   },
   {
     "key": "Goose",
-    "label": "Goose",
+    "label": "Gås",
     "aliases": []
   },
   {
     "key": "Gooseberry",
-    "label": "Gooseberry",
+    "label": "Krusbär",
     "aliases": []
   },
   {
@@ -536,12 +536,12 @@
   },
   {
     "key": "Lard",
-    "label": "Istér",
+    "label": "Ister",
     "aliases": []
   },
   {
     "key": "Jalapeño Pepper",
-    "label": "Jalapeño Pepper",
+    "label": "Jalapeñopeppar",
     "aliases": []
   },
   {
@@ -800,7 +800,7 @@
   },
   {
     "key": "Lobster",
-    "label": "Lobster",
+    "label": "Hummer",
     "aliases": []
   },
   {
@@ -932,7 +932,7 @@
   },
   {
     "key": "Molasses",
-    "label": "Molasses",
+    "label": "Melass",
     "aliases": []
   },
   {
@@ -962,7 +962,7 @@
   },
   {
     "key": "Mustard Greens",
-    "label": "Mustard Greens",
+    "label": "Senapsblad",
     "aliases": []
   },
   {
@@ -977,7 +977,7 @@
   },
   {
     "key": "Navy Beans",
-    "label": "Navy Beans",
+    "label": "Vita bönor",
     "aliases": []
   },
   {
@@ -1002,7 +1002,7 @@
   },
   {
     "key": "Oat Flour",
-    "label": "Oat Flour",
+    "label": "Havremjöl",
     "aliases": []
   },
   {
@@ -1062,7 +1062,7 @@
   },
   {
     "key": "Passion Fruit",
-    "label": "Passion Fruit",
+    "label": "Passionsfrukt",
     "aliases": []
   },
   {
@@ -1112,7 +1112,7 @@
   },
   {
     "key": "Plantain",
-    "label": "Plantain",
+    "label": "Kokbanan",
     "aliases": []
   },
   {
@@ -1122,7 +1122,7 @@
   },
   {
     "key": "Poblano Pepper",
-    "label": "Poblano Pepper",
+    "label": "Poblanopeppar",
     "aliases": []
   },
   {
@@ -1142,7 +1142,7 @@
   },
   {
     "key": "Prickly Pear",
-    "label": "Prickly Pear",
+    "label": "Kaktusfikon",
     "aliases": []
   },
   {
@@ -1182,7 +1182,7 @@
   },
   {
     "key": "Rabbit",
-    "label": "Rabbit",
+    "label": "Kanin",
     "aliases": []
   },
   {
@@ -1202,7 +1202,7 @@
   },
   {
     "key": "Red Currant",
-    "label": "Red Currant",
+    "label": "Röda vinbär",
     "aliases": []
   },
   {
@@ -1237,12 +1237,12 @@
   },
   {
     "key": "Rutabaga",
-    "label": "Rutabaga",
+    "label": "Kålrot",
     "aliases": []
   },
   {
     "key": "Rye Flour",
-    "label": "Rye Flour",
+    "label": "Rågmjöl",
     "aliases": []
   },
   {
@@ -1312,7 +1312,7 @@
   },
   {
     "key": "Scallop",
-    "label": "Scallop",
+    "label": "Pilgrimsmussla",
     "aliases": []
   },
   {
@@ -1402,7 +1402,7 @@
   },
   {
     "key": "Sour Cherry",
-    "label": "Sour Cherry",
+    "label": "Surkörsbär",
     "aliases": []
   },
   {
@@ -1412,7 +1412,7 @@
   },
   {
     "key": "Spelt Flour",
-    "label": "Spelt Flour",
+    "label": "Dinkelmjöl",
     "aliases": []
   },
   {
@@ -1462,12 +1462,12 @@
   },
   {
     "key": "Sweet Corn",
-    "label": "Sweet Corn",
+    "label": "Sockermajs",
     "aliases": []
   },
   {
     "key": "Swordfish",
-    "label": "Swordfish",
+    "label": "Svärdfisk",
     "aliases": []
   },
   {
@@ -1477,7 +1477,7 @@
   },
   {
     "key": "Tapioca",
-    "label": "Tapioca",
+    "label": "Tapioka",
     "aliases": []
   },
   {
@@ -1548,7 +1548,7 @@
   },
   {
     "key": "Turnip Greens",
-    "label": "Turnip Greens",
+    "label": "Rovblast",
     "aliases": []
   },
   {
@@ -1573,7 +1573,7 @@
   },
   {
     "key": "Venison",
-    "label": "Venison",
+    "label": "Viltkött",
     "aliases": []
   },
   {
@@ -1650,22 +1650,22 @@
   },
   {
     "key": "Water Chestnut",
-    "label": "Water Chestnut",
+    "label": "Vattenkastanj",
     "aliases": []
   },
   {
     "key": "Watercress",
-    "label": "Watercress",
+    "label": "Vattenkrasse",
     "aliases": []
   },
   {
     "key": "Wheat Bran",
-    "label": "Wheat Bran",
+    "label": "Vetekli",
     "aliases": []
   },
   {
     "key": "Wheat Tortilla",
-    "label": "Wheat Tortilla",
+    "label": "Vetetortilla",
     "aliases": []
   },
   {

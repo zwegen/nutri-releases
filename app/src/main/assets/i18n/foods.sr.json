@@ -1,7 +1,7 @@
 [
   {
     "key": "Adzuki Beans",
-    "label": "Adzuki Beans",
+    "label": "Adzuki pasulj",
     "aliases": []
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "key": "Bamboo Shoots",
-    "label": "Bamboo Shoots",
+    "label": "Izdanci bambusa",
     "aliases": []
   },
   {
@@ -111,12 +111,12 @@
   },
   {
     "key": "Bison",
-    "label": "Bison",
+    "label": "Bizon",
     "aliases": []
   },
   {
     "key": "Black Currant",
-    "label": "Black Currant",
+    "label": "crna ribizla",
     "aliases": []
   },
   {
@@ -161,7 +161,7 @@
   },
   {
     "key": "Brie",
-    "label": "Brie",
+    "label": "Bri",
     "aliases": []
   },
   {
@@ -176,7 +176,7 @@
   },
   {
     "key": "Cranberry",
-    "label": "Brusnica",
+    "label": "Krupna brusnica",
     "aliases": [
       "Cranberry"
     ]
@@ -205,12 +205,12 @@
   },
   {
     "key": "Cassava",
-    "label": "Cassava",
+    "label": "kasava",
     "aliases": []
   },
   {
     "key": "Chayote",
-    "label": "Chayote",
+    "label": "Čajota",
     "aliases": []
   },
   {
@@ -225,17 +225,17 @@
   },
   {
     "key": "Corn Tortilla",
-    "label": "Corn Tortilla",
+    "label": "Kukuruzna tortilja",
     "aliases": []
   },
   {
     "key": "Cotija Cheese",
-    "label": "Cotija Cheese",
+    "label": "Sir Cotija",
     "aliases": []
   },
   {
     "key": "Crayfish",
-    "label": "Crayfish",
+    "label": "Rakovi",
     "aliases": []
   },
   {
@@ -305,7 +305,7 @@
   },
   {
     "key": "Duck",
-    "label": "Duck",
+    "label": "Patka",
     "aliases": []
   },
   {
@@ -325,7 +325,7 @@
   },
   {
     "key": "Eel",
-    "label": "Eel",
+    "label": "Jegulja",
     "aliases": []
   },
   {
@@ -350,12 +350,12 @@
   },
   {
     "key": "Goose",
-    "label": "Goose",
+    "label": "Guska",
     "aliases": []
   },
   {
     "key": "Gooseberry",
-    "label": "Gooseberry",
+    "label": "ogrozd",
     "aliases": []
   },
   {
@@ -462,7 +462,7 @@
   },
   {
     "key": "Jalapeño Pepper",
-    "label": "Jalapeño Pepper",
+    "label": "Halapenjo paprika",
     "aliases": []
   },
   {
@@ -542,7 +542,7 @@
   },
   {
     "key": "Savoy Cabbage",
-    "label": "Kelј",
+    "label": "Kelj",
     "aliases": []
   },
   {
@@ -757,7 +757,7 @@
   },
   {
     "key": "Litchi",
-    "label": "Litchi",
+    "label": "Liči",
     "aliases": []
   },
   {
@@ -772,7 +772,7 @@
   },
   {
     "key": "Lobster",
-    "label": "Lobster",
+    "label": "Jastog",
     "aliases": []
   },
   {
@@ -917,7 +917,7 @@
   },
   {
     "key": "Molasses",
-    "label": "Molasses",
+    "label": "Melasa",
     "aliases": []
   },
   {
@@ -927,7 +927,7 @@
   },
   {
     "key": "Mustard Greens",
-    "label": "Mustard Greens",
+    "label": "Listovi slačice",
     "aliases": []
   },
   {
@@ -947,7 +947,7 @@
   },
   {
     "key": "Navy Beans",
-    "label": "Navy Beans",
+    "label": "Beli pasulj",
     "aliases": []
   },
   {
@@ -977,7 +977,7 @@
   },
   {
     "key": "Oat Flour",
-    "label": "Oat Flour",
+    "label": "Ovseno brašno",
     "aliases": []
   },
   {
@@ -1032,7 +1032,7 @@
   },
   {
     "key": "Papaya",
-    "label": "Papaya",
+    "label": "Papaja",
     "aliases": []
   },
   {
@@ -1057,7 +1057,7 @@
   },
   {
     "key": "Passion Fruit",
-    "label": "Passion Fruit",
+    "label": "Marakuja",
     "aliases": []
   },
   {
@@ -1087,7 +1087,7 @@
   },
   {
     "key": "Persimmon",
-    "label": "Persimmon",
+    "label": "Kaki",
     "aliases": []
   },
   {
@@ -1117,12 +1117,12 @@
   },
   {
     "key": "Plantain",
-    "label": "Plantain",
+    "label": "Banana za kuvanje",
     "aliases": []
   },
   {
     "key": "Poblano Pepper",
-    "label": "Poblano Pepper",
+    "label": "Poblano paprika",
     "aliases": []
   },
   {
@@ -1147,7 +1147,7 @@
   },
   {
     "key": "Prickly Pear",
-    "label": "Prickly Pear",
+    "label": "Opuncija",
     "aliases": []
   },
   {
@@ -1172,7 +1172,7 @@
   },
   {
     "key": "Queso Fresco",
-    "label": "Queso Fresco",
+    "label": "Kueso Fresco",
     "aliases": []
   },
   {
@@ -1182,7 +1182,7 @@
   },
   {
     "key": "Rabbit",
-    "label": "Rabbit",
+    "label": "Zec",
     "aliases": []
   },
   {
@@ -1202,7 +1202,7 @@
   },
   {
     "key": "Red Currant",
-    "label": "Red Currant",
+    "label": "Crvena ribizla",
     "aliases": []
   },
   {
@@ -1247,7 +1247,7 @@
   },
   {
     "key": "Rye Flour",
-    "label": "Rye Flour",
+    "label": "Raženo brašno",
     "aliases": []
   },
   {
@@ -1262,7 +1262,7 @@
   },
   {
     "key": "Scallop",
-    "label": "Scallop",
+    "label": "Jakobova kapica",
     "aliases": []
   },
   {
@@ -1334,12 +1334,12 @@
   },
   {
     "key": "Sorghum",
-    "label": "Sorghum",
+    "label": "Sirak",
     "aliases": []
   },
   {
     "key": "Sour Cherry",
-    "label": "Sour Cherry",
+    "label": "Višnja",
     "aliases": []
   },
   {
@@ -1354,7 +1354,7 @@
   },
   {
     "key": "Spelt Flour",
-    "label": "Spelt Flour",
+    "label": "Speltino brašno",
     "aliases": []
   },
   {
@@ -1409,17 +1409,17 @@
   },
   {
     "key": "Sweet Corn",
-    "label": "Sweet Corn",
+    "label": "Slatki kukuruz",
     "aliases": []
   },
   {
     "key": "Swordfish",
-    "label": "Swordfish",
+    "label": "Sabljarka",
     "aliases": []
   },
   {
     "key": "Tapioca",
-    "label": "Tapioca",
+    "label": "Tapioka",
     "aliases": []
   },
   {
@@ -1461,7 +1461,7 @@
   },
   {
     "key": "Tomatillo",
-    "label": "Tomatillo",
+    "label": "Tomatiljo",
     "aliases": []
   },
   {
@@ -1476,7 +1476,7 @@
   },
   {
     "key": "Turnip Greens",
-    "label": "Turnip Greens",
+    "label": "Listovi repe",
     "aliases": []
   },
   {
@@ -1501,7 +1501,7 @@
   },
   {
     "key": "Venison",
-    "label": "Venison",
+    "label": "Srnetina",
     "aliases": []
   },
   {
@@ -1511,22 +1511,22 @@
   },
   {
     "key": "Water Chestnut",
-    "label": "Water Chestnut",
+    "label": "Vodeni kesten",
     "aliases": []
   },
   {
     "key": "Watercress",
-    "label": "Watercress",
+    "label": "Potočarka",
     "aliases": []
   },
   {
     "key": "Wheat Bran",
-    "label": "Wheat Bran",
+    "label": "Pšenične mekinje",
     "aliases": []
   },
   {
     "key": "Wheat Tortilla",
-    "label": "Wheat Tortilla",
+    "label": "Pšenična tortilja",
     "aliases": []
   },
   {
@@ -1667,37 +1667,37 @@
   },
   {
     "key": "Iceberg Lettuce",
-    "label": "Ајсберг салата",
+    "label": "Iceberg salata",
     "aliases": []
   },
   {
     "key": "Okra",
-    "label": "Бамија",
+    "label": "Bamija",
     "aliases": []
   },
   {
     "key": "Endive",
-    "label": "Ендивија",
+    "label": "Endivija",
     "aliases": []
   },
   {
     "key": "Lamb's Lettuce",
-    "label": "Мотовилац",
+    "label": "Matovilac",
     "aliases": []
   },
   {
     "key": "Radicchio",
-    "label": "Радикио",
+    "label": "Radič",
     "aliases": []
   },
   {
     "key": "Arugula",
-    "label": "Рукола",
+    "label": "Rukola",
     "aliases": []
   },
   {
     "key": "Purslane",
-    "label": "Тушт",
+    "label": "Tušt",
     "aliases": []
   }
 ]
