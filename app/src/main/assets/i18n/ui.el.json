@@ -45,6 +45,7 @@
   "infoTitle": "Πληροφορίες",
   "infoVersion": "Έκδοση",
   "donateTitle": "Δωρεά",
+  "donateAddressLabel": "Lightning:",
   "menuUpdate": "Update",
   "updateTitle": "Update",
   "updateChecking": "Checking for updates...",

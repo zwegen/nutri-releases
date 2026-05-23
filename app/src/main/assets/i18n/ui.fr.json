@@ -45,6 +45,7 @@
   "infoTitle": "Info",
   "infoVersion": "Version",
   "donateTitle": "Faire un don",
+  "donateAddressLabel": "Lightning:",
   "menuUpdate": "Update",
   "updateTitle": "Update",
   "updateChecking": "Checking for updates...",

@@ -45,6 +45,7 @@
   "infoTitle": "Infó",
   "infoVersion": "Verzió",
   "donateTitle": "Adomány",
+  "donateAddressLabel": "Lightning:",
   "menuUpdate": "Update",
   "updateTitle": "Update",
   "updateChecking": "Checking for updates...",

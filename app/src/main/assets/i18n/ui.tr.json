@@ -45,6 +45,7 @@
   "infoTitle": "Bilgi",
   "infoVersion": "Sürüm",
   "donateTitle": "Bağış yap",
+  "donateAddressLabel": "Lightning:",
   "menuUpdate": "Update",
   "updateTitle": "Update",
   "updateChecking": "Checking for updates...",

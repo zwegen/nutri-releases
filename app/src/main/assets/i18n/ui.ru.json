@@ -45,6 +45,7 @@
   "infoTitle": "Инфо",
   "infoVersion": "Версия",
   "donateTitle": "Поддержать",
+  "donateAddressLabel": "Lightning:",
   "menuUpdate": "Update",
   "updateTitle": "Update",
   "updateChecking": "Checking for updates...",
