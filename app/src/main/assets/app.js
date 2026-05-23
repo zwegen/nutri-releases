@@ -552,7 +552,7 @@ function applyTranslations() {
   shoppingTitle.textContent = t('shoppingTitle');
   languageTitle.textContent = t('menuLanguage');
   donateTitle.textContent = t('donateTitle');
-  donateAddress.innerHTML = `<span class="donate-label">${escapeHtml(t('donateAddressLabel'))}</span> <span class="donate-handle">nutriapp@coinos.io</span>`;
+  donateAddress.innerHTML = '<span class="donate-handle">Donate Lightning</span>';
   infoTitle.textContent = t('infoTitle');
   updateTitle.textContent = t('updateTitle');
   updateChoiceLabel.textContent = t('updateChoiceLabel');
@@ -1167,23 +1167,12 @@ function setupMenu() {
       window.open(url, '_blank');
     }
   });
-  donateAddress.addEventListener('click', async () => {
-    const value = 'nutriapp@coinos.io';
-    try {
-      if (navigator.clipboard?.writeText) {
-        await navigator.clipboard.writeText(value);
-      } else {
-        const input = document.createElement('input');
-        input.value = value;
-        document.body.appendChild(input);
-        input.select();
-        document.execCommand('copy');
-        input.remove();
-      }
-      donateAddress.textContent = t('donateCopied');
-      setTimeout(() => { donateAddress.innerHTML = `<span class="donate-label">${escapeHtml(t('donateAddressLabel'))}</span> <span class="donate-handle">nutriapp@coinos.io</span>`; }, 1200);
-    } catch (error) {
-      console.warn('Could not copy donate address', error);
+  donateAddress.addEventListener('click', () => {
+    const url = 'https://coinos.io/zwgn';
+    if (window.NutriUpdateBridge?.openExternalUrl) {
+      window.NutriUpdateBridge.openExternalUrl(url);
+    } else {
+      window.open(url, '_blank');
     }
   });
 
