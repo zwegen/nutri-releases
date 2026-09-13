@@ -1,6 +1,6 @@
 const STORAGE_KEYS = {
-  favorites: 'nutri.favorites',
-  favoritesChecked: 'nutri.favoritesChecked',
+  calorieEntries: 'nutri.calorieEntries',
+  legacyFavorites: 'nutri.favorites',
   language: 'nutri.language',
   updateLastCheck: 'nutri.updateLastCheck'
 };
@@ -8,6 +8,26 @@ const STORAGE_KEYS = {
 const DEFAULT_LANGUAGE = 'en';
 const UPDATE_CHECK_INTERVAL_MS = 24 * 60 * 60 * 1000;
 const SUPPORTED_LANGUAGES = ['en', 'de', 'es', 'it', 'fr', 'el', 'hu', 'nl', 'nb', 'bg', 'pl', 'pt', 'ro', 'cs', 'ru', 'tr', 'sv', 'sr'];
+const CALORIE_TRANSLATIONS = {
+  en: { menuCalories: 'Calories', calorieTitle: 'Calories', calorieEmpty: 'No foods added yet', caloriesPer100g: 'Calories per 100 g', grams: 'Grams', calorieTotal: 'Total', addToCalories: 'Add to calories', removeFromCalories: 'Remove from calories' },
+  de: { menuCalories: 'Kalorien', calorieTitle: 'Kalorien', calorieEmpty: 'Noch keine Lebensmittel hinzugefügt', caloriesPer100g: 'Kalorien pro 100 g', grams: 'Gramm', calorieTotal: 'Gesamt', addToCalories: 'Zu Kalorien hinzufügen', removeFromCalories: 'Aus Kalorien entfernen' },
+  es: { menuCalories: 'Calorías', calorieTitle: 'Calorías', calorieEmpty: 'Aún no se han añadido alimentos', caloriesPer100g: 'Calorías por 100 g', grams: 'Gramos', calorieTotal: 'Total', addToCalories: 'Añadir a calorías', removeFromCalories: 'Quitar de calorías' },
+  it: { menuCalories: 'Calorie', calorieTitle: 'Calorie', calorieEmpty: 'Nessun alimento aggiunto', caloriesPer100g: 'Calorie per 100 g', grams: 'Grammi', calorieTotal: 'Totale', addToCalories: 'Aggiungi alle calorie', removeFromCalories: 'Rimuovi dalle calorie' },
+  fr: { menuCalories: 'Calories', calorieTitle: 'Calories', calorieEmpty: 'Aucun aliment ajouté', caloriesPer100g: 'Calories pour 100 g', grams: 'Grammes', calorieTotal: 'Total', addToCalories: 'Ajouter aux calories', removeFromCalories: 'Retirer des calories' },
+  el: { menuCalories: 'Θερμίδες', calorieTitle: 'Θερμίδες', calorieEmpty: 'Δεν έχουν προστεθεί τρόφιμα', caloriesPer100g: 'Θερμίδες ανά 100 g', grams: 'Γραμμάρια', calorieTotal: 'Σύνολο', addToCalories: 'Προσθήκη στις θερμίδες', removeFromCalories: 'Αφαίρεση από τις θερμίδες' },
+  hu: { menuCalories: 'Kalóriák', calorieTitle: 'Kalóriák', calorieEmpty: 'Még nincs hozzáadott élelmiszer', caloriesPer100g: 'Kalória 100 g-onként', grams: 'Gramm', calorieTotal: 'Összesen', addToCalories: 'Hozzáadás a kalóriákhoz', removeFromCalories: 'Eltávolítás a kalóriákból' },
+  nl: { menuCalories: 'Calorieën', calorieTitle: 'Calorieën', calorieEmpty: 'Nog geen voedingsmiddelen toegevoegd', caloriesPer100g: 'Calorieën per 100 g', grams: 'Gram', calorieTotal: 'Totaal', addToCalories: 'Toevoegen aan calorieën', removeFromCalories: 'Verwijderen uit calorieën' },
+  nb: { menuCalories: 'Kalorier', calorieTitle: 'Kalorier', calorieEmpty: 'Ingen matvarer lagt til ennå', caloriesPer100g: 'Kalorier per 100 g', grams: 'Gram', calorieTotal: 'Totalt', addToCalories: 'Legg til kalorier', removeFromCalories: 'Fjern fra kalorier' },
+  bg: { menuCalories: 'Калории', calorieTitle: 'Калории', calorieEmpty: 'Все още няма добавени храни', caloriesPer100g: 'Калории на 100 g', grams: 'Грамове', calorieTotal: 'Общо', addToCalories: 'Добавяне към калории', removeFromCalories: 'Премахване от калории' },
+  pl: { menuCalories: 'Kalorie', calorieTitle: 'Kalorie', calorieEmpty: 'Nie dodano jeszcze produktów', caloriesPer100g: 'Kalorie na 100 g', grams: 'Gramy', calorieTotal: 'Suma', addToCalories: 'Dodaj do kalorii', removeFromCalories: 'Usuń z kalorii' },
+  pt: { menuCalories: 'Calorias', calorieTitle: 'Calorias', calorieEmpty: 'Ainda não foram adicionados alimentos', caloriesPer100g: 'Calorias por 100 g', grams: 'Gramas', calorieTotal: 'Total', addToCalories: 'Adicionar às calorias', removeFromCalories: 'Remover das calorias' },
+  ro: { menuCalories: 'Calorii', calorieTitle: 'Calorii', calorieEmpty: 'Încă nu au fost adăugate alimente', caloriesPer100g: 'Calorii la 100 g', grams: 'Grame', calorieTotal: 'Total', addToCalories: 'Adaugă la calorii', removeFromCalories: 'Elimină din calorii' },
+  cs: { menuCalories: 'Kalorie', calorieTitle: 'Kalorie', calorieEmpty: 'Zatím nejsou přidány žádné potraviny', caloriesPer100g: 'Kalorie na 100 g', grams: 'Gramy', calorieTotal: 'Celkem', addToCalories: 'Přidat do kalorií', removeFromCalories: 'Odebrat z kalorií' },
+  ru: { menuCalories: 'Калории', calorieTitle: 'Калории', calorieEmpty: 'Ещё не добавлены продукты', caloriesPer100g: 'Калории на 100 g', grams: 'Граммы', calorieTotal: 'Всего', addToCalories: 'Добавить в калории', removeFromCalories: 'Удалить из калорий' },
+  tr: { menuCalories: 'Kalori', calorieTitle: 'Kalori', calorieEmpty: 'Henüz yiyecek eklenmedi', caloriesPer100g: '100 g başına kalori', grams: 'Gram', calorieTotal: 'Toplam', addToCalories: 'Kaloriye ekle', removeFromCalories: 'Kaloriden çıkar' },
+  sv: { menuCalories: 'Kalorier', calorieTitle: 'Kalorier', calorieEmpty: 'Inga livsmedel har lagts till ännu', caloriesPer100g: 'Kalorier per 100 g', grams: 'Gram', calorieTotal: 'Totalt', addToCalories: 'Lägg till i kalorier', removeFromCalories: 'Ta bort från kalorier' },
+  sr: { menuCalories: 'Калорије', calorieTitle: 'Калорије', calorieEmpty: 'Још нема додатих намирница', caloriesPer100g: 'Калорије на 100 g', grams: 'Грами', calorieTotal: 'Укупно', addToCalories: 'Додај у калорије', removeFromCalories: 'Уклони из калорија' }
+};
 const HIDDEN_NUTRIENTS = new Set([
   'Vitamin A, IU',
   'Vitamin D (D2 + D3), International Units',
@@ -46,9 +66,8 @@ const state = {
   sortBy: 'name',
   descending: false,
   searchTerm: '',
-  favorites: [],
-  favoritesChecked: [],
-  shoppingVisible: false,
+  calorieEntries: [],
+  calorieVisible: false,
   language: DEFAULT_LANGUAGE,
   uiTranslations: {},
   nutrientDefinitions: [],
@@ -111,6 +130,7 @@ const shoppingModal = document.getElementById('shoppingModal');
 const shoppingBackdrop = document.getElementById('shoppingBackdrop');
 const shoppingListEl = document.getElementById('shoppingList');
 const shoppingEmpty = document.getElementById('shoppingEmpty');
+const calorieTotalEl = document.getElementById('calorieTotal');
 const closeShoppingBtn = document.getElementById('closeShoppingBtn');
 const shoppingTitle = document.getElementById('shoppingTitle');
 const donateModal = document.getElementById('donateModal');
@@ -147,7 +167,10 @@ function t(key, ...args) {
   const value = table[key];
   if (typeof value === 'function') return value(...args);
   if (key === 'statusEntries') return `${args[0]} ${table.statusEntriesLabel || 'entries'}`;
-  return value ?? key;
+  if (key === 'infoDescription') {
+    return String(value || '').replace('save favorites', 'track calories');
+  }
+  return value ?? CALORIE_TRANSLATIONS[state.language]?.[key] ?? CALORIE_TRANSLATIONS.en[key] ?? key;
 }
 
 function getFoodTranslationMap() {
@@ -289,16 +312,25 @@ function formatCategory(kind, iconKind = '') {
   return `<span class="category-icon ${kindClass} ${escapeHtml(resolvedIconKind)}" title="${escapeHtml(title)}">${icon}</span>`;
 }
 
-function loadStoredShoppingState() {
+function loadStoredCalorieState() {
   try {
-    const storedList = JSON.parse(localStorage.getItem(STORAGE_KEYS.favorites) || '[]');
-    const storedChecked = JSON.parse(localStorage.getItem(STORAGE_KEYS.favoritesChecked) || '[]');
+    const storedEntriesRaw = localStorage.getItem(STORAGE_KEYS.calorieEntries);
+    const storedEntries = storedEntriesRaw === null ? null : JSON.parse(storedEntriesRaw);
+    const legacyFavorites = JSON.parse(localStorage.getItem(STORAGE_KEYS.legacyFavorites) || '[]');
     const storedLanguage = localStorage.getItem(STORAGE_KEYS.language);
-    if (Array.isArray(storedList)) {
-      state.favorites = storedList.map(item => typeof item === 'string' ? { type: 'food', value: item } : item).filter(Boolean);
-    }
-    if (Array.isArray(storedChecked)) {
-      state.favoritesChecked = storedChecked.map(item => item && item.includes(':') ? item : makeFavoriteId('food', item)).filter(Boolean);
+    const rawEntries = Array.isArray(storedEntries) ? storedEntries : legacyFavorites;
+    if (Array.isArray(rawEntries)) {
+      const seen = new Set();
+      state.calorieEntries = rawEntries
+        .map(item => typeof item === 'string' ? { value: item, grams: 100 } : item)
+        .filter(item => item && (!item.type || item.type === 'food') && typeof item.value === 'string')
+        .filter(item => {
+          if (seen.has(item.value)) return false;
+          seen.add(item.value);
+          return true;
+        })
+        .map(item => ({ value: item.value, grams: normalizeGrams(item.grams) }));
+      if (storedEntries === null && state.calorieEntries.length) persistCalorieState();
     }
     if (storedLanguage && SUPPORTED_LANGUAGES.includes(storedLanguage)) state.language = storedLanguage;
   } catch (error) {
@@ -306,18 +338,13 @@ function loadStoredShoppingState() {
   }
 }
 
-function persistShoppingState() {
+function persistCalorieState() {
   try {
-    localStorage.setItem(STORAGE_KEYS.favorites, JSON.stringify(state.favorites));
-    localStorage.setItem(STORAGE_KEYS.favoritesChecked, JSON.stringify(state.favoritesChecked));
+    localStorage.setItem(STORAGE_KEYS.calorieEntries, JSON.stringify(state.calorieEntries));
     localStorage.setItem(STORAGE_KEYS.language, state.language);
   } catch (error) {
     console.warn('Could not save shopping state', error);
   }
-}
-
-function makeFavoriteId(type, value) {
-  return `${type}:${value}`;
 }
 
 function openExternalLink(url) {
@@ -450,87 +477,112 @@ async function maybeCheckForUpdates() {
   await checkForUpdates({ silent: true });
 }
 
-function isFavorite(type, value) {
-  return state.favorites.some(item => item && item.type === type && item.value === value);
+function normalizeGrams(value) {
+  const parsed = Number(String(value ?? '').replace(',', '.'));
+  return Number.isFinite(parsed) && parsed >= 0 ? parsed : 100;
 }
 
-function toggleFavorite(type, value) {
-  const id = makeFavoriteId(type, value);
-  if (isFavorite(type, value)) {
-    state.favorites = state.favorites.filter(item => !(item && item.type === type && item.value === value));
-    state.favoritesChecked = state.favoritesChecked.filter(item => item !== id);
+function formatCalories(value) {
+  const rounded = Math.round(Number(value || 0) * 10) / 10;
+  return `${rounded.toLocaleString(state.language)} kcal`;
+}
+
+function getCaloriesPer100g(food) {
+  return Number(food?.data?.Energy?.value || 0);
+}
+
+function isCalorieEntry(value) {
+  return state.calorieEntries.some(item => item.value === value);
+}
+
+function toggleCalorieEntry(value) {
+  if (isCalorieEntry(value)) {
+    state.calorieEntries = state.calorieEntries.filter(item => item.value !== value);
   } else {
-    state.favorites = [...state.favorites, { type, value }];
+    state.calorieEntries = [...state.calorieEntries, { value, grams: 100 }];
   }
-  persistShoppingState();
+  persistCalorieState();
 }
 
-function removeFavorite(type, value) {
-  const id = makeFavoriteId(type, value);
-  state.favorites = state.favorites.filter(item => !(item && item.type === type && item.value === value));
-  state.favoritesChecked = state.favoritesChecked.filter(item => item !== id);
-  persistShoppingState();
+function removeCalorieEntry(value) {
+  state.calorieEntries = state.calorieEntries.filter(item => item.value !== value);
+  persistCalorieState();
   render();
 }
 
-function toggleFavoriteChecked(type, value) {
-  const id = makeFavoriteId(type, value);
-  if (state.favoritesChecked.includes(id)) {
-    state.favoritesChecked = state.favoritesChecked.filter(item => item !== id);
-  } else {
-    state.favoritesChecked = [...state.favoritesChecked, id];
-  }
-  persistShoppingState();
-  render();
+function getCalorieEntryTotal(entry) {
+  const food = state.foods.find(item => item.display_name === entry.value);
+  return getCaloriesPer100g(food) * normalizeGrams(entry.grams) / 100;
 }
 
-function renderShoppingList() {
-  shoppingModal.classList.toggle('hidden-control', !state.shoppingVisible);
+function updateCalorieTotal() {
+  const total = state.calorieEntries.reduce((sum, entry) => sum + getCalorieEntryTotal(entry), 0);
+  calorieTotalEl.textContent = `${t('calorieTotal')}: ${formatCalories(total)}`;
+}
+
+function renderCalorieList() {
+  shoppingModal.classList.toggle('hidden-control', !state.calorieVisible);
   shoppingListEl.innerHTML = '';
-  shoppingEmpty.classList.toggle('hidden-control', state.favorites.length > 0);
+  shoppingEmpty.classList.toggle('hidden-control', state.calorieEntries.length > 0);
 
-  for (const item of state.favorites) {
+  for (const entry of state.calorieEntries) {
+    const food = state.foods.find(item => item.display_name === entry.value);
     const row = document.createElement('div');
-    row.className = 'shopping-item';
-    const favoriteId = makeFavoriteId(item.type, item.value);
-    if (state.favoritesChecked.includes(favoriteId)) row.classList.add('checked');
+    row.className = 'shopping-item calorie-item';
 
-    const left = document.createElement('div');
-    left.className = 'shopping-item-left';
-
-    const checkbox = document.createElement('input');
-    checkbox.type = 'checkbox';
-    checkbox.checked = state.favoritesChecked.includes(favoriteId);
-    checkbox.addEventListener('change', () => toggleFavoriteChecked(item.type, item.value));
+    const content = document.createElement('div');
+    content.className = 'calorie-item-content';
 
     const name = document.createElement('button');
     name.type = 'button';
     name.className = 'shopping-name';
-    name.textContent = item.type === 'nutrient' ? getNutrientLabel(item.value) : getFoodLabel(item.value);
+    name.textContent = getFoodLabel(entry.value);
     name.addEventListener('click', async () => {
-      state.shoppingVisible = false;
-      renderShoppingList();
-      if (item.type === 'nutrient') {
-        await openNutrient(item.value);
-      } else {
-        const food = state.foods.find(entry => entry.display_name === item.value);
-        if (food) await openFood(food);
-      }
+      state.calorieVisible = false;
+      renderCalorieList();
+      if (food) await openFood(food);
     });
+
+    const details = document.createElement('div');
+    details.className = 'calorie-details';
+
+    const gramsLabel = document.createElement('label');
+    gramsLabel.className = 'calorie-grams';
+    gramsLabel.textContent = `${t('grams')}: `;
+    const gramsInput = document.createElement('input');
+    gramsInput.type = 'number';
+    gramsInput.min = '0';
+    gramsInput.step = '1';
+    gramsInput.inputMode = 'decimal';
+    gramsInput.value = String(normalizeGrams(entry.grams));
+    gramsInput.setAttribute('aria-label', `${getFoodLabel(entry.value)} ${t('grams')}`);
+
+    const rowTotal = document.createElement('strong');
+    rowTotal.className = 'calorie-row-total';
+    const refreshEntry = () => {
+      entry.grams = normalizeGrams(gramsInput.value);
+      rowTotal.textContent = formatCalories(getCalorieEntryTotal(entry));
+      persistCalorieState();
+      updateCalorieTotal();
+    };
+    gramsInput.addEventListener('input', refreshEntry);
+    gramsInput.addEventListener('change', refreshEntry);
+    gramsLabel.appendChild(gramsInput);
 
     const removeBtn = document.createElement('button');
     removeBtn.type = 'button';
     removeBtn.className = 'shopping-remove-btn';
     removeBtn.textContent = '−';
-    removeBtn.setAttribute('aria-label', t('removeFromShoppingShort'));
-    removeBtn.addEventListener('click', () => removeFavorite(item.type, item.value));
+    removeBtn.setAttribute('aria-label', t('removeFromCalories'));
+    removeBtn.addEventListener('click', () => removeCalorieEntry(entry.value));
 
-    left.appendChild(checkbox);
-    left.appendChild(name);
-    row.appendChild(left);
-    row.appendChild(removeBtn);
+    rowTotal.textContent = formatCalories(getCalorieEntryTotal(entry));
+    details.append(gramsLabel, rowTotal);
+    content.append(name, details);
+    row.append(content, removeBtn);
     shoppingListEl.appendChild(row);
   }
+  updateCalorieTotal();
 }
 
 function closeMenu() {
@@ -543,13 +595,13 @@ function applyTranslations() {
   menuBtn.setAttribute('aria-label', t('menuOpen'));
   menuTitle.textContent = t('menuOpen');
   languageMenuItemLabel.textContent = t('menuLanguage');
-  shoppingMenuItemLabel.textContent = t('menuShopping');
+  shoppingMenuItemLabel.textContent = t('menuCalories');
   donateMenuItemLabel.textContent = t('menuDonate');
   infoMenuItemLabel.textContent = t('menuInfo');
   updateMenuItemLabel.textContent = t('menuUpdate');
   searchInput.placeholder = t('searchPlaceholder');
   clearSearchBtn.setAttribute('aria-label', t('clearSearch'));
-  shoppingTitle.textContent = t('shoppingTitle');
+  shoppingTitle.textContent = t('calorieTitle');
   languageTitle.textContent = t('menuLanguage');
   donateTitle.textContent = t('donateTitle');
   donateAddress.innerHTML = '<span class="donate-handle">Donate Lightning</span>';
@@ -560,7 +612,7 @@ function applyTranslations() {
   infoDescription.textContent = t('infoDescription');
   updateInfoVersionLine();
   infoGithubLink.textContent = t('infoGithubRepository');
-  shoppingEmpty.textContent = t('shoppingEmpty');
+  shoppingEmpty.textContent = t('calorieEmpty');
 
   applyTableHeader();
   unitText.textContent = t('unitPer100g');
@@ -796,7 +848,7 @@ function getNutrientFoodRows(nutrientKey) {
     }));
 }
 
-function createNameCell({ label, onClick, favoriteItem = null, showPlaceholder = false }) {
+function createNameCell({ label, onClick, calorieFood = null, showPlaceholder = false }) {
   const nameCell = document.createElement('td');
   const nameContent = document.createElement('div');
   nameContent.className = 'name-content';
@@ -809,16 +861,16 @@ function createNameCell({ label, onClick, favoriteItem = null, showPlaceholder =
 
   nameContent.appendChild(nameButton);
 
-  if (favoriteItem) {
+  if (calorieFood) {
     const addButton = document.createElement('button');
     addButton.type = 'button';
     addButton.className = 'add-button';
-    addButton.textContent = isFavorite(favoriteItem.type, favoriteItem.value) ? '−' : '+';
-    addButton.setAttribute('aria-label', isFavorite(favoriteItem.type, favoriteItem.value) ? t('removeFromShopping') : t('addToShopping'));
+    addButton.textContent = isCalorieEntry(calorieFood.display_name) ? '−' : '+';
+    addButton.setAttribute('aria-label', isCalorieEntry(calorieFood.display_name) ? t('removeFromCalories') : t('addToCalories'));
     addButton.addEventListener('click', async (event) => {
       event.stopPropagation();
-      toggleFavorite(favoriteItem.type, favoriteItem.value);
-      state.shoppingVisible = true;
+      toggleCalorieEntry(calorieFood.display_name);
+      state.calorieVisible = true;
       await render();
     });
     nameContent.appendChild(addButton);
@@ -883,9 +935,9 @@ function resolveSearchMatches(term) {
   return { foods, nutrients };
 }
 
-function appendStandardRow({ label, onClick, kind, iconKind = '', value, unit, favoriteItem = null, showPlaceholder = false }) {
+function appendStandardRow({ label, onClick, kind, iconKind = '', value, unit, calorieFood = null, showPlaceholder = false }) {
   const tr = document.createElement('tr');
-  tr.appendChild(createNameCell({ label, onClick, favoriteItem, showPlaceholder }));
+  tr.appendChild(createNameCell({ label, onClick, calorieFood, showPlaceholder }));
   tr.appendChild(createCategoryCell(kind, iconKind));
   tr.appendChild(createValueCell(value));
   tr.appendChild(createUnitCell(unit));
@@ -896,7 +948,7 @@ async function render() {
   document.body.classList.toggle('detail-view', isDetailView());
   applyTableHeader();
   resultsBody.innerHTML = '';
-  renderShoppingList();
+  renderCalorieList();
   unitText.textContent = t('unitPer100g');
 
   if (state.viewMode === 'food-detail' && state.selectedFood) {
@@ -923,7 +975,6 @@ async function render() {
         iconKind: state.selectedFood.iconKind,
         value: formatValue(display.value, display.unit),
         unit: display.unit || '',
-        favoriteItem: { type: 'nutrient', value: row.name }
       });
     }
 
@@ -957,7 +1008,7 @@ async function render() {
         iconKind: row.food.iconKind,
         value: formatValue(display.value, display.unit),
         unit: display.unit || '',
-        favoriteItem: { type: 'food', value: row.food.display_name }
+        calorieFood: row.food
       });
     }
 
@@ -1006,7 +1057,7 @@ async function render() {
         iconKind: row.iconKind,
         value,
         unit,
-        favoriteItem: { type: 'food', value: row.display_name }
+        calorieFood: row
       });
     }
   }
@@ -1086,7 +1137,7 @@ function setupMenu() {
 
   const selectLanguage = async (language) => {
     state.language = language;
-    persistShoppingState();
+    persistCalorieState();
     await loadI18n();
     applyTranslations();
     if (state.selectedFood) {
@@ -1123,8 +1174,8 @@ function setupMenu() {
   languageBackdrop.addEventListener('click', () => languageModal.classList.add('hidden-control'));
 
   shoppingMenuItem.addEventListener('click', () => {
-    state.shoppingVisible = true;
-    renderShoppingList();
+    state.calorieVisible = true;
+    renderCalorieList();
     closeMenu();
   });
 
@@ -1177,19 +1228,19 @@ function setupMenu() {
   });
 
   closeShoppingBtn.addEventListener('click', () => {
-    state.shoppingVisible = false;
-    renderShoppingList();
+    state.calorieVisible = false;
+    renderCalorieList();
   });
 
   shoppingBackdrop.addEventListener('click', () => {
-    state.shoppingVisible = false;
-    renderShoppingList();
+    state.calorieVisible = false;
+    renderCalorieList();
   });
 
 }
 
 async function init() {
-  loadStoredShoppingState();
+  loadStoredCalorieState();
   await loadI18n();
   await loadFoodsIndex();
   applyTranslations();

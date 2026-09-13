@@ -581,6 +581,56 @@ input[type="text"]:focus,
   background: #f7fbf4;
 }
 
+.calorie-item {
+  align-items: flex-start;
+}
+
+.calorie-item-content {
+  min-width: 0;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.calorie-details {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 12px;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.calorie-grams {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.calorie-grams input {
+  width: 76px;
+  padding: 4px 6px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: var(--card);
+  color: var(--text);
+  font: inherit;
+}
+
+.calorie-row-total {
+  color: var(--text);
+}
+
+.calorie-total {
+  margin-top: 14px;
+  padding-top: 12px;
+  border-top: 1px solid var(--line);
+  color: var(--accent-dark);
+  font-weight: 700;
+  text-align: right;
+}
+
 .shopping-item-left {
   display: flex;
   align-items: center;
