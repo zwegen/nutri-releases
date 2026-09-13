@@ -88,6 +88,9 @@ const unitText = document.getElementById('unitText');
 const thName = document.getElementById('thName');
 const thCategory = document.getElementById('thCategory');
 const thValue = document.getElementById('thValue');
+const detailTitleRow = document.getElementById('detailTitleRow');
+const detailTitleText = document.getElementById('detailTitleText');
+const detailCalorieButton = document.getElementById('detailCalorieButton');
 const menuBtn = document.getElementById('menuBtn');
 const menuModal = document.getElementById('menuModal');
 const menuBackdrop = document.getElementById('menuBackdrop');
@@ -679,6 +682,26 @@ function applyTableHeader() {
   thValue.colSpan = 2;
 }
 
+function renderDetailTitle() {
+  const food = state.viewMode === 'food-detail' ? state.selectedFood : null;
+  const nutrient = state.viewMode === 'nutrient-detail' ? state.selectedNutrient : null;
+  const label = food
+    ? getFoodLabel(food.display_name)
+    : nutrient
+      ? getNutrientLabel(nutrient)
+      : '';
+
+  detailTitleRow.classList.toggle('hidden-control', !label);
+  detailTitleText.textContent = label;
+  detailCalorieButton.classList.toggle('hidden-control', !food);
+
+  if (food) {
+    const added = isCalorieEntry(food.display_name);
+    detailCalorieButton.textContent = added ? '−' : '+';
+    detailCalorieButton.setAttribute('aria-label', added ? t('removeFromCalories') : t('addToCalories'));
+  }
+}
+
 function getSnapshot() {
   return {
     selectedFood: state.selectedFood?.display_name || null,
@@ -947,6 +970,7 @@ function appendStandardRow({ label, onClick, kind, iconKind = '', value, unit, c
 async function render() {
   document.body.classList.toggle('detail-view', isDetailView());
   applyTableHeader();
+  renderDetailTitle();
   resultsBody.innerHTML = '';
   renderCalorieList();
   unitText.textContent = t('unitPer100g');
@@ -1112,6 +1136,12 @@ function setupControls() {
   thName.addEventListener('click', () => toggleSort('name'));
   thCategory.addEventListener('click', () => toggleSort('category'));
   thValue.addEventListener('click', () => toggleSort('value'));
+  detailCalorieButton.addEventListener('click', async () => {
+    if (!state.selectedFood) return;
+    toggleCalorieEntry(state.selectedFood.display_name);
+    state.calorieVisible = true;
+    await render();
+  });
 
   window.addEventListener('popstate', async (event) => {
     const snapshot = event.state;
