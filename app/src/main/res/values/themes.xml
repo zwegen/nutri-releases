@@ -3,6 +3,11 @@
         <item name="colorPrimary">#222222</item>
         <item name="colorPrimaryVariant">#111111</item>
         <item name="colorOnPrimary">#FFFFFF</item>
-        <item name="android:statusBarColor">#000000</item>
+        <item name="android:statusBarColor">#F9D8AB</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">#F9D8AB</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:enforceNavigationBarContrast">false</item>
+        <item name="android:windowBackground">#F9D8AB</item>
     </style>
 </resources>

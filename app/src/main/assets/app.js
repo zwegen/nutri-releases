@@ -88,10 +88,8 @@ const unitText = document.getElementById('unitText');
 const thName = document.getElementById('thName');
 const thCategory = document.getElementById('thCategory');
 const thValue = document.getElementById('thValue');
-const detailTitleRow = document.getElementById('detailTitleRow');
-const detailTitleText = document.getElementById('detailTitleText');
-const detailCalorieButton = document.getElementById('detailCalorieButton');
 const menuBtn = document.getElementById('menuBtn');
+const calorieQuickBtn = document.getElementById('calorieQuickBtn');
 const menuModal = document.getElementById('menuModal');
 const menuBackdrop = document.getElementById('menuBackdrop');
 const closeMenuBtn = document.getElementById('closeMenuBtn');
@@ -133,7 +131,8 @@ const shoppingModal = document.getElementById('shoppingModal');
 const shoppingBackdrop = document.getElementById('shoppingBackdrop');
 const shoppingListEl = document.getElementById('shoppingList');
 const shoppingEmpty = document.getElementById('shoppingEmpty');
-const calorieTotalEl = document.getElementById('calorieTotal');
+const calorieTotalLabelEl = document.getElementById('calorieTotalLabel');
+const calorieTotalValueEl = document.getElementById('calorieTotalValue');
 const closeShoppingBtn = document.getElementById('closeShoppingBtn');
 const shoppingTitle = document.getElementById('shoppingTitle');
 const donateModal = document.getElementById('donateModal');
@@ -275,7 +274,7 @@ function formatValue(value, unit = '') {
 
 const ICON_KIND_EMOJIS = {
   plant: '🌿',
-  fruit: '🍉',
+  fruit: '🍏',
   berry: '🫐',
   vegetable: '🥦',
   mushroom: '🍄‍🟫',
@@ -299,6 +298,14 @@ const ICON_KIND_EMOJIS = {
   chocolate: '🍫'
 };
 
+const NUTRIENT_ATOM_ICON = `
+  <svg class="nutrient-atom-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+    <ellipse cx="12" cy="12" rx="9" ry="3.75"></ellipse>
+    <ellipse cx="12" cy="12" rx="9" ry="3.75" transform="rotate(60 12 12)"></ellipse>
+    <ellipse cx="12" cy="12" rx="9" ry="3.75" transform="rotate(-60 12 12)"></ellipse>
+    <circle cx="12" cy="12" r="1.5"></circle>
+  </svg>`;
+
 function getKindSortRank(kind) {
   return kind === 'animal' ? 1 : 0;
 }
@@ -313,6 +320,10 @@ function formatCategory(kind, iconKind = '') {
   const title = kind === 'animal' ? t('animalTitle') : t('plantTitle');
   const kindClass = kind === 'animal' ? 'animal' : 'plant';
   return `<span class="category-icon ${kindClass} ${escapeHtml(resolvedIconKind)}" title="${escapeHtml(title)}">${icon}</span>`;
+}
+
+function formatNutrientCategory() {
+  return `<span class="category-icon nutrient" aria-label="Nutrient">${NUTRIENT_ATOM_ICON}</span>`;
 }
 
 function loadStoredCalorieState() {
@@ -520,7 +531,8 @@ function getCalorieEntryTotal(entry) {
 
 function updateCalorieTotal() {
   const total = state.calorieEntries.reduce((sum, entry) => sum + getCalorieEntryTotal(entry), 0);
-  calorieTotalEl.textContent = `${t('calorieTotal')}: ${formatCalories(total)}`;
+  calorieTotalLabelEl.textContent = t('calorieTotal');
+  calorieTotalValueEl.textContent = formatCalories(total);
 }
 
 function renderCalorieList() {
@@ -551,7 +563,6 @@ function renderCalorieList() {
 
     const gramsLabel = document.createElement('label');
     gramsLabel.className = 'calorie-grams';
-    gramsLabel.textContent = `${t('grams')}: `;
     const gramsInput = document.createElement('input');
     gramsInput.type = 'number';
     gramsInput.min = '0';
@@ -559,6 +570,9 @@ function renderCalorieList() {
     gramsInput.inputMode = 'decimal';
     gramsInput.value = String(normalizeGrams(entry.grams));
     gramsInput.setAttribute('aria-label', `${getFoodLabel(entry.value)} ${t('grams')}`);
+    const gramsUnit = document.createElement('span');
+    gramsUnit.className = 'calorie-grams-unit';
+    gramsUnit.textContent = 'g';
 
     const rowTotal = document.createElement('strong');
     rowTotal.className = 'calorie-row-total';
@@ -570,7 +584,7 @@ function renderCalorieList() {
     };
     gramsInput.addEventListener('input', refreshEntry);
     gramsInput.addEventListener('change', refreshEntry);
-    gramsLabel.appendChild(gramsInput);
+    gramsLabel.append(gramsInput, gramsUnit);
 
     const removeBtn = document.createElement('button');
     removeBtn.type = 'button';
@@ -654,52 +668,47 @@ function isDetailView() {
 }
 
 function applyTableHeader() {
+  const food = state.viewMode === 'food-detail' ? state.selectedFood : null;
+  const nutrient = state.viewMode === 'nutrient-detail' ? state.selectedNutrient : null;
+
   thName.replaceChildren();
 
   const nameHeaderContent = document.createElement('div');
   nameHeaderContent.className = 'name-header-content';
 
   const nameHeaderLabel = document.createElement('span');
-  nameHeaderLabel.textContent = state.viewMode === 'food-detail' ? t('tableNutrient') : t('tableName');
+  nameHeaderLabel.textContent = food
+    ? getFoodLabel(food.display_name)
+    : nutrient
+      ? getNutrientLabel(nutrient)
+      : t('tableName');
   nameHeaderContent.appendChild(nameHeaderLabel);
 
-  if (state.viewMode === 'foods') {
-    const favoriteIcon = document.createElement('img');
-    favoriteIcon.className = 'name-header-favorite-icon';
-    favoriteIcon.src = 'img/menu_favorites.svg';
-    favoriteIcon.alt = '';
-    favoriteIcon.setAttribute('aria-hidden', 'true');
-    nameHeaderContent.appendChild(favoriteIcon);
-  }
-
   thName.appendChild(nameHeaderContent);
-  if (state.sortBy === 'category') {
+
+  thCategory.replaceChildren();
+  thCategory.classList.toggle('sortable', !food);
+  if (food) {
+    const calorieButton = document.createElement('button');
+    const added = isCalorieEntry(food.display_name);
+    calorieButton.type = 'button';
+    calorieButton.className = 'header-calorie-button';
+    calorieButton.textContent = added ? '−' : '+';
+    calorieButton.setAttribute('aria-label', added ? t('removeFromCalories') : t('addToCalories'));
+    calorieButton.addEventListener('click', async event => {
+      event.stopPropagation();
+      toggleCalorieEntry(food.display_name);
+      state.calorieVisible = true;
+      await render();
+    });
+    thCategory.appendChild(calorieButton);
+  } else if (state.sortBy === 'category') {
     thCategory.textContent = state.descending ? '🐄' : '🌿';
   } else {
     thCategory.textContent = '🏷️';
   }
   thValue.textContent = t('tableValue');
   thValue.colSpan = 2;
-}
-
-function renderDetailTitle() {
-  const food = state.viewMode === 'food-detail' ? state.selectedFood : null;
-  const nutrient = state.viewMode === 'nutrient-detail' ? state.selectedNutrient : null;
-  const label = food
-    ? getFoodLabel(food.display_name)
-    : nutrient
-      ? getNutrientLabel(nutrient)
-      : '';
-
-  detailTitleRow.classList.toggle('hidden-control', !label);
-  detailTitleText.textContent = label;
-  detailCalorieButton.classList.toggle('hidden-control', !food);
-
-  if (food) {
-    const added = isCalorieEntry(food.display_name);
-    detailCalorieButton.textContent = added ? '−' : '+';
-    detailCalorieButton.setAttribute('aria-label', added ? t('removeFromCalories') : t('addToCalories'));
-  }
 }
 
 function getSnapshot() {
@@ -823,6 +832,7 @@ async function openFood(food) {
   searchInput.value = state.searchTerm;
   applyTranslations();
   await render();
+  window.scrollTo(0, 0);
   pushHistory();
 }
 
@@ -834,6 +844,7 @@ async function openNutrient(nutrientKey) {
   searchInput.value = state.searchTerm;
   applyTranslations();
   await render();
+  window.scrollTo(0, 0);
   pushHistory();
 }
 
@@ -912,9 +923,11 @@ function createNameCell({ label, onClick, calorieFood = null, showPlaceholder = 
   return nameCell;
 }
 
-function createCategoryCell(kind, iconKind = '') {
+function createCategoryCell(kind, iconKind = '', isNutrient = false) {
   const categoryCell = document.createElement('td');
-  categoryCell.innerHTML = formatCategory(kind, iconKind);
+  categoryCell.innerHTML = isNutrient
+    ? formatNutrientCategory()
+    : formatCategory(kind, iconKind);
   return categoryCell;
 }
 
@@ -958,10 +971,10 @@ function resolveSearchMatches(term) {
   return { foods, nutrients };
 }
 
-function appendStandardRow({ label, onClick, kind, iconKind = '', value, unit, calorieFood = null, showPlaceholder = false }) {
+function appendStandardRow({ label, onClick, kind, iconKind = '', value, unit, calorieFood = null, showPlaceholder = false, isNutrient = false }) {
   const tr = document.createElement('tr');
   tr.appendChild(createNameCell({ label, onClick, calorieFood, showPlaceholder }));
-  tr.appendChild(createCategoryCell(kind, iconKind));
+  tr.appendChild(createCategoryCell(kind, iconKind, isNutrient));
   tr.appendChild(createValueCell(value));
   tr.appendChild(createUnitCell(unit));
   resultsBody.appendChild(tr);
@@ -970,7 +983,6 @@ function appendStandardRow({ label, onClick, kind, iconKind = '', value, unit, c
 async function render() {
   document.body.classList.toggle('detail-view', isDetailView());
   applyTableHeader();
-  renderDetailTitle();
   resultsBody.innerHTML = '';
   renderCalorieList();
   unitText.textContent = t('unitPer100g');
@@ -997,6 +1009,7 @@ async function render() {
         onClick: () => openNutrient(row.name),
         kind: state.selectedFood.kind,
         iconKind: state.selectedFood.iconKind,
+        isNutrient: true,
         value: formatValue(display.value, display.unit),
         unit: display.unit || '',
       });
@@ -1134,14 +1147,10 @@ function setupControls() {
   };
 
   thName.addEventListener('click', () => toggleSort('name'));
-  thCategory.addEventListener('click', () => toggleSort('category'));
-  thValue.addEventListener('click', () => toggleSort('value'));
-  detailCalorieButton.addEventListener('click', async () => {
-    if (!state.selectedFood) return;
-    toggleCalorieEntry(state.selectedFood.display_name);
-    state.calorieVisible = true;
-    await render();
+  thCategory.addEventListener('click', () => {
+    if (state.viewMode !== 'food-detail') toggleSort('category');
   });
+  thValue.addEventListener('click', () => toggleSort('value'));
 
   window.addEventListener('popstate', async (event) => {
     const snapshot = event.state;
@@ -1207,6 +1216,11 @@ function setupMenu() {
     state.calorieVisible = true;
     renderCalorieList();
     closeMenu();
+  });
+
+  calorieQuickBtn.addEventListener('click', () => {
+    state.calorieVisible = true;
+    renderCalorieList();
   });
 
   donateMenuItem.addEventListener('click', () => {

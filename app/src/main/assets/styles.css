@@ -30,7 +30,12 @@ body {
 .app {
   max-width: 980px;
   margin: 0 auto;
-  padding: 12px;
+  height: 100dvh;
+  padding: 0 12px 12px;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  overflow: hidden;
 }
 
 .topbar {
@@ -39,7 +44,16 @@ body {
   align-items: center;
   justify-content: space-between;
   gap: 12px;
-  margin: 4px 0 12px;
+  margin: 0 0 12px;
+}
+
+.sticky-header {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  flex: 0 0 auto;
+  background: var(--bg);
+  padding: 3px 0;
 }
 
 .brand-wrap {
@@ -75,6 +89,22 @@ body {
   justify-content: center;
   cursor: pointer;
   box-shadow: 0 10px 24px rgba(29, 51, 31, 0.10);
+}
+
+.topbar-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.calorie-quick-btn svg {
+  width: 22px;
+  height: 22px;
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 1.9;
 }
 
 .burger-lines {
@@ -148,10 +178,9 @@ body {
 }
 
 .sticky-controls {
-  position: sticky;
-  top: 0;
-  z-index: 10;
-  box-shadow: 0 6px 14px rgba(29, 51, 31, 0.08);
+  position: relative;
+  z-index: 1;
+  box-shadow: none;
 }
 
 .grid {
@@ -233,6 +262,7 @@ input[type="text"] {
 select:focus,
 input[type="text"]:focus,
 .burger-menu-btn:focus,
+.calorie-quick-btn:focus,
 .menu-item:focus,
 .shopping-close-btn:focus,
 .shopping-remove-btn:focus {
@@ -359,7 +389,6 @@ input[type="text"]:focus,
   transform-origin: center;
 }
 
-.shopping,
 .search-suggestions,
 .table-wrap {
   scrollbar-gutter: stable;
@@ -582,7 +611,11 @@ input[type="text"]:focus,
 }
 
 .calorie-item {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 28px;
+  gap: 12px;
   align-items: flex-start;
+  background: #fff;
 }
 
 .calorie-item-content {
@@ -594,10 +627,11 @@ input[type="text"]:focus,
 }
 
 .calorie-details {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
   align-items: center;
-  gap: 8px 12px;
+  column-gap: 12px;
+  row-gap: 8px;
   color: var(--muted);
   font-size: 0.9rem;
 }
@@ -616,19 +650,36 @@ input[type="text"]:focus,
   background: var(--card);
   color: var(--text);
   font: inherit;
+  text-align: center;
+}
+
+.calorie-grams-unit {
+  color: var(--muted);
+  font-weight: 600;
 }
 
 .calorie-row-total {
   color: var(--text);
+  justify-self: end;
+  text-align: right;
+  white-space: nowrap;
 }
 
 .calorie-total {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  align-items: center;
   margin-top: 14px;
-  padding-top: 12px;
+  padding: 12px 53px 0 12px;
   border-top: 1px solid var(--line);
   color: var(--accent-dark);
   font-weight: 700;
+}
+
+.calorie-total-value {
+  justify-self: end;
   text-align: right;
+  white-space: nowrap;
 }
 
 .shopping-item-left {
@@ -668,40 +719,36 @@ input[type="text"]:focus,
   cursor: pointer;
 }
 
+.calorie-item .shopping-remove-btn {
+  width: 28px;
+  padding: 0;
+  align-self: start;
+}
+
 .table-wrap {
   overflow: auto;
 }
 
-.detail-title-row {
-  display: grid;
-  grid-template-columns: 64% 10% 16% 10%;
-  align-items: center;
-  padding: 9px 8px;
-  border-radius: 10px;
-  background: var(--accent-dark);
-  color: var(--card);
-  font-weight: 600;
+.results-viewport {
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow: auto;
+  border-radius: 14px;
 }
 
-.detail-title-row > span {
-  grid-column: 1 / 3;
-}
-
-.detail-calorie-button {
-  grid-column: 3 / 5;
-  justify-self: center;
+.header-calorie-button {
   border: 0;
   background: transparent;
-  color: inherit;
+  color: var(--accent-dark);
   font: inherit;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   line-height: 1;
   cursor: pointer;
-  padding: 0 4px;
+  padding: 2px 4px;
 }
 
-.detail-calorie-button:focus-visible {
-  outline: 2px solid var(--card);
+.header-calorie-button:focus-visible {
+  outline: 2px solid var(--focus);
   outline-offset: 2px;
   border-radius: 6px;
 }
@@ -780,14 +827,6 @@ th:nth-child(3) {
   gap: 8px;
 }
 
-.name-header-favorite-icon {
-  width: 1.25em;
-  height: 1.25em;
-  padding: 0 3px;
-  flex: 0 0 auto;
-  object-fit: contain;
-}
-
 .name-button {
   all: unset;
   cursor: pointer;
@@ -825,7 +864,7 @@ tr:hover td {
   display: flex;
   justify-content: space-between;
   gap: 12px;
-  padding: 0 12px 12px;
+  padding: 0 21px 12px;
   color: var(--accent-dark);
   font-size: 0.95rem;
 }
@@ -865,6 +904,24 @@ th:nth-child(2) {
 
 .category-icon.animal {
   color: #8a5331;
+}
+
+.category-icon.nutrient {
+  color: #151515;
+}
+
+.nutrient-atom-icon {
+  width: 1.05rem;
+  height: 1.05rem;
+  overflow: visible;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.65;
+}
+
+.nutrient-atom-icon circle {
+  fill: currentColor;
+  stroke: none;
 }
 
 .language-card {
