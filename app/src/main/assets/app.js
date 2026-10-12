@@ -298,6 +298,58 @@ const ICON_KIND_EMOJIS = {
   chocolate: '🍫'
 };
 
+const FRUIT_ICON_SLUGS = Object.freeze({
+  "Apple": "apple",
+  "Apricot": "apricot",
+  "Avocado": "avocado",
+  "Banana": "banana",
+  "Cherry": "cherry",
+  "Date": "date",
+  "Fig": "fig",
+  "Grape": "grape",
+  "Grapefruit": "grapefruit",
+  "Guava": "guava",
+  "Kiwi": "kiwi",
+  "Lemon": "lemon",
+  "Lime": "lime",
+  "Litchi": "litchi",
+  "Mandarin": "mandarin",
+  "Mango": "mango",
+  "Melon": "melon",
+  "Mirabelle Plum": "mirabelle_plum",
+  "Nectarine": "nectarine",
+  "Orange": "orange",
+  "Papaya": "papaya",
+  "Passion Fruit": "passion_fruit",
+  "Peach": "peach",
+  "Pear": "pear",
+  "Persimmon": "persimmon",
+  "Pineapple": "pineapple",
+  "Plantain": "plantain",
+  "Plum": "plum",
+  "Pomegranate": "pomegranate",
+  "Prickly Pear": "prickly_pear",
+  "Quince": "quince",
+  "Raisin": "raisin",
+  "Sour Cherry": "sour_cherry",
+  "Watermelon": "watermelon"
+});
+
+const BERRY_ICON_SLUGS = Object.freeze({
+  "Black Currant": "black_currant",
+  "Blackberry": "blackberry",
+  "Blueberry": "blueberry",
+  "Cranberry": "cranberry",
+  "Currant": "currant",
+  "Elderberry": "elderberry",
+  "Gooseberry": "gooseberry",
+  "Lingonberry": "lingonberry",
+  "Raspberry": "raspberry",
+  "Red Currant": "red_currant",
+  "Sea Buckthorn": "sea_buckthorn",
+  "Strawberry": "strawberry"
+});
+
 const NUTRIENT_ATOM_ICON = `
   <svg class="nutrient-atom-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
     <ellipse cx="12" cy="12" rx="9" ry="3.75"></ellipse>
@@ -314,9 +366,384 @@ function compareFoodKind(aKind, bKind) {
   return getKindSortRank(aKind) - getKindSortRank(bKind);
 }
 
-function formatCategory(kind, iconKind = '') {
+const LEGUME_ICON_SLUGS = Object.freeze({
+  "Adzuki Beans": "adzuki_beans",
+  "Black Bean": "black_bean",
+  "Chickpea": "chickpea",
+  "Edamame": "edamame",
+  "Fava Bean": "fava_bean",
+  "Green Pea": "green_pea",
+  "Kidney Bean": "kidney_bean",
+  "Lentil": "lentil",
+  "Lentil Sprouts": "lentil_sprouts",
+  "Lima Beans": "lima_beans",
+  "Lupin Bean": "lupin_bean",
+  "Miso": "miso",
+  "Mung Bean": "mung_bean",
+  "Navy Beans": "navy_beans",
+  "Pinto Bean": "pinto_bean",
+  "Tempeh": "tempeh",
+  "Tofu": "tofu",
+  "White Bean": "white_bean",
+  "Hummus": "hummus"
+});
+
+const VINEGAR_ICON_SLUGS = Object.freeze({
+  "Apple Cider Vinegar": "apple_cider_vinegar",
+  "Balsamic Vinegar": "balsamic_vinegar",
+  "Vinegar": "vinegar"
+});
+
+const NUT_ICON_SLUGS = Object.freeze({
+  "Almond": "almond",
+  "Almond Butter": "almond_butter",
+  "Brazil Nut": "brazil_nut",
+  "Cashew": "cashew",
+  "Hazelnut": "hazelnut",
+  "Hazelnut Butter": "hazelnut_butter",
+  "Macadamia": "macadamia",
+  "Peanut": "peanut",
+  "Peanut Butter": "peanut_butter",
+  "Pecan": "pecan",
+  "Pine Nut": "pine_nut",
+  "Pistachio": "pistachio",
+  "Walnut": "walnut",
+  "Coconut": "coconut"
+});
+
+const VEGETABLE_ICON_SLUGS = Object.freeze({
+  "Acorn Squash": "acorn_squash",
+  "Artichoke": "artichoke",
+  "Arugula": "arugula",
+  "Asparagus": "asparagus",
+  "Bamboo Shoots": "bamboo_shoots",
+  "Beetroot": "beetroot",
+  "Black Salsify": "black_salsify",
+  "Broccoli": "broccoli",
+  "Brussels Sprouts": "brussels_sprouts",
+  "Butternut Squash": "butternut_squash",
+  "Carrot": "carrot",
+  "Cassava": "cassava",
+  "Cauliflower": "cauliflower",
+  "Celery Root": "celery_root",
+  "Celery Stalk": "celery_stalk",
+  "Chayote": "chayote",
+  "Chili Pepper": "chili_pepper",
+  "Chinese Cabbage": "chinese_cabbage",
+  "Collard Greens": "collard_greens",
+  "Corn": "corn",
+  "Cucumber": "cucumber",
+  "Eggplant": "eggplant",
+  "Endive": "endive",
+  "Fennel": "fennel",
+  "Garlic": "garlic",
+  "Grape Leaves": "grape_leaves",
+  "Green Bean": "green_bean",
+  "Green Bell Pepper": "green_bell_pepper",
+  "Horseradish": "horseradish",
+  "Iceberg Lettuce": "iceberg_lettuce",
+  "Jalapeño Pepper": "jalapeno_pepper",
+  "Jerusalem Artichoke": "jerusalem_artichoke",
+  "Jicama": "jicama",
+  "Kale": "kale",
+  "Kohlrabi": "kohlrabi",
+  "Lamb's Lettuce": "lambs_lettuce",
+  "Leek": "leek",
+  "Mustard Greens": "mustard_greens",
+  "Nopal": "nopal",
+  "Okra": "okra",
+  "Onion": "onion",
+  "Pak Choi": "pak_choi",
+  "Parsnip": "parsnip",
+  "Poblano Pepper": "poblano_pepper",
+  "Potato": "potato",
+  "Pumpkin": "pumpkin",
+  "Purslane": "purslane",
+  "Radicchio": "radicchio",
+  "Radish": "radish",
+  "Red Bell Pepper": "red_bell_pepper",
+  "Red Cabbage": "red_cabbage",
+  "Rhubarb": "rhubarb",
+  "Romanesco": "romanesco",
+  "Rutabaga": "rutabaga",
+  "Sauerkraut": "sauerkraut",
+  "Savoy Cabbage": "savoy_cabbage",
+  "Shallot": "shallot",
+  "Spinach": "spinach",
+  "Spring Onion": "spring_onion",
+  "Sweet Corn": "sweet_corn",
+  "Sweet Potato": "sweet_potato",
+  "Swiss Chard": "swiss_chard",
+  "Tomatillo": "tomatillo",
+  "Tomato": "tomato",
+  "Turnip": "turnip",
+  "Turnip Greens": "turnip_greens",
+  "Water Chestnut": "water_chestnut",
+  "Watercress": "watercress",
+  "White Cabbage": "white_cabbage",
+  "Yellow Bell Pepper": "yellow_bell_pepper",
+  "Zucchini": "zucchini"
+});
+
+const GRAIN_ICON_SLUGS = Object.freeze({
+  "Amaranth": "amaranth",
+  "Baguette": "baguette",
+  "Barley": "barley",
+  "Brown Rice": "brown_rice",
+  "Buckwheat": "buckwheat",
+  "Bulgur": "bulgur",
+  "Corn Grits": "corn_grits",
+  "Corn Tortilla": "corn_tortilla",
+  "Couscous": "couscous",
+  "Gnocchi": "gnocchi",
+  "Masa Harina": "masa_harina",
+  "Millet": "millet",
+  "Oat Flakes": "oat_flakes",
+  "Oat Flour": "oat_flour",
+  "Oats": "oats",
+  "Pasta": "pasta",
+  "Polenta": "polenta",
+  "Quinoa": "quinoa",
+  "Rye": "rye",
+  "Rye Flakes": "rye_flakes",
+  "Rye Flour": "rye_flour",
+  "Seitan": "seitan",
+  "Semolina": "semolina",
+  "Sorghum": "sorghum",
+  "Spelt": "spelt",
+  "Spelt Flakes": "spelt_flakes",
+  "Spelt Flour": "spelt_flour",
+  "Tapioca": "tapioca",
+  "Teff": "teff",
+  "Wheat": "wheat",
+  "Wheat Bran": "wheat_bran",
+  "Wheat Tortilla": "wheat_tortilla",
+  "White Bread": "white_bread",
+  "White Bread Roll": "white_bread_roll",
+  "White Flour": "white_flour",
+  "White Rice": "white_rice",
+  "Whole Wheat Bread": "whole_wheat_bread",
+  "Wild Rice": "wild_rice",
+  "Rice Noodles": "rice_noodles",
+  "Pita Bread": "pita_bread"
+});
+
+const FISH_ICON_SLUGS = Object.freeze({
+  "Anchovy": "anchovy",
+  "Carp": "carp",
+  "Catfish": "catfish",
+  "Cod": "cod",
+  "Crab": "crab",
+  "Crayfish": "crayfish",
+  "Eel": "eel",
+  "Haddock": "haddock",
+  "Halibut": "halibut",
+  "Herring": "herring",
+  "Lobster": "lobster",
+  "Mackerel": "mackerel",
+  "Mussel": "mussel",
+  "Octopus": "octopus",
+  "Pike": "pike",
+  "Pollock": "pollock",
+  "Salmon": "salmon",
+  "Sardine": "sardine",
+  "Scallop": "scallop",
+  "Sea Bass": "sea_bass",
+  "Sea Bream": "sea_bream",
+  "Shrimp": "shrimp",
+  "Squid": "squid",
+  "Swordfish": "swordfish",
+  "Tilapia": "tilapia",
+  "Trout": "trout",
+  "Tuna": "tuna"
+});
+
+const MEAT_ICON_SLUGS = Object.freeze({
+  "Bacon": "bacon",
+  "Beef": "beef",
+  "Beef Lean": "beef_lean",
+  "Bison": "bison",
+  "Chorizo": "chorizo",
+  "Ground Beef": "ground_beef",
+  "Ground Pork": "ground_pork",
+  "Ham": "ham",
+  "Lamb": "lamb",
+  "Liver": "liver",
+  "Mixed Ground Meat": "mixed_ground_meat",
+  "Pork": "pork",
+  "Pork Lean": "pork_lean",
+  "Rabbit": "rabbit",
+  "Salami": "salami",
+  "Veal": "veal",
+  "Venison": "venison"
+});
+
+const HERB_SPICE_ICON_SLUGS = Object.freeze({
+  "Basil": "basil",
+  "Bay Leaf": "bay_leaf",
+  "Chervil": "chervil",
+  "Chives": "chives",
+  "Coriander": "coriander",
+  "Dill": "dill",
+  "Lemon Balm": "lemon_balm",
+  "Lovage": "lovage",
+  "Marjoram": "marjoram",
+  "Mint": "mint",
+  "Mustard": "mustard",
+  "Oregano": "oregano",
+  "Parsley": "parsley",
+  "Ramson": "ramson",
+  "Rosemary": "rosemary",
+  "Sage": "sage",
+  "Tarragon": "tarragon",
+  "Thyme": "thyme"
+});
+
+const SPICE_ICON_SLUGS = Object.freeze({
+  "Anise": "anise",
+  "Black Pepper": "black_pepper",
+  "Caraway": "caraway",
+  "Cardamom": "cardamom",
+  "Chili Powder": "chili_powder",
+  "Cinnamon": "cinnamon",
+  "Clove": "clove",
+  "Cumin": "cumin",
+  "Curry Powder": "curry_powder",
+  "Fennel Seed": "fennel_seed",
+  "Ginger": "ginger",
+  "Mustard Seed": "mustard_seed",
+  "Nutmeg": "nutmeg",
+  "Paprika": "paprika",
+  "Turmeric": "turmeric"
+});
+
+const DRINK_ICON_SLUGS = {
+  "Black Tea": "black_tea",
+  "Chamomile Tea": "chamomile_tea",
+  "Coffee": "coffee",
+  "Green Tea": "green_tea",
+  "Hibiscus Tea": "hibiscus_tea",
+  "Oolong Tea": "oolong_tea",
+  "Coconut Milk": "coconut_milk",
+  "Soy Milk": "soy_milk",
+  "Oat Milk": "oat_milk",
+  "Almond Milk": "almond_milk",
+  "Orange Juice": "orange_juice",
+  "Apple Juice": "apple_juice"
+};
+
+const DAIRY_ICON_SLUGS = {
+  "Buttermilk": "buttermilk",
+  "Cream": "cream",
+  "Greek Yogurt": "greek_yogurt",
+  "Kefir": "kefir",
+  "Low Fat Milk": "low_fat_milk",
+  "Low Fat Quark": "low_fat_quark",
+  "Plain Yogurt": "plain_yogurt",
+  "Quark": "quark",
+  "Sour Cream": "sour_cream",
+  "Whole Milk": "whole_milk"
+};
+
+const SEED_ICON_SLUGS = {
+  "Chia Seed": "chia_seed",
+  "Flaxseed": "flaxseed",
+  "Hemp Seed": "hemp_seed",
+  "Poppy Seed": "poppy_seed",
+  "Pumpkin Seed": "pumpkin_seed",
+  "Sesame Seed": "sesame_seed",
+  "Sunflower Seed": "sunflower_seed",
+  "Tahini": "tahini"
+};
+
+const POULTRY_ICON_SLUGS = {
+  "Chicken Breast": "chicken_breast",
+  "Duck": "duck",
+  "Goose": "goose",
+  "Turkey": "turkey",
+  "Turkey Breast": "turkey_breast"
+};
+
+const MUSHROOM_ICON_SLUGS = {
+  "Button Mushroom": "button_mushroom",
+  "King Oyster Mushroom": "king_oyster_mushroom",
+  "Oyster Mushroom": "oyster_mushroom",
+  "Shiitake Mushroom": "shiitake_mushroom"
+};
+
+const PLANT_ICON_SLUGS = {
+  "Capers": "capers",
+  "Tomato Paste": "tomato_paste",
+  "Soy Sauce": "soy_sauce"
+};
+
+const CHEESE_ICON_SLUGS = Object.freeze({
+  "Brie": "brie",
+  "Camembert Cheese": "camembert_cheese",
+  "Cheddar Cheese": "cheddar_cheese",
+  "Cotija Cheese": "cotija_cheese",
+  "Cottage Cheese": "cottage_cheese",
+  "Cream Cheese": "cream_cheese",
+  "Emmental Cheese": "emmental_cheese",
+  "Feta Cheese": "feta_cheese",
+  "Goat Cheese": "goat_cheese",
+  "Gouda Cheese": "gouda_cheese",
+  "Mascarpone Cheese": "mascarpone_cheese",
+  "Mozzarella": "mozzarella",
+  "Parmesan Cheese": "parmesan_cheese",
+  "Queso Fresco": "queso_fresco",
+  "Ricotta Cheese": "ricotta_cheese"
+});
+
+const OIL_FAT_ICON_SLUGS = Object.freeze({
+  "Avocado Oil": "avocado_oil",
+  "Black Olive": "black_olive",
+  "Canola Oil": "canola_oil",
+  "Coconut Oil": "coconut_oil",
+  "Corn Oil": "corn_oil",
+  "Flaxseed Oil": "flaxseed_oil",
+  "Green Olive": "green_olive",
+  "Olive Oil": "olive_oil",
+  "Peanut Oil": "peanut_oil",
+  "Sesame Oil": "sesame_oil",
+  "Soybean Oil": "soybean_oil",
+  "Sunflower Oil": "sunflower_oil",
+  "Walnut Oil": "walnut_oil"
+});
+
+const CHOCOLATE_ICON_SLUGS = Object.freeze({
+  "Cocoa Powder": "cocoa_powder"
+});
+
+function formatCategory(kind, iconKind = '', foodKey = '') {
   const resolvedIconKind = iconKind || (kind === 'animal' ? 'meat' : 'plant');
-  const icon = ICON_KIND_EMOJIS[resolvedIconKind] || ICON_KIND_EMOJIS.plant;
+  const isBerry = resolvedIconKind === 'berry';
+  const isLegume = resolvedIconKind === 'legume';
+  const isVinegar = resolvedIconKind === 'vinegar';
+  const isNut = resolvedIconKind === 'nut_seed';
+  const isVegetable = resolvedIconKind === 'vegetable';
+  const isGrain = resolvedIconKind === 'grain';
+  const isFish = resolvedIconKind === 'fish';
+  const isMeat = resolvedIconKind === 'meat';
+  const isHerb = resolvedIconKind === 'herb_spice';
+  const isSpice = resolvedIconKind === 'spice';
+  const isCheese = resolvedIconKind === 'cheese';
+  const isOil = resolvedIconKind === 'oil_fat';
+  const isChocolate = resolvedIconKind === 'chocolate';
+  const isDrink = resolvedIconKind === 'drink';
+  const isDairy = resolvedIconKind === 'dairy';
+  const isSeed = resolvedIconKind === 'seed';
+  const isPoultry = resolvedIconKind === 'poultry';
+  const isMushroom = resolvedIconKind === 'mushroom';
+  const isPlant = resolvedIconKind === 'plant';
+  const iconSlugs = isChocolate ? CHOCOLATE_ICON_SLUGS : isDrink ? DRINK_ICON_SLUGS : isDairy ? DAIRY_ICON_SLUGS : isSeed ? SEED_ICON_SLUGS : isPoultry ? POULTRY_ICON_SLUGS : isMushroom ? MUSHROOM_ICON_SLUGS : isPlant ? PLANT_ICON_SLUGS : isCheese ? CHEESE_ICON_SLUGS : isOil ? OIL_FAT_ICON_SLUGS : isHerb ? HERB_SPICE_ICON_SLUGS : isSpice ? SPICE_ICON_SLUGS : isFish ? FISH_ICON_SLUGS : isMeat ? MEAT_ICON_SLUGS : isGrain ? GRAIN_ICON_SLUGS : isVegetable ? VEGETABLE_ICON_SLUGS : isNut ? NUT_ICON_SLUGS : isLegume ? LEGUME_ICON_SLUGS : isVinegar ? VINEGAR_ICON_SLUGS : isBerry ? BERRY_ICON_SLUGS : FRUIT_ICON_SLUGS;
+  const iconSlug = (resolvedIconKind === 'fruit' || isBerry || isLegume || isVinegar || isNut || isVegetable || isGrain || isFish || isMeat || isHerb || isSpice || isCheese || isOil || isDrink || isDairy || isSeed || isPoultry || isMushroom || isPlant || isChocolate) && Object.prototype.hasOwnProperty.call(iconSlugs, foodKey)
+    ? iconSlugs[foodKey]
+    : '';
+  const iconFolder = isChocolate ? 'chocolate' : isDrink ? 'drinks' : isDairy ? 'dairy' : isSeed ? 'seeds' : isPoultry ? 'poultry' : isMushroom ? 'mushrooms' : isPlant ? 'condiments' : isCheese ? 'cheeses' : isOil ? 'oils' : isHerb ? 'herbs' : isSpice ? 'spices' : isFish ? 'fish' : isMeat ? 'meat' : isGrain ? 'grains' : isVegetable ? 'vegetables' : isNut ? 'nuts' : isLegume ? 'legumes' : isVinegar ? 'vinegars' : isBerry ? 'berries' : 'fruits';
+  const icon = iconSlug
+    ? `<img class="fruit-icon" src="icons/${iconFolder}/${iconSlug}.svg" alt="" aria-hidden="true" draggable="false">`
+    : ICON_KIND_EMOJIS[resolvedIconKind] || ICON_KIND_EMOJIS.plant;
   const title = kind === 'animal' ? t('animalTitle') : t('plantTitle');
   const kindClass = kind === 'animal' ? 'animal' : 'plant';
   return `<span class="category-icon ${kindClass} ${escapeHtml(resolvedIconKind)}" title="${escapeHtml(title)}">${icon}</span>`;
@@ -674,15 +1101,23 @@ function applyTableHeader() {
   thName.replaceChildren();
 
   const nameHeaderContent = document.createElement('div');
-  nameHeaderContent.className = 'name-header-content';
-
+  nameHeaderContent.className = food ? 'name-header-content name-header-content--food' : 'name-header-content';
   const nameHeaderLabel = document.createElement('span');
+  nameHeaderLabel.className = 'name-header-label';
   nameHeaderLabel.textContent = food
     ? getFoodLabel(food.display_name)
     : nutrient
       ? getNutrientLabel(nutrient)
       : t('tableName');
   nameHeaderContent.appendChild(nameHeaderLabel);
+
+  if (food) {
+    const foodTitleIcon = document.createElement('span');
+    foodTitleIcon.className = 'food-title-icon';
+    foodTitleIcon.setAttribute('aria-hidden', 'true');
+    foodTitleIcon.innerHTML = formatCategory(food.kind, food.iconKind, food.display_name);
+    nameHeaderContent.appendChild(foodTitleIcon);
+  }
 
   thName.appendChild(nameHeaderContent);
 
@@ -923,11 +1358,11 @@ function createNameCell({ label, onClick, calorieFood = null, showPlaceholder = 
   return nameCell;
 }
 
-function createCategoryCell(kind, iconKind = '', isNutrient = false) {
+function createCategoryCell(kind, iconKind = '', isNutrient = false, foodKey = '') {
   const categoryCell = document.createElement('td');
   categoryCell.innerHTML = isNutrient
     ? formatNutrientCategory()
-    : formatCategory(kind, iconKind);
+    : formatCategory(kind, iconKind, foodKey);
   return categoryCell;
 }
 
@@ -974,7 +1409,7 @@ function resolveSearchMatches(term) {
 function appendStandardRow({ label, onClick, kind, iconKind = '', value, unit, calorieFood = null, showPlaceholder = false, isNutrient = false }) {
   const tr = document.createElement('tr');
   tr.appendChild(createNameCell({ label, onClick, calorieFood, showPlaceholder }));
-  tr.appendChild(createCategoryCell(kind, iconKind, isNutrient));
+  tr.appendChild(createCategoryCell(kind, iconKind, isNutrient, calorieFood?.display_name || ''));
   tr.appendChild(createValueCell(value));
   tr.appendChild(createUnitCell(unit));
   resultsBody.appendChild(tr);

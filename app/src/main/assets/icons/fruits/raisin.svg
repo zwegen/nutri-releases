@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+<title>Raisin</title>
+<g stroke-linecap="round" stroke-linejoin="round"><path d="M10 18 Q17 10 23 18 L25 35 Q23 43 15 41 Q7 38 9 29Z" fill="#7b5445" stroke="#35443b" stroke-width="2.4"/><path d="M36 9 Q44 5 48 13 L48 28 Q45 37 37 31 Q33 27 35 20Z" fill="#8e6550" stroke="#35443b" stroke-width="2.4"/><path d="M27 31 Q35 25 39 35 L38 51 Q35 61 27 55 Q23 51 25 43Z" fill="#956951" stroke="#35443b" stroke-width="2.4"/><path d="M47 36 Q55 30 59 40 L57 54 Q51 61 45 53 Q42 47 47 36Z" fill="#745141" stroke="#35443b" stroke-width="2.4"/><path d="M14 21 L18 25 L14 32 M40 14 L43 21 L39 25 M29 36 L32 43 L28 50 M51 39 L49 46 L53 52" fill="none" stroke="#543d34" stroke-width="1.7"/></g>
+</svg>

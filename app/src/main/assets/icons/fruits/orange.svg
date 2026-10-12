@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+<title>Orange</title>
+<g stroke-linecap="round" stroke-linejoin="round"><path d="M32 14 Q29 9 33 6" fill="none" stroke="#79502f" stroke-width="2.8"/><ellipse cx="32" cy="36" rx="24" ry="24" fill="#ffa537" stroke="#35443b" stroke-width="2.4" transform="rotate(0 32 36)"/><path d="M20 20 Q12 25 13 33" fill="none" stroke="#ffd48b" stroke-width="3"/></g>
+</svg>

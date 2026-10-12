@@ -2,6 +2,8 @@
 
 This folder is a GitHub-ready source snapshot of the Nutri Android app.
 
+Current source snapshot: **Nutri 1.874**.
+
 It intentionally contains only a tiny sample nutrition dataset so the app can be opened and inspected without publishing the private/full data files.
 
 ## Included

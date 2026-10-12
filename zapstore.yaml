@@ -1,10 +1,12 @@
 repository: https://github.com/zwegen/nutri-releases
-icon: nutri_icon.png
+name: Nutri
+summary: Nutrition reference for foods, vitamins and minerals, with a calorie counter.
+icon: https://raw.githubusercontent.com/zwegen/nutri-releases/main/assets/nutri_icon.png
 images:
-    - nutri01.png
-    - nutri02.png
-    - nutri03.png
-    - nutri04.png
+  - https://raw.githubusercontent.com/zwegen/nutri-releases/main/assets/screenshots/nutri01.png
+  - https://raw.githubusercontent.com/zwegen/nutri-releases/main/assets/screenshots/nutri02.png
+  - https://raw.githubusercontent.com/zwegen/nutri-releases/main/assets/screenshots/nutri03.png
+  - https://raw.githubusercontent.com/zwegen/nutri-releases/main/assets/screenshots/nutri04.png
 metadata_sources:
-    - github
+  - github
 pubkey: npub18xg25ns8m8hhsjtgnsxzpty2ftepu857xsafsqy5nm0jftpvzkyqgv4c2c
